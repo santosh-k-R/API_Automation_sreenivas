@@ -1,0 +1,206 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "buId": {
+      "type": "string"
+    },
+    "cavId": {
+      "type": "string"
+    },
+    "buName": {
+      "type": "string"
+    },
+    "customerId": {
+      "type": "string"
+    },
+    "createdDate": {
+      "type": "string"
+    },
+    "processedOn": {
+      "type": "string"
+    },
+    "items": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "solutionId": {
+              "type": "string"
+            },
+            "description": {
+              "type": "string"
+            },
+            "cxLevel": {
+              "type": "integer"
+            },
+            "usecases": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "name": {
+                      "type": "string"
+                    },
+                    "useCaseId": {
+                      "type": "string"
+                    },
+                    "currentPitstop": {
+                      "type": "string"
+                    },
+                    "description": {
+                      "type": "string"
+                    },
+                    "pitstops": {
+                      "type": "array",
+                      "items": [
+                        {
+                          "type": "object",
+                          "properties": {
+                            "name": {
+                              "type": "string"
+                            },
+                            "description": {
+                              "type": "string"
+                            },
+                            "pitstopActions": {
+                              "type": "array",
+                              "items": [
+                                {
+                                  "type": "object",
+                                  "properties": {
+                                    "name": {
+                                      "type": "string"
+                                    },
+                                    "pitstopActionId": {
+                                      "type": "string"
+                                    },
+                                    "description": {
+                                      "type": "string"
+                                    },
+                                    "updateMethod": {
+                                      "type": ["null","string"]
+                                    },
+                                    "sequenceNumber": {
+                                      "type": "integer"
+                                    },
+                                    "isCompleteManual": {
+                                      "type": "boolean"
+                                    },
+                                    "isCompleteAuto": {
+                                      "type": "boolean"
+                                    },
+                                    "isManualCheckAllowed": {
+                                      "type": "boolean"
+                                    },
+                                    "isComplete": {
+                                      "type": "boolean"
+                                    },
+                                    "isManualOverride": {
+                                      "type": "boolean"
+                                    },
+                                    "tooltips": {
+                                      "type": "array",
+                                      "items": [
+                                        {
+                                          "type": "object",
+                                          "properties": {
+                                            "sequence": {
+                                              "type": "integer"
+                                            },
+                                            "tooltip": {
+                                              "type": "string"
+                                            },
+                                            "label": {
+                                              "type": "string"
+                                            }
+                                          },
+                                          "required": [
+                                            "sequence",
+                                            "tooltip",
+                                            "label"
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "required": [
+                                    "name",
+                                    "pitstopActionId",
+                                    "description",
+                                    "updateMethod",
+                                    "sequenceNumber",
+                                    "isCompleteManual",
+                                    "isCompleteAuto",
+                                    "isManualCheckAllowed",
+                                    "isComplete",
+                                    "isManualOverride",
+                                    "tooltips"
+                                  ]
+                                }
+                              ]
+                            },
+                            "completionPercentage": {
+                              "type": "integer"
+                            },
+                            "sequence": {
+                              "type": "null"
+                            },
+                            "isPitstopComplete": {
+                              "type": "boolean"
+                            }
+                          },
+                          "required": [
+                            "name",
+                            "description",
+                            "pitstopActions",
+                            "completionPercentage",
+                            "sequence",
+                            "isPitstopComplete"
+                          ]
+                        }
+
+                      ]
+                    },
+                    "adoptionPercentage": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "name",
+                    "useCaseId",
+                    "currentPitstop",
+                    "description",
+                    "pitstops",
+                    "adoptionPercentage"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "name",
+            "solutionId",
+            "description",
+            "cxLevel",
+            "usecases"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "buId",
+    "cavId",
+    "buName",
+    "customerId",
+    "createdDate",
+    "processedOn",
+    "items"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "groupId": 1340,
+            "groupName": "AG_readOnly_DoNotUse",
+            "type": "free-flow",
+            "assetCount": 2
+        },
+        {
+            "groupId": 647,
+            "groupName": "All-Assets",
+            "type": "default",
+            "assetCount": 88
+        },
+        {
+            "groupId": 672,
+            "groupName": "DontDeleteUsedForAutomation",
+            "type": "free-flow",
+            "assetCount": 11
+        }
+    ],
+    "Pagination": {
+        "page": 1,
+        "pages": 1,
+        "rows": 100,
+        "total": 3
+    }
+}

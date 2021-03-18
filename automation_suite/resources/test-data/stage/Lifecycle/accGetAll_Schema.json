@@ -1,0 +1,313 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "http://example.com/example.json",
+    "type": "object",
+    "title": "The Root Schema",
+    "description": "The root schema comprises the entire JSON document.",
+    "required": [
+        "solution",
+        "usecase",
+        "pitstop",
+        "items"
+    ],
+    "properties": {
+        "solution": {
+            "$id": "#/properties/solution",
+            "type": "string",
+            "title": "The Solution Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "IBN"
+            ]
+        },
+        "usecase": {
+            "$id": "#/properties/usecase",
+            "type": "string",
+            "title": "The Usecase Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "Network Device Onboarding"
+            ]
+        },
+        "pitstop": {
+            "$id": "#/properties/pitstop",
+            "type": "string",
+            "title": "The Pitstop Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "Onboard"
+            ]
+        },
+        "items": {
+            "$id": "#/properties/items",
+            "type": "array",
+            "title": "The Items Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": [],
+            "items": {
+                "$id": "#/properties/items/items",
+                "type": "object",
+                "title": "The Items Schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": {},
+                "examples": [
+                    {
+                        "url": "https://db842y3t3ifal.cloudfront.net/acc/images/acc_access-overview-demo.png",
+                        "feedbackInfo": {
+                            "presenterName": null,
+                            "transactionId": null,
+                            "requestedDate": null,
+                            "sessionId": null,
+                            "closedDate": null,
+                            "feedbackId": "",
+                            "thumbs": "",
+                            "available": false
+                        },
+                        "providerInfo": null,
+                        "accId": "182992662",
+                        "description": "Cisco® DNA Center Use Cases Review and Demo Accelerator introduces your team and leadership to the most common Cisco DNA Center use case features. Within a remote demonstration training environment, it provides your team with an understanding of the value and use of new Cisco DNA Center features, preparing them to hit the ground running.",
+                        "technologyArea": null,
+                        "datasheetURL": "https://docs.cisco.com/share/page/site/nextgen-edcs/document-details?nodeRef=workspace://SpacesStore/c47f8cbb-b890-4aa8-8cd9-42c9d9a8e688",
+                        "requestId": "",
+                        "bookmark": true,
+                        "title": "Cisco DNA Center Use Cases Review and Demo",
+                        "status": "recommended",
+                        "assetId": null
+                    }
+                ],
+                "required": [
+                    "title",
+                    "description",
+                    "assetId",
+                    "bookmark",
+                    "url",
+                    "requestId",
+                    "technologyArea",
+                    "status",
+                    "accId",
+                    "datasheetURL",
+                    "providerInfo",
+                    "feedbackInfo"
+                ],
+                "properties": {
+                    "title": {
+                        "$id": "#/properties/items/items/properties/title",
+                        "type": "string",
+                        "title": "The Title Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "Cisco DNA Center Use Cases Review and Demo"
+                        ]
+                    },
+                    "description": {
+                        "$id": "#/properties/items/items/properties/description",
+                        "type": "string",
+                        "title": "The Description Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "Cisco® DNA Center Use Cases Review and Demo Accelerator introduces your team and leadership to the most common Cisco DNA Center use case features. Within a remote demonstration training environment, it provides your team with an understanding of the value and use of new Cisco DNA Center features, preparing them to hit the ground running."
+                        ]
+                    },
+                    "assetId": {
+                        "$id": "#/properties/items/items/properties/assetId",
+                        "title": "The Assetid Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": null,
+                        "examples": [
+                            null
+                        ]
+                    },
+                    "bookmark": {
+                        "$id": "#/properties/items/items/properties/bookmark",
+                        "type": "boolean",
+                        "title": "The Bookmark Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": false,
+                        "examples": [
+                            true
+                        ]
+                    },
+                    "url": {
+                        "$id": "#/properties/items/items/properties/url",
+                        "type": "string",
+                        "title": "The Url Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "https://db842y3t3ifal.cloudfront.net/acc/images/acc_access-overview-demo.png"
+                        ]
+                    },
+                    "requestId": {
+                        "$id": "#/properties/items/items/properties/requestId",
+                        "type": "string",
+                        "title": "The Requestid Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            ""
+                        ]
+                    },
+                    "technologyArea": {
+                        "$id": "#/properties/items/items/properties/technologyArea",
+                        "title": "The Technologyarea Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": null,
+                        "examples": [
+                            null
+                        ]
+                    },
+                    "status": {
+                        "$id": "#/properties/items/items/properties/status",
+                        "type": "string",
+                        "title": "The Status Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "recommended"
+                        ]
+                    },
+                    "accId": {
+                        "$id": "#/properties/items/items/properties/accId",
+                        "type": "string",
+                        "title": "The Accid Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "182992662"
+                        ]
+                    },
+                    "datasheetURL": {
+                        "$id": "#/properties/items/items/properties/datasheetURL",
+                        "type": "string",
+                        "title": "The Datasheeturl Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "https://docs.cisco.com/share/page/site/nextgen-edcs/document-details?nodeRef=workspace://SpacesStore/c47f8cbb-b890-4aa8-8cd9-42c9d9a8e688"
+                        ]
+                    },
+                    "providerInfo": {
+                        "$id": "#/properties/items/items/properties/providerInfo",
+                        "title": "The Providerinfo Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": null,
+                        "examples": [
+                            null
+                        ]
+                    },
+                    "feedbackInfo": {
+                        "$id": "#/properties/items/items/properties/feedbackInfo",
+                        "type": "object",
+                        "title": "The Feedbackinfo Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": {},
+                        "examples": [
+                            {
+                                "available": false,
+                                "presenterName": null,
+                                "transactionId": null,
+                                "requestedDate": null,
+                                "sessionId": null,
+                                "closedDate": null,
+                                "feedbackId": "",
+                                "thumbs": ""
+                            }
+                        ],
+                        "required": [
+                            "available",
+                            "feedbackId",
+                            "sessionId",
+                            "transactionId",
+                            "presenterName",
+                            "closedDate",
+                            "thumbs",
+                            "requestedDate"
+                        ],
+                        "properties": {
+                            "available": {
+                                "$id": "#/properties/items/items/properties/feedbackInfo/properties/available",
+                                "type": "boolean",
+                                "title": "The Available Schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": false,
+                                "examples": [
+                                    false
+                                ]
+                            },
+                            "feedbackId": {
+                                "$id": "#/properties/items/items/properties/feedbackInfo/properties/feedbackId",
+                                "type": "string",
+                                "title": "The Feedbackid Schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    ""
+                                ]
+                            },
+                            "sessionId": {
+                                "$id": "#/properties/items/items/properties/feedbackInfo/properties/sessionId",
+                                "title": "The Sessionid Schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": null,
+                                "examples": [
+                                    null
+                                ]
+                            },
+                            "transactionId": {
+                                "$id": "#/properties/items/items/properties/feedbackInfo/properties/transactionId",
+                                "title": "The Transactionid Schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": null,
+                                "examples": [
+                                    null
+                                ]
+                            },
+                            "presenterName": {
+                                "$id": "#/properties/items/items/properties/feedbackInfo/properties/presenterName",
+                                "title": "The Presentername Schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": null,
+                                "examples": [
+                                    null
+                                ]
+                            },
+                            "closedDate": {
+                                "$id": "#/properties/items/items/properties/feedbackInfo/properties/closedDate",
+                                "title": "The Closeddate Schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": null,
+                                "examples": [
+                                    null
+                                ]
+                            },
+                            "thumbs": {
+                                "$id": "#/properties/items/items/properties/feedbackInfo/properties/thumbs",
+                                "type": "string",
+                                "title": "The Thumbs Schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    ""
+                                ]
+                            },
+                            "requestedDate": {
+                                "$id": "#/properties/items/items/properties/feedbackInfo/properties/requestedDate",
+                                "title": "The Requesteddate Schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": null,
+                                "examples": [
+                                    null
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

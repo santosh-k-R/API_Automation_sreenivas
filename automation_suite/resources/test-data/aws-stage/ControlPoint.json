@@ -1,0 +1,2492 @@
+[
+  {
+    "name": "API_HealthStatus",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/ie/health-status/GZqEJtZygXHKNZ",
+        "params": "/GZqEJtZygXHKNZ",
+        "body": "{\"bookmark\":true,\"id\":\"0133a27c-68ea-4ef2-afe8-3de7e5fae327\",\"lifecycleCategory\":\"ACC\",\"pitstop\":\"Use\",\"solution\":\"IBN\",\"usecase\":\"Network Device Onboarding\"}\n",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_ie_health_status",
+        "useCase": "Network Device Onboarding",
+        "ccoId": "cpibuser11981",
+        "customerId": "GZqEJtZygXHKNZ",
+        "header": "Bearer PXMKtPOssssx5XtUl32njHwRPuckMLAL"
+
+      }
+    ]
+  },
+  {
+    "name": "IERegistration",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/register/ie",
+        "params": "/GZqEJtZygXHKNZ",
+        "body": "{\"customerId\":\"GZqEJtZygXHKNZ\",\"datacenter\":\"usa\",\"saId\":145243,\"vaId\":0}",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "responseBody": "There is already a registration exists for the given customerId",
+        "table":"con_data_collector",
+        "useCase": "Network Device Onboarding",
+        "ccoId": "cpibuser11981",
+        "customerId": "GZqEJtZygXHKNZ"
+
+      }
+    ]
+  },
+  {
+    "name": "IERegistrationGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/registration/ie/GZqEJtZygXHKNZ",
+        "params": "/GZqEJtZygXHKNZ",
+        "body": "{\"customerId\":\"GZqEJtZygXHKNZ\",\"datacenter\":\"usa\",\"saId\":145243,\"vaId\":0}",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_data_collector",
+        "useCase": "Network Device Onboarding",
+        "ccoId": "cpibuser11981",
+        "customerId": "GZqEJtZygXHKNZ"
+
+      }
+    ]
+  },
+  {
+    "name": "DNACStatusGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/dnac/status/GZqEJtZygXHKNZ",
+        "pageNumber": "1",
+        "rowsPerPage": "2",
+        "params": "/GZqEJtZygXHKNZ",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_data_collector",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ"
+
+      }
+    ]
+  },
+  {
+    "name": "getDNACsGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/dnacs/GZqEJtZygXHKNZ",
+        "pageNumber": "1",
+        "rowsPerPage": "2",
+        "params": "/GZqEJtZygXHKNZ",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_data_collector",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ"
+
+      }
+    ]
+  },
+  {
+    "name": "PolicyDevicesGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/policy/devices/GZqEJtZygXHKNZ?solution=IBN&mgmtSystemId=",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_data_collector",
+        "esQueryAfter": "{\"query\":{\"bool\":{\"must\":[{\"match\": {\"mgmtSystemId\": \"<REPLACE_mgmtSystemId_STRING>\"}},{\"match\":{\"customerId\": \"<REPLACE_customerId_STRING>\"}},{\"match\":{\"solutionInfo.solution\": \"IBN\"}}]}}}",
+        "tableAfter":"con_inv_asset_view",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ"
+
+      },
+      {
+        "endPoint": "/ctrlpt/v1/policy/devices/GZqEJtZygXHKNZ?solution=IBN&mgmtSystemId=",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"&pageNumber=1&rowsPerPage=1",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_data_collector",
+        "esQueryAfter": "{\"query\":{\"bool\":{\"must\":[{\"match\": {\"mgmtSystemId\": \"<REPLACE_mgmtSystemId_STRING>\"}},{\"match\":{\"customerId\": \"<REPLACE_customerId_STRING>\"}},{\"match\":{\"solutionInfo.solution\": \"IBN\"}}]}}}",
+        "tableAfter":"con_inv_asset_view",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ"
+
+      }
+    ]
+  },
+  {
+    "name": "PolicyDevicesWithPolicyIDGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/policy/devices/GZqEJtZygXHKNZ/",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_device_policy",
+        "esQueryAfter": "{\"query\":{\"bool\":{\"must\":[{\"match\": {\"policyId\": \"<REPLACE_policyId_STRING>\"}},{\"match\":{\"customerId\": \"<REPLACE_customerId_STRING>\"}}]}}}",
+        "tableAfter":"con_device_policy",
+        "useCase": "Network Device Onboarding",
+        "ccoId": "cpibuser11981",
+        "customerId": "GZqEJtZygXHKNZ"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/policy/devices/GZqEJtZygXHKNZ/",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"?pageNumber=1&rowsPerPage=1",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_device_policy",
+        "esQueryAfter": "{\"query\":{\"bool\":{\"must\":[{\"match\": {\"policyId\": \"<REPLACE_policyId_STRING>\"}},{\"match\":{\"customerId\": \"<REPLACE_customerId_STRING>\"}}]}}}",
+        "tableAfter":"con_device_policy",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ"
+      }
+    ]
+  },
+  {
+    "name": "getIgnorePolicyDevicesGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/ignorepolicy/devices/GZqEJtZygXHKNZ/1/1?solution=IBN&mgmtSystemId=",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"GZqEJtZygXHKNZ\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_data_collector",
+        "esQueryAfter": "{\"query\":{\"bool\":{\"must\":[{\"match\": {\"mgmtSystemId\": \"<REPLACE_mgmtSystemId_STRING>\"}},{\"match\":{\"customerId\": \"<REPLACE_customerId_STRING>\"}},{\"match\":{\"solutionInfo.solution\": \"IBN\"}}]}}}",
+        "tableAfter":"con_inv_asset_view",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ"
+
+      },
+      {
+        "endPoint": "/ctrlpt/v1/ignorepolicy/devices/GZqEJtZygXHKNZ/7/1?solution=IBN&mgmtSystemId=",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"GZqEJtZygXHKNZ\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_data_collector",
+        "esQueryAfter": "{\"query\":{\"bool\":{\"must\":[{\"match\": {\"mgmtSystemId\": \"<REPLACE_mgmtSystemId_STRING>\"}},{\"match\":{\"customerId\": \"<REPLACE_customerId_STRING>\"}},{\"match\":{\"solutionInfo.solution\": \"IBN\"}}]}}}",
+        "tableAfter":"con_inv_asset_view",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ"
+
+      },
+      {
+        "endPoint": "/ctrlpt/v1/ignorepolicy/devices/GZqEJtZygXHKNZ/1/7?solution=IBN&mgmtSystemId=",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"GZqEJtZygXHKNZ\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_data_collector",
+        "esQueryAfter": "{\"query\":{\"bool\":{\"must\":[{\"match\": {\"mgmtSystemId\": \"<REPLACE_mgmtSystemId_STRING>\"}},{\"match\":{\"customerId\": \"<REPLACE_customerId_STRING>\"}},{\"match\":{\"solutionInfo.solution\": \"IBN\"}}]}}}",
+        "tableAfter":"con_inv_asset_view",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ"
+
+      }
+    ]
+  },
+  {
+    "name": "getIgnorePolicyDevicesExistingGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/ignorepolicy/devices/existing/GZqEJtZygXHKNZ/",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"/1/1",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_device_policy",
+        "esQueryAfter": "{\"query\":{\"bool\":{\"must\":[{\"match\": {\"policyId\": \"<REPLACE_policyId_STRING>\"}},{\"match\":{\"customerId\": \"<REPLACE_customerId_STRING>\"}}]}}}",
+        "tableAfter":"con_device_policy",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/ignorepolicy/devices/existing/GZqEJtZygXHKNZ/",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"/1/2",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_device_policy",
+        "esQueryAfter": "{\"query\":{\"bool\":{\"must\":[{\"match\": {\"policyId\": \"<REPLACE_policyId_STRING>\"}},{\"match\":{\"customerId\": \"<REPLACE_customerId_STRING>\"}}]}}}",
+        "tableAfter":"con_device_policy",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ"
+      }
+    ]
+  },
+  {
+    "name": "getIgnorePolicyDevicesEligibleGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/ignorepolicy/devices/eligible/GZqEJtZygXHKNZ/",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"/1/1",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_data_collector",
+        "esQueryTwo": "{\"query\": {\"bool\":{\"must\": [{\"match\": {\"devices.serialNumber\": \"<REPLACE_mgmtSystemId_STRING>\"}}, {\"match\": {\"customerId\": \"<REPLACE_customerId_STRING>\"}}]}}}",
+        "tableTwo":"con_device_policy",
+        "esQueryAfter": "{\"query\":{\"bool\":{\"must\":[{\"match\": {\"mgmtSystemId\": \"<REPLACE_mgmtSystemId_STRING>\"}},{\"match\":{\"customerId\": \"<REPLACE_customerId_STRING>\"}},{\"match\":{\"solutionInfo.solution\": \"IBN\"}}]}}}",
+        "tableAfter":"con_inv_asset_view",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ",
+        "solution": "IBN"
+      }
+    ]
+  },
+  {
+    "name": "getPoliciesGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/policies/GZqEJtZygXHKNZ",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_collection_policy",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ",
+        "solution": "IBN"
+      }
+    ]
+  },
+  {
+    "name": "getPoliciesMonthYearGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/policies/GZqEJtZygXHKNZ",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"/<REPLACE_Month_STRING>/2020",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_collection_policy",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ",
+        "solution": "IBN"
+      }
+    ]
+  },
+  {
+    "name": "getSettingsInsightGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight/GZqEJtZygXHKNZ/",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"ALL",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_admin_settings",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ",
+        "solution": "IBN"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight/GZqEJtZygXHKNZ/",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"RPR",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}},{\"match\":{\"insightType.keyword\":\"<REPLACE_InsightType_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_admin_settings",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ",
+        "solution": "IBN"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight/GZqEJtZygXHKNZ/",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"COMPLIANCE",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}},{\"match\":{\"insightType.keyword\":\"<REPLACE_InsightType_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_admin_settings",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ",
+        "solution": "IBN"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight/GZqEJtZygXHKNZ/",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"AFM",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}},{\"match\":{\"insightType.keyword\":\"<REPLACE_InsightType_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_admin_settings",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ",
+        "solution": "IBN"
+      }
+    ]
+  },
+  {
+    "name": "getUsersRolesGET",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/users/roles/145243",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_collection_policy",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ",
+        "solution": "IBN"
+      }
+    ]
+  },
+  {
+    "name": "getSAUsersGET",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/users/sa/<REPLACE_saId_STRING>?saId=<REPLACE_saId_STRING>&customerId=<REPLACE_customerId_STRING>",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"145243",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_collection_policy",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ",
+        "solution": "IBN"
+      }
+    ]
+  }
+,
+  {
+    "name": "getNextScheduleCollectionPolicyGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/collectionPolicy/nextSchedule/GZqEJtZygXHKNZ",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_data_collector",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ",
+        "solution": "IBN"
+      }
+    ]
+  },
+  {
+    "name": "getNextScheduleCollectionPolicyCollectorIdGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/collectionPolicy/nextSchedule/GZqEJtZygXHKNZ/",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_data_collector",
+        "useCase": "Network Device Onboarding",
+        "esQueryAfter": "{\"query\":{\"bool\":{\"must\":[{\"match\": {\"applianceId\": \"<REPLACE_applianceId_STRING>\"}},{\"match\":{\"customerId\": \"<REPLACE_customerId_STRING>\"}}]}}}",
+        "tableAfter":"con_data_collector",
+        "customerId": "GZqEJtZygXHKNZ",
+        "solution": "IBN"
+      }
+    ]
+  },
+  {
+    "name": "deleteUserPOST",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/users/delete?saId=<REPLACE_saId_STRING>&vaId=0&customerId=<REPLACE_customerId_STRING>&solution=IBN&cxLevel=2",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"145243",
+        "body": "{\"ccoId\":\"<REPLACE_ccoId_STRING>\", \"isPartner\":false, \"customerId\":\"<REPLACE_customerId_STRING>\", \"rolesRemoved\":[ { \"role\":\"VirtualAccountAdmin\", \"roleDisplayName\":\"Virtual Account Administrator\", \"tenant\":\"SMARTACC\", \"type_1\":\"VirtualAccount\", \"value_1\":\"145244\" } ], \"saCompanyId\":\"<REPLACE_saId_STRING>\" }",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_data_collector",
+        "ccoId": "vijengit",
+        "customerId": "GZqEJtZygXHKNZ",
+        "saId": "145243"
+
+      }
+    ]
+  },
+  {
+    "name": "settingsInsightPOST",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"AFM",
+        "body": "{\"customerId\": \"<REPLACE_customerId_STRING>\", \"insightType\": \"<REPLACE_InsightType_STRING>\", \"mode\": true }",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}},{\"match\":{\"insightType.keyword\":\"<REPLACE_InsightType_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_admin_settings",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ",
+        "solution": "IBN"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"COMPLIANCE",
+        "body": "{\"customerId\": \"<REPLACE_customerId_STRING>\", \"insightType\": \"<REPLACE_InsightType_STRING>\", \"mode\": true }",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}},{\"match\":{\"insightType.keyword\":\"<REPLACE_InsightType_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_admin_settings",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ",
+        "solution": "IBN"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"RPR",
+        "body": "{\"customerId\": \"<REPLACE_customerId_STRING>\", \"insightType\": \"<REPLACE_InsightType_STRING>\", \"mode\": true }",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}},{\"match\":{\"insightType.keyword\":\"<REPLACE_InsightType_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "table":"con_admin_settings",
+        "useCase": "Network Device Onboarding",
+        "customerId": "GZqEJtZygXHKNZ",
+        "solution": "IBN"
+      }
+    ]
+  },
+  {
+    "name": "ieSetupStatusDNACPOST",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/ie-setup/status/dnac",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"145243",
+        "esQuery":"{\"query\": {\"bool\":{\"must\": [{\"match\": {\"ieSetupCompleted\": \"true\"}}, {\"match\": {\"customerId\": \"<REPLACE_customerId_STRING>\"}}]}}}",
+        "body":"{ \"completed\":true, \"customerId\":\"<REPLACE_customerId_STRING>\", \"applianceId\":\"<REPLACE_applianceId_STRING>\", \"remoteNodeId\":\"<REPLACE_remoteNodeId_STRING>\", \"dnacs\":[ { \"mgmtSystemId\":\"\", \"dnacName\":\"192.168.139.149\", \"mgmtSystemType\":\"DNAC\", \"userName\":\"cisco\", \"ipAddress\":\"192.168.139.149\", \"dnacCity\":\"San Jose\", \"dnacState\":\"CA\", \"dnacCountry\":\"USA\", \"firstDnacCollectionSchedule\":\"10 50 09 30 04 ? 2020\", \"schedule\":\"0 0 1 ? * *\", \"timeZone\":\"Asia/Kolkata\" } ], \"installDay\":\"\" }",
+        "table":"con_data_collector",
+        "ccoId": "vijengit",
+        "customerId": "GZqEJtZygXHKNZ"
+
+      }
+    ]
+  },
+  {
+    "name": "policyCreatePOST",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/policy",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"145243",
+        "headers": "[{\"saId\":145243,\"vaId\":\"0\",\"customerId\":\"GZqEJtZygXHKNZ\",\"useCase\":\"Campus Network Assurance\",\"solution\":\"IBN\",\"cxLevel\":\"2\"}]",
+        "esQuery":"{ \"query\": { \"match\": { \"customerId\": \"<REPLACE_customerId_STRING>\"}}}",
+        "table":"con_data_collector",
+        "esQueryTwo":"{\"query\": {\"bool\":{\"must\": [ {\"match\": {\"customerId\": \"<REPLACE_customerId_STRING>\"}}]}}}",
+        "body":"{ \"customerId\": \"<REPLACE_customerId_STRING>\", \"devices\": [ { \"hostName\": \"<REPLACE_deviceName_STRING>\", \"ipAddress\": \"<REPLACE_ipAddress_STRING>\", \"managedNeId\": \"<REPLACE_managedNeId_STRING>\", \"pk\": \"<REPLACE_pk_STRING>\", \"policyId\": \"string\", \"productId\": \"<REPLACE_productId_STRING>\", \"serialNumber\": \"<REPLACE_serialNumber_STRING>\" } ], \"schedule\": \"string\" , \"timeZone\": \"string\", \"dnacs\": [ { \"mgmtSystemId\": \"<REPLACE_mgmtSystemId_STRING>\", \"mgmtSystemAddr\": \"<REPLACE_mgmtSystemAddr_STRING>\", \"mgmtSystemType\": \"<REPLACE_mgmtSystemType_STRING>\", \"userName\": \"cisco\", \"dnacCity\": \"\", \"dnacState\": \"\", \"dnacCountry\": \"\", \"firstDnacCollectionSchedule\": \"\", \"schedule\": \"0 0 12 * * ?\", \"timeZone\": \"UTC\", \"dnacUpdateDate\": \"\", \"fqdn\": \"\", \"name\": \"\", \"dnacName\": \"\" } ] }",
+        "tableTwo":"con_inv_asset_view",
+        "esQueryThree":" {\"query\": {\"bool\":{\"must\": [{\"match\": {\"policyId\": \"<REPLACE_policyId_STRING>\"}}, {\"match\": {\"customerId\": \"<REPLACE_customerId_STRING>\"}}]}}}",
+        "tableThree":"con_device_policy",
+        "ccoId": "vijengit",
+        "customerId": "GZqEJtZygXHKNZ"
+      }
+    ]
+  },
+  {
+    "name": "ieUpdateGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/ie/update?customerId=<REPLACE_customerId_STRING>&scheduleId=<REPLACE_scheduleId_STRING>",
+        "params": "/GZqEJtZygXHKNZ",
+        "responseCode":202,
+        "tokenType": "valid",
+        "customerId": "GZqEJtZygXHKNZ"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/ie/update?customerId=<REPLACE_customerId_STRING>&scheduleId=<REPLACE_scheduleId_STRING>",
+        "params": "/GZqEJtZygXHKNZ",
+        "responseCode":401,
+        "tokenType": "invalid",
+        "customerId": "GZqEJtZygXHKNZ"
+      }
+    ]
+  },
+  {
+    "name": "customerOnboardStatusGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/onboard/status/<REPLACE_saId_STRING>",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"145243",
+        "esQuery":"{ \"query\": { \"match\": { \"saId\": \"<REPLACE_saId_STRING>\"}}}",
+        "table":"pfm_org_individual_la",
+        "customerId": "GZqEJtZygXHKNZ",
+        "saId": "145243"
+      }
+    ]
+  },
+  {
+    "name": "deletePolicyDELETE",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/policy/<REPLACE_customerId_STRING>/<REPLACE_policyId_STRING>",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"145243",
+        "esQuery": "{\"query\": {\"bool\":{\"must\": [{\"match\": {\"policyId\": \"<REPLACE_policyId_STRING>\"}}, {\"match\": {\"customerId\": \"<REPLACE_customerId_STRING>\"}}]}}}",
+        "table":"con_device_policy",
+        "customerId": "GZqEJtZygXHKNZ",
+        "saId": "145243"
+
+      }
+    ]
+  },
+  {
+    "name": "collectionPolicyPATCH",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/collectionPolicy",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"AFM",
+        "esQuery": "{ \"query\": { \"match\": { \"customerId\":\"<REPLACE_customerId_STRING>\" } } }",
+        "table":"con_collection_policy",
+        "body": "{ \"applianceId\": \"<REPLACE_applianceId_STRING>\", \"customerId\": \"<REPLACE_customerId_STRING>\", \"policyId\": \"<REPLACE_policyId_STRING>\", \"policyName\": \"\", \"remoteNodeId\": \"<REPLACE_remoteNodeId_STRING>\", \"mgmtSystemId\": \"<REPLACE_mgmtSystemId_STRING>\", \"mgmtSystemAddr\": \"<REPLACE_mgmtSystemAddr_STRING>\", \"mgmtSystemType\": \"<REPLACE_mgmtSystemType_STRING>\", \"timeZone\": \"<REPLACE_timeZone_STRING>\", \"schedule\": \"<REPLACE_PolicySchedule_STRING>\", \"updatedBy\": \"\", \"updatedTime\": \"\", \"dnacName\": \"\", \"name\": \"\", \"fqdn\": \"\", \"firstDnacCollectionSchedule\": \"\" }",
+        "esQueryTwo": "{\"query\": {\"bool\":{\"must\": [{\"match\": {\"mgmtSystemId\": \"<REPLACE_mgmtSystemId_STRING>\"}}, {\"match\": {\"customerId\": \"<REPLACE_customerId_STRING>\"}}]}}}",
+        "customerId": "GZqEJtZygXHKNZ",
+        "policySchedule": "0 30 7 15 * ?"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/collectionPolicy",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"AFM",
+        "esQuery": "{ \"query\": { \"match\": { \"customerId\":\"<REPLACE_customerId_STRING>\" } } }",
+        "table":"con_collection_policy",
+        "body": "{ \"applianceId\": \"<REPLACE_applianceId_STRING>\", \"customerId\": \"<REPLACE_customerId_STRING>\", \"policyId\": \"<REPLACE_policyId_STRING>\", \"policyName\": \"\", \"remoteNodeId\": \"<REPLACE_remoteNodeId_STRING>\", \"mgmtSystemId\": \"<REPLACE_mgmtSystemId_STRING>\", \"mgmtSystemAddr\": \"<REPLACE_mgmtSystemAddr_STRING>\", \"mgmtSystemType\": \"<REPLACE_mgmtSystemType_STRING>\", \"timeZone\": \"<REPLACE_timeZone_STRING>\", \"schedule\": \"<REPLACE_PolicySchedule_STRING>\", \"updatedBy\": \"\", \"updatedTime\": \"\", \"dnacName\": \"\", \"name\": \"\", \"fqdn\": \"\", \"firstDnacCollectionSchedule\": \"\" }",
+        "esQueryTwo": "{\"query\": {\"bool\":{\"must\": [{\"match\": {\"mgmtSystemId\": \"<REPLACE_mgmtSystemId_STRING>\"}}, {\"match\": {\"customerId\": \"<REPLACE_customerId_STRING>\"}}]}}}",
+        "customerId": "GZqEJtZygXHKNZ",
+        "policySchedule": "0 0 15 ? * WED"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/collectionPolicy",
+        "params": "/GZqEJtZygXHKNZ",
+        "pathParams":"AFM",
+        "esQuery": "{ \"query\": { \"match\": { \"customerId\":\"<REPLACE_customerId_STRING>\" } } }",
+        "table":"con_collection_policy",
+        "body": "{ \"applianceId\": \"<REPLACE_applianceId_STRING>\", \"customerId\": \"<REPLACE_customerId_STRING>\", \"policyId\": \"<REPLACE_policyId_STRING>\", \"policyName\": \"\", \"remoteNodeId\": \"<REPLACE_remoteNodeId_STRING>\", \"mgmtSystemId\": \"<REPLACE_mgmtSystemId_STRING>\", \"mgmtSystemAddr\": \"<REPLACE_mgmtSystemAddr_STRING>\", \"mgmtSystemType\": \"<REPLACE_mgmtSystemType_STRING>\", \"timeZone\": \"<REPLACE_timeZone_STRING>\", \"schedule\": \"<REPLACE_PolicySchedule_STRING>\", \"updatedBy\": \"\", \"updatedTime\": \"\", \"dnacName\": \"\", \"name\": \"\", \"fqdn\": \"\", \"firstDnacCollectionSchedule\": \"\" }",
+        "esQueryTwo": "{\"query\": {\"bool\":{\"must\": [{\"match\": {\"mgmtSystemId\": \"<REPLACE_mgmtSystemId_STRING>\"}}, {\"match\": {\"customerId\": \"<REPLACE_customerId_STRING>\"}}]}}}",
+        "customerId": "GZqEJtZygXHKNZ",
+        "policySchedule": "0 30 22 ? * *"
+      }
+    ]
+  },
+  {
+    "name": "registrationCode",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/code",
+        "params": "/GZqEJtZygXHKNZ",
+        "body": "{\"customerId\":\"GZqEJtZygXHKNZ\",\"datacenter\":\"usa\",\"saId\":145243,\"vaId\":0}",
+        "esQuery": "{\"query\":{\"bool\":{\"must\":[{\"match\":{\"customerId.keyword\":\"<REPLACE_customerId_STRING>\"}}],\"must_not\":[],\"should\":[]}},\"from\":0,\"size\":10,\"sort\":[],\"aggs\":{}}",
+        "responseBody": "There is already a registration exists for the given customerId",
+        "table":"con_data_collector",
+        "useCase": "Network Device Onboarding",
+        "ccoId": "cpibuser11981",
+        "customerId": "GZqEJtZygXHKNZ"
+      }
+    ]
+  },
+  {
+    "name": "createUserGroup",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/userGroup/create",
+        "endPointTwo": "/rbac/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=<REPLACE_groupName_STRING>&sort=fullName&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"groupName\":\"aAutoGroupName31\",\"customerId\":\"<REPLACE_customerId_STRING>\",\"users\":[{\"ccoId\":\"vijengit\"},{\"ccoId\":\"rtejanak\"}]}",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/rbac/v1/userGroup/create",
+        "endPointTwo": "/rbac/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=<REPLACE_groupName_STRING>&sort=fullName&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"groupName\":\"$!#^*&!|>@%=+\",\"customerId\":\"<REPLACE_customerId_STRING>\",\"users\":[{\"ccoId\":\"vijengit\"},{\"ccoId\":\"rtejanak\"}]}",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/rbac/v1/userGroup/create",
+        "endPointTwo": "/rbac/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=<REPLACE_groupName_STRING>&sort=fullName&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"groupName\":\"aAutoGroupName13\",\"customerId\":\"<REPLACE_customerId_STRING>\",\"users\":[]}",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/rbac/v1/userGroup/create",
+        "endPointTwo": "/rbac/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=<REPLACE_groupName_STRING>&sort=fullName&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"groupName\":\"aAutoGroupName31\",\"customerId\":\"<REPLACE_customerId_STRING>\",\"users\":[]}",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":400
+      },
+      {
+        "endPoint": "/rbac/v1/userGroup/create",
+        "body": "{\"groupName\":\"\",\"customerId\":\"<REPLACE_customerId_STRING>\",\"users\":[]}",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":400
+      },
+      {
+        "endPoint": "/rbac/v1/userGroup/create",
+        "endPointTwo": "/rbac/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=<REPLACE_groupName_STRING>&sort=fullName&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"groupName\":\"aAutoGroupName!@#$%^&*()_-+<=>|\",\"customerId\":\"GZqEJtZygXHKNZ\",\"users\":[{\"ccoId\":\"vijengit\"},{\"ccoId\":\"rtejanak\"}]}",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":500
+      },
+      {
+        "endPoint": "/rbac/v1/userGroup/create",
+        "body": "{\"groupName\":\"aAutoGroupName!@#$%^&*()_-+<script>=>|\",\"customerId\":\"GZqEJtZygXHKNZ\",\"users\":[{\"ccoId\":\"vijengit\"},{\"ccoId\":\"rtejanak\"}]}",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":500
+      },
+      {
+        "endPoint": "/rbac/v1/userGroup/create",
+        "body": "{\"groupName\":\"aAutoGroupName88\",\"customerId\":\"<REPLACE_customerId_STRING>\",\"users\":[{\"ccoId\":\"vijengit\"},{\"ccoId\":\"rtejanak\"}]}",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401
+      }
+    ]
+  },
+  {
+    "name": "updateUserGroup",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/nrs/userGroup/edit/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/rbac/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=<REPLACE_groupName_STRING>&sort=fullName&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"users\":[],\"newUserGroup\":\"#!$^*&!|>@%=+\",\"groupName\":\"aAutoGroupName31\"}\n",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/userGroup/edit/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/rbac/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=<REPLACE_groupName_STRING>&sort=fullName&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"users\":[],\"newUserGroup\":\"aAutoGroupName331\",\"groupName\":\"#!$^*&!|>@%=+\"}\n",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/userGroup/edit/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/rbac/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=<REPLACE_groupName_STRING>&sort=fullName&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"users\":[],\"newUserGroup\":\"aAutoGroupName331\",\"groupName\":\"aAutoGroupName331\"}",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":500
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/userGroup/edit/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/rbac/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=<REPLACE_groupName_STRING>&sort=fullName&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "params": "/GZqEJtZygXHKNZ",
+        "body": "{\"users\":[],\"newUserGroup\":\"!@#$%^~<&*()_-|+=>\",\"groupName\":\"aAutoGroupName331\"}\n",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":500
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/userGroup/edit/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/rbac/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=<REPLACE_groupName_STRING>&sort=fullName&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"users\":[],\"newUserGroup\":\"\",\"groupName\":\"aAutoGroupName331\"}",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":400
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/userGroup/edit/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/rbac/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=<REPLACE_groupName_STRING>&sort=fullName&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"users\":[],\"newUserGroup\":\"aAutoGroupName!@#$%^&*()<script>_-|+=>\",\"groupName\":\"aAutoGroupName331\"}",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":500
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/userGroup/edit/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/rbac/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=<REPLACE_groupName_STRING>&sort=fullName&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"users\":[],\"newUserGroup\":\"#!$^*&!|>@%=+\",\"groupName\":\"aAutoGroupName331\"}\n",
+        "testType":"valid",
+        "tokenType": "invalid",
+        "responseCode":401
+      }
+    ]
+  },{
+  "name": "validateUserGroup",
+  "data": [
+    {
+      "endPoint": "/rbac/v1/nrs/userGroup/validate/<REPLACE_customerId_STRING>?groupName=aAutoGroupName331&customerId=<REPLACE_customerId_STRING>",
+      "params": "/GZqEJtZygXHKNZ",
+      "testType":"valid",
+      "tokenType": "valid",
+      "responseCode":200,
+      "responseMessage": "User Group name already exists"
+    },
+    {
+      "endPoint": "/rbac/v1/nrs/userGroup/validate/<REPLACE_customerId_STRING>?groupName=aAutoNotGroupName331&customerId=<REPLACE_customerId_STRING>",
+      "params": "/GZqEJtZygXHKNZ",
+      "testType":"invalid",
+      "tokenType": "valid",
+      "responseCode":200,
+      "responseMessage": "User Group name already exists"
+    },
+    {
+      "endPoint": "/rbac/v1/nrs/userGroup/validate/invalidCustomerID?groupName=aAutoNotGroupName331&customerId=<REPLACE_customerId_STRING>",
+      "params": "/GZqEJtZygXHKNZ",
+      "testType":"invalid",
+      "tokenType": "valid",
+      "responseCode":200,
+      "responseMessage": "403 FORBIDDEN"
+    },
+    {
+      "endPoint": "/rbac/v1/nrs/userGroup/validate/<REPLACE_customerId_STRING>?groupName=aAutoNotGroupName331&customerId=invalidCustomerID",
+      "params": "/GZqEJtZygXHKNZ",
+      "testType":"invalid",
+      "tokenType": "valid",
+      "responseCode":200,
+      "responseMessage": "User Group name already exists"
+    },
+    {
+      "endPoint": "/rbac/v1/nrs/userGroup/validate/<REPLACE_customerId_STRING>?groupName=nonExistingGroupName&customerId=<REPLACE_customerId_STRING>",
+      "params": "/GZqEJtZygXHKNZ",
+      "testType":"invalid",
+      "tokenType": "valid",
+      "responseCode":200,
+      "responseMessage": "User Group name already exists"
+    },
+    {
+      "endPoint": "/rbac/v1/nrs/userGroup/validate/<REPLACE_customerId_STRING>?groupName=aAutoGroupName331&customerId=<REPLACE_customerId_STRING>",
+      "params": "/GZqEJtZygXHKNZ",
+      "testType":"invalid",
+      "tokenType": "invalid",
+      "responseCode":401,
+      "responseMessage": "invalid"
+    }
+  ]
+},
+  {
+    "name": "listUserGroup",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/nrs/userGroup/list/<REPLACE_customerId_STRING>",
+        "params": "aAutoGroupName331:CX Cloud Super Admins:CX Cloud Admins",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/userGroup/list/<REPLACE_customerId_STRING>",
+        "params": "invalidUserGroupName:CX Cloud Super Admins:CX Cloud Admins",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/userGroup/list/invalidCustomerID",
+        "params": "",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":403
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/userGroup/list/<REPLACE_customerId_STRING>",
+        "params": "aAutoGroupName331:CX Cloud Super Admins:CX Cloud Admins",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401
+      }
+    ]
+  },
+  {
+    "name": "deleteUserGroup",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/nrs/userGroup/delete/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/rbac/v1/nrs/userGroup/list/<REPLACE_customerId_STRING>?sortOrder=ASC&sortKey=groupName&pageNo=1&rowsPerPage=10&showUserCount=true&searchKey=aAutoGroupName31&customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"groupName\":\"aAutoGroupName331\"}",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseMessage": "Successfully Deleted User Group aAutoGroupName331"
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/userGroup/delete/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/rbac/v1/nrs/userGroup/list/<REPLACE_customerId_STRING>?sortOrder=ASC&sortKey=groupName&pageNo=1&rowsPerPage=10&showUserCount=true&searchKey=$!#^*&!|>@%=+&customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"groupName\":\"$!#^*&!|>@%=+\"}",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseMessage": "Successfully Deleted User Group $!#^*&!|>@%=+"
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/userGroup/delete/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/rbac/v1/nrs/userGroup/list/<REPLACE_customerId_STRING>?sortOrder=ASC&sortKey=groupName&pageNo=1&rowsPerPage=10&showUserCount=true&searchKey=aAutoGroupName13&customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"groupName\":\"aAutoGroupName13\"}",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseMessage": "Successfully Deleted User Group aAutoGroupName13"
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/userGroup/delete/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/rbac/v1/nrs/userGroup/list/<REPLACE_customerId_STRING>?sortOrder=ASC&sortKey=groupName&pageNo=1&rowsPerPage=10&showUserCount=true&searchKey=aNonExistingGroupName&customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"groupName\":\"aNonExistingGroupName\"}",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":404,
+        "responseMessage": "Invalid User Group"
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/userGroup/delete/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/rbac/v1/nrs/userGroup/list/<REPLACE_customerId_STRING>?sortOrder=ASC&sortKey=groupName&pageNo=1&rowsPerPage=10&showUserCount=true&searchKey=aAutoGroupName31&customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"groupName\":\"aAutoGroupName331\"}",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401,
+        "responseMessage": "Successfully Deleted User Group aAutoGroupName331"
+      }
+    ]
+  },
+  {
+    "name": "partnerData",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/partners",
+        "pathParams":"/yrxqBHmPkNhZ60"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/partners",
+        "pathParams":"/yrxqBHmPkNhZ60"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/partners",
+        "pathParams":"/invalidCustomerId"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/access",
+        "pathParams":"/GZqEJtZygXHKNZ",
+        "customerId":"GZqEJtZygXHKNZ",
+        "body":"{ \"customerId\" :\"GZqEJtZygXHKNZ\", \"begeoId\":\"54769\", \"hasRequest\":\"false\", \"requestType\":\"1\" }"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/partners",
+        "endPointTwo": "/ctrlpt/v1/nrs/partner/searchpartner",
+        "pathParams":"/yrxqBHmPkNhZ60/"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/access",
+        "pathParams":"/GZqEJtZygXHKNZ",
+        "body":"{ \"customerId\" :\"yrxqBHmPkNhZ60\", \"begeoId\":\"54769\", \"hasRequest\":\"false\", \"requestType\":\"2\" }"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/access",
+        "pathParams":"/GZqEJtZygXHKNZ",
+        "body":"{ \"customerId\" :\"GZqEJtZygXHKNZ\", \"begeoId\":\"54769\", \"hasRequest\":\"false\", \"requestType\":\"3\" }"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/access",
+        "pathParams":"/GZqEJtZygXHKNZ",
+        "body":"{ \"customerId\" :\"GZqEJtZygXHKNZ\", \"begeoId\":\"54769\", \"hasRequest\":\"false\", \"requestType\":\"4\" }"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/partnerusers/<REPLACE_customerId_STRING>/<REPLACE_begeoId_STRING>?showPastUsers=<REPLACE_showPastUsers_BOOLEAN>",
+        "customerId": "yrxqBHmPkNhZ60",
+        "begeoId": "4129",
+        "showPastPartners": "true"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/partnerusers/<REPLACE_customerId_STRING>/<REPLACE_begeoId_STRING>?showPastUsers=<REPLACE_showPastUsers_BOOLEAN>",
+        "customerId": "yrxqBHmPkNhZ60",
+        "begeoId": "4129",
+        "showPastPartners": "false"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/access/requests/completed?modifiedAfter=<REPLACE_timeStamp_STRING>",
+        "modifiedAfter": "2020-07-30T02:51:28.000Z"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/useraccess",
+        "body":"{\"customerId\":\"<REPLACE_customerId_STRING>\",\"begeoId\":<REPLACE_begeoId_STRING>,\"ccoId\":\"<REPLACE_ccoId_STRING>\",\"hasRequest\":true,\"requestType\":1}"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/user/access-check/<REPLACE_customerId_STRING>/<REPLACE_begeoId_STRING>/<REPLACE_ccoId_STRING>"
+      }
+
+    ]
+  },
+  {
+    "name": "PPshowPastPartnerUsers",
+    "data": [{
+      "endPoint": "/ctrlpt/v1/nrs/partner/partnerusers/<REPLACE_customerId_STRING>/<REPLACE_begeoId_STRING>?showPastUsers=<REPLACE_showPastUsers_BOOLEAN>",
+      "customerId": "yrxqBHmPkNhZ60",
+      "begeoId": "4129",
+      "showPastPartners": "true",
+      "testType":"valid",
+      "responseCode":200
+    },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/partnerusers/<REPLACE_customerId_STRING>/<REPLACE_begeoId_STRING>?showPastUsers=<REPLACE_showPastUsers_BOOLEAN>",
+        "customerId": "yrxqBHmPkNhZ60",
+        "begeoId": "4129111111",
+        "showPastPartners": "false",
+        "testType":"invalid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/partnerusers/<REPLACE_customerId_STRING>/<REPLACE_begeoId_STRING>?showPastUsers=<REPLACE_showPastUsers_BOOLEAN>",
+        "customerId": "yrxqBHmPkNhZ60test",
+        "begeoId": "4129",
+        "showPastPartners": "false",
+        "testType":"invalid",
+        "responseCode":200
+
+      }]
+  },
+  { "name":"searchPartners",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/partners",
+        "endPointTwo": "/ctrlpt/v1/nrs/partner/searchpartner",
+        "pathParams":"/yrxqBHmPkNhZ60/",
+        "testType":"valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/partners",
+        "endPointTwo": "/ctrlpt/v1/nrs/partner/searchpartner",
+        "pathParams":"/yrxqBHmPkNhZ60/",
+        "testType":"invalid",
+        "searchTerm": "&*)(",
+        "responseCode":404
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/partner/partners",
+        "endPointTwo": "/ctrlpt/v1/nrs/partner/searchpartner",
+        "pathParams":"/yrxqBHmPkNhZ60/",
+        "testType":"invalid",
+        "searchTerm": " ",
+        "responseCode":404
+      }
+    ]},
+  {
+    "name": "displayPartnersTab",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/nrs/settings/<REPLACE_customerId_STRING>",
+        "customerId": "yrxqBHmPkNhZ60",
+        "testType":"valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/settings/<REPLACE_customerId_STRING>",
+        "customerId": "testInvalidId",
+        "testType":"invalid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/settings/<REPLACE_customerId_STRING>",
+        "customerId": "",
+        "testType":"invalid",
+        "responseCode":404
+      }
+    ]},
+  {
+    "name": "addUser",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/nrs/user/add?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/ctrlpt/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=&sort=fullName&sortOrder=asc&search=vmula&customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"ccoId\":\"vmula\",\"email\":\"vmula@cisco.com\",\"sendWelcomeEmail\":false,\"userGroups\":[\"CX Cloud Super Admins\"]}\n",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseMessage": "success",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/user/add?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/ctrlpt/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=&sort=fullName&sortOrder=asc&search=adavange&customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"ccoId\":\"adavange\",\"email\":\"adavange@cisco.com\",\"sendWelcomeEmail\":false,\"userGroups\":[\"CX Cloud Admins\"]}\n",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseMessage": "success",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/user/add?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/ctrlpt/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=&sort=fullName&sortOrder=asc&search=vmula&customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"ccoId\":\"vmula\",\"email\":\"vijengit@cisco.com\",\"sendWelcomeEmail\":false,\"userGroups\":[\"CX Cloud Super Admins\"]}\n",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseMessage": "vmula : User already exists",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/user/add?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/ctrlpt/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=&sort=fullName&sortOrder=asc&search=vmula&customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"ccoId\":\"vmula\",\"email\":\"vmula@cisco.com\",\"sendWelcomeEmail\":false,\"userGroups\":[\"CX Cloud Super Admins\"]}\n",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseMessage": "vmula : User already exists",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/user/add?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/ctrlpt/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=&sort=fullName&sortOrder=asc&search=vmula&customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"ccoId\":\"gkadam\",\"email\":\"vijengit@cisco.com\",\"sendWelcomeEmail\":false,\"userGroups\":[\"CX Cloud Super Admins\"]}\n",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseMessage": "vijengit@cisco.com : Email does not match",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/user/add?customerId=<REPLACE_customerId_STRING>",
+        "endPointTwo": "/ctrlpt/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=&sort=fullName&sortOrder=asc&search=vmula&customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"ccoId\":\"vmula\",\"email\":\"vmula@cisco.com\",\"sendWelcomeEmail\":false,\"userGroups\":[\"CX Cloud Super Admins\"]}\n",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseMessage": "invalid",
+        "responseCode":401
+      }
+    ]
+  },
+  {
+    "name": "listUser",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=1000&groupName=&sort=fullName&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "responseBody": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"ccoId\":\"vmula\",\"email\":\"vmula@cisco.com\",\"sendWelcomeEmail\":false,\"userGroups\":\"CX Cloud Super Admins\"}\n",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=1000&groupName=&sort=fullName&sortOrder=asc&search=&customerId=invalidCustomerID",
+        "responseBody": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"ccoId\":\"vmula\",\"email\":\"vmula@cisco.com\",\"sendWelcomeEmail\":false,\"userGroups\":\"CX Cloud Super Admins\"}\n",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":403
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=1000&groupName=&sort=fullName&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "responseBody": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"ccoId\":\"vmula\",\"email\":\"vmula@cisco.com\",\"sendWelcomeEmail\":false,\"userGroups\":\"CX Cloud Super Admins\"}\n",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401
+      }
+    ]
+  },
+  {
+    "name": "userGroupMarked",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/userGroup/create",
+        "body": "{\"groupName\":\"testGroupMarked\",\"customerId\":\"<REPLACE_customerId_STRING>\",\"users\":[{\"ccoId\":\"vijengit\"},{\"ccoId\":\"rtejanak\"}]}",
+        "endPointTwo": "/ctrlpt/v1/nrs/user/userGroupMarked/userList/<REPLACE_customerId_STRING>?sortOrder=ASC&groupName=testGroupMarked&sortKey=fullName&pageNumber=1&rowsPerPage=1000&searchKey=&customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "endPointThree": "/ctrlpt/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=1000&groupName=&sort=fullName&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ctrlpt/v1/userGroup/create",
+        "body": "{\"groupName\":\"testGroupMarked\",\"customerId\":\"<REPLACE_customerId_STRING>\",\"users\":[{\"ccoId\":\"vijengit\"},{\"ccoId\":\"rtejanak\"}]}",
+        "endPointTwo": "/ctrlpt/v1/nrs/user/userGroupMarked/userList/<REPLACE_customerId_STRING>?sortOrder=ASC&groupName=testGroupMarked&sortKey=fullName&pageNumber=1&rowsPerPage=1000&searchKey=&customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "endPointThree": "/ctrlpt/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=1000&groupName=&sort=fullName&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "invalid",
+        "responseCode":401
+      }
+    ]
+  },
+  {
+    "name": "userView",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/nrs/user/userView?pageNumber=1&rowsPerPage=10&ccoId=vijengit&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "responseBody": "{\"ccoId\":\"vijengit\",\"emailId\":\"vijengit@cisco.com\",\"userDetailsAccessPolicyMapping\":[{\"userGroup\":\"aAutoGroupName31\",\"accessPolicy\":[],\"noOfUsers\":3,\"defaultGroup\":false}],\"pagination\":{\"pageNumber\":1,\"totalPages\":1,\"rowPerPage\":10,\"totalRows\":1}}",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/user/userView?pageNumber=1&rowsPerPage=10&ccoId=invalidCCOID&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "responseBody": "{\"ccoId\":\"vijengit\",\"emailId\":\"vijengit@cisco.com\",\"userDetailsAccessPolicyMapping\":[{\"userGroup\":\"aAutoGroupName31\",\"accessPolicy\":[],\"noOfUsers\":3,\"defaultGroup\":false}],\"pagination\":{\"pageNumber\":1,\"totalPages\":1,\"rowPerPage\":10,\"totalRows\":1}}",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/user/userView?pageNumber=1&rowsPerPage=10&ccoId=vijengit&sortOrder=asc&search=&customerId=invalidCustomerID&solution=IBN",
+        "responseBody": "{\"ccoId\":\"vijengit\",\"emailId\":\"vijengit@cisco.com\",\"userDetailsAccessPolicyMapping\":[{\"userGroup\":\"aAutoGroupName31\",\"accessPolicy\":[],\"noOfUsers\":3,\"defaultGroup\":false}],\"pagination\":{\"pageNumber\":1,\"totalPages\":1,\"rowPerPage\":10,\"totalRows\":1}}",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":403
+      },
+      {
+        "endPoint": "/ctrlpt/v1/nrs/user/userView?pageNumber=1&rowsPerPage=10&ccoId=vijengit&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "responseBody": "{\"ccoId\":\"vijengit\",\"emailId\":\"vijengit@cisco.com\",\"userDetailsAccessPolicyMapping\":[{\"userGroup\":\"aAutoGroupName31\",\"accessPolicy\":[],\"noOfUsers\":3,\"defaultGroup\":false}],\"pagination\":{\"pageNumber\":1,\"totalPages\":1,\"rowPerPage\":10,\"totalRows\":1}}",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401
+      }
+    ]
+  },
+  {
+    "name": "VerifyCustomersGETAPI",
+    "data": [
+      {
+        "endPoint": "/customerservice/v1/customers/GZqEJtZygXHKNZ/cpperf16769",
+        "params": "/GZqEJtZygXHKNZ",
+        "ccoId":"Cpperf16769",
+        "table":"con_data_customer",
+        "customerId": "GZqEJtZygXHKNZ"
+      }
+    ]
+  },
+  {
+    "name": "VerifyCustomersGETInvalidCustomerId",
+    "data": [
+      {
+        "endPoint": "/customerservice/v1/customers/3321/Cpperf16769",
+        "params": "/3321",
+        "ccoId":"Cpperf16769",
+        "table":"con_data_customer",
+        "customerId": "3321"
+      }
+    ]
+  },
+  {
+    "name": "VerifyCustomersGETInvalidccoId",
+    "data": [
+      {
+        "endPoint": "/customerservice/v1/customers/GZqEJtZygXHKNZ/abc",
+        "params": "/GZqEJtZygXHKNZ",
+        "ccoId":"abc",
+        "table":"con_data_customer",
+        "customerId": "GZqEJtZygXHKNZ"
+      }
+    ]
+  },
+  {
+    "name": "VerifyAllCustomersGETAPI",
+    "data": [
+      {
+        "endPoint": "/customerservice/v1/customers/all?customerId=GZqEJtZygXHKNZ",
+        "params": "/GZqEJtZygXHKNZ",
+        "table":"con_data_customer",
+        "customerId": "GZqEJtZygXHKNZ"
+      }
+    ]
+  },
+  {
+    "name": "VerifyAllCustomersCAVIDGETAPI",
+    "data": [
+      {
+        "endPoint": "/customerservice/v1/customers/all?cavId=227463",
+        "params": "/227463",
+        "table":"con_data_customer",
+        "cavId": "227463"
+      }
+    ]
+  },
+  {
+    "name": "VerifyAllCustomersInvalidCAVIDGETAPI",
+    "data": [
+      {
+        "endPoint": "/customerservice/v1/customers/all?cavId=abc",
+        "params": "/abc",
+        "table":"con_data_customer",
+        "cavId": "abc"
+      }
+    ]
+  },
+  {
+    "name": "VerifyAllCustomersCavBuIdGETAPI",
+    "data": [
+      {
+        "endPoint": "/customerservice/v1/customers/all?cavBuId=1222482",
+        "params": "/1222482",
+        "table":"con_data_customer",
+        "cavId": "1222482"
+      }
+    ]
+  },
+  {
+    "name": "VerifyAllCustomersInvalidCavBuIdGETAPI",
+    "data": [
+      {
+        "endPoint": "/customerservice/v1/customers/all?cavBuId=aabbcc",
+        "params": "/aabbcc",
+        "table":"con_data_customer",
+        "cavId": "aabbcc"
+      }
+    ]
+  },
+  {
+    "name": "VerifyCreateAccessPolicyPOSTAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/nrs/access-policies/GZqEJtZygXHKNZ",
+        "endPointTwo": "/ctrlpt/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=<REPLACE_groupName_STRING>&sort=fullName&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"name\":\"accessPolicyAuto\",\"userGroups\":[\"CX Cloud Admins \"],\"role\":\"Standard User\",\"assetGroups\":[{\"id\":68,\"name\":\"All-Assets\"}]}",
+        "testType":"valid",
+        "responseCode":201
+      }
+    ]
+  },
+  {
+    "name": "UpdateAccessPolicyPUTAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/access-policies/<REPLACE_customerId_STRING>/<REPLACE_policyID_STRING>",
+        "body": "{\"name\":\"accessPolicyAuto\",\"userGroups\":[\"CX Cloud Admins \"],\"role\":\"Assets User\",\"assetGroups\":[{\"id\":68,\"name\":\"All-Assets\"}]}",
+        "testType": "valid",
+        "responseCode": 204
+      }
+    ]
+  },
+  {
+    "name": "UpdateInvalidPolicyIdPUTAPI",
+    "data": [
+      {
+        "endPointTwo": "/rbac/v1/access-policies/<REPLACE_customerId_STRING>/6b261eabb73-4fa8-ac9b-3a197f98e05f",
+        "body": "{\"name\":\"accessPolicyAuto\",\"userGroups\":[\"CX Cloud Admins \"],\"role\":\"Assets User\",\"assetGroups\":[{\"id\":68,\"name\":\"All-Assets\"}]}",
+        "testType":"valid",
+        "responseCode":404
+      }
+    ]
+  },
+
+  {
+    "name": "DeleteAccessPolicyAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/access-policies/<REPLACE_customerId_STRING>/<REPLACE_policyID_STRING>",
+        "testType":"valid",
+        "responseCode":200
+
+      }
+
+    ]
+  },
+  {
+    "name": "DeleteAccessPolicyInvalidPolicyIdAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/access-policies/GZqEJtZygXHKNZ/sdasdfgf5",
+        "testType":"valid",
+        "responseCode":404
+
+      }
+
+    ]
+  },
+  {
+    "name": "UpdateAccessPolicyPUTAPIInvalidRequest",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/access-policies/<REPLACE_customerId_STRING>/<REPLACE_policyID_STRING>",
+        "endPointTwo": "/ctrlpt/v1/access-policies/<REPLACE_customerId_STRING>/<REPLACE_policyID_STRING>",
+        "body": "{\"name\":\"accessPolicyAuto\",\"userGroups\":[\"CX Cloud Admins \"],\"role\":\"Assets User\",\"assetGroups\":[{\"id\":68,\"name\":\"All-Assets\"}]}",
+        "testType":"valid",
+        "responseCode":400
+      }
+    ]
+  },
+  {
+    "name": "VerifyAccessPolicyGETAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/nrs/access-policies/GZqEJtZygXHKNZ/1/10",
+        "endPointTwo": "/rbac/v1/nrs/access-policies/validate/GZqEJtZygXHKNZ?policy-name=accessPolicyAuto",
+        "endPointThree": "/rbac/v1/nrs/access-policies/GZqEJtZygXHKNZ/1/10?policy-name=accessPolicyAuto",
+        "params": "/GZqEJtZygXHKNZ/1/10",
+        "customerId": "GZqEJtZygXHKNZ",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyAccessPolicypolicyNameGETAPI",
+    "data": [
+      {
+        "endPoint": "/rbacv1/nrs/access-policies/<REPLACE_customerId_STRING>/1/10?accessPolicy=accessPolicyAuto",
+        "endPointTwo": "/rbac/v1/nrs/access-policies/validate/GZqEJtZygXHKNZ?policy-name=accessPolicyAuto",
+        "endPointThree": "/rbac/v1/nrs/access-policies/GZqEJtZygXHKNZ/1/10?policy-name=accessPolicyAuto",
+        "params": "/GZqEJtZygXHKNZ/1/10",
+        "customerId": "GZqEJtZygXHKNZ",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyCreatedAccessPolicyInvalidCustomerIdGETAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/nrs/access-policies/validate/$&^$?policy-name=accessPolicyAuto",
+        "params": "/GZqEJtZygXHKNZ/1/10",
+        "customerId": "GZqEJtZygXHKNZ",
+        "testType":"Invalid",
+        "responseCode":500
+      }
+    ]
+  },
+  {
+    "name": "VerifyAccessPolicyUserGroupNameGETAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/nrs/access-policies/GZqEJtZygXHKNZ/1/10?userGroups=CX Cloud Admins",
+        "endPointTwo": "/rbac/v1/nrs/access-policies/GZqEJtZygXHKNZ/1/10?assetGroups=All-Assets",
+        "endPointThree": "/rbac/v1/nrs/access-policies/GZqEJtZygXHKNZ/1/10?role=Standard User",
+        "params": "/GZqEJtZygXHKNZ/1/10",
+        "customerId": "GZqEJtZygXHKNZ",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyAccessPolicyDiscoveryGETAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/access-policy-discovery/cpperf16769",
+        "endPointTwo": "/rbac/v1/access-policy-discovery/cpper",
+        "params": "/cpperf16769",
+        "customerId": "cpperf16769",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyAccessPolicyGETPolicyIdAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/nrs/access-policies/GZqEJtZygXHKNZ/1/5?sort=ASC&searchKey=accessPolicyAuto&customerId=GZqEJtZygXHKNZ",
+        "params": "/cpperf16769",
+        "customerId": "GZqEJtZygXHKNZ",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyALLPoliciesGETAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/policies/<REPLACE_customerId_STRING>",
+        "customerId": "GZqEJtZygXHKNZ",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyALLPoliciesInvalidCustomerIdGETAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/policies/GZqEJtZyg",
+        "customerId": "GZqEJtZyg",
+        "testType":"Invalid",
+        "responseCode":403
+      }
+    ]
+  },
+  {
+    "name": "VerifyPoliciesInvalidPathGETAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/GZqEJtZygXHKNZ",
+        "customerId": "GZqEJtZygXHKNZ",
+        "testType":"invalid",
+        "responseCode":404
+      }
+    ]
+  },
+  {
+    "name": "VerifyPoliciesMonthYearGETAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/policies/<REPLACE_customerId_STRING>/09/2020",
+        "endPointTwo": "/ctrlpt/v1/policies/<REPLACE_customerId_STRING>/10/20201",
+        "customerId": "GZqEJtZygXHKNZ",
+        "testType":"invalid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyPoliciesMonthNoYearGETAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/policies/<REPLACE_customerId_STRING>/09/",
+        "endPointTwo": "/ctrlpt/v1/policies/<REPLACE_customerId_STRING>/2020",
+        "endPointThree": "/ctrlpt/v1/policies/<REPLACE_customerId_STRING>/13/2020",
+        "customerId": "GZqEJtZygXHKNZ",
+        "testType":"invalid",
+        "responseCode":404
+      }
+    ]
+  },
+  {
+    "name": "VerifyDNACGETAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/dnacs/<REPLACE_customerId_STRING>",
+        "endPointTwo": "/ctrlpt/v1/dnacs/<REPLACE_customerId_STRING>?collectorId=<REPLACE_collectorId_STRING>",
+        "endPointThree": "/ctrlpt/v1/dnacs/3243214?collectorId=CSP0001050394",
+        "customerId": "GZqEJtZygXHKNZ",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyDnacWithoutCustomerIdGETAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/dnacs/3243214?collectorId=CSP0001050394",
+        "customerId": "GZqEJtZygXHKNZ",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyDNACPolicyIdGETAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/dnacs/<REPLACE_customerId_STRING>?policyId=<REPLACE_policyID_STRING>",
+        "customerId": "GZqEJtZygXHKNZ",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+
+  {
+    "name": "VerifyDNACAssetPresentGETAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/dnacs/<REPLACE_customerId_STRING>?assetPresent=yes",
+        "customerId": "GZqEJtZygXHKNZ",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyCreateDeviceScanPolicyPOSTAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/policy?customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "body": "{\"devices\":[{\"pk\":\"GZqEJtZygXHKNZ-CSP0001050394-MX1-ISR4451-2.corp.local-10.32.255.2-null\",\"customerId\":\"GZqEJtZygXHKNZ\",\"collectorId\":\"CSP0001050394\",\"deviceName\":\"MX1-ISR4451-2.corp.local\",\"hostname\":\"MX1-ISR4451-2.corp.local\",\"ipAddress\":\"10.32.255.2\",\"serialNumber\":\"FJC2140D042\",\"wfId\":\"482b76f6-0d1d-429e-993b-7ffe620d0dca\",\"lastScan\":\"Never\",\"lastScanDate\":\"Never\",\"role\":\"BORDER ROUTER\",\"solutionInfo\":[{\"solution\":\"IBN\",\"useCase\":\"Network Device Onboarding\"},{\"solution\":\"IBN\",\"useCase\":\"Campus Network Assurance\"},{\"solution\":\"IBN\",\"useCase\":\"Campus Network Segmentation\"},{\"solution\":\"IBN\",\"useCase\":\"Scalable Access Policy\"}],\"tags\":[{\"tagName\":\"test123\",\"tagValue\":\"a441f954-8e82-45f2-ab97-30b39a3c656d\"}],\"cxLevel\":\"2\",\"deviceStatus\":\"enabled\",\"mgmtSystemId\":\"abec9e4b-005e-3672-904b-475d0f89c022\",\"mgmtSystemAddr\":\"192.168.139.149\",\"mgmtSystemType\":\"DNAC\",\"sourceNeId\":\"cd992a68-1e08-42b7-a597-af1dc4b0749d\"}],\"customerId\":\"GZqEJtZygXHKNZ\",\"schedule\":\"0 0 2 ? * *\",\"dnacs\":[{\"dnacName\":\"dnac1.cisco.com\",\"name\":\"dnac1.cisco.com_DNAC\",\"fqdn\":\"dnac1.cisco.com\",\"mgmtSystemId\":\"abec9e4b-005e-3672-904b-475d0f89c022\",\"mgmtSystemAddr\":\"192.168.139.149\",\"dnacCity\":\"\",\"dnacCountry\":\"India\",\"nameToDisplay\":\"192.168.139.149\/dnac1.cisco.com\"}],\"timeZone\":\"GMT\"}",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyUpdateDeviceScanPolicyPATCHAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/policy?customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "body": "{\"devices\":[{\"pk\":\"GZqEJtZygXHKNZ-CSP0001050394-MX1-ISR4451-2.corp.local-10.32.255.2-null\",\"customerId\":\"GZqEJtZygXHKNZ\",\"collectorId\":\"CSP0001050394\",\"deviceName\":\"MX1-ISR4451-2.corp.local\",\"hostname\":\"MX1-ISR4451-2.corp.local\",\"ipAddress\":\"10.32.255.2\",\"serialNumber\":\"FJC2140D042\",\"wfId\":\"482b76f6-0d1d-429e-993b-7ffe620d0dca\",\"lastScan\":\"Never\",\"lastScanDate\":\"Never\",\"role\":\"BORDER ROUTER\",\"solutionInfo\":[{\"solution\":\"IBN\",\"useCase\":\"Network Device Onboarding\"},{\"solution\":\"IBN\",\"useCase\":\"Campus Network Assurance\"},{\"solution\":\"IBN\",\"useCase\":\"Campus Network Segmentation\"},{\"solution\":\"IBN\",\"useCase\":\"Scalable Access Policy\"}],\"tags\":[{\"tagName\":\"test123\",\"tagValue\":\"a441f954-8e82-45f2-ab97-30b39a3c656d\"}],\"cxLevel\":\"2\",\"deviceStatus\":\"enabled\",\"mgmtSystemId\":\"abec9e4b-005e-3672-904b-475d0f89c022\",\"mgmtSystemAddr\":\"192.168.139.149\",\"mgmtSystemType\":\"DNAC\",\"sourceNeId\":\"cd992a68-1e08-42b7-a597-af1dc4b0749d\"}],\"customerId\":\"GZqEJtZygXHKNZ\",\"policyId\":\"1a06e05b-ffa2-4062-bc3a-1de3f191436a\",\"schedule\":\"0 30 2 ? * *\",\"timeZone\":\"GMT\",\"dnacs\":[{\"dnacName\":\"dnac1.cisco.com\",\"name\":\"dnac1.cisco.com_DNAC\",\"fqdn\":\"dnac1.cisco.com\",\"mgmtSystemId\":\"abec9e4b-005e-3672-904b-475d0f89c022\",\"mgmtSystemAddr\":\"192.168.139.149\",\"dnacCity\":\"\",\"dnacCountry\":\"India\",\"nameToDisplay\":\"192.168.139.149\/dnac1.cisco.com\"}]}",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyPolicyDevicesGETAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/policy/devices/<REPLACE_customerId_STRING>?solution=IBN&mgmtSystemId=<REPLACE_mgmntSystemId_STRING>&collectorId=<REPLACE_collectorId_STRING>",
+        "endPointTwo": "/ctrlpt/v1/policy/devices/<REPLACE_customerId_STRING>?solution=IBN&mgmtSystemId=<REPLACE_mgmntSystemId_STRING>",
+        "endPointThree": "/ctrlpt/v1/policy/devices/<REPLACE_customerId_STRING>?solution=IBN&mgmtSystemId=<REPLACE_mgmntSystemId_STRING>&collectorId=<REPLACE_collectorId_STRING>&page=1&rows=5",
+        "customerId": "GZqEJtZygXHKNZ",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyPolicyWithPolicyIdGETAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/policy/devices/<REPLACE_customerId_STRING>?policyId=<REPLACE_DevicePolicyID_STRING>&collectorId=<REPLACE_collectorId_STRING>&mgmtSystemId=<REPLACE_mgmntSystemId_STRING>",
+        "endPointTwo": "/ctrlpt/v1/policy/devices/<REPLACE_customerId_STRING>?policyId=<REPLACE_DevicePolicyID_STRING>&collectorId=<REPLACE_collectorId_STRING>",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyDeletePolicyAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/policy/<REPLACE_customerId_STRING>/<REPLACE_DevicePolicyID_STRING>",
+        "endPointTwo": "/ctrlpt/v1/policy/<REPLACE_customerId_STRING>/",
+        "endPointThree": "/ctrlpt/v1/policy/<REPLACE_customerId_STRING>/fsdsgfsds",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyCreateIgnorePolicyPOSTAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/ignorepolicy?customerId=GZqEJtZygXHKNZ",
+        "body": "{\"devices\":[{\"pk\":\"GZqEJtZygXHKNZ-CSP0001050394-MX1-3850-CSW-1.cisco2.com-10.32.255.100-null\",\"customerId\":\"GZqEJtZygXHKNZ\",\"collectorId\":\"CSP0001050394\",\"deviceName\":\"MX1-3850-CSW-1.cisco2.com\",\"hostname\":\"MX1-3850-CSW-1.cisco2.com\",\"ipAddress\":\"10.32.255.100\",\"serialNumber\":\"FCW2139F0XF\",\"wfId\":\"482b76f6-0d1d-429e-993b-7ffe620d0dca\",\"lastScan\":\"Never\",\"lastScanDate\":\"Never\",\"role\":\"DISTRIBUTION\",\"solutionInfo\":[{\"solution\":\"IBN\",\"useCase\":\"Campus Software Image Management\"},{\"solution\":\"IBN\",\"useCase\":\"Network Device Onboarding\"},{\"solution\":\"IBN\",\"useCase\":\"Campus Network Assurance\"},{\"solution\":\"IBN\",\"useCase\":\"Campus Network Segmentation\"},{\"solution\":\"IBN\",\"useCase\":\"Scalable Access Policy\"}],\"tags\":[{\"tagName\":\"test123456\",\"tagValue\":\"cec926ea-314d-4b02-b474-346460f9069a\"},{\"tagName\":\"access\",\"tagValue\":\"57d703c4-e6a0-4578-8bc6-ed1df779f14d\"}],\"cxLevel\":\"2\",\"deviceStatus\":\"enabled\",\"mgmtSystemId\":\"abec9e4b-005e-3672-904b-475d0f89c022\",\"mgmtSystemAddr\":\"192.168.139.149\",\"mgmtSystemType\":\"DNAC\",\"sourceNeId\":\"f0b13496-5611-4c33-a01c-515268f74fa1\"}],\"customerId\":\"GZqEJtZygXHKNZ\",\"dnacs\":[{\"dnacName\":\"dnac1.cisco.com\",\"name\":\"dnac1.cisco.com_DNAC\",\"fqdn\":\"dnac1.cisco.com\",\"mgmtSystemId\":\"abec9e4b-005e-3672-904b-475d0f89c022\",\"mgmtSystemAddr\":\"192.168.139.149\",\"dnacCity\":\"\",\"dnacCountry\":\"India\",\"nameToDisplay\":\"192.168.139.149\/dnac1.cisco.com\"}]}",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyIgnorePolicyDevicesGETAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/ignorepolicy/devices/GZqEJtZygXHKNZ/1/10?mgmtSystemId=<REPLACE_mgmntSystemId_STRING>&collectorId=CSP0001050394",
+        "endPointTwo": "/ctrlpt/v1/ignorepolicy/devices/GZqEJtZygXHKNZ/1/10?mgmtSystemId=<REPLACE_mgmntSystemId_STRING>",
+        "endPointThree": "/ctrlpt/v1/ignorepolicy/devices/GZqEJtZygXHKNZ/1/10?collectorId=CSP0001050394",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyBulkImportStatusGETAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/user/bulkImport/status/GZqEJtZygXHKNZ?refId=b8cf4b8f-4b1b-4d9f-b0bb-37419fa742b5",
+        "endPointTwo": "/rbac/v1/user/bulkImport/status/GZqEJtZygXHKNZ",
+        "endPointThree": "/ctrlpt/v1/ignorepolicy/devices/GZqEJtZygXHKNZ/1/10?collectorId=CSP0001050394",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyBulkImportStatusWithoutRefIdGETAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/user/bulkImport/status/GZqEJtZygXHKNZ?refId=",
+        "endPointTwo": "/rbac/v1/user/bulkImport/status/GZqEJtZygXHKNZ",
+        "endPointThree": "/rbac/v1/user/bulkImport/status/GZqEJtZygXHKNZ?refId=b8cf4b8f-4b1b-4d9f-b0bb-37419fa742b6",
+        "testType":"valid",
+        "responseCode":400
+      }
+    ]
+  },
+  {
+    "name": "VerifyBulkImportReportGETAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/user/bulkImport/report//GZqEJtZygXHKNZ?refId=ed68fabb-4368-4c39-8b33-2519c97bf0f1",
+        "endPointTwo": "/rbac/v1/user/bulkImport/report/GZqEJtZygXHKNZ?refId=ed68fabb-4368-4c39-8b33-2519c97bf",
+        "endPointThree": "/rbac/v1/user/bulkImport/report/GZqEJtZygXHKNZ?refId=",
+        "testType":"valid",
+        "responseCode":400
+      }
+    ]
+  },
+  {
+    "name": "VerifyBulkImportReportGETAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/user/bulkImport/report//GZqEJtZygXHKNZ?refId=ed68fabb-4368-4c39-8b33-2519c97bf0f1",
+        "endPointTwo": "/rbac/v1/user/bulkImport/report/GZqEJtZygXHKNZ?refId=ed68fabb-4368-4c39-8b33-2519c97bf",
+        "endPointThree": "/rbac/v1/user/bulkImport/report/GZqEJtZygXHKNZ?refId=",
+        "testType":"valid",
+        "responseCode":400
+      }
+    ]
+  },
+  {
+    "name": "VerifyBulkImportPOSTAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/user/bulkImport/upload?<REPLACE_customerId_STRING>",
+        "endPointTwo": "/rbac/v1/user/bulkImport/report/GZqEJtZygXHKNZ?refId=ed68fabb-4368-4c39-8b33-2519c97bf",
+        "endPointThree": "/rbac/v1/user/bulkImport/report/GZqEJtZygXHKNZ?refId=",
+        "testType":"valid",
+        "responseCode":202
+      }
+    ]
+  },
+  {
+    "name": "VerifyBulkImportReportWithoutRefIdGETAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/user/bulkImport/report//GZqEJtZygXHKNZ",
+        "endPointTwo": "/rbac/v1/user/bulkImport/report/GZqEJtZygXHKNZ?refId=ed68fabb-4368-4c39-8b33-2519c97bf",
+        "endPointThree": "/rbac/v1/user/bulkImport/report/GZqEJtZygXHKNZ?refId=",
+        "testType":"valid",
+        "responseCode":400
+      }
+    ]
+  },
+
+  {
+    "name": "VerifyBulkImportPayloadPOSTAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/user/bulkImport",
+        "body": "{\"customerId\":\"GZqEJtZygXHKNZ\",\"refId\":\"0c1188e2-37b2-459b-a4ff-0142ab1138b1\",\"sendWelcomeEmail\":false,\"userGroups\":[\"UG_Test1\"]}",
+        "endPointTwo": "/rbac/v1/user/bulkImport/report/GZqEJtZygXHKNZ?refId=ed68fabb-4368-4c39-8b33-2519c97bf",
+        "endPointThree": "/rbac/v1/user/bulkImport/report/GZqEJtZygXHKNZ?refId=",
+        "testType":"valid",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "VerifyBulkImportPayloadWithoutCustomerPOSTAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/user/bulkImport",
+        "body": "{\"customerId\":\"\",\"refId\":\"0c1188e2-37b2-459b-a4ff-0142ab1138b1\",\"sendWelcomeEmail\":false,\"userGroups\":[\"UG_Test1\"]}",
+        "endPointTwo": "/rbac/v1/user/bulkImport/report/GZqEJtZygXHKNZ?refId=ed68fabb-4368-4c39-8b33-2519c97bf",
+        "endPointThree": "/rbac/v1/user/bulkImport/report/GZqEJtZygXHKNZ?refId=",
+        "testType":"valid",
+        "responseCode":400
+      }
+    ]
+  },
+  {
+    "name": "VerifyBulkImportPayloadWithoutRefIdPOSTAPI",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/user/bulkImport",
+        "body": "{\"customerId\":\"GZqEJtZygXHKNZ\",\"refId\":\"\",\"sendWelcomeEmail\":false,\"userGroups\":[\"UG_Test1\"]}",
+        "endPointTwo": "/rbac/v1/user/bulkImport/report/GZqEJtZygXHKNZ?refId=ed68fabb-4368-4c39-8b33-2519c97bf",
+        "endPointThree": "/rbac/v1/user/bulkImport/report/GZqEJtZygXHKNZ?refId=",
+        "testType":"valid",
+        "responseCode":400
+      }
+    ]
+  },
+
+  {
+    "name": "userEmail",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/nrs/user/email?customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"ccoId\":\"vijengit\"}",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/user/email?customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"ccoId\":\"invalid\"}",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseMessage":"Not a valid user"
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/user/email?customerId=invalidCustomerID",
+        "body": "{\"ccoId\":\"vijengit\"}",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":403,
+        "responseMessage":"403 FORBIDDEN"
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/user/email?customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"ccoId\":\"vijengit\"}",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401
+      }
+    ]
+  },
+  {
+    "name": "cloudRemoveUser",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/nrs/user/cloud/remove?customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "endPointTwo": "/rbac/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=&sort=fullName&sortOrder=asc&search=adavange&customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"ccoId\":\"adavange\"}",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseMessage": "User adavange removed successfully."
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/user/cloud/remove?customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "endPointTwo": "/rbac/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=&sort=fullName&sortOrder=asc&search=vmula&customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"ccoId\":\"vmula\"}",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseMessage": "User vmula removed successfully."
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/user/cloud/remove?customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "endPointTwo": "/rbac/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=&sort=fullName&sortOrder=asc&search=vmula&customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"ccoId\":\"vmula\"}",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseMessage": "Not a valid user"
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/user/cloud/remove?customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "endPointTwo": "/rbac/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=&sort=fullName&sortOrder=asc&search=invalidUser&customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"ccoId\":\"invalidUser\"}",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseMessage": "Not a valid user"
+      },
+      {
+        "endPoint": "/rbac/v1/nrs/user/cloud/remove?customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "endPointTwo": "/rbac/v1/nrs/user/listUsers?pageNumber=1&rowsPerPage=10&groupName=&sort=fullName&sortOrder=asc&search=adavange&customerId=<REPLACE_customerId_STRING>&solution=IBN",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"ccoId\":\"adavange\"}",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401,
+        "responseMessage": "invalid."
+      }
+    ]
+  },
+  {
+    "name": "userGroupRemove",
+    "data": [
+      {
+        "endPoint": "/rbac/v1/userGroup/create",
+        "body": "{\"groupName\":\"aTestUGForAutomation12\",\"customerId\":\"<REPLACE_customerId_STRING>\",\"users\":[{\"ccoId\":\"adavange\"}]}",
+        "endPointTwo": "/rbac/v1/nrs/user/group/remove?userGroup=aTestUGForAutomation12&customerId=<REPLACE_customerId_STRING>",
+        "bodyTwo": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"ccoId\":\"adavange\"}",
+        "endPointThree": "/rbac/v1/nrs/user/userView?pageNumber=1&rowsPerPage=10&ccoId=adavange&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseMessage": "success"
+      },
+      {
+        "endPoint": "/rbac/v1/userGroup/create",
+        "body": "{\"groupName\":\"aTestUGForAutomation12\",\"customerId\":\"<REPLACE_customerId_STRING>\",\"users\":[{\"ccoId\":\"adavange\"}]}",
+        "endPointTwo": "/rbac/v1/nrs/user/group/remove?userGroup=aTestUGForAutomation12&customerId=<REPLACE_customerId_STRING>",
+        "bodyTwo": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"ccoId\":\"adavange\"}",
+        "endPointThree": "/rbac/v1/nrs/user/userView?pageNumber=1&rowsPerPage=10&ccoId=adavange&sortOrder=asc&search=&customerId=<REPLACE_customerId_STRING>",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401,
+        "responseMessage": "invalid"
+      }
+    ]
+  },
+  {
+    "name": "ieReleasesGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/ie/releases",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseBody": "1.9",
+        "responseMessage" : "dummy Patch"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/ie/releasesinvalid",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":404,
+        "responseBody": "Not Found"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/ie/releases",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401,
+        "responseBody": "invalid"
+      }
+    ]
+  },
+  {
+    "name": "ieReleaseVersionGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/ie/releases/1.9",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseBody": "1.9",
+        "responseMessage" : "dummy Patch"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/ie/releases/2.0.1",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":404,
+        "responseBody": "Not Found"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/ie/releases/1.9",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401,
+        "responseBody": "1.9",
+        "responseMessage" : "dummy Patch"
+      }
+    ]
+  },
+  {
+    "name": "ieReleaseReleaseNoteGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/ie/releases/1.9?customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseBody": "1.9",
+        "responseMessage" : "dummy Patch"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/ie/releases/2.0.1?customerId=<REPLACE_customerId_STRING>",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":404,
+        "responseBody": "Not Found"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/ie/releases/1.9?customerId=<REPLACE_customerId_STRING>",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401,
+        "responseBody": "invalid"
+      }
+    ]
+  },
+  {
+    "name": "ieScheduledUpdatePOST",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/ie/update?customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"remoteNodeId\":\"<REPLACE_remoteNodID_STRING>\",\"updateToVersion\":\"1.9\",\"scheduledDate\":\"2022-08-28T09:00:00.0000+00:00\"}",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":201
+      },
+      {
+        "endPoint": "/ctrlpt/v1/ie/update?customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"remoteNodeId\":\"<REPLACE_remoteNodID_STRING>\",\"updateToVersion\":\"1.9\",\"scheduledDate\":\"2022-08-28T09:00:00.0000+00:00\"}",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":409
+      },
+      {
+        "endPoint": "/ctrlpt/v1/ie/update?customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"remoteNodeId\":\"<REPLACE_remoteNodID_STRING>\",\"updateToVersion\":\"1.9\",\"scheduledDate\":\"2022-08-28T09:00:00.0000+00:00\"}",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401
+      }
+    ]
+  },
+  {
+    "name": "ieDeleteScheduledUpdateDELETE",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/ie/update/<REPLACE_customerId_STRING>/<REPLACE_scheduledID_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":204
+      },
+      {
+        "endPoint": "/ctrlpt/v1/ie/update/<REPLACE_customerId_STRING>/<REPLACE_scheduledID_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":409
+      },
+      {
+        "endPoint": "/ctrlpt/v1/ie/update/<REPLACE_customerId_STRING>/<REPLACE_scheduledID_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401
+      }
+    ]
+  },
+  {
+    "name": "verifyRoles",
+    "data": [
+      {
+        "testType": "valid",
+        "endPoint": "/rbac/v1/nrs/roles-permissions/roles",
+        "pathParams": "assign=<REPLACE_assign_STRING>",
+        "assign":"true",
+        "responseCode":200
+      },
+      {
+        "testType": "invalid",
+        "endPoint": "/rbac/v1/nrs/roles-permissions/roles",
+        "pathParams": "assign=<REPLACE_assign_STRING>",
+        "assign":"false",
+        "responseCode":200
+      },
+      {
+        "testType": "invalid",
+        "endPoint": "/rbac/v1/nrs/roles-permissions/invalidTest",
+        "pathParams": "assign=<REPLACE_assign_STRING>",
+        "assign":"true",
+        "responseCode":404
+      }
+    ]
+  },
+  {
+    "name": "dataForRoles",
+    "data": [
+      {
+        "testType": "",
+        "endPoint": "/rbac/v1/nrs/roles-permissions",
+        "responseCode":200
+      }
+    ]
+  },
+  {
+    "name": "otpData",
+    "data": [
+      {
+        "testType": "valid",
+        "endPoint": "/ctrlpthttps://concsoweb-stg.cisco.com/registration/code",
+        "responseCode": 200
+      }
+    ]
+  },
+  {
+    "name": "registrationData",
+    "data": [
+      {
+        "testType": "valid",
+        "endPoint": "/ctrlpt/v1/registration/ie/<REPLACE_customerId_STRING>",
+        "customerId" : "GZqEJtZygXHKNZ",
+        "responseCode": 200
+      }
+    ]
+  },
+  {
+    "name": "healthStatusData",
+    "data": [
+      {
+        "testType": "valid",
+        "endPoint": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>",
+        "customerId" : "GZqEJtZygXHKNZ",
+        "responseCode": 200
+      }
+    ]
+  },
+  {
+    "name": "ieUpdateNowPOST",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/ie/update?customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"remoteNodeId\":\"<REPLACE_remoteNodID_STRING>\",\"updateToVersion\":\"1.9\",\"updateNow\":true}",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":201
+      },
+      {
+        "endPoint": "/ctrlpt/v1/ie/update?customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"remoteNodeId\":\"<REPLACE_remoteNodID_STRING>\",\"updateToVersion\":\"1.9\",\"updateNow\":true}",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":409
+      },
+      {
+        "endPoint": "/ctrlpt/v1/ie/update?customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"remoteNodeId\":\"<REPLACE_remoteNodID_STRING>\",\"updateToVersion\":\"1.9\",\"updateNow\":true}",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401
+      }
+    ]
+  },
+  {
+    "name": "ieUpgradeGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/ie/update?customerId=<REPLACE_customerId_STRING>&scheduleId=<REPLACE_scheduleId_STRING>",
+        "params": "/GZqEJtZygXHKNZ",
+        "testType":"valid",
+        "responseCode":202
+      }
+    ]
+  },
+  {
+    "name": "DNACStatusGETAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/dnac/status/customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ctrlpt/v1/dnac/status/customerId=invalidcustomerID",
+        "testType":"invalid",
+        "responseCode":400
+      }
+    ]
+  },
+  {
+    "name": "settingsInsightPOSTAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight",
+        "body": "{\"customerId\": \"<REPLACE_customerId_STRING>\",\"insightType\": \"AFM\",\"mode\": true}",
+        "endPointTwo": "/ctrlpt/v1/settings/insight/<REPLACE_customerId_STRING>/AFM",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseMessage": "User preference updated for AFM"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight",
+        "body": "{\"customerId\": \"<REPLACE_customerId_STRING>\",\"insightType\": \"COMPLIANCE\",\"mode\": true}",
+        "endPointTwo": "/ctrlpt/v1/settings/insight/<REPLACE_customerId_STRING>/COMPLIANCE",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseMessage": "User preference updated for COMPLIANCE"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight",
+        "body": "{\"customerId\": \"<REPLACE_customerId_STRING>\",\"insightType\": \"RPR\",\"mode\": true}",
+        "endPointTwo": "/ctrlpt/v1/settings/insight/<REPLACE_customerId_STRING>/RPR",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseMessage": "User preference updated for RPR"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight",
+        "body": "{\"customerId\": \"<REPLACE_customerId_STRING>\",\"insightType\": \"invaldInsightType\",\"mode\": true}",
+        "endPointTwo": "/ctrlpt/v1/settings/insight/<REPLACE_customerId_STRING>/invaldInsightType",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight",
+        "body": "{\"customerId\": \"<REPLACE_customerId_STRING>\",\"insightType\": \"AFM\",\"mode\": true}",
+        "endPointTwo": "/ctrlpt/v1/settings/insight/<REPLACE_customerId_STRING>/AFM",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401,
+        "responseMessage": "invalid"
+      }
+    ]
+  },
+  {
+    "name": "settingsInsightGETAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight/<REPLACE_customerId_STRING>/ALL?customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseBody": "{\"customerId\": \"<REPLACE_customerId_STRING>\",\"insightConfigs\": [{\"insightType\": \"PARTNERS_AUTHORIZATION\",\"mode\": true},{\"insightType\": \"COMPLIANCE\",\"mode\": true},{\"insightType\": \"AFM\",\"mode\": true},{\"insightType\": \"RPR\",\"mode\": true}]}"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight/<REPLACE_customerId_STRING>/ALLinvalid?customerId=<REPLACE_customerId_STRING>",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":500,
+        "responseBody": "{\"customerId\": \"<REPLACE_customerId_STRING>\",\"insightConfigs\": [{\"insightType\": \"PARTNERS_AUTHORIZATION\",\"mode\": true},{\"insightType\": \"COMPLIANCE\",\"mode\": true},{\"insightType\": \"AFM\",\"mode\": true},{\"insightType\": \"RPR\",\"mode\": true}]}"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight/<REPLACE_customerId_STRING>/AFM?customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseBody": "{\"customerId\": \"<REPLACE_customerId_STRING>\",\"insightConfigs\": [{\"insightType\": \"AFM\",\"mode\": true}]}"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight/<REPLACE_customerId_STRING>/COMPLIANCE?customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseBody": "{\"customerId\": \"<REPLACE_customerId_STRING>\",\"insightConfigs\": [{\"insightType\": \"COMPLIANCE\",\"mode\": true}]}"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight/<REPLACE_customerId_STRING>/RPR?customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "responseBody": "{\"customerId\": \"<REPLACE_customerId_STRING>\",\"insightConfigs\": [{\"insightType\": \"RPR\",\"mode\": true}]}"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/settings/insight/<REPLACE_customerId_STRING>/ALL?customerId=<REPLACE_customerId_STRING>",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401,
+        "responseBody": "{\"customerId\": \"<REPLACE_customerId_STRING>\",\"insightConfigs\": [{\"insightType\": \"PARTNERS_AUTHORIZATION\",\"mode\": true},{\"insightType\": \"COMPLIANCE\",\"mode\": true},{\"insightType\": \"AFM\",\"mode\": true},{\"insightType\": \"RPR\",\"mode\": true}]}"
+      }
+    ]
+  },
+  {
+    "name": "ieLogsFilesGETAPI",
+    "data": [
+      {
+        "endPoint": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=invalidCustomerID/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":400,
+        "responseMessage": "Mismatch in CustomerId!"
+      },
+      {
+        "endPoint": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=invalidCustomerID/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":400,
+        "responseMessage": "Mismatch in CustomerId!"
+      },
+      {
+        "endPoint": "/ielogs/v1/logs/files/invalidCustomerID?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":400,
+        "responseMessage": "Mismatch in CustomerId!"
+      },
+      {
+        "endPoint": "/ielogs/v1/logs/files/invalidCustomerID?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":400,
+        "responseMessage": "Mismatch in CustomerId!"
+      },
+      {
+        "endPoint": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":403,
+        "responseMessage": "Cannot call this API with user token. Please use machine token"
+      },
+      {
+        "endPoint": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":403,
+        "responseMessage": "Cannot call this API with user token. Please use machine token"
+      },
+      {
+        "endPoint": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "invalid",
+        "responseCode":401
+      }
+    ]
+  },
+  {
+    "name": "ieAuditLogsFilesGETAPI",
+    "data": [
+      {
+        "endPoint": "/ielogs/v1/audit-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_filePath_STRING>",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"valid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ielogs/v1/audit-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/2020-09-20/pbc-invalid-logs:1600560285474626000.json",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":404
+      },
+      {
+        "endPoint": "/ielogs/v1/audit-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/2020-13-02/pbc-audit-logs:1600560285474626000.json",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":404
+      },
+      {
+        "endPoint": "/ielogs/v1/audit-logs/file/invalidCustomerID/data?filePath=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/pbc-audit-logs:1600560285474626000.json",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":400
+      },
+      {
+        "endPoint": "/ielogs/v1/audit-logs/file/<REPLACE_customerId_STRING>/data?filePath=invalidCustomerID/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/pbc-audit-logs:1600560285474626000.json",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":400
+      },
+      {
+        "endPoint": "/ielogs/v1/audit-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_customerId_STRING>/1178999d74-3fb6-4d05-8bbe-8e7802687e26/ie_audit_logs/<REPLACE_CurrentDate_STRING>/pbc-audit-logs:1600560285474626000.json",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":404
+      },
+      {
+        "endPoint": "/ielogs/v1/audit-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/pbc-audit-logs:1600560285474626000.json",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":400
+      },
+      {
+        "endPoint": "/ielogs/v1/debug-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/pbc-audit-logs:1600560285474626000.json",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":400
+      },
+      {
+        "endPoint": "/ielogs/v1/audit-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/pbc-audit-logs:1600560285474626000.json",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":404
+      },
+      {
+        "endPoint": "/ielogs/v1/audit-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/pbc-audit-logs:1600560285474626000.json",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "UIToken",
+        "responseCode":403
+      },
+      {
+        "endPoint": "/ielogs/v1/audit-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_filePath_STRING>",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "params": "machineToken",
+        "responseCode":401
+      }
+    ]
+  },
+  {
+    "name": "ieDebugLogsFilesGETAPI",
+    "data": [
+      {
+        "endPoint": "/ielogs/v1/debug-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_filePath_STRING>",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"valid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":200
+      },
+      {
+        "endPoint": "/ielogs/v1/debug-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/2020-13-02/cxcapplogs_INVALID_1600470809329.zip",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":404
+      },
+      {
+        "endPoint": "/ielogs/v1/debug-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/2020-13-02/cxcapplogs_1600470809329.zip",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":404
+      },
+      {
+        "endPoint": "/ielogs/v1/debug-logs/file/invalidCustomerID/data?filePath=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/cxcapplogs_1600470809329.zip",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":400
+      },
+      {
+        "endPoint": "/ielogs/v1/debug-logs/file/<REPLACE_customerId_STRING>/data?filePath=invalidCustomerID/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/cxcapplogs_1600470809329.zip",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":400
+      },
+      {
+        "endPoint": "/ielogs/v1/debug-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_customerId_STRING>/1178999d74-3fb6-4d05-8bbe-8e7802687e26/ie_debug_logs/<REPLACE_CurrentDate_STRING>/cxcapplogs_1600470809329.zip",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":404
+      },
+      {
+        "endPoint": "/ielogs/v1/debug-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_audit_logs/<REPLACE_CurrentDate_STRING>/cxcapplogs_1600470809329.zip",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":400
+      },
+      {
+        "endPoint": "/ielogs/v1/audit-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/cxcapplogs_1600470809329.zip",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":400
+      },
+      {
+        "endPoint": "/ielogs/v1/debug-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/cxcapplogs_1600470809329.zip",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "machineToken",
+        "responseCode":404
+      },
+      {
+        "endPoint": "/ielogs/v1/debug-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/cxcapplogs_1600470809329.zip",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "params": "UIToken",
+        "responseCode":403
+      },
+      {
+        "endPoint": "/ielogs/v1/debug-logs/file/<REPLACE_customerId_STRING>/data?filePath=<REPLACE_filePath_STRING>",
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>",
+        "endPointThree": "/ielogs/v1/logs/files/<REPLACE_customerId_STRING>?prefix=<REPLACE_customerId_STRING>/<REPLACE_remoteNodID_STRING>/ie_debug_logs/<REPLACE_CurrentDate_STRING>/",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "params": "machineToken",
+        "responseCode":401
+      }
+    ]
+  },
+  {
+    "name": "collectionPolicyNextScheduleGET",
+    "data": [
+
+      {
+        "endPoint": "/ctrlpt/v1/collectionPolicy/nextSchedule/invalidCustomerID",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":403,
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/collectionPolicy/nextSchedule/<REPLACE_customerId_STRING>",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401,
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/collectionPolicy/nextSchedule/<REPLACE_customerId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>"
+      }
+    ]
+  },
+  {
+    "name": "nextScheduleForCollectorIDGET",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/collectionPolicy/nextSchedule/<REPLACE_customerId_STRING>/<REPLACE_collectorId_STRING>",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/collectionPolicy/nextSchedule/invalidCustomerID",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":403,
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/collectionPolicy/nextSchedule/<REPLACE_collectorId_STRING>",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401,
+        "endPointTwo": "/ctrlpt/v1/ie/health-status/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>"
+      }
+    ]
+  },
+  {
+    "name": "collectionPolicyPATCHAPI",
+    "data": [
+      {
+        "endPoint": "/ctrlpt/v1/collectionPolicy?customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"policyId\":\"<REPLACE_policyId_STRING>\",\"policyName\":\"placeholder\",\"schedule\":\"0 0 7 ? * *\",\"mgmtSystemType\":\"DNAC\",\"mgmtSystemAddr\":\"<REPLACE_mgmtSystemAddr_STRING>\",\"timeZone\":\"Asia/Kabul\",\"mgmtSystemId\":\"<REPLACE_mgmtSystemId_STRING>\",\"dnacName\":\"<REPLACE_dnacName_STRING>\"}",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "endPointTwo": "/ctrlpt/v1/policies/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/collectionPolicy?customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"policyId\":\"<REPLACE_policyId_STRING>\",\"policyName\":\"placeholder\",\"schedule\":\"0 0 1 18 * ?\",\"mgmtSystemType\":\"DNAC\",\"mgmtSystemAddr\":\"<REPLACE_mgmtSystemAddr_STRING>\",\"timeZone\":\"Asia/Kabul\",\"mgmtSystemId\":\"<REPLACE_mgmtSystemId_STRING>\",\"dnacName\":\"<REPLACE_dnacName_STRING>\"}",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "endPointTwo": "/ctrlpt/v1/policies/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/collectionPolicy?customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"policyId\":\"<REPLACE_policyId_STRING>\",\"policyName\":\"placeholder\",\"schedule\":\"0 0 12 ? * WED\",\"mgmtSystemType\":\"DNAC\",\"mgmtSystemAddr\":\"<REPLACE_mgmtSystemAddr_STRING>\",\"timeZone\":\"Asia/Kabul\",\"mgmtSystemId\":\"<REPLACE_mgmtSystemId_STRING>\",\"dnacName\":\"<REPLACE_dnacName_STRING>\"}",
+        "testType":"valid",
+        "tokenType": "valid",
+        "responseCode":200,
+        "endPointTwo": "/ctrlpt/v1/policies/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/collectionPolicy?customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"customerId\":\"invalidCustomerID\",\"policyId\":\"<REPLACE_policyId_STRING>\",\"policyName\":\"placeholder\",\"schedule\":\"0 0 12 ? * WED\",\"mgmtSystemType\":\"DNAC\",\"mgmtSystemAddr\":\"<REPLACE_mgmtSystemAddr_STRING>\",\"timeZone\":\"Asia/Kabul\",\"mgmtSystemId\":\"<REPLACE_mgmtSystemId_STRING>\",\"dnacName\":\"<REPLACE_dnacName_STRING>\"}",
+        "testType":"invalid",
+        "tokenType": "valid",
+        "responseCode":403,
+        "endPointTwo": "/ctrlpt/v1/policies/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>"
+      },
+      {
+        "endPoint": "/ctrlpt/v1/collectionPolicy?customerId=<REPLACE_customerId_STRING>",
+        "body": "{\"customerId\":\"<REPLACE_customerId_STRING>\",\"policyId\":\"<REPLACE_policyId_STRING>\",\"policyName\":\"placeholder\",\"schedule\":\"0 0 12 ? * WED\",\"mgmtSystemType\":\"DNAC\",\"mgmtSystemAddr\":\"<REPLACE_mgmtSystemAddr_STRING>\",\"timeZone\":\"Asia/Kabul\",\"mgmtSystemId\":\"<REPLACE_mgmtSystemId_STRING>\",\"dnacName\":\"<REPLACE_dnacName_STRING>\"}",
+        "testType":"invalid",
+        "tokenType": "invalid",
+        "responseCode":401,
+        "endPointTwo": "/ctrlpt/v1/policies/<REPLACE_customerId_STRING>?customerId=<REPLACE_customerId_STRING>"
+      }
+    ]
+  }
+
+]

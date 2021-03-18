@@ -1,0 +1,3310 @@
+{
+    "data": [
+        {
+            "hwEolInstanceId": 443266,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "EHWIC-4ESG",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443267,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "EHWIC-4ESG-P",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443279,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "EHWIC-4G-LTE-AU",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443287,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "EHWIC-4G-LTE-GB",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2019-05-23T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443296,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "EHWIC-4G-LTE-VZ",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443299,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "EHWIC-4SHDSL-EA",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443304,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "EHWIC-D-8ESG",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443305,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "EHWIC-D-8ESG-P",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443318,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "EHWIC-LTE-LA",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443320,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "EHWIC-VA-DSL-A",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443328,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "EHWIC-VA-DSL-M",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443333,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "HWIC-16A",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443338,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "HWIC-1CE1T1-PRI",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443342,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "HWIC-1DSU-56K4",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443346,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "HWIC-1DSU-T1",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443350,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "HWIC-1T",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443354,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "HWIC-2CE1T1-PRI",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443358,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "HWIC-2FE",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443362,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "HWIC-2T",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443366,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "HWIC-4A/S",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443370,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "HWIC-4B-S/T",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443375,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "HWIC-8A",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443383,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "SM-NM-ADPTR",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443669,
+            "bulletinNumber": "EOL12632",
+            "bulletinProductId": "ASA5506W-A-FTD-K9",
+            "bulletinTitle": "Cisco ASA5506W-X WiFi Security Appliances",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/security/asa-5500-series-next-generation-firewalls/eos-eol-notice-c51-741286.html",
+            "publishedDate": "2018-08-31T11:11:21",
+            "eoLifeExternalAnnouncementDate": "2018-08-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-01T00:00:00Z",
+            "eoSaleDate": "2018-09-30T00:00:00Z",
+            "lastDateOfSupport": "2023-09-30T00:00:00Z",
+            "lastShipDate": "2018-12-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2019-09-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2019-09-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2019-09-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-28T00:00:00Z",
+            "eoServiceContractRenewalDate": "2022-12-31T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2021-09-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1569801600000",
+                    "nextHwEolMilestone": "1632960000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443945,
+            "bulletinNumber": "EOL12637",
+            "bulletinProductId": "15454-GE-XPE=",
+            "bulletinTitle": "15454 MSTP Selective 10G DWDM line Modules",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/optical-networking/ons-15454-series-multiservice-transport-platforms/eos-eol-notice-c51-741297.html",
+            "publishedDate": "2018-09-04T18:04:37",
+            "eoLifeExternalAnnouncementDate": "2018-09-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-04T00:00:00Z",
+            "eoSaleDate": "2019-09-03T00:00:00Z",
+            "lastDateOfSupport": "2024-09-30T00:00:00Z",
+            "lastShipDate": "2019-12-03T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-09-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-09-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-09-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-09-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-12-02T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1599004800000",
+                    "nextHwEolMilestone": "1701475200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 445438,
+            "bulletinNumber": "EOL12702",
+            "bulletinProductId": "SPA8800",
+            "bulletinTitle": "Cisco IP Telephony Gateway SPA8000 and SPA8800",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/unified-communications/small-business-voice-gateways-ata/eos-eol-notice-c51-741350.html",
+            "publishedDate": "2018-09-14T19:45:17",
+            "eoLifeExternalAnnouncementDate": "2018-09-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-15T00:00:00Z",
+            "eoSaleDate": "2019-03-15T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-13T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-03-14T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-14T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-10T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1584144000000",
+                    "nextHwEolMilestone": "1686355200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 445443,
+            "bulletinNumber": "EOL12703",
+            "bulletinProductId": "WRP500-A-K9",
+            "bulletinTitle": "Cisco WRP500 Wireless-AC Broadband Router with 2 Phone Ports",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/unified-communications/small-business-voice-gateways-ata/eos-eol-notice-c51-741349.html",
+            "publishedDate": "2018-09-14T19:44:12",
+            "eoLifeExternalAnnouncementDate": "2018-09-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-15T00:00:00Z",
+            "eoSaleDate": "2019-03-15T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-13T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-03-14T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-14T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-10T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1584144000000",
+                    "nextHwEolMilestone": "1686355200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 444531,
+            "bulletinNumber": "EOL12708",
+            "bulletinProductId": "UCSB-EX-M4-3=",
+            "bulletinTitle": "Unified Computing System B-Series Blade Servers (B200 M4, B420 M4, B260 M4 and B460 M4)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-b-series-blade-servers/eos-eol-notice-c51-741236.html",
+            "publishedDate": "2018-09-06T20:11:23",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2019-02-14T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2021-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1683849600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442777,
+            "bulletinNumber": "EOL12708",
+            "bulletinProductId": "UCSB-B200-M4",
+            "bulletinTitle": "Unified Computing System B-Series Blade Servers (B200 M4, B420 M4, B260 M4 and B460 M4)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-b-series-blade-servers/eos-eol-notice-c51-741236.html",
+            "publishedDate": "2018-09-06T20:11:23",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2019-02-14T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2021-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1683849600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442789,
+            "bulletinNumber": "EOL12708",
+            "bulletinProductId": "UCSB-B420-M4",
+            "bulletinTitle": "Unified Computing System B-Series Blade Servers (B200 M4, B420 M4, B260 M4 and B460 M4)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-b-series-blade-servers/eos-eol-notice-c51-741236.html",
+            "publishedDate": "2018-09-06T20:11:23",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2019-02-14T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2021-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1683849600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442887,
+            "bulletinNumber": "EOL12709",
+            "bulletinProductId": "UCSC-C460-M4",
+            "bulletinTitle": "Unified Computing System C-Series Rack Servers (C220 M4, C240 M4 and C460 M4)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-741235.html",
+            "publishedDate": "2019-08-24T19:34:08",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2019-02-14T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-14T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2024-02-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1683849600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442841,
+            "bulletinNumber": "EOL12709",
+            "bulletinProductId": "UCSC-C220-M4L",
+            "bulletinTitle": "Unified Computing System C-Series Rack Servers (C220 M4, C240 M4 and C460 M4)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-741235.html",
+            "publishedDate": "2019-08-24T19:34:08",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2019-02-14T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-14T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2024-02-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1683849600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442847,
+            "bulletinNumber": "EOL12709",
+            "bulletinProductId": "UCSC-C220-M4S",
+            "bulletinTitle": "Unified Computing System C-Series Rack Servers (C220 M4, C240 M4 and C460 M4)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-741235.html",
+            "publishedDate": "2019-08-24T19:34:08",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2019-02-14T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-14T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2024-02-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1683849600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442856,
+            "bulletinNumber": "EOL12709",
+            "bulletinProductId": "UCSC-C240-M4L",
+            "bulletinTitle": "Unified Computing System C-Series Rack Servers (C220 M4, C240 M4 and C460 M4)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-741235.html",
+            "publishedDate": "2019-08-24T19:34:08",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2019-02-14T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-14T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2024-02-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1683849600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442862,
+            "bulletinNumber": "EOL12709",
+            "bulletinProductId": "UCSC-C240-M4S",
+            "bulletinTitle": "Unified Computing System C-Series Rack Servers (C220 M4, C240 M4 and C460 M4)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-741235.html",
+            "publishedDate": "2019-08-24T19:34:08",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2019-02-14T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-14T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2024-02-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1683849600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442867,
+            "bulletinNumber": "EOL12709",
+            "bulletinProductId": "UCSC-C240-M4S2",
+            "bulletinTitle": "Unified Computing System C-Series Rack Servers (C220 M4, C240 M4 and C460 M4)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-741235.html",
+            "publishedDate": "2019-08-24T19:34:08",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2019-02-14T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-14T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2024-02-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1683849600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442875,
+            "bulletinNumber": "EOL12709",
+            "bulletinProductId": "UCSC-C240-M4SX",
+            "bulletinTitle": "Unified Computing System C-Series Rack Servers (C220 M4, C240 M4 and C460 M4)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-741235.html",
+            "publishedDate": "2019-08-24T19:34:08",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2019-02-14T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-14T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2024-02-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1683849600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442458,
+            "bulletinNumber": "EOL12710",
+            "bulletinProductId": "HX220C-M4S",
+            "bulletinTitle": "HyperFlex HX-Series (HX220c M4, HX240c M4, HX220c AF M4 and HX240c AF M4) ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/hyperconverged-infrastructure/hyperflex-hx-series/eos-eol-notice-c51-741237.html",
+            "publishedDate": "2019-01-24T10:37:28",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2019-02-14T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2021-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1683849600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442464,
+            "bulletinNumber": "EOL12710",
+            "bulletinProductId": "HX240C-M4SX",
+            "bulletinTitle": "HyperFlex HX-Series (HX220c M4, HX240c M4, HX220c AF M4 and HX240c AF M4) ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/hyperconverged-infrastructure/hyperflex-hx-series/eos-eol-notice-c51-741237.html",
+            "publishedDate": "2019-01-24T10:37:28",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2019-02-14T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2021-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1683849600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442476,
+            "bulletinNumber": "EOL12710",
+            "bulletinProductId": "HXAF240C-M4SX",
+            "bulletinTitle": "HyperFlex HX-Series (HX220c M4, HX240c M4, HX220c AF M4 and HX240c AF M4) ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/hyperconverged-infrastructure/hyperflex-hx-series/eos-eol-notice-c51-741237.html",
+            "publishedDate": "2019-01-24T10:37:28",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2019-02-14T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2021-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1683849600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442882,
+            "bulletinNumber": "EOL12711",
+            "bulletinProductId": "UCSC-C3K-M4SRB",
+            "bulletinTitle": "Select Unified Computing Systems Accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-741234.html",
+            "publishedDate": "2018-10-09T17:04:16",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2019-02-14T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2021-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1683849600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442910,
+            "bulletinNumber": "EOL12711",
+            "bulletinProductId": "UCSC-MLOM-CSC-02",
+            "bulletinTitle": "Select Unified Computing Systems Accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-741234.html",
+            "publishedDate": "2018-10-09T17:04:16",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2019-02-14T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2021-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1683849600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442774,
+            "bulletinNumber": "EOL12711",
+            "bulletinProductId": "UCS-VIC-M82-8P",
+            "bulletinTitle": "Select Unified Computing Systems Accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-741234.html",
+            "publishedDate": "2018-10-09T17:04:16",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2019-02-14T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2021-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1683849600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442823,
+            "bulletinNumber": "EOL12711",
+            "bulletinProductId": "UCSB-MLOM-40G-01",
+            "bulletinTitle": "Select Unified Computing Systems Accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-741234.html",
+            "publishedDate": "2018-10-09T17:04:16",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2019-02-14T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2021-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1683849600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 452623,
+            "bulletinNumber": "EOL12712",
+            "bulletinProductId": "UCSC-PSU2V2-1200W=",
+            "bulletinTitle": "Select Unified Computing Systems Accessories Spares",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-742012.html",
+            "publishedDate": "2019-02-14T16:25:43",
+            "eoLifeExternalAnnouncementDate": "2019-02-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-01-15T00:00:00Z",
+            "eoSaleDate": "2020-02-14T00:00:00Z",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-02-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-14T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1613174400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 452625,
+            "bulletinNumber": "EOL12712",
+            "bulletinProductId": "UCSC-PSU2V2-650W=",
+            "bulletinTitle": "Select Unified Computing Systems Accessories Spares",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-742012.html",
+            "publishedDate": "2019-02-14T16:25:43",
+            "eoLifeExternalAnnouncementDate": "2019-02-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-01-15T00:00:00Z",
+            "eoSaleDate": "2020-02-14T00:00:00Z",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-02-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-14T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1613174400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 452389,
+            "bulletinNumber": "EOL12712",
+            "bulletinProductId": "N2XX-AEPCI05=",
+            "bulletinTitle": "Select Unified Computing Systems Accessories Spares",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-742012.html",
+            "publishedDate": "2019-02-14T16:25:43",
+            "eoLifeExternalAnnouncementDate": "2019-02-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-01-15T00:00:00Z",
+            "eoSaleDate": "2020-02-14T00:00:00Z",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-02-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-14T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1613174400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 452392,
+            "bulletinNumber": "EOL12712",
+            "bulletinProductId": "N2XX-AQPCI05=",
+            "bulletinTitle": "Select Unified Computing Systems Accessories Spares",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-742012.html",
+            "publishedDate": "2019-02-14T16:25:43",
+            "eoLifeExternalAnnouncementDate": "2019-02-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-01-15T00:00:00Z",
+            "eoSaleDate": "2020-02-14T00:00:00Z",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-02-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-14T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1613174400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 452563,
+            "bulletinNumber": "EOL12712",
+            "bulletinProductId": "UCSC-MLOM-C10T-02=",
+            "bulletinTitle": "Select Unified Computing Systems Accessories Spares",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-742012.html",
+            "publishedDate": "2019-02-14T16:25:43",
+            "eoLifeExternalAnnouncementDate": "2019-02-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-01-15T00:00:00Z",
+            "eoSaleDate": "2020-02-14T00:00:00Z",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-02-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-14T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1613174400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 452564,
+            "bulletinNumber": "EOL12712",
+            "bulletinProductId": "UCSC-MLOM-CSC-02=",
+            "bulletinTitle": "Select Unified Computing Systems Accessories Spares",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-742012.html",
+            "publishedDate": "2019-02-14T16:25:43",
+            "eoLifeExternalAnnouncementDate": "2019-02-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-01-15T00:00:00Z",
+            "eoSaleDate": "2020-02-14T00:00:00Z",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-02-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-14T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1613174400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 452582,
+            "bulletinNumber": "EOL12712",
+            "bulletinProductId": "UCSC-PCI-1A-240M4=",
+            "bulletinTitle": "Select Unified Computing Systems Accessories Spares",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-742012.html",
+            "publishedDate": "2019-02-14T16:25:43",
+            "eoLifeExternalAnnouncementDate": "2019-02-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-01-15T00:00:00Z",
+            "eoSaleDate": "2020-02-14T00:00:00Z",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-02-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-14T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1613174400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 452583,
+            "bulletinNumber": "EOL12712",
+            "bulletinProductId": "UCSC-PCI-1B-240M4=",
+            "bulletinTitle": "Select Unified Computing Systems Accessories Spares",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-742012.html",
+            "publishedDate": "2019-02-14T16:25:43",
+            "eoLifeExternalAnnouncementDate": "2019-02-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-01-15T00:00:00Z",
+            "eoSaleDate": "2020-02-14T00:00:00Z",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-02-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-14T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1613174400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 452584,
+            "bulletinNumber": "EOL12712",
+            "bulletinProductId": "UCSC-PCI-1C-240M4=",
+            "bulletinTitle": "Select Unified Computing Systems Accessories Spares",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-742012.html",
+            "publishedDate": "2019-02-14T16:25:43",
+            "eoLifeExternalAnnouncementDate": "2019-02-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-01-15T00:00:00Z",
+            "eoSaleDate": "2020-02-14T00:00:00Z",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-02-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-14T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1613174400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 452585,
+            "bulletinNumber": "EOL12712",
+            "bulletinProductId": "UCSC-PCI-2-C240M4=",
+            "bulletinTitle": "Select Unified Computing Systems Accessories Spares",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-742012.html",
+            "publishedDate": "2019-02-14T16:25:43",
+            "eoLifeExternalAnnouncementDate": "2019-02-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-01-15T00:00:00Z",
+            "eoSaleDate": "2020-02-14T00:00:00Z",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-02-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-14T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1613174400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 452594,
+            "bulletinNumber": "EOL12712",
+            "bulletinProductId": "UCSC-PCIE-C10T-02=",
+            "bulletinTitle": "Select Unified Computing Systems Accessories Spares",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-742012.html",
+            "publishedDate": "2019-02-14T16:25:43",
+            "eoLifeExternalAnnouncementDate": "2019-02-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-01-15T00:00:00Z",
+            "eoSaleDate": "2020-02-14T00:00:00Z",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-02-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-14T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1613174400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 452595,
+            "bulletinNumber": "EOL12712",
+            "bulletinProductId": "UCSC-PCIE-C40Q-02=",
+            "bulletinTitle": "Select Unified Computing Systems Accessories Spares",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-742012.html",
+            "publishedDate": "2019-02-14T16:25:43",
+            "eoLifeExternalAnnouncementDate": "2019-02-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-01-15T00:00:00Z",
+            "eoSaleDate": "2020-02-14T00:00:00Z",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-02-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-14T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1613174400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 452596,
+            "bulletinNumber": "EOL12712",
+            "bulletinProductId": "UCSC-PCIE-CSC-02=",
+            "bulletinTitle": "Select Unified Computing Systems Accessories Spares",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-742012.html",
+            "publishedDate": "2019-02-14T16:25:43",
+            "eoLifeExternalAnnouncementDate": "2019-02-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-01-15T00:00:00Z",
+            "eoSaleDate": "2020-02-14T00:00:00Z",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-02-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-14T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1613174400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 452601,
+            "bulletinNumber": "EOL12712",
+            "bulletinProductId": "UCSC-PCIE-E16002=",
+            "bulletinTitle": "Select Unified Computing Systems Accessories Spares",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-742012.html",
+            "publishedDate": "2019-02-14T16:25:43",
+            "eoLifeExternalAnnouncementDate": "2019-02-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-01-15T00:00:00Z",
+            "eoSaleDate": "2020-02-14T00:00:00Z",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-05-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-02-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-02-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-14T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581638400000",
+                    "nextHwEolMilestone": "1613174400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442950,
+            "bulletinNumber": "EOL12714",
+            "bulletinProductId": "UCSC-PSU-930WDC",
+            "bulletinTitle": "Select Unified Computing Systems Products",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-741232.html",
+            "publishedDate": "2018-12-19T14:27:09",
+            "eoLifeExternalAnnouncementDate": "2018-08-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoSaleDate": "2018-11-15T00:00:00Z",
+            "lastDateOfSupport": "2023-11-30T00:00:00Z",
+            "lastShipDate": "2019-02-13T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2019-11-15T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2019-11-15T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2020-11-14T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-02-10T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1573776000000",
+                    "nextHwEolMilestone": "1675987200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442975,
+            "bulletinNumber": "EOL12729",
+            "bulletinProductId": "APIC-EM-APL-G-K9",
+            "bulletinTitle": "APIC-EM Hardware Appliance",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/cloud-systems-management/application-policy-infrastructure-controller-enterprise-module/eos-eol-notice-c51-741252.html",
+            "publishedDate": "2018-08-17T12:47:51",
+            "eoLifeExternalAnnouncementDate": "2018-08-17T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-18T00:00:00Z",
+            "eoSaleDate": "2019-02-15T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-16T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-15T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-15T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2021-02-14T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-13T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-14T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581724800000",
+                    "nextHwEolMilestone": "1644796800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 442977,
+            "bulletinNumber": "EOL12729",
+            "bulletinProductId": "APIC-EM-APL-R-K9",
+            "bulletinTitle": "APIC-EM Hardware Appliance",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/cloud-systems-management/application-policy-infrastructure-controller-enterprise-module/eos-eol-notice-c51-741252.html",
+            "publishedDate": "2018-08-17T12:47:51",
+            "eoLifeExternalAnnouncementDate": "2018-08-17T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-18T00:00:00Z",
+            "eoSaleDate": "2019-02-15T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-16T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-15T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-15T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2021-02-14T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-13T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-14T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581724800000",
+                    "nextHwEolMilestone": "1644796800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 444096,
+            "bulletinNumber": "EOL12736",
+            "bulletinProductId": "N9K-C9332PQ",
+            "bulletinTitle": "Nexus N9K-C9336PQ and N9K-C9332PQ Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/eos-eol-notice-c51-741302.html",
+            "publishedDate": "2018-10-23T07:43:26",
+            "eoLifeExternalAnnouncementDate": "2018-09-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-05T00:00:00Z",
+            "eoSaleDate": "2019-03-05T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-03T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-03-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-31T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-03-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1583280000000",
+                    "nextHwEolMilestone": "1646352000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 444100,
+            "bulletinNumber": "EOL12736",
+            "bulletinProductId": "N9K-C9336PQ",
+            "bulletinTitle": "Nexus N9K-C9336PQ and N9K-C9332PQ Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/eos-eol-notice-c51-741302.html",
+            "publishedDate": "2018-10-23T07:43:26",
+            "eoLifeExternalAnnouncementDate": "2018-09-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-05T00:00:00Z",
+            "eoSaleDate": "2019-03-05T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-03T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-03-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-31T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-03-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1583280000000",
+                    "nextHwEolMilestone": "1646352000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447161,
+            "bulletinNumber": "EOL12744",
+            "bulletinProductId": "CPS-UCSM4-2RU-K9",
+            "bulletinTitle": "M4 based CPS Appliances",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/physical-security/video-surveillance-manager/eos-eol-notice-c51-741569.html",
+            "publishedDate": "2018-10-30T16:10:26",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1690329600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446312,
+            "bulletinNumber": "EOL12745",
+            "bulletinProductId": "CTS-MXCODEC",
+            "bulletinTitle": "Cisco Telepresence MX700D, MX800S and MX800D",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/collaboration-endpoints/telepresence-mx-series/eos-eol-notice-c51-741439.html",
+            "publishedDate": "2018-12-06T12:28:53",
+            "eoLifeExternalAnnouncementDate": "2018-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-01T00:00:00Z",
+            "eoSaleDate": "2019-04-01T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-03-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-03-31T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1585612800000",
+                    "nextHwEolMilestone": "1648684800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447163,
+            "bulletinNumber": "EOL12754",
+            "bulletinProductId": "FAN-MOD-4HS",
+            "bulletinTitle": "Catalyst 6503-E, Catalyst 6504-E chassis, 4000W DC, 6000W DC Power Supplies ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-741568.html",
+            "publishedDate": "2018-10-30T16:08:24",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447172,
+            "bulletinNumber": "EOL12754",
+            "bulletinProductId": "PEM-20A-AC+",
+            "bulletinTitle": "Catalyst 6503-E, Catalyst 6504-E chassis, 4000W DC, 6000W DC Power Supplies ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-741568.html",
+            "publishedDate": "2018-10-30T16:08:24",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447176,
+            "bulletinNumber": "EOL12754",
+            "bulletinProductId": "PWR-1400-AC",
+            "bulletinTitle": "Catalyst 6503-E, Catalyst 6504-E chassis, 4000W DC, 6000W DC Power Supplies ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-741568.html",
+            "publishedDate": "2018-10-30T16:08:24",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447180,
+            "bulletinNumber": "EOL12754",
+            "bulletinProductId": "PWR-2700-AC/4",
+            "bulletinTitle": "Catalyst 6503-E, Catalyst 6504-E chassis, 4000W DC, 6000W DC Power Supplies ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-741568.html",
+            "publishedDate": "2018-10-30T16:08:24",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447185,
+            "bulletinNumber": "EOL12754",
+            "bulletinProductId": "PWR-2700-DC/4",
+            "bulletinTitle": "Catalyst 6503-E, Catalyst 6504-E chassis, 4000W DC, 6000W DC Power Supplies ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-741568.html",
+            "publishedDate": "2018-10-30T16:08:24",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447188,
+            "bulletinNumber": "EOL12754",
+            "bulletinProductId": "PWR-4000-DC",
+            "bulletinTitle": "Catalyst 6503-E, Catalyst 6504-E chassis, 4000W DC, 6000W DC Power Supplies ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-741568.html",
+            "publishedDate": "2018-10-30T16:08:24",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447192,
+            "bulletinNumber": "EOL12754",
+            "bulletinProductId": "PWR-6000-DC",
+            "bulletinTitle": "Catalyst 6503-E, Catalyst 6504-E chassis, 4000W DC, 6000W DC Power Supplies ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-741568.html",
+            "publishedDate": "2018-10-30T16:08:24",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447202,
+            "bulletinNumber": "EOL12754",
+            "bulletinProductId": "WS-C6503-E",
+            "bulletinTitle": "Catalyst 6503-E, Catalyst 6504-E chassis, 4000W DC, 6000W DC Power Supplies ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-741568.html",
+            "publishedDate": "2018-10-30T16:08:24",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447203,
+            "bulletinNumber": "EOL12754",
+            "bulletinProductId": "WS-C6503-E-FAN",
+            "bulletinTitle": "Catalyst 6503-E, Catalyst 6504-E chassis, 4000W DC, 6000W DC Power Supplies ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-741568.html",
+            "publishedDate": "2018-10-30T16:08:24",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447210,
+            "bulletinNumber": "EOL12754",
+            "bulletinProductId": "WS-C6504-E",
+            "bulletinTitle": "Catalyst 6503-E, Catalyst 6504-E chassis, 4000W DC, 6000W DC Power Supplies ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-741568.html",
+            "publishedDate": "2018-10-30T16:08:24",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446185,
+            "bulletinNumber": "EOL12755",
+            "bulletinProductId": "WAP131-A-K9-NA",
+            "bulletinTitle": "Cisco WAP131 Wireless-N Dual Radio Access Point with PoE",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/small-business-wireless-access-points/eos-eol-notice-c51-741422.html",
+            "publishedDate": "2018-10-01T17:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-31T00:00:00Z",
+            "eoSaleDate": "2018-12-30T00:00:00Z",
+            "lastDateOfSupport": "2023-12-31T00:00:00Z",
+            "lastShipDate": "2019-03-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-12-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-12-30T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577664000000",
+                    "nextHwEolMilestone": "1703980800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446187,
+            "bulletinNumber": "EOL12755",
+            "bulletinProductId": "WAP131-C-K9-CN",
+            "bulletinTitle": "Cisco WAP131 Wireless-N Dual Radio Access Point with PoE",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/small-business-wireless-access-points/eos-eol-notice-c51-741422.html",
+            "publishedDate": "2018-10-01T17:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-31T00:00:00Z",
+            "eoSaleDate": "2018-12-30T00:00:00Z",
+            "lastDateOfSupport": "2023-12-31T00:00:00Z",
+            "lastShipDate": "2019-03-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-12-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-12-30T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577664000000",
+                    "nextHwEolMilestone": "1703980800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446194,
+            "bulletinNumber": "EOL12755",
+            "bulletinProductId": "WAP131-E-K9-EU",
+            "bulletinTitle": "Cisco WAP131 Wireless-N Dual Radio Access Point with PoE",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/small-business-wireless-access-points/eos-eol-notice-c51-741422.html",
+            "publishedDate": "2018-10-01T17:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-31T00:00:00Z",
+            "eoSaleDate": "2018-12-30T00:00:00Z",
+            "lastDateOfSupport": "2023-12-31T00:00:00Z",
+            "lastShipDate": "2019-03-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-12-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-12-30T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577664000000",
+                    "nextHwEolMilestone": "1703980800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446068,
+            "bulletinNumber": "EOL12768",
+            "bulletinProductId": "C819G-4G-GA-K9",
+            "bulletinTitle": "819, 881, 887, 896, 897 and 899  4G LTE Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741424.html",
+            "publishedDate": "2019-03-26T17:44:17",
+            "eoLifeExternalAnnouncementDate": "2018-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-26T00:00:00Z",
+            "eoSaleDate": "2019-07-29T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-27T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-25T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-24T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595980800000",
+                    "nextHwEolMilestone": "1659052800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446071,
+            "bulletinNumber": "EOL12768",
+            "bulletinProductId": "C819G-4G-NA-K9",
+            "bulletinTitle": "819, 881, 887, 896, 897 and 899  4G LTE Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741424.html",
+            "publishedDate": "2019-03-26T17:44:17",
+            "eoLifeExternalAnnouncementDate": "2018-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-26T00:00:00Z",
+            "eoSaleDate": "2019-07-29T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-27T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-25T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-24T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595980800000",
+                    "nextHwEolMilestone": "1659052800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446075,
+            "bulletinNumber": "EOL12768",
+            "bulletinProductId": "C819G-4G-VZ-K9",
+            "bulletinTitle": "819, 881, 887, 896, 897 and 899  4G LTE Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741424.html",
+            "publishedDate": "2019-03-26T17:44:17",
+            "eoLifeExternalAnnouncementDate": "2018-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-26T00:00:00Z",
+            "eoSaleDate": "2019-07-29T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-27T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-25T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-24T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595980800000",
+                    "nextHwEolMilestone": "1659052800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446076,
+            "bulletinNumber": "EOL12768",
+            "bulletinProductId": "C819G-LTE-MNA-K9",
+            "bulletinTitle": "819, 881, 887, 896, 897 and 899  4G LTE Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741424.html",
+            "publishedDate": "2019-03-26T17:44:17",
+            "eoLifeExternalAnnouncementDate": "2018-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-26T00:00:00Z",
+            "eoSaleDate": "2019-07-29T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-27T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-25T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-24T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595980800000",
+                    "nextHwEolMilestone": "1659052800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446079,
+            "bulletinNumber": "EOL12768",
+            "bulletinProductId": "C881G-4G-GA-K9",
+            "bulletinTitle": "819, 881, 887, 896, 897 and 899  4G LTE Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741424.html",
+            "publishedDate": "2019-03-26T17:44:17",
+            "eoLifeExternalAnnouncementDate": "2018-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-26T00:00:00Z",
+            "eoSaleDate": "2019-07-29T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-27T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-25T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-24T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595980800000",
+                    "nextHwEolMilestone": "1659052800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446082,
+            "bulletinNumber": "EOL12768",
+            "bulletinProductId": "C887VAG-4G-GA-K9",
+            "bulletinTitle": "819, 881, 887, 896, 897 and 899  4G LTE Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741424.html",
+            "publishedDate": "2019-03-26T17:44:17",
+            "eoLifeExternalAnnouncementDate": "2018-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-26T00:00:00Z",
+            "eoSaleDate": "2019-07-29T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-27T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-25T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-24T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595980800000",
+                    "nextHwEolMilestone": "1659052800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446099,
+            "bulletinNumber": "EOL12768",
+            "bulletinProductId": "C897VAG-LTE-GA-K9",
+            "bulletinTitle": "819, 881, 887, 896, 897 and 899  4G LTE Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741424.html",
+            "publishedDate": "2019-03-26T17:44:17",
+            "eoLifeExternalAnnouncementDate": "2018-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-26T00:00:00Z",
+            "eoSaleDate": "2019-07-29T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-27T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-25T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-24T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595980800000",
+                    "nextHwEolMilestone": "1659052800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446102,
+            "bulletinNumber": "EOL12768",
+            "bulletinProductId": "C897VAMG-LTE-GA-K9",
+            "bulletinTitle": "819, 881, 887, 896, 897 and 899  4G LTE Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741424.html",
+            "publishedDate": "2019-03-26T17:44:17",
+            "eoLifeExternalAnnouncementDate": "2018-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-26T00:00:00Z",
+            "eoSaleDate": "2019-07-29T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-27T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-25T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-24T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595980800000",
+                    "nextHwEolMilestone": "1659052800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446105,
+            "bulletinNumber": "EOL12768",
+            "bulletinProductId": "C899G-LTE-GA-K9",
+            "bulletinTitle": "819, 881, 887, 896, 897 and 899  4G LTE Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741424.html",
+            "publishedDate": "2019-03-26T17:44:17",
+            "eoLifeExternalAnnouncementDate": "2018-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-26T00:00:00Z",
+            "eoSaleDate": "2019-07-29T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-27T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-25T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-24T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595980800000",
+                    "nextHwEolMilestone": "1659052800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446108,
+            "bulletinNumber": "EOL12768",
+            "bulletinProductId": "C899G-LTE-NA-K9",
+            "bulletinTitle": "819, 881, 887, 896, 897 and 899  4G LTE Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741424.html",
+            "publishedDate": "2019-03-26T17:44:17",
+            "eoLifeExternalAnnouncementDate": "2018-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-26T00:00:00Z",
+            "eoSaleDate": "2019-07-29T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-27T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-25T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-24T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595980800000",
+                    "nextHwEolMilestone": "1659052800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446112,
+            "bulletinNumber": "EOL12768",
+            "bulletinProductId": "C899G-LTE-VZ-K9",
+            "bulletinTitle": "819, 881, 887, 896, 897 and 899  4G LTE Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741424.html",
+            "publishedDate": "2019-03-26T17:44:17",
+            "eoLifeExternalAnnouncementDate": "2018-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-26T00:00:00Z",
+            "eoSaleDate": "2019-07-29T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-27T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-25T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-24T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595980800000",
+                    "nextHwEolMilestone": "1659052800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 445450,
+            "bulletinNumber": "EOL12776",
+            "bulletinProductId": "Z1-HW-US",
+            "bulletinTitle": "Meraki Z1 Cloud Managed Teleworker Gateway",
+            "URL": null,
+            "publishedDate": null,
+            "eoLifeExternalAnnouncementDate": "2018-04-27T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-28T00:00:00Z",
+            "eoSaleDate": "2018-10-26T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-24T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2019-10-26T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2019-10-26T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2020-10-25T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-01-21T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572048000000",
+                    "nextHwEolMilestone": "1674259200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446085,
+            "bulletinNumber": "EOL12789",
+            "bulletinProductId": "C896VA-K9",
+            "bulletinTitle": "End of Sale and End of Life Announcement of 896 and 897 VDSL2/ADSL2+ Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741425.html",
+            "publishedDate": "2019-07-30T11:43:22",
+            "eoLifeExternalAnnouncementDate": "2018-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-23T00:00:00Z",
+            "eoSaleDate": "2019-07-29T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-27T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-28T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-22T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-24T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-28T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595894400000",
+                    "nextHwEolMilestone": "1658966400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446090,
+            "bulletinNumber": "EOL12789",
+            "bulletinProductId": "C897VA-K9",
+            "bulletinTitle": "End of Sale and End of Life Announcement of 896 and 897 VDSL2/ADSL2+ Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741425.html",
+            "publishedDate": "2019-07-30T11:43:22",
+            "eoLifeExternalAnnouncementDate": "2018-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-23T00:00:00Z",
+            "eoSaleDate": "2019-07-29T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-27T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-28T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-22T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-24T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-28T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595894400000",
+                    "nextHwEolMilestone": "1658966400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 446093,
+            "bulletinNumber": "EOL12789",
+            "bulletinProductId": "C897VA-M-K9",
+            "bulletinTitle": "End of Sale and End of Life Announcement of 896 and 897 VDSL2/ADSL2+ Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741425.html",
+            "publishedDate": "2019-07-30T11:43:22",
+            "eoLifeExternalAnnouncementDate": "2018-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-23T00:00:00Z",
+            "eoSaleDate": "2019-07-29T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-27T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-28T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-22T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-24T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-28T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595894400000",
+                    "nextHwEolMilestone": "1658966400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447234,
+            "bulletinNumber": "EOL12792",
+            "bulletinProductId": "AIR-AP1810W-E-K9",
+            "bulletinTitle": "Cisco Aironet 1810 Series Indoor Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1810w-series-access-points/eos-eol-notice-c51-741565.html",
+            "publishedDate": "2018-11-14T13:54:46",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-10-30T00:00:00Z",
+            "lastDateOfSupport": "2024-10-31T00:00:00Z",
+            "lastShipDate": "2020-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-10-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-10-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-10-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-10-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-10-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1603929600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447241,
+            "bulletinNumber": "EOL12792",
+            "bulletinProductId": "AIR-AP1810W-H-K9",
+            "bulletinTitle": "Cisco Aironet 1810 Series Indoor Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1810w-series-access-points/eos-eol-notice-c51-741565.html",
+            "publishedDate": "2018-11-14T13:54:46",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-10-30T00:00:00Z",
+            "lastDateOfSupport": "2024-10-31T00:00:00Z",
+            "lastShipDate": "2020-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-10-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-10-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-10-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-10-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-10-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1603929600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447261,
+            "bulletinNumber": "EOL12792",
+            "bulletinProductId": "AIR-AP1810W-Z-K9",
+            "bulletinTitle": "Cisco Aironet 1810 Series Indoor Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1810w-series-access-points/eos-eol-notice-c51-741565.html",
+            "publishedDate": "2018-11-14T13:54:46",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-10-30T00:00:00Z",
+            "lastDateOfSupport": "2024-10-31T00:00:00Z",
+            "lastShipDate": "2020-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-10-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-10-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-10-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-10-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-10-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1603929600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447265,
+            "bulletinNumber": "EOL12792",
+            "bulletinProductId": "AIR-OEAP1810-B-K9",
+            "bulletinTitle": "Cisco Aironet 1810 Series Indoor Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1810w-series-access-points/eos-eol-notice-c51-741565.html",
+            "publishedDate": "2018-11-14T13:54:46",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-10-30T00:00:00Z",
+            "lastDateOfSupport": "2024-10-31T00:00:00Z",
+            "lastShipDate": "2020-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-10-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-10-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-10-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-10-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-10-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1603929600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447277,
+            "bulletinNumber": "EOL12792",
+            "bulletinProductId": "AIR-OEAP1810-S-K9",
+            "bulletinTitle": "Cisco Aironet 1810 Series Indoor Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1810w-series-access-points/eos-eol-notice-c51-741565.html",
+            "publishedDate": "2018-11-14T13:54:46",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-10-30T00:00:00Z",
+            "lastDateOfSupport": "2024-10-31T00:00:00Z",
+            "lastShipDate": "2020-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-10-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-10-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-10-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-10-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-10-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1603929600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447220,
+            "bulletinNumber": "EOL12792",
+            "bulletinProductId": "AIR-AP1810W-A-K9",
+            "bulletinTitle": "Cisco Aironet 1810 Series Indoor Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1810w-series-access-points/eos-eol-notice-c51-741565.html",
+            "publishedDate": "2018-11-14T13:54:46",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-10-30T00:00:00Z",
+            "lastDateOfSupport": "2024-10-31T00:00:00Z",
+            "lastShipDate": "2020-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-10-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-10-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-10-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-10-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-10-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1603929600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447223,
+            "bulletinNumber": "EOL12792",
+            "bulletinProductId": "AIR-AP1810W-B-K9",
+            "bulletinTitle": "Cisco Aironet 1810 Series Indoor Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1810w-series-access-points/eos-eol-notice-c51-741565.html",
+            "publishedDate": "2018-11-14T13:54:46",
+            "eoLifeExternalAnnouncementDate": "2018-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoSaleDate": "2019-10-30T00:00:00Z",
+            "lastDateOfSupport": "2024-10-31T00:00:00Z",
+            "lastShipDate": "2020-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-10-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-10-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-10-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-10-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-10-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1603929600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        }
+    ],
+    "Pagination": {
+        "page": 13,
+        "pages": 23,
+        "rows": 100,
+        "total": 2230
+    }
+}

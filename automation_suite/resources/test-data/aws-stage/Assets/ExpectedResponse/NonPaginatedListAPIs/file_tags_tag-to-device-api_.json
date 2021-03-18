@@ -1,0 +1,148 @@
+{
+    "customerId": "L90K7FRM1GsBo2",
+    "tags": [
+        {
+            "tagName": "core",
+            "tagValue": "b2f2c466-f793-4aa9-917d-73be75afb2b2",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "devices": [
+                "NA,FOC2139U170,WS-C3850-24XU-E,NA"
+            ],
+            "deviceCount": 1
+        },
+        {
+            "tagName": "Point of Sale Switches",
+            "tagValue": "ce0fb0ae-52d6-4135-a0e7-da06108bbe77",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "devices": [
+                "NA,FDO1852E263,WS-C3650-24PD-E,NA"
+            ],
+            "deviceCount": 1
+        },
+        {
+            "tagName": "oneWLC",
+            "tagValue": "2ccea5ba-d9de-4e7d-832c-22734d6fe2e5",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "devices": [
+                "NA,FCH2034V4F2,AIR-CT5520-K9,NA"
+            ],
+            "deviceCount": 1
+        },
+        {
+            "tagName": "test123456",
+            "tagValue": "cec926ea-314d-4b02-b474-346460f9069a",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "devices": [
+                "NA,FCW2139F0XF,WS-C3850-24XU-E,NA"
+            ],
+            "deviceCount": 1
+        },
+        {
+            "tagName": "CP_TEST",
+            "tagValue": "a3de19e9-7e0f-4722-851f-4ef0a9fa5679",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "devices": [
+                "NA,FCH2034V4F2,AIR-CT5520-K9,NA",
+                "NA,FCW1826L03L,AIR-CT5508-K9,NA",
+                "10.19.219.86,FGL2328LEA4,C9120AXI-B,NA",
+                "NA,91M8S6MDXFD,C9800-CL-K9,NA",
+                "NA,FOC1727V051,AIR-CT5760,NA"
+            ],
+            "deviceCount": 5
+        },
+        {
+            "tagName": "CP_Switch",
+            "tagValue": "0d98edbe-d868-4b50-b3a0-55094d65ce3b",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "devices": [
+                "NA,FOC1645V0E6,WS-C3850-48P-E,NA",
+                "NA,FCW2146L0A3,C9300-48UXM,NA",
+                "NA,SMC1803008B,C6807-XL,NA"
+            ],
+            "deviceCount": 3
+        },
+        {
+            "tagName": "access",
+            "tagValue": "57d703c4-e6a0-4578-8bc6-ed1df779f14d",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "devices": [
+                "NA,FCW2139F0XF,WS-C3850-24XU-E,NA"
+            ],
+            "deviceCount": 1
+        },
+        {
+            "tagName": "CP_Routers",
+            "tagValue": "5357c9e2-61a8-4146-a452-46066df6c0c6",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "devices": [
+                "NA,FOX2008GBAT,ASR1002-X,NA"
+            ],
+            "deviceCount": 1
+        },
+        {
+            "tagName": "WIRELESS",
+            "tagValue": "286add68-0a2a-3911-ba31-4b966dc0572e",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "devices": [
+                "NA,FCL23450102,C9800-L-F-K9,NA",
+                "NA,FCH2349L0EZ,C1-AIR-CT5520-K9,NA"
+            ],
+            "deviceCount": 2
+        },
+        {
+            "tagName": "test123",
+            "tagValue": "a441f954-8e82-45f2-ab97-30b39a3c656d",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "devices": [
+                "NA,FTX1751AKQZ,ISR4451-X/K9,NA",
+                "NA,FJC2139D179,ISR4431/K9,NA",
+                "NA,FJC2140D042,ISR4451-X/K9,NA",
+                "NA,FXS2130Q70V,ASR1001-X,NA"
+            ],
+            "deviceCount": 4
+        },
+        {
+            "tagName": "two WLC",
+            "tagValue": "fa5423c3-7213-4dbd-a17a-a4803157f5eb",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "devices": [
+                "NA,FCH2034V4F2,AIR-CT5520-K9,NA",
+                "NA,FCW1826L03L,AIR-CT5508-K9,NA"
+            ],
+            "deviceCount": 2
+        }
+    ]
+}

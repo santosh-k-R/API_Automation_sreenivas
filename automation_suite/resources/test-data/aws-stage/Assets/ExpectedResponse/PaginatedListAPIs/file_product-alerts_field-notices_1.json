@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "hwInstanceId": "FCW1828L038,AIR-CT5508-K9,NA,FCW1828L038,AIR-CT5508-K9,NA,NA",
+            "neInstanceId": "NA,FCW1828L038,AIR-CT5508-K9,NA",
+            "serialNumber": "FCW1828L038",
+            "productId": "AIR-CT5508-K9",
+            "productFamily": "Cisco 5500 Series Wireless Controllers",
+            "equipmentType": "CHASSIS",
+            "swType": "AireOS",
+            "swVersion": "7.4.121.0",
+            "fieldNoticeId": 63942,
+            "vulnerabilityStatus": "VUL",
+            "vulnerabilityReason": "Match on OS,SW Version",
+            "caveat": "",
+            "distributionCode": "E",
+            "hostname": "NYC-WLC5508",
+            "ipAddress": "10.16.200.1",
+            "cxLevel": "2",
+            "productType": "Wireless"
+        },
+        {
+            "hwInstanceId": "FDO1852E25Z,WS-C3650-24PD-E,NA,FDO1852E25Z,WS-C3650-24PD-E,NA,NA",
+            "neInstanceId": "NA,FDO1852E25Z,WS-C3650-24PD-E,NA",
+            "serialNumber": "FDO1852E25Z",
+            "productId": "WS-C3650-24PD-E",
+            "productFamily": "Cisco Catalyst 3650 Series Switches",
+            "equipmentType": "CHASSIS",
+            "swType": "IOS-XE",
+            "swVersion": "3.6.6E",
+            "fieldNoticeId": 64190,
+            "vulnerabilityStatus": "VUL",
+            "vulnerabilityReason": "Match on OS,SW Version",
+            "caveat": "Manual verification of software version is required.",
+            "distributionCode": "E",
+            "hostname": "TEST-SW3650.cisco.com",
+            "ipAddress": "10.8.19.1",
+            "cxLevel": "2",
+            "productType": "Switches"
+        }
+    ],
+    "Pagination": {
+        "page": 1,
+        "pages": 1,
+        "rows": 100,
+        "total": 2
+    }
+}

@@ -1,0 +1,3310 @@
+{
+    "data": [
+        {
+            "hwEolInstanceId": 205293,
+            "bulletinNumber": "1009",
+            "bulletinProductId": "IGX-UXM",
+            "bulletinTitle": "Cisco UXM Module for IGX 8400 ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps988/prod_bulletin09186a00800922c7.html",
+            "publishedDate": "2008-04-25T18:01:24",
+            "eoLifeExternalAnnouncementDate": "1999-12-22T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "1999-11-10T00:00:00Z",
+            "eoSaleDate": "2000-06-21T00:00:00Z",
+            "lastDateOfSupport": "2005-06-20T00:00:00Z",
+            "lastShipDate": "2000-09-19T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2001-06-21T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2001-06-21T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2001-06-21T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2002-06-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2004-09-16T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1119225600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 167953,
+            "bulletinNumber": "1107",
+            "bulletinProductId": "NP-1RV2",
+            "bulletinTitle": "Cisco 4500/4500-M and 4700/4700-M Series End of Sales, No. 1107",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps5199/prod_eol_notice09186a008032d40e.html",
+            "publishedDate": "2007-03-05T16:13:23",
+            "eoLifeExternalAnnouncementDate": "2000-05-18T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2000-11-25T00:00:00Z",
+            "lastDateOfSupport": "2005-11-30T00:00:00Z",
+            "lastShipDate": "2000-11-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2001-11-25T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2004-11-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1133308800000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 167977,
+            "bulletinNumber": "1107",
+            "bulletinProductId": "NP-4T",
+            "bulletinTitle": "Cisco 4500/4500-M and 4700/4700-M Series End of Sales, No. 1107",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps5199/prod_eol_notice09186a008032d40e.html",
+            "publishedDate": "2007-03-05T16:13:23",
+            "eoLifeExternalAnnouncementDate": "2000-05-18T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2000-11-25T00:00:00Z",
+            "lastDateOfSupport": "2005-11-30T00:00:00Z",
+            "lastShipDate": "2000-11-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2001-11-25T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2004-11-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1133308800000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 167979,
+            "bulletinNumber": "1107",
+            "bulletinProductId": "NP-6E",
+            "bulletinTitle": "Cisco 4500/4500-M and 4700/4700-M Series End of Sales, No. 1107",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps5199/prod_eol_notice09186a008032d40e.html",
+            "publishedDate": "2007-03-05T16:13:23",
+            "eoLifeExternalAnnouncementDate": "2000-05-18T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2000-11-25T00:00:00Z",
+            "lastDateOfSupport": "2005-11-30T00:00:00Z",
+            "lastShipDate": "2000-11-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2001-11-25T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2004-11-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1133308800000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 167906,
+            "bulletinNumber": "1107",
+            "bulletinProductId": "CISCO4500-M",
+            "bulletinTitle": "Cisco 4500/4500-M and 4700/4700-M Series End of Sales, No. 1107",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps5199/prod_eol_notice09186a008032d40e.html",
+            "publishedDate": "2007-03-05T16:13:23",
+            "eoLifeExternalAnnouncementDate": "2000-05-18T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2000-11-25T00:00:00Z",
+            "lastDateOfSupport": "2005-11-30T00:00:00Z",
+            "lastShipDate": "2000-11-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2001-11-25T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2004-11-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1133308800000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 165734,
+            "bulletinNumber": "1107-1",
+            "bulletinProductId": "CISCO4700-M",
+            "bulletinTitle": "Cisco 4500/4500-M and 4700/4700-M Series End of Sales, No. 1107",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps5199/prod_eol_notice09186a008032d40e.html",
+            "publishedDate": "2007-02-08T06:36:31",
+            "eoLifeExternalAnnouncementDate": "2000-05-18T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2000-11-25T00:00:00Z",
+            "lastDateOfSupport": "2006-06-30T00:00:00Z",
+            "lastShipDate": "2000-11-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2001-11-25T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2004-11-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1151625600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 171603,
+            "bulletinNumber": "1147",
+            "bulletinProductId": "WS-C2912-XL-A",
+            "bulletinTitle": "Catalyst 2900 XL 3500 XL Std. Edition End-of-Life, No. 1147",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps637/prod_eol_notice09186a008032d451.html",
+            "publishedDate": "2009-03-24T16:19:48",
+            "eoLifeExternalAnnouncementDate": "2000-08-02T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2000-05-30T00:00:00Z",
+            "lastDateOfSupport": "2005-05-30T00:00:00Z",
+            "lastShipDate": "2000-06-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2001-05-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1117411200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 171605,
+            "bulletinNumber": "1147",
+            "bulletinProductId": "WS-C2924-XL-A",
+            "bulletinTitle": "Catalyst 2900 XL 3500 XL Std. Edition End-of-Life, No. 1147",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps637/prod_eol_notice09186a008032d451.html",
+            "publishedDate": "2009-03-24T16:19:48",
+            "eoLifeExternalAnnouncementDate": "2000-08-02T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2000-05-30T00:00:00Z",
+            "lastDateOfSupport": "2000-06-30T00:00:00Z",
+            "lastShipDate": "2000-06-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2001-05-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1117411200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 171614,
+            "bulletinNumber": "1147",
+            "bulletinProductId": "WS-C3524-XL-A",
+            "bulletinTitle": "Catalyst 2900 XL 3500 XL Std. Edition End-of-Life, No. 1147",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps637/prod_eol_notice09186a008032d451.html",
+            "publishedDate": "2009-03-24T16:19:48",
+            "eoLifeExternalAnnouncementDate": "2000-08-02T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2000-05-30T00:00:00Z",
+            "lastDateOfSupport": "2000-06-30T00:00:00Z",
+            "lastShipDate": "2000-06-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2001-05-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1117411200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 171615,
+            "bulletinNumber": "1147",
+            "bulletinProductId": "WS-C3548-XL-A",
+            "bulletinTitle": "Catalyst 2900 XL 3500 XL Std. Edition End-of-Life, No. 1147",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps637/prod_eol_notice09186a008032d451.html",
+            "publishedDate": "2009-03-24T16:19:48",
+            "eoLifeExternalAnnouncementDate": "2000-08-02T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2000-05-30T00:00:00Z",
+            "lastDateOfSupport": "2000-06-30T00:00:00Z",
+            "lastShipDate": "2000-06-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2001-05-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1117411200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 20628,
+            "bulletinNumber": "1162",
+            "bulletinProductId": "8FE-TX-RJ45",
+            "bulletinTitle": "8FE-FX-SC and 8FE-TX-RJ45 EOL Bulletin",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps167/prod_eol_notice09186a008032d7cc.html",
+            "publishedDate": "2008-07-22T16:56:31",
+            "eoLifeExternalAnnouncementDate": "2001-03-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2001-02-01T00:00:00Z",
+            "lastDateOfSupport": "2005-12-01T00:00:00Z",
+            "lastShipDate": null,
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2002-02-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1133395200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 26853,
+            "bulletinNumber": "1165",
+            "bulletinProductId": "CISCO7206",
+            "bulletinTitle": "Cisco NPE-200 and Cisco 7206 Chassis",
+            "URL": "http://www.cisco.com/en/US/prod/collateral/routers/ps341/prod_end-of-life_notice09186a008032d592.html",
+            "publishedDate": "2009-10-14T22:51:20",
+            "eoLifeExternalAnnouncementDate": "2002-01-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2001-11-20T00:00:00Z",
+            "eoSaleDate": "2002-07-02T00:00:00Z",
+            "lastDateOfSupport": "2007-07-01T00:00:00Z",
+            "lastShipDate": "2002-09-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2003-07-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2003-07-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2004-01-27T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2004-07-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2006-09-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1183248000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 167798,
+            "bulletinNumber": "1181",
+            "bulletinProductId": "WS-X5020",
+            "bulletinTitle": "Catalyst 5000 Modules",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps679/prod_eol_notice09186a008032d578.html",
+            "publishedDate": "2009-01-29T10:46:02",
+            "eoLifeExternalAnnouncementDate": "2000-09-06T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2000-07-26T00:00:00Z",
+            "eoSaleDate": "2001-03-07T00:00:00Z",
+            "lastDateOfSupport": "2006-03-06T00:00:00Z",
+            "lastShipDate": "2001-06-05T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2002-03-07T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2002-03-07T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2003-03-07T00:00:00Z",
+            "eoServiceContractRenewalDate": "2005-06-02T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1141603200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 167817,
+            "bulletinNumber": "1181",
+            "bulletinProductId": "WS-X5203",
+            "bulletinTitle": "Catalyst 5000 Modules",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps679/prod_eol_notice09186a008032d578.html",
+            "publishedDate": "2009-01-29T10:46:02",
+            "eoLifeExternalAnnouncementDate": "2000-09-06T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2000-07-26T00:00:00Z",
+            "eoSaleDate": "2001-03-07T00:00:00Z",
+            "lastDateOfSupport": "2006-03-06T00:00:00Z",
+            "lastShipDate": "2001-06-05T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2002-03-07T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2002-03-07T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2003-03-07T00:00:00Z",
+            "eoServiceContractRenewalDate": "2005-06-02T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1141603200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 42498,
+            "bulletinNumber": "1231",
+            "bulletinProductId": "RSP4",
+            "bulletinTitle": "Route Switch Processor 4+ and Route Switch Processor 4",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps359/prod_bulletin09186a00800886e1.html",
+            "publishedDate": "2009-01-28T10:42:18",
+            "eoLifeExternalAnnouncementDate": "2000-06-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2000-06-15T00:00:00Z",
+            "eoSaleDate": "2000-09-15T00:00:00Z",
+            "lastDateOfSupport": "2005-09-15T00:00:00Z",
+            "lastShipDate": null,
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2001-09-15T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2004-09-15T00:00:00Z",
+            "eoServiceContractRenewalDate": "2004-09-15T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1126742400000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 35688,
+            "bulletinNumber": "1235",
+            "bulletinProductId": "IGX-FRM-31",
+            "bulletinTitle": "Cisco IGX-NPM64,FRM,FRM-2,FRM-31,BC-550100-J1",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps988/prod_eol_notice09186a008032d42a.html",
+            "publishedDate": "2008-07-22T17:11:30",
+            "eoLifeExternalAnnouncementDate": "2001-05-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2001-05-30T00:00:00Z",
+            "lastDateOfSupport": "2006-05-30T00:00:00Z",
+            "lastShipDate": null,
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2002-05-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1148947200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 35831,
+            "bulletinNumber": "1235",
+            "bulletinProductId": "IGX-NPM-64",
+            "bulletinTitle": "Cisco IGX-NPM64,FRM,FRM-2,FRM-31,BC-550100-J1",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps988/prod_eol_notice09186a008032d42a.html",
+            "publishedDate": "2008-07-22T17:11:30",
+            "eoLifeExternalAnnouncementDate": "2001-05-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2001-05-30T00:00:00Z",
+            "lastDateOfSupport": "2006-05-30T00:00:00Z",
+            "lastShipDate": null,
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2002-05-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1148947200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 165589,
+            "bulletinNumber": "1271",
+            "bulletinProductId": "CISCO2503",
+            "bulletinTitle": "Cisco 2500",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps233/prod_eol_notice09186a008032d409.html",
+            "publishedDate": "2007-03-05T11:05:51",
+            "eoLifeExternalAnnouncementDate": "2001-05-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2001-04-19T00:00:00Z",
+            "eoSaleDate": "2001-05-31T00:00:00Z",
+            "lastDateOfSupport": "2006-06-01T00:00:00Z",
+            "lastShipDate": "2001-06-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2002-05-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2004-05-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1149120000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 167823,
+            "bulletinNumber": "1290",
+            "bulletinProductId": "WS-X5224",
+            "bulletinTitle": "Select Modules on Catalyst 5000",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps679/prod_eol_notice09186a008032d45e.html",
+            "publishedDate": "2008-09-11T15:29:22",
+            "eoLifeExternalAnnouncementDate": "2001-03-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2001-08-31T00:00:00Z",
+            "lastDateOfSupport": "2006-09-28T00:00:00Z",
+            "lastShipDate": "2001-09-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2002-08-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1159401600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 167842,
+            "bulletinNumber": "1290",
+            "bulletinProductId": "WS-X5509",
+            "bulletinTitle": "Select Modules on Catalyst 5000",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps679/prod_eol_notice09186a008032d45e.html",
+            "publishedDate": "2008-09-11T15:29:22",
+            "eoLifeExternalAnnouncementDate": "2001-03-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2001-08-31T00:00:00Z",
+            "lastDateOfSupport": "2006-09-28T00:00:00Z",
+            "lastShipDate": "2001-09-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2002-08-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1159401600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 35662,
+            "bulletinNumber": "1328",
+            "bulletinProductId": "IGX-CVM",
+            "bulletinTitle": "Cisco IGX-CVM Modules",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps988/prod_eol_notice09186a008032d42d.html",
+            "publishedDate": "2008-07-22T23:17:46",
+            "eoLifeExternalAnnouncementDate": "2001-04-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2001-03-05T00:00:00Z",
+            "eoSaleDate": "2001-10-15T00:00:00Z",
+            "lastDateOfSupport": "2006-10-14T00:00:00Z",
+            "lastShipDate": "2002-01-13T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2002-10-15T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2002-10-15T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2002-10-15T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2003-10-15T00:00:00Z",
+            "eoServiceContractRenewalDate": "2006-01-10T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1160784000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 166731,
+            "bulletinNumber": "1399A",
+            "bulletinProductId": "C7200-I/O-FE",
+            "bulletinTitle": "CISCO 7200 NPE-300 AND C7200-I/O-FE",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps341/prod_eol_notice0900aecd801bd0f7.html",
+            "publishedDate": "2009-08-14T17:41:28",
+            "eoLifeExternalAnnouncementDate": "2001-12-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2001-11-19T00:00:00Z",
+            "eoSaleDate": "2001-12-31T00:00:00Z",
+            "lastDateOfSupport": "2006-12-31T00:00:00Z",
+            "lastShipDate": "2002-03-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2003-07-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2004-12-28T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2006-09-30T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1167523200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 174024,
+            "bulletinNumber": "1421",
+            "bulletinProductId": "WS-C2924-XL-EN",
+            "bulletinTitle": "Cisco Catalyst 2900 Series XL Fixed-Configuration Switches",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps606/prod_eol_notice0900aecd805d2d54.html",
+            "publishedDate": "2009-03-25T19:17:43",
+            "eoLifeExternalAnnouncementDate": "2001-05-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2001-03-20T00:00:00Z",
+            "eoSaleDate": "2001-11-01T00:00:00Z",
+            "lastDateOfSupport": null,
+            "lastShipDate": null,
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2001-12-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": "2002-11-01T00:00:00Z",
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1162339200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 18460,
+            "bulletinNumber": "1548",
+            "bulletinProductId": "15454-SA-NEBS3E",
+            "bulletinTitle": "Cisco NEBS3E Shelf Assembly Cisco ONS 15454",
+            "URL": "http://www.cisco.com/en/US/products/hw/optical/ps2006/prod_eol_notice09186a008032d3fd.html",
+            "publishedDate": "2001-12-30T00:00:00",
+            "eoLifeExternalAnnouncementDate": "2001-12-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2001-12-30T00:00:00Z",
+            "lastDateOfSupport": "2007-01-15T00:00:00Z",
+            "lastShipDate": null,
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1168819200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 151741,
+            "bulletinNumber": "1656",
+            "bulletinProductId": "AS53-4CT1+",
+            "bulletinTitle": "Cisco AS5300 Access Server",
+            "URL": "http://www.cisco.com/en/US/products/hw/univgate/ps501/prod_eol_notice0900aecd8052854b.html",
+            "publishedDate": "2010-01-23T09:22:03",
+            "eoLifeExternalAnnouncementDate": "2002-01-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2002-06-30T00:00:00Z",
+            "lastDateOfSupport": "2007-06-30T00:00:00Z",
+            "lastShipDate": null,
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2003-06-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2006-06-30T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1183161600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 151756,
+            "bulletinNumber": "1656",
+            "bulletinProductId": "AS53-CC-VOX",
+            "bulletinTitle": "Cisco AS5300 Access Server",
+            "URL": "http://www.cisco.com/en/US/products/hw/univgate/ps501/prod_eol_notice0900aecd8052854b.html",
+            "publishedDate": "2010-01-23T09:22:03",
+            "eoLifeExternalAnnouncementDate": "2002-01-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2002-06-30T00:00:00Z",
+            "lastDateOfSupport": "2007-06-30T00:00:00Z",
+            "lastShipDate": null,
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2003-06-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2006-06-30T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1183161600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 151801,
+            "bulletinNumber": "1656",
+            "bulletinProductId": "AS53-VOXD",
+            "bulletinTitle": "Cisco AS5300 Access Server",
+            "URL": "http://www.cisco.com/en/US/products/hw/univgate/ps501/prod_eol_notice0900aecd8052854b.html",
+            "publishedDate": "2010-01-23T09:22:03",
+            "eoLifeExternalAnnouncementDate": "2002-01-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2002-06-30T00:00:00Z",
+            "lastDateOfSupport": "2007-06-30T00:00:00Z",
+            "lastShipDate": null,
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2003-06-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2006-06-30T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1183161600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 151804,
+            "bulletinNumber": "1656",
+            "bulletinProductId": "AS5300-CH",
+            "bulletinTitle": "Cisco AS5300 Access Server",
+            "URL": "http://www.cisco.com/en/US/products/hw/univgate/ps501/prod_eol_notice0900aecd8052854b.html",
+            "publishedDate": "2010-01-23T09:22:03",
+            "eoLifeExternalAnnouncementDate": "2002-01-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2002-06-30T00:00:00Z",
+            "lastDateOfSupport": "2007-06-30T00:00:00Z",
+            "lastShipDate": null,
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2003-06-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2006-06-30T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1183161600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 39610,
+            "bulletinNumber": "1684",
+            "bulletinProductId": "MGX8220",
+            "bulletinTitle": "Cisco MGX 8220 Edge Concentrator ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps1925/prod_eol_notice09186a00800a445d.html",
+            "publishedDate": "2009-12-30T18:51:23",
+            "eoLifeExternalAnnouncementDate": "2002-09-02T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2002-07-22T00:00:00Z",
+            "eoSaleDate": "2003-03-03T00:00:00Z",
+            "lastDateOfSupport": "2008-03-01T00:00:00Z",
+            "lastShipDate": "2003-06-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2004-03-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2004-03-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2004-03-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2005-03-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2007-05-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1204329600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 77900,
+            "bulletinNumber": "1714",
+            "bulletinProductId": "WS-C3524-XL-EN",
+            "bulletinTitle": "Cisco Catalyst 3512 XL, 3524 XL, 3548 XL",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps637/prod_eol_notice09186a008032d190.html",
+            "publishedDate": "2007-06-12T12:41:06",
+            "eoLifeExternalAnnouncementDate": "2002-01-26T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2001-12-15T00:00:00Z",
+            "eoSaleDate": "2002-07-27T00:00:00Z",
+            "lastDateOfSupport": "2002-10-25T00:00:00Z",
+            "lastShipDate": "2002-10-25T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2003-07-27T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2003-07-27T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2004-07-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2006-10-22T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1185494400000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 77903,
+            "bulletinNumber": "1714",
+            "bulletinProductId": "WS-C3548-XL-EN",
+            "bulletinTitle": "Cisco Catalyst 3512 XL, 3524 XL, 3548 XL",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps637/prod_eol_notice09186a008032d190.html",
+            "publishedDate": "2007-06-12T12:41:06",
+            "eoLifeExternalAnnouncementDate": "2002-01-26T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2001-12-15T00:00:00Z",
+            "eoSaleDate": "2002-07-27T00:00:00Z",
+            "lastDateOfSupport": "2002-10-25T00:00:00Z",
+            "lastShipDate": "2002-10-25T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2003-07-27T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2003-07-27T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2004-07-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2006-10-22T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1185494400000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 164220,
+            "bulletinNumber": "1716",
+            "bulletinProductId": "WS-C1924-A",
+            "bulletinTitle": "Catalyst 1900 and 2820 Series Switches",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps597/prod_eol_notice0900aecd8055eb4d.html ",
+            "publishedDate": "2009-03-24T16:28:31",
+            "eoLifeExternalAnnouncementDate": "2002-01-26T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2001-12-15T00:00:00Z",
+            "eoSaleDate": "2002-07-27T00:00:00Z",
+            "lastDateOfSupport": "2007-07-26T00:00:00Z",
+            "lastShipDate": "2002-10-25T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2003-07-27T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2003-07-27T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2003-07-27T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2004-07-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2006-10-22T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1185408000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 174688,
+            "bulletinNumber": "1931",
+            "bulletinProductId": "WS-C5500",
+            "bulletinTitle": "Catalyst 5000 and 5500 Series End of Sale Announcement",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps679/prod_eol_notice09186a008032d4ae.html",
+            "publishedDate": "2009-01-29T11:41:08",
+            "eoLifeExternalAnnouncementDate": "2002-10-29T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2002-09-17T00:00:00Z",
+            "eoSaleDate": "2003-04-29T00:00:00Z",
+            "lastDateOfSupport": "2008-04-27T00:00:00Z",
+            "lastShipDate": "2003-07-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2004-04-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2004-04-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2004-04-28T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2005-04-28T00:00:00Z",
+            "eoServiceContractRenewalDate": "2007-07-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1209254400000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 174691,
+            "bulletinNumber": "1931",
+            "bulletinProductId": "WS-C5505",
+            "bulletinTitle": "Catalyst 5000 and 5500 Series End of Sale Announcement",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps679/prod_eol_notice09186a008032d4ae.html",
+            "publishedDate": "2009-01-29T11:41:08",
+            "eoLifeExternalAnnouncementDate": "2002-10-29T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2002-09-17T00:00:00Z",
+            "eoSaleDate": "2003-04-29T00:00:00Z",
+            "lastDateOfSupport": "2008-04-27T00:00:00Z",
+            "lastShipDate": "2003-07-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2004-04-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2004-04-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2004-04-28T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2005-04-28T00:00:00Z",
+            "eoServiceContractRenewalDate": "2007-07-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1209254400000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 26574,
+            "bulletinNumber": "1958",
+            "bulletinProductId": "CISCO2610",
+            "bulletinTitle": "Cisco 2600 \"Non XM\" MultiService Access Routers",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps259/prod_eol_notice09186a008032d4c2.html",
+            "publishedDate": "2009-10-14T21:26:10",
+            "eoLifeExternalAnnouncementDate": "2002-11-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2002-09-24T00:00:00Z",
+            "eoSaleDate": "2003-04-26T00:00:00Z",
+            "lastDateOfSupport": "2003-05-31T00:00:00Z",
+            "lastShipDate": "2003-05-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2004-04-26T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2004-05-05T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-04-26T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2005-04-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2007-04-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1209168000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 26603,
+            "bulletinNumber": "1958",
+            "bulletinProductId": "CISCO2621",
+            "bulletinTitle": "Cisco 2600 \"Non XM\" MultiService Access Routers",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps259/prod_eol_notice09186a008032d4c2.html",
+            "publishedDate": "2009-10-14T21:26:10",
+            "eoLifeExternalAnnouncementDate": "2002-11-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2002-09-24T00:00:00Z",
+            "eoSaleDate": "2003-04-26T00:00:00Z",
+            "lastDateOfSupport": "2003-05-31T00:00:00Z",
+            "lastShipDate": "2003-05-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2004-04-26T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2004-05-05T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-04-26T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2005-04-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2007-04-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1209168000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 32398,
+            "bulletinNumber": "2010",
+            "bulletinProductId": "ESR10005-CHAS=",
+            "bulletinTitle": "Cisco 10005 Internet Router Chassis",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps133/prod_eol_notice0900aecd805e2ec7.html",
+            "publishedDate": "2009-07-14T14:02:54",
+            "eoLifeExternalAnnouncementDate": "2002-10-22T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2002-10-22T00:00:00Z",
+            "eoSaleDate": "2003-02-22T00:00:00Z",
+            "lastDateOfSupport": "2008-02-22T00:00:00Z",
+            "lastShipDate": null,
+            "eoNewServiceAttachmentDate": "2004-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2004-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2007-02-22T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1203638400000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 187595,
+            "bulletinNumber": "2010",
+            "bulletinProductId": "ESR10005-BLOWER",
+            "bulletinTitle": "Cisco 10005 Internet Router Chassis",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps133/prod_eol_notice0900aecd805e2ec7.html",
+            "publishedDate": "2009-07-14T14:02:54",
+            "eoLifeExternalAnnouncementDate": "2002-10-22T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2002-10-22T00:00:00Z",
+            "eoSaleDate": "2003-02-22T00:00:00Z",
+            "lastDateOfSupport": "2008-02-22T00:00:00Z",
+            "lastShipDate": null,
+            "eoNewServiceAttachmentDate": "2004-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2004-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2007-02-22T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1203638400000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 41479,
+            "bulletinNumber": "2041",
+            "bulletinProductId": "PA-FE-TX",
+            "bulletinTitle": "Cisco PA-FE-TX and PA-FE-FX Port Adapters",
+            "URL": "http://www.cisco.com/en/US/products/hw/modules/ps2033/prod_bulletin09186a0080142d59.html",
+            "publishedDate": "2007-02-24T10:11:49",
+            "eoLifeExternalAnnouncementDate": "2003-01-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2003-10-31T00:00:00Z",
+            "lastDateOfSupport": "2008-10-31T00:00:00Z",
+            "lastShipDate": "2003-11-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2004-10-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2005-10-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2004-11-15T00:00:00Z",
+            "eoServiceContractRenewalDate": "2007-10-31T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1225411200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 173567,
+            "bulletinNumber": "2061",
+            "bulletinProductId": "OC48E/POS-SR-SC-B",
+            "bulletinTitle": "Cisco 12000 Series Original 4-Port OC-3, 4-Port OC-12, and 1-Port OC-48 Packet-over-SONET Line Cards End-of-Sale Announcement",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps167/prod_eol_notice09186a008014ee56.html",
+            "publishedDate": "2009-01-27T11:39:13",
+            "eoLifeExternalAnnouncementDate": "2003-03-02T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2003-01-19T00:00:00Z",
+            "eoSaleDate": "2003-08-31T00:00:00Z",
+            "lastDateOfSupport": "2008-08-29T00:00:00Z",
+            "lastShipDate": "2003-11-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2004-08-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2004-08-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2006-08-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2007-11-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1219968000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 167344,
+            "bulletinNumber": "2114-1",
+            "bulletinProductId": "CISCO3620",
+            "bulletinTitle": "Cisco 3600 Series Routers",
+            "URL": "http://www.cisco.com/en/US/prod/collateral/routers/ps274/prod_end-of-life_notice09186a0080184884.html",
+            "publishedDate": "2008-12-14T20:54:37",
+            "eoLifeExternalAnnouncementDate": "2003-06-02T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2003-04-21T00:00:00Z",
+            "eoSaleDate": "2003-12-31T00:00:00Z",
+            "lastDateOfSupport": "2008-12-31T00:00:00Z",
+            "lastShipDate": "2004-03-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2004-12-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2004-11-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2007-12-31T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1230681600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 40301,
+            "bulletinNumber": "2169",
+            "bulletinProductId": "NM-2FE2W",
+            "bulletinTitle": "Cisco NM-1FE2W and NM-2FE2W Network Modules  Cisco 3600 and 3700 Series Multiservice Routers",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps274/prod_eol_notice09186a00801e6ef5.html",
+            "publishedDate": "2004-01-08T00:00:00",
+            "eoLifeExternalAnnouncementDate": "2003-07-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2003-12-31T00:00:00Z",
+            "lastDateOfSupport": "2004-03-30T00:00:00Z",
+            "lastShipDate": "2004-03-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2005-12-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2005-12-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2007-12-31T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1230681600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 24274,
+            "bulletinNumber": "2207",
+            "bulletinProductId": "C8541CSR-RP",
+            "bulletinTitle": "CISCO CATALYST CAMPUS SWITCH ROUTER",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps718/prod_eol_notice09186a00801932bf.html",
+            "publishedDate": "2009-03-23T21:24:57",
+            "eoLifeExternalAnnouncementDate": "2003-06-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2003-05-04T00:00:00Z",
+            "eoSaleDate": "2003-12-14T00:00:00Z",
+            "lastDateOfSupport": "2008-12-12T00:00:00Z",
+            "lastShipDate": "2004-03-13T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2004-12-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2004-12-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2005-12-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2008-03-10T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1229040000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 32533,
+            "bulletinNumber": "2219",
+            "bulletinProductId": "FEIP2-DSW-2TX",
+            "bulletinTitle": "Fast Ethernet Interface Processors (FEIP2-DSW-2TX and FEIP2-DSW-2FX) for the Cisco 7500 Series Router",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps359/prod_eol_notice09186a008032d169.html",
+            "publishedDate": "2009-01-28T18:32:10",
+            "eoLifeExternalAnnouncementDate": "2003-07-02T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2003-07-02T00:00:00Z",
+            "eoSaleDate": "2004-01-02T00:00:00Z",
+            "lastDateOfSupport": "2009-01-02T00:00:00Z",
+            "lastShipDate": "2004-04-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2005-01-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2005-01-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-01-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2008-01-02T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1230854400000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 25766,
+            "bulletinNumber": "2362",
+            "bulletinProductId": "CHAS-7505",
+            "bulletinTitle": "Cisco 7505 Chassis",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps359/prod_eol_notice09186a00801dcba7.html",
+            "publishedDate": "2009-09-06T21:39:25",
+            "eoLifeExternalAnnouncementDate": "2003-12-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2003-11-19T00:00:00Z",
+            "eoSaleDate": "2004-06-30T00:00:00Z",
+            "lastDateOfSupport": "2009-06-30T00:00:00Z",
+            "lastShipDate": "2004-09-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2005-12-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2005-12-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2009-03-30T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1246320000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 33407,
+            "bulletinNumber": "2384",
+            "bulletinProductId": "GSS-4480-K9",
+            "bulletinTitle": "Cisco GSS 4480 Global Site Selector",
+            "URL": "http://www.cisco.com/en/US/products/hw/contnetw/ps4162/prod_eol_notice09186a00801e7a73.html",
+            "publishedDate": "2010-01-06T16:59:24",
+            "eoLifeExternalAnnouncementDate": "2004-01-06T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2003-11-25T00:00:00Z",
+            "eoSaleDate": "2004-06-19T00:00:00Z",
+            "lastDateOfSupport": "2010-06-30T00:00:00Z",
+            "lastShipDate": "2004-09-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2005-06-20T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2005-06-20T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2009-06-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1277856000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 25411,
+            "bulletinNumber": "2394",
+            "bulletinProductId": "CE-560-K9",
+            "bulletinTitle": "Cisco 507, 560, 590 and Network Module-20GB Content Engines, Cisco 4430 Content Router, Cisco 4630 Content Distribution Manager and Cisco ACNS 4.2 Software",
+            "URL": "http://www.cisco.com/en/US/products/sw/conntsw/ps491/prod_eol_notice09186a00801eb10e.html",
+            "publishedDate": "2009-09-04T17:12:30",
+            "eoLifeExternalAnnouncementDate": "2004-01-06T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2003-11-25T00:00:00Z",
+            "eoSaleDate": "2004-07-06T00:00:00Z",
+            "lastDateOfSupport": "2009-07-31T00:00:00Z",
+            "lastShipDate": "2004-10-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2005-07-06T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2005-07-06T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2009-04-06T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1248998400000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 183864,
+            "bulletinNumber": "2423",
+            "bulletinProductId": "GSR8-SFC",
+            "bulletinTitle": "Cisco 12008 and 12012 Router Chassis",
+            "URL": "http://www.cisco.com/en/US/prod/collateral/routers/ps167/prod_end-of-life_notice09186a00801fc894.html",
+            "publishedDate": "2009-09-02T17:24:30",
+            "eoLifeExternalAnnouncementDate": "2004-02-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-01-08T00:00:00Z",
+            "eoSaleDate": "2005-02-18T00:00:00Z",
+            "lastDateOfSupport": "2010-02-28T00:00:00Z",
+            "lastShipDate": "2005-05-20T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-02-18T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-02-18T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-02-18T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2007-02-18T00:00:00Z",
+            "eoServiceContractRenewalDate": "2009-05-19T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1267315200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 174919,
+            "bulletinNumber": "2423",
+            "bulletinProductId": "CHAS-GSR8=",
+            "bulletinTitle": "Cisco 12008 and 12012 Router Chassis",
+            "URL": "http://www.cisco.com/en/US/prod/collateral/routers/ps167/prod_end-of-life_notice09186a00801fc894.html",
+            "publishedDate": "2009-09-02T17:24:30",
+            "eoLifeExternalAnnouncementDate": "2004-02-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-01-08T00:00:00Z",
+            "eoSaleDate": "2005-02-18T00:00:00Z",
+            "lastDateOfSupport": "2010-02-28T00:00:00Z",
+            "lastShipDate": "2005-05-20T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-02-18T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-02-18T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-02-18T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2007-02-18T00:00:00Z",
+            "eoServiceContractRenewalDate": "2009-05-19T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1267315200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 174947,
+            "bulletinNumber": "2423",
+            "bulletinProductId": "GSR8-CSC/ALRM",
+            "bulletinTitle": "Cisco 12008 and 12012 Router Chassis",
+            "URL": "http://www.cisco.com/en/US/prod/collateral/routers/ps167/prod_end-of-life_notice09186a00801fc894.html",
+            "publishedDate": "2009-09-02T17:24:30",
+            "eoLifeExternalAnnouncementDate": "2004-02-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-01-08T00:00:00Z",
+            "eoSaleDate": "2005-02-18T00:00:00Z",
+            "lastDateOfSupport": "2010-02-28T00:00:00Z",
+            "lastShipDate": "2005-05-20T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-02-18T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-02-18T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-02-18T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2007-02-18T00:00:00Z",
+            "eoServiceContractRenewalDate": "2009-05-19T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1267315200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 174977,
+            "bulletinNumber": "2423",
+            "bulletinProductId": "PWR-GSR8-AC",
+            "bulletinTitle": "Cisco 12008 and 12012 Router Chassis",
+            "URL": "http://www.cisco.com/en/US/prod/collateral/routers/ps167/prod_end-of-life_notice09186a00801fc894.html",
+            "publishedDate": "2009-09-02T17:24:30",
+            "eoLifeExternalAnnouncementDate": "2004-02-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-01-08T00:00:00Z",
+            "eoSaleDate": "2005-02-18T00:00:00Z",
+            "lastDateOfSupport": "2010-02-28T00:00:00Z",
+            "lastShipDate": "2005-05-20T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-02-18T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-02-18T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-02-18T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2007-02-18T00:00:00Z",
+            "eoServiceContractRenewalDate": "2009-05-19T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1267315200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 167756,
+            "bulletinNumber": "2424",
+            "bulletinProductId": "WIC-1DSU-T1",
+            "bulletinTitle": "WAN Interface Card - Part Number WIC-1DSU-T1",
+            "URL": "http://www.cisco.com/en/US/products/hw/modules/ps3129/prod_eol_notice09186a00801fd17d.html",
+            "publishedDate": "2012-12-06T14:59:40",
+            "eoLifeExternalAnnouncementDate": "2004-03-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-01-19T00:00:00Z",
+            "eoSaleDate": "2004-09-30T00:00:00Z",
+            "lastDateOfSupport": "2004-12-31T00:00:00Z",
+            "lastShipDate": "2004-12-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2005-09-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2005-09-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2008-09-30T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1254268800000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 18456,
+            "bulletinNumber": "2480",
+            "bulletinProductId": "15454-SA-ANSI",
+            "bulletinTitle": "CISCO ONS 15454 SHELF ASSEMBLY VERSION 15454-SA-ANSI ",
+            "URL": "http://www.cisco.com/en/US/products/hw/optical/ps2006/prod_eol_notice0900aecd800f3d7e.html",
+            "publishedDate": "2010-01-01T20:11:47",
+            "eoLifeExternalAnnouncementDate": "2004-05-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-03-22T00:00:00Z",
+            "eoSaleDate": "2005-05-03T00:00:00Z",
+            "lastDateOfSupport": "2010-05-31T00:00:00Z",
+            "lastShipDate": "2005-07-03T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-05-03T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-05-03T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2007-05-03T00:00:00Z",
+            "eoServiceContractRenewalDate": "2009-03-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1275264000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 86920,
+            "bulletinNumber": "2482",
+            "bulletinProductId": "WS-C2948G",
+            "bulletinTitle": "Cisco Catalyst 4912G, 2948G, and 2980G-A Switches",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps663/prod_eol_notice09186a00802255f2.html",
+            "publishedDate": "2009-09-03T15:39:33",
+            "eoLifeExternalAnnouncementDate": "2004-05-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "2004-11-03T00:00:00Z",
+            "lastDateOfSupport": "2009-11-30T00:00:00Z",
+            "lastShipDate": "2005-02-03T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2005-11-03T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2005-11-03T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2008-11-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1259539200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 78110,
+            "bulletinNumber": "2513-2",
+            "bulletinProductId": "WS-CAC-1300W",
+            "bulletinTitle": "CISCO CATALYST 6509-NEB CHASSIS AND CISCO CATALYST 6500 1300W AC POWER SUPPLY, INCLUDING SPARES ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice09186a008023401e.html",
+            "publishedDate": "2010-01-06T17:09:28",
+            "eoLifeExternalAnnouncementDate": "2004-05-07T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-03-26T00:00:00Z",
+            "eoSaleDate": "2006-06-01T00:00:00Z",
+            "lastDateOfSupport": "2011-06-30T00:00:00Z",
+            "lastShipDate": "2006-09-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2004-12-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-06-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2006-07-19T00:00:00Z",
+            "eoServiceContractRenewalDate": "2011-03-01T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1309392000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 35896,
+            "bulletinNumber": "2548",
+            "bulletinProductId": "IGX-NTM",
+            "bulletinTitle": "CISCO IGX 8400 SERIES SWITCH",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps988/prod_eol_notice0900aecd80137eae.html",
+            "publishedDate": "2010-01-01T23:54:11",
+            "eoLifeExternalAnnouncementDate": "2004-08-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-06-20T00:00:00Z",
+            "eoSaleDate": "2005-07-31T00:00:00Z",
+            "lastDateOfSupport": "2011-07-31T00:00:00Z",
+            "lastShipDate": "2005-10-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-07-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-07-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-07-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2007-07-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2011-04-30T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1312070400000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 36456,
+            "bulletinNumber": "2548",
+            "bulletinProductId": "IGX8420-SA",
+            "bulletinTitle": "CISCO IGX 8400 SERIES SWITCH",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps988/prod_eol_notice0900aecd80137eae.html",
+            "publishedDate": "2010-01-01T23:54:11",
+            "eoLifeExternalAnnouncementDate": "2004-08-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-06-20T00:00:00Z",
+            "eoSaleDate": "2005-07-31T00:00:00Z",
+            "lastDateOfSupport": "2011-07-31T00:00:00Z",
+            "lastShipDate": "2005-10-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-07-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-07-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-07-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2007-07-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2011-04-30T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1312070400000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 35702,
+            "bulletinNumber": "2548",
+            "bulletinProductId": "IGX-HDM",
+            "bulletinTitle": "CISCO IGX 8400 SERIES SWITCH",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps988/prod_eol_notice0900aecd80137eae.html",
+            "publishedDate": "2010-01-01T23:54:11",
+            "eoLifeExternalAnnouncementDate": "2004-08-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-06-20T00:00:00Z",
+            "eoSaleDate": "2005-07-31T00:00:00Z",
+            "lastDateOfSupport": "2011-07-31T00:00:00Z",
+            "lastShipDate": "2005-10-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-07-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-07-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-07-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2007-07-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2011-04-30T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1312070400000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 22684,
+            "bulletinNumber": "2548",
+            "bulletinProductId": "BC-5084B-RS232",
+            "bulletinTitle": "CISCO IGX 8400 SERIES SWITCH",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps988/prod_eol_notice0900aecd80137eae.html",
+            "publishedDate": "2010-01-01T23:54:11",
+            "eoLifeExternalAnnouncementDate": "2004-08-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-06-20T00:00:00Z",
+            "eoSaleDate": "2005-07-31T00:00:00Z",
+            "lastDateOfSupport": "2011-07-31T00:00:00Z",
+            "lastShipDate": "2005-10-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-07-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-07-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-07-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2007-07-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2011-04-30T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1312070400000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 22724,
+            "bulletinNumber": "2548",
+            "bulletinProductId": "BC-6271A-T1",
+            "bulletinTitle": "CISCO IGX 8400 SERIES SWITCH",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps988/prod_eol_notice0900aecd80137eae.html",
+            "publishedDate": "2010-01-01T23:54:11",
+            "eoLifeExternalAnnouncementDate": "2004-08-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-06-20T00:00:00Z",
+            "eoSaleDate": "2005-07-31T00:00:00Z",
+            "lastDateOfSupport": "2011-07-31T00:00:00Z",
+            "lastShipDate": "2005-10-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-07-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-07-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-07-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2007-07-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2011-04-30T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1312070400000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 161023,
+            "bulletinNumber": "2548",
+            "bulletinProductId": "IGX-NPM-32",
+            "bulletinTitle": "CISCO IGX 8400 SERIES SWITCH",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps988/prod_eol_notice0900aecd80137eae.html",
+            "publishedDate": "2010-01-01T23:54:11",
+            "eoLifeExternalAnnouncementDate": "2004-08-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-06-20T00:00:00Z",
+            "eoSaleDate": "2005-07-31T00:00:00Z",
+            "lastDateOfSupport": "2011-07-31T00:00:00Z",
+            "lastShipDate": "2005-10-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-07-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-07-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-07-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2007-07-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2011-04-30T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1312070400000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 184851,
+            "bulletinNumber": "2595",
+            "bulletinProductId": "WS-F6020A=",
+            "bulletinTitle": "CISCO CATALYST 6500 SERIES SUPERVISOR ENGINE 1A, SWITCH FABRIC MODULE 1, CATALYST 6503, 6506, & 6509 SUPERVISOR ENGINE 1A-2GE WIRING CLOSET BUNDLES, CATALYST 6509 16-PORT ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd8017a5d1.html",
+            "publishedDate": "2009-12-17T15:37:45",
+            "eoLifeExternalAnnouncementDate": "2004-09-25T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-08-14T00:00:00Z",
+            "eoSaleDate": "2005-03-25T00:00:00Z",
+            "lastDateOfSupport": "2005-06-25T00:00:00Z",
+            "lastShipDate": "2005-06-25T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-03-25T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-03-25T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2007-03-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2009-12-31T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1269993600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 78667,
+            "bulletinNumber": "2595",
+            "bulletinProductId": "WS-X6K-SUP1A-2GE",
+            "bulletinTitle": "CISCO CATALYST 6500 SERIES SUPERVISOR ENGINE 1A, SWITCH FABRIC MODULE 1, CATALYST 6503, 6506, & 6509 SUPERVISOR ENGINE 1A-2GE WIRING CLOSET BUNDLES, CATALYST 6509 16-PORT ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd8017a5d1.html",
+            "publishedDate": "2009-12-17T15:37:45",
+            "eoLifeExternalAnnouncementDate": "2004-09-25T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-08-14T00:00:00Z",
+            "eoSaleDate": "2005-03-25T00:00:00Z",
+            "lastDateOfSupport": "2005-06-25T00:00:00Z",
+            "lastShipDate": "2005-06-25T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-03-25T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-03-25T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2007-03-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2009-12-31T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1269993600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 42433,
+            "bulletinNumber": "2622",
+            "bulletinProductId": "PXM45/B",
+            "bulletinTitle": "CISCO MGX 8800 SERIES SOFTWARE RELEASES, CARDS, AND CONNECTORS ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps1938/prod_eol_notice0900aecd801a01f4.html",
+            "publishedDate": "2010-01-02T23:56:52",
+            "eoLifeExternalAnnouncementDate": "2004-10-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-09-03T00:00:00Z",
+            "eoSaleDate": "2005-10-15T00:00:00Z",
+            "lastDateOfSupport": "2010-10-31T00:00:00Z",
+            "lastShipDate": "2006-01-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-10-15T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-10-15T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-10-15T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2007-10-15T00:00:00Z",
+            "eoServiceContractRenewalDate": "2009-10-15T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1288483200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 33408,
+            "bulletinNumber": "2685",
+            "bulletinProductId": "GSS-4490-K9",
+            "bulletinTitle": "CISCO GSS 4490 GLOBAL SITE SELECTOR",
+            "URL": "http://www.cisco.com/en/US/products/hw/contnetw/ps4162/prod_eol_notice0900aecd801e6275.html",
+            "publishedDate": "2007-10-05T02:07:31",
+            "eoLifeExternalAnnouncementDate": "2004-12-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-12-15T00:00:00Z",
+            "eoSaleDate": "2005-06-30T00:00:00Z",
+            "lastDateOfSupport": "2010-06-30T00:00:00Z",
+            "lastShipDate": "2005-09-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-06-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-06-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-06-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2007-06-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2010-03-30T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1277856000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 39204,
+            "bulletinNumber": "2701",
+            "bulletinProductId": "MEM-I/O-FLD48M",
+            "bulletinTitle": "CISCO 7200 I/O CONTROLLER DEFAULT FLASH DISK MEMORYCISCO 7200 SERIES ROUTER I/O 48-MB PCMCIA FLASH DISK MEMORY ",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps341/prod_eol_notice0900aecd801e90af.html",
+            "publishedDate": "2009-08-26T15:50:00",
+            "eoLifeExternalAnnouncementDate": "2004-12-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-11-03T00:00:00Z",
+            "eoSaleDate": "2005-06-15T00:00:00Z",
+            "lastDateOfSupport": "2005-09-15T00:00:00Z",
+            "lastShipDate": "2005-09-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-06-15T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-06-15T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2007-06-15T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1277856000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 173030,
+            "bulletinNumber": "2771",
+            "bulletinProductId": "WS-C3550-24-EMI",
+            "bulletinTitle": "CISCO CATALYST 3550 SERIES SWITCHES ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps646/prod_eol_notice0900aecd8029f777.html",
+            "publishedDate": "2010-01-06T13:36:22",
+            "eoLifeExternalAnnouncementDate": "2005-05-11T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-03-30T00:00:00Z",
+            "eoSaleDate": "2006-05-02T00:00:00Z",
+            "lastDateOfSupport": "2006-08-02T00:00:00Z",
+            "lastShipDate": "2006-08-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-05-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-05-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-05-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2011-02-02T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1306800000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 173031,
+            "bulletinNumber": "2771",
+            "bulletinProductId": "WS-C3550-24-FX-SMI",
+            "bulletinTitle": "CISCO CATALYST 3550 SERIES SWITCHES ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps646/prod_eol_notice0900aecd8029f777.html",
+            "publishedDate": "2010-01-06T13:36:22",
+            "eoLifeExternalAnnouncementDate": "2005-05-11T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-03-30T00:00:00Z",
+            "eoSaleDate": "2006-05-02T00:00:00Z",
+            "lastDateOfSupport": "2006-08-02T00:00:00Z",
+            "lastShipDate": "2006-08-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-05-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-05-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-05-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2011-02-02T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1306800000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 173032,
+            "bulletinNumber": "2771",
+            "bulletinProductId": "WS-C3550-24-SMI",
+            "bulletinTitle": "CISCO CATALYST 3550 SERIES SWITCHES ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps646/prod_eol_notice0900aecd8029f777.html",
+            "publishedDate": "2010-01-06T13:36:22",
+            "eoLifeExternalAnnouncementDate": "2005-05-11T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-03-30T00:00:00Z",
+            "eoSaleDate": "2006-05-02T00:00:00Z",
+            "lastDateOfSupport": "2006-08-02T00:00:00Z",
+            "lastShipDate": "2006-08-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-05-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-05-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-05-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2011-02-02T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1306800000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 173033,
+            "bulletinNumber": "2771",
+            "bulletinProductId": "WS-C3550-24PWR-EMI",
+            "bulletinTitle": "CISCO CATALYST 3550 SERIES SWITCHES ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps646/prod_eol_notice0900aecd8029f777.html",
+            "publishedDate": "2010-01-06T13:36:22",
+            "eoLifeExternalAnnouncementDate": "2005-05-11T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-03-30T00:00:00Z",
+            "eoSaleDate": "2006-05-02T00:00:00Z",
+            "lastDateOfSupport": "2006-08-02T00:00:00Z",
+            "lastShipDate": "2006-08-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-05-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-05-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-05-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2011-02-02T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1306800000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 173034,
+            "bulletinNumber": "2771",
+            "bulletinProductId": "WS-C3550-24PWR-SMI",
+            "bulletinTitle": "CISCO CATALYST 3550 SERIES SWITCHES ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps646/prod_eol_notice0900aecd8029f777.html",
+            "publishedDate": "2010-01-06T13:36:22",
+            "eoLifeExternalAnnouncementDate": "2005-05-11T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-03-30T00:00:00Z",
+            "eoSaleDate": "2006-05-02T00:00:00Z",
+            "lastDateOfSupport": "2006-08-02T00:00:00Z",
+            "lastShipDate": "2006-08-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-05-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-05-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-05-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2011-02-02T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1306800000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 173035,
+            "bulletinNumber": "2771",
+            "bulletinProductId": "WS-C3550-48-EMI",
+            "bulletinTitle": "CISCO CATALYST 3550 SERIES SWITCHES ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps646/prod_eol_notice0900aecd8029f777.html",
+            "publishedDate": "2010-01-06T13:36:22",
+            "eoLifeExternalAnnouncementDate": "2005-05-11T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-03-30T00:00:00Z",
+            "eoSaleDate": "2006-05-02T00:00:00Z",
+            "lastDateOfSupport": "2006-08-02T00:00:00Z",
+            "lastShipDate": "2006-08-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-05-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-05-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-05-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2011-02-02T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1306800000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 173036,
+            "bulletinNumber": "2771",
+            "bulletinProductId": "WS-C3550-48-SMI",
+            "bulletinTitle": "CISCO CATALYST 3550 SERIES SWITCHES ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps646/prod_eol_notice0900aecd8029f777.html",
+            "publishedDate": "2010-01-06T13:36:22",
+            "eoLifeExternalAnnouncementDate": "2005-05-11T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-03-30T00:00:00Z",
+            "eoSaleDate": "2006-05-02T00:00:00Z",
+            "lastDateOfSupport": "2006-08-02T00:00:00Z",
+            "lastShipDate": "2006-08-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-05-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-05-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-05-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2011-02-02T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1306800000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 76844,
+            "bulletinNumber": "2833",
+            "bulletinProductId": "WAI-OC12-1SS",
+            "bulletinTitle": "CISCO CATALYST 8510 MSR SWITCH, CATALYST 8540 MSR SWITCH, AND CISCO LIGHTSTREAM 1010 ATM SWITCH ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps1893/prod_eol_notice0900aecd802bf057.html",
+            "publishedDate": "2010-07-08T07:42:42",
+            "eoLifeExternalAnnouncementDate": "2005-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-09-18T00:00:00Z",
+            "eoSaleDate": "2006-04-30T00:00:00Z",
+            "lastDateOfSupport": "2011-04-30T00:00:00Z",
+            "lastShipDate": "2006-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2010-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1304121600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 76846,
+            "bulletinNumber": "2833",
+            "bulletinProductId": "WAI-OC12-1SSLR",
+            "bulletinTitle": "CISCO CATALYST 8510 MSR SWITCH, CATALYST 8540 MSR SWITCH, AND CISCO LIGHTSTREAM 1010 ATM SWITCH ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps1893/prod_eol_notice0900aecd802bf057.html",
+            "publishedDate": "2010-07-08T07:42:42",
+            "eoLifeExternalAnnouncementDate": "2005-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-09-18T00:00:00Z",
+            "eoSaleDate": "2006-04-30T00:00:00Z",
+            "lastDateOfSupport": "2011-04-30T00:00:00Z",
+            "lastShipDate": "2006-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2010-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1304121600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 76850,
+            "bulletinNumber": "2833",
+            "bulletinProductId": "WAI-OC3-4MM",
+            "bulletinTitle": "CISCO CATALYST 8510 MSR SWITCH, CATALYST 8540 MSR SWITCH, AND CISCO LIGHTSTREAM 1010 ATM SWITCH ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps1893/prod_eol_notice0900aecd802bf057.html",
+            "publishedDate": "2010-07-08T07:42:42",
+            "eoLifeExternalAnnouncementDate": "2005-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-09-18T00:00:00Z",
+            "eoSaleDate": "2006-04-30T00:00:00Z",
+            "lastDateOfSupport": "2011-04-30T00:00:00Z",
+            "lastShipDate": "2006-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2010-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1304121600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 76852,
+            "bulletinNumber": "2833",
+            "bulletinProductId": "WAI-OC3-4SS",
+            "bulletinTitle": "CISCO CATALYST 8510 MSR SWITCH, CATALYST 8540 MSR SWITCH, AND CISCO LIGHTSTREAM 1010 ATM SWITCH ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps1893/prod_eol_notice0900aecd802bf057.html",
+            "publishedDate": "2010-07-08T07:42:42",
+            "eoLifeExternalAnnouncementDate": "2005-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-09-18T00:00:00Z",
+            "eoSaleDate": "2006-04-30T00:00:00Z",
+            "lastDateOfSupport": "2011-04-30T00:00:00Z",
+            "lastShipDate": "2006-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2010-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1304121600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 76858,
+            "bulletinNumber": "2833",
+            "bulletinProductId": "WAI-T1-4RJ48",
+            "bulletinTitle": "CISCO CATALYST 8510 MSR SWITCH, CATALYST 8540 MSR SWITCH, AND CISCO LIGHTSTREAM 1010 ATM SWITCH ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps1893/prod_eol_notice0900aecd802bf057.html",
+            "publishedDate": "2010-07-08T07:42:42",
+            "eoLifeExternalAnnouncementDate": "2005-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-09-18T00:00:00Z",
+            "eoSaleDate": "2006-04-30T00:00:00Z",
+            "lastDateOfSupport": "2011-04-30T00:00:00Z",
+            "lastShipDate": "2006-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2010-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1304121600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 38300,
+            "bulletinNumber": "2833",
+            "bulletinProductId": "L1010-CHAS5",
+            "bulletinTitle": "CISCO CATALYST 8510 MSR SWITCH, CATALYST 8540 MSR SWITCH, AND CISCO LIGHTSTREAM 1010 ATM SWITCH ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps1893/prod_eol_notice0900aecd802bf057.html",
+            "publishedDate": "2010-07-08T07:42:42",
+            "eoLifeExternalAnnouncementDate": "2005-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-09-18T00:00:00Z",
+            "eoSaleDate": "2006-04-30T00:00:00Z",
+            "lastDateOfSupport": "2011-04-30T00:00:00Z",
+            "lastShipDate": "2006-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2010-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1304121600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 24253,
+            "bulletinNumber": "2833",
+            "bulletinProductId": "C8515-MSRP",
+            "bulletinTitle": "CISCO CATALYST 8510 MSR SWITCH, CATALYST 8540 MSR SWITCH, AND CISCO LIGHTSTREAM 1010 ATM SWITCH ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps1893/prod_eol_notice0900aecd802bf057.html",
+            "publishedDate": "2010-07-08T07:42:42",
+            "eoLifeExternalAnnouncementDate": "2005-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-09-18T00:00:00Z",
+            "eoSaleDate": "2006-04-30T00:00:00Z",
+            "lastDateOfSupport": "2011-04-30T00:00:00Z",
+            "lastShipDate": "2006-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2010-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1304121600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 24261,
+            "bulletinNumber": "2833",
+            "bulletinProductId": "C8540-CHAS13",
+            "bulletinTitle": "CISCO CATALYST 8510 MSR SWITCH, CATALYST 8540 MSR SWITCH, AND CISCO LIGHTSTREAM 1010 ATM SWITCH ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps1893/prod_eol_notice0900aecd802bf057.html",
+            "publishedDate": "2010-07-08T07:42:42",
+            "eoLifeExternalAnnouncementDate": "2005-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-09-18T00:00:00Z",
+            "eoSaleDate": "2006-04-30T00:00:00Z",
+            "lastDateOfSupport": "2011-04-30T00:00:00Z",
+            "lastShipDate": "2006-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2010-07-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1304121600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 32024,
+            "bulletinNumber": "2909",
+            "bulletinProductId": "DS-C9216-K9",
+            "bulletinTitle": "CISCO MDS 9216 MULTILAYER FABRIC SWITCH ",
+            "URL": "http://www.cisco.com/en/US/products/ps5988/prod_eol_notice0900aecd802a484d.html",
+            "publishedDate": "2009-08-28T17:13:03",
+            "eoLifeExternalAnnouncementDate": "2005-05-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-04-03T00:00:00Z",
+            "eoSaleDate": "2005-11-15T00:00:00Z",
+            "lastDateOfSupport": "2010-11-30T00:00:00Z",
+            "lastShipDate": "2006-02-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-07-21T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-11-15T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2007-07-15T00:00:00Z",
+            "eoServiceContractRenewalDate": "2010-05-15T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1291075200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 20931,
+            "bulletinNumber": "2915",
+            "bulletinProductId": "AIR-AP1220B-A-K9",
+            "bulletinTitle": "SELECT CISCO AIRONET 802.11B-BASED AND FIRST-GENERATION 802.11A-BASED PRODUCTS ",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-350-series/prod_end-of-life_notice0900aecd802ad911.html",
+            "publishedDate": "2010-07-08T00:01:38",
+            "eoLifeExternalAnnouncementDate": "2005-05-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-04-12T00:00:00Z",
+            "eoSaleDate": "2005-11-24T00:00:00Z",
+            "lastDateOfSupport": "2006-02-24T00:00:00Z",
+            "lastShipDate": "2006-02-24T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-11-24T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-11-24T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-11-24T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2007-11-24T00:00:00Z",
+            "eoServiceContractRenewalDate": "2010-02-24T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1291075200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 20927,
+            "bulletinNumber": "2964",
+            "bulletinProductId": "AIR-AP1220A-A-K9",
+            "bulletinTitle": "CISCO AIRONET 1200 SERIES 802.11A ACCESS POINTS AND CARDBUS RADIO MODULE UPGRADE KIT ",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1200-series/prod_end-of-life_notice0900aecd801e5303.html",
+            "publishedDate": "2010-04-12T16:14:38",
+            "eoLifeExternalAnnouncementDate": "2004-12-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2004-10-29T00:00:00Z",
+            "eoSaleDate": "2005-06-10T00:00:00Z",
+            "lastDateOfSupport": "2005-09-08T00:00:00Z",
+            "lastShipDate": "2005-09-08T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-06-10T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-06-10T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-06-10T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2007-06-10T00:00:00Z",
+            "eoServiceContractRenewalDate": "2009-09-05T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1277856000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 78113,
+            "bulletinNumber": "2970",
+            "bulletinProductId": "WS-CAC-2500W",
+            "bulletinTitle": "SELECTIVE CISCO CATALYST 650010/100 LINE CARDS, GIGABIT ETHERNET LINE CARDS, POWER SUPPLIES, AND POWER ENTRY MODULE ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd802e87bb.html",
+            "publishedDate": "2011-07-28T09:18:46",
+            "eoLifeExternalAnnouncementDate": "2005-07-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-06-03T00:00:00Z",
+            "eoSaleDate": "2006-01-13T00:00:00Z",
+            "lastDateOfSupport": "2011-01-31T00:00:00Z",
+            "lastShipDate": "2006-04-13T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-01-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-01-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-01-13T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-01-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2010-04-10T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1296432000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 78627,
+            "bulletinNumber": "2970",
+            "bulletinProductId": "WS-X6348-RJ-45",
+            "bulletinTitle": "SELECTIVE CISCO CATALYST 650010/100 LINE CARDS, GIGABIT ETHERNET LINE CARDS, POWER SUPPLIES, AND POWER ENTRY MODULE ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd802e87bb.html",
+            "publishedDate": "2011-07-28T09:18:46",
+            "eoLifeExternalAnnouncementDate": "2005-07-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-06-03T00:00:00Z",
+            "eoSaleDate": "2006-01-13T00:00:00Z",
+            "lastDateOfSupport": "2011-01-31T00:00:00Z",
+            "lastShipDate": "2006-04-13T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-01-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-01-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-01-13T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-01-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2010-04-10T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1296432000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 78632,
+            "bulletinNumber": "2970",
+            "bulletinProductId": "WS-X6348-RJ45V",
+            "bulletinTitle": "SELECTIVE CISCO CATALYST 650010/100 LINE CARDS, GIGABIT ETHERNET LINE CARDS, POWER SUPPLIES, AND POWER ENTRY MODULE ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd802e87bb.html",
+            "publishedDate": "2011-07-28T09:18:46",
+            "eoLifeExternalAnnouncementDate": "2005-07-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-06-03T00:00:00Z",
+            "eoSaleDate": "2006-01-13T00:00:00Z",
+            "lastDateOfSupport": "2006-04-13T00:00:00Z",
+            "lastShipDate": "2006-04-13T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-01-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-01-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-01-13T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-01-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2010-04-10T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1296432000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 78650,
+            "bulletinNumber": "2970",
+            "bulletinProductId": "WS-X6516-GBIC",
+            "bulletinTitle": "SELECTIVE CISCO CATALYST 650010/100 LINE CARDS, GIGABIT ETHERNET LINE CARDS, POWER SUPPLIES, AND POWER ENTRY MODULE ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd802e87bb.html",
+            "publishedDate": "2011-07-28T09:18:46",
+            "eoLifeExternalAnnouncementDate": "2005-07-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-06-03T00:00:00Z",
+            "eoSaleDate": "2006-01-13T00:00:00Z",
+            "lastDateOfSupport": "2006-04-13T00:00:00Z",
+            "lastShipDate": "2006-04-13T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-01-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-01-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-01-13T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-01-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2010-04-10T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1296432000000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 166819,
+            "bulletinNumber": "2972",
+            "bulletinProductId": "PA-POS-OC3SMI",
+            "bulletinTitle": "Cisco PA-POS-OC3MM, PA-POS-OC3SML, PA-POS-OC3SMI and Transition to the New PA-POS-1OC3 ",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps341/prod_eol_notice0900aecd802f91fd.html",
+            "publishedDate": "2009-08-27T15:30:49",
+            "eoLifeExternalAnnouncementDate": "2005-08-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-06-20T00:00:00Z",
+            "eoSaleDate": "2006-07-31T00:00:00Z",
+            "lastDateOfSupport": "2006-10-30T00:00:00Z",
+            "lastShipDate": "2006-10-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-07-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-07-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2008-07-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2011-01-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1312070400000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 78088,
+            "bulletinNumber": "3037",
+            "bulletinProductId": "WS-C6K-6SLOT-FAN",
+            "bulletinTitle": "Select Cisco Catalyst 6503, 6506, and 6509 Chassis",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd8035ece4.html",
+            "publishedDate": "2011-09-12T16:52:00",
+            "eoLifeExternalAnnouncementDate": "2005-11-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-09-20T00:00:00Z",
+            "eoSaleDate": "2006-11-01T00:00:00Z",
+            "lastDateOfSupport": "2007-01-30T00:00:00Z",
+            "lastShipDate": "2007-01-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-11-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-11-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-11-01T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-10-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2012-08-01T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1354233600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 78089,
+            "bulletinNumber": "3037",
+            "bulletinProductId": "WS-C6K-6SLOT-FAN2",
+            "bulletinTitle": "Select Cisco Catalyst 6503, 6506, and 6509 Chassis",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd8035ece4.html",
+            "publishedDate": "2011-09-12T16:52:00",
+            "eoLifeExternalAnnouncementDate": "2005-11-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-09-20T00:00:00Z",
+            "eoSaleDate": "2006-11-01T00:00:00Z",
+            "lastDateOfSupport": "2007-01-30T00:00:00Z",
+            "lastShipDate": "2007-01-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-11-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-11-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-11-01T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-10-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2012-08-01T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1354233600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 78091,
+            "bulletinNumber": "3037",
+            "bulletinProductId": "WS-C6K-9SLOT-FAN",
+            "bulletinTitle": "Select Cisco Catalyst 6503, 6506, and 6509 Chassis",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd8035ece4.html",
+            "publishedDate": "2011-09-12T16:52:00",
+            "eoLifeExternalAnnouncementDate": "2005-11-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-09-20T00:00:00Z",
+            "eoSaleDate": "2006-11-01T00:00:00Z",
+            "lastDateOfSupport": "2007-01-30T00:00:00Z",
+            "lastShipDate": "2007-01-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-11-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-11-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-11-01T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-10-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2012-08-01T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1354233600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 78092,
+            "bulletinNumber": "3037",
+            "bulletinProductId": "WS-C6K-9SLOT-FAN2",
+            "bulletinTitle": "Select Cisco Catalyst 6503, 6506, and 6509 Chassis",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd8035ece4.html",
+            "publishedDate": "2011-09-12T16:52:00",
+            "eoLifeExternalAnnouncementDate": "2005-11-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-09-20T00:00:00Z",
+            "eoSaleDate": "2006-11-01T00:00:00Z",
+            "lastDateOfSupport": "2007-01-30T00:00:00Z",
+            "lastShipDate": "2007-01-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-11-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-11-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-11-01T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-10-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2012-08-01T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1354233600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 78054,
+            "bulletinNumber": "3037",
+            "bulletinProductId": "WS-C6506",
+            "bulletinTitle": "Select Cisco Catalyst 6503, 6506, and 6509 Chassis",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd8035ece4.html",
+            "publishedDate": "2011-09-12T16:52:00",
+            "eoLifeExternalAnnouncementDate": "2005-11-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-09-20T00:00:00Z",
+            "eoSaleDate": "2006-11-01T00:00:00Z",
+            "lastDateOfSupport": "2012-11-30T00:00:00Z",
+            "lastShipDate": "2007-01-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-11-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-11-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-11-01T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-10-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2012-08-01T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1354233600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 78062,
+            "bulletinNumber": "3037",
+            "bulletinProductId": "WS-C6509",
+            "bulletinTitle": "Select Cisco Catalyst 6503, 6506, and 6509 Chassis",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd8035ece4.html",
+            "publishedDate": "2011-09-12T16:52:00",
+            "eoLifeExternalAnnouncementDate": "2005-11-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-09-20T00:00:00Z",
+            "eoSaleDate": "2006-11-01T00:00:00Z",
+            "lastDateOfSupport": "2012-11-30T00:00:00Z",
+            "lastShipDate": "2007-01-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-11-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-11-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-11-01T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-10-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2012-08-01T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1354233600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 18483,
+            "bulletinNumber": "3134_1",
+            "bulletinProductId": "15454-TCC2",
+            "bulletinTitle": "Cisco ONS 15454 Timing, Communications, and Control - v2 (TCC2) Card ",
+            "URL": "http://www.cisco.com/en/US/products/hw/optical/ps2006/prod_eol_notice0900aecd80352094.html",
+            "publishedDate": "2010-01-27T17:32:30",
+            "eoLifeExternalAnnouncementDate": "2005-11-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-10-04T00:00:00Z",
+            "eoSaleDate": "2006-11-15T00:00:00Z",
+            "lastDateOfSupport": "2011-11-30T00:00:00Z",
+            "lastShipDate": "2007-02-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-11-15T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-11-15T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": "2011-05-15T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1322611200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 167754,
+            "bulletinNumber": "3143",
+            "bulletinProductId": "WIC-1B-S/T",
+            "bulletinTitle": "Cisco 1600, 1700, 2600, 2800, 3600, 3700, and 3800 Series ISDN BRI S/T Interface Card ",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps214/prod_eol_notice0900aecd8035cc4e.html",
+            "publishedDate": "2010-01-28T11:15:44",
+            "eoLifeExternalAnnouncementDate": "2005-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-09-19T00:00:00Z",
+            "eoSaleDate": "2006-07-01T00:00:00Z",
+            "lastDateOfSupport": "2006-10-01T00:00:00Z",
+            "lastShipDate": "2006-10-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-07-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-07-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2007-07-01T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2008-07-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2011-01-01T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1312070400000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 167379,
+            "bulletinNumber": "329",
+            "bulletinProductId": "CISCO4500",
+            "bulletinTitle": "Cisco 4500 End of Sale; 4500-M Announcement",
+            "URL": "http://www.cisco.com/en/US/products/hw/routers/ps5199/prod_eol_notice09186a008045ef71.html",
+            "publishedDate": "2008-02-10T22:42:08",
+            "eoLifeExternalAnnouncementDate": "1995-05-17T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "1995-05-17T00:00:00Z",
+            "lastDateOfSupport": "1995-06-08T00:00:00Z",
+            "lastShipDate": null,
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "802569600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 76514,
+            "bulletinNumber": "643",
+            "bulletinProductId": "VIP2-20",
+            "bulletinTitle": "VIP2-10 and VIP2-20",
+            "URL": "http://www.cisco.com/en/US/products/hw/modules/ps3088/prod_eol_notice0900aecd80294b76.html",
+            "publishedDate": "2009-01-28T10:40:31",
+            "eoLifeExternalAnnouncementDate": "1997-07-26T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "1997-07-26T00:00:00Z",
+            "lastDateOfSupport": "2002-07-26T00:00:00Z",
+            "lastShipDate": null,
+            "eoNewServiceAttachmentDate": "1996-08-15T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "1998-07-26T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1027641600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 77982,
+            "bulletinNumber": "777",
+            "bulletinProductId": "WS-C5008A",
+            "bulletinTitle": "Catalyst 5000 AC Power Supply",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps679/prod_eol_notice09186a008032d193.html",
+            "publishedDate": "1998-07-29T00:00:00",
+            "eoLifeExternalAnnouncementDate": "1998-07-29T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": null,
+            "eoSaleDate": "1998-07-20T00:00:00Z",
+            "lastDateOfSupport": "2003-07-20T00:00:00Z",
+            "lastShipDate": null,
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "1999-07-20T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1058659200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        }
+    ],
+    "Pagination": {
+        "page": 1,
+        "pages": 23,
+        "rows": 100,
+        "total": 2230
+    }
+}

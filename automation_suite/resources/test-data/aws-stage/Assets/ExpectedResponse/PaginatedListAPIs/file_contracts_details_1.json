@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "contractNumber": "200874731",
+            "contractStatus": "OVERDUE",
+            "serviceType": "SNTC",
+            "description": null,
+            "slaCode": null,
+            "cxLevel": "0",
+            "contractStartDate": "2017-07-22T00:00:00Z",
+            "contractEndDate": "2021-04-30T00:00:00Z",
+            "slaDescription": "SNTC 8X5XNBD"
+        },
+        {
+            "contractNumber": "200875033",
+            "contractStatus": "SIGNED",
+            "serviceType": "SNTC",
+            "description": null,
+            "slaCode": null,
+            "cxLevel": "0",
+            "contractStartDate": "2017-07-22T00:00:00Z",
+            "contractEndDate": "2020-07-21T00:00:00Z",
+            "slaDescription": "SNTC 8X5XNBD"
+        },
+        {
+            "contractNumber": "202612327",
+            "contractStatus": "OVERDUE",
+            "serviceType": "L1NBD",
+            "description": null,
+            "slaCode": null,
+            "cxLevel": "1",
+            "contractStartDate": "2019-06-01T00:00:00Z",
+            "contractEndDate": "2021-07-21T00:00:00Z",
+            "slaDescription": "CX LEVEL 1 8X5XNBD"
+        },
+        {
+            "contractNumber": "203085560",
+            "contractStatus": "ACTIVE",
+            "serviceType": "UC ISV",
+            "description": null,
+            "slaCode": null,
+            "cxLevel": "0",
+            "contractStartDate": "2020-02-11T00:00:00Z",
+            "contractEndDate": "2020-12-31T00:00:00Z",
+            "slaDescription": "UC ISV L1 + L2 24X7"
+        },
+        {
+            "contractNumber": "95066869",
+            "contractStatus": "OVERDUE",
+            "serviceType": "SNTC",
+            "description": null,
+            "slaCode": null,
+            "cxLevel": "0",
+            "contractStartDate": "2015-06-01T00:00:00Z",
+            "contractEndDate": "2020-07-21T00:00:00Z",
+            "slaDescription": "SNTC 8X5XNBD"
+        },
+        {
+            "contractNumber": "95854858",
+            "contractStatus": "ACTIVE",
+            "serviceType": "SNTC",
+            "description": null,
+            "slaCode": null,
+            "cxLevel": "0",
+            "contractStartDate": "2016-04-01T00:00:00Z",
+            "contractEndDate": "2022-05-31T00:00:00Z",
+            "slaDescription": "SNTC 24X7X4"
+        }
+    ],
+    "Pagination": {
+        "page": 1,
+        "pages": 1,
+        "rows": 100,
+        "total": 6
+    }
+}

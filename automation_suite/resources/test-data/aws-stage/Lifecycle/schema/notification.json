@@ -1,0 +1,504 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "totalHits": {
+      "type": "integer"
+    },
+    "count": {
+      "type": "integer"
+    },
+    "dismissed": {
+      "type": "integer"
+    },
+    "items": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "source": {
+              "type": "string"
+            },
+            "target": {
+              "type": "string"
+            },
+            "category": {
+              "type": "string"
+            },
+            "impact": {
+              "type": "string"
+            },
+            "priority": {
+              "type": "integer"
+            },
+            "title": {
+              "type": ["null","string"]
+            },
+            "message": {
+              "type": "string"
+            },
+            "channel": {
+              "type": "string"
+            },
+            "startTimestamp": {
+              "type": "integer"
+            },
+            "endTimestamp": {
+              "type": "integer"
+            },
+            "dismissable": {
+              "type": "boolean"
+            },
+            "context": {
+              "type": "object",
+              "properties": {
+                "Know More": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Know More"
+              ]
+            },
+            "notificationId": {
+              "type": "string"
+            },
+            "visited": {
+              "type": "boolean"
+            },
+            "dismissed": {
+              "type": "boolean"
+            },
+            "deleted": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "source",
+            "target",
+            "category",
+            "impact",
+            "priority",
+            "title",
+            "message",
+            "channel",
+            "startTimestamp",
+            "endTimestamp",
+            "dismissable",
+            "context",
+            "notificationId",
+            "visited",
+            "dismissed",
+            "deleted"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "source": {
+              "type": "string"
+            },
+            "target": {
+              "type": "string"
+            },
+            "category": {
+              "type": "string"
+            },
+            "impact": {
+              "type": "string"
+            },
+            "priority": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "null"
+            },
+            "message": {
+              "type": "string"
+            },
+            "channel": {
+              "type": "string"
+            },
+            "startTimestamp": {
+              "type": "integer"
+            },
+            "endTimestamp": {
+              "type": "integer"
+            },
+            "dismissable": {
+              "type": "boolean"
+            },
+            "context": {
+              "type": "object",
+              "properties": {
+                "Know More": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Know More"
+              ]
+            },
+            "notificationId": {
+              "type": "string"
+            },
+            "visited": {
+              "type": "boolean"
+            },
+            "dismissed": {
+              "type": "boolean"
+            },
+            "deleted": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "source",
+            "target",
+            "category",
+            "impact",
+            "priority",
+            "title",
+            "message",
+            "channel",
+            "startTimestamp",
+            "endTimestamp",
+            "dismissable",
+            "context",
+            "notificationId",
+            "visited",
+            "dismissed",
+            "deleted"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "source": {
+              "type": "string"
+            },
+            "target": {
+              "type": "string"
+            },
+            "category": {
+              "type": "string"
+            },
+            "impact": {
+              "type": "string"
+            },
+            "priority": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "null"
+            },
+            "message": {
+              "type": "string"
+            },
+            "channel": {
+              "type": "string"
+            },
+            "startTimestamp": {
+              "type": "integer"
+            },
+            "endTimestamp": {
+              "type": "integer"
+            },
+            "dismissable": {
+              "type": "boolean"
+            },
+            "context": {
+              "type": "object",
+              "properties": {
+                "Know More": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Know More"
+              ]
+            },
+            "notificationId": {
+              "type": "string"
+            },
+            "visited": {
+              "type": "boolean"
+            },
+            "dismissed": {
+              "type": "boolean"
+            },
+            "deleted": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "source",
+            "target",
+            "category",
+            "impact",
+            "priority",
+            "title",
+            "message",
+            "channel",
+            "startTimestamp",
+            "endTimestamp",
+            "dismissable",
+            "context",
+            "notificationId",
+            "visited",
+            "dismissed",
+            "deleted"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "source": {
+              "type": "string"
+            },
+            "target": {
+              "type": "string"
+            },
+            "category": {
+              "type": "string"
+            },
+            "impact": {
+              "type": "string"
+            },
+            "priority": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "null"
+            },
+            "message": {
+              "type": "string"
+            },
+            "channel": {
+              "type": "string"
+            },
+            "startTimestamp": {
+              "type": "integer"
+            },
+            "endTimestamp": {
+              "type": "integer"
+            },
+            "dismissable": {
+              "type": "boolean"
+            },
+            "context": {
+              "type": "object",
+              "properties": {
+                "Know More": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Know More"
+              ]
+            },
+            "notificationId": {
+              "type": "string"
+            },
+            "visited": {
+              "type": "boolean"
+            },
+            "dismissed": {
+              "type": "boolean"
+            },
+            "deleted": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "source",
+            "target",
+            "category",
+            "impact",
+            "priority",
+            "title",
+            "message",
+            "channel",
+            "startTimestamp",
+            "endTimestamp",
+            "dismissable",
+            "context",
+            "notificationId",
+            "visited",
+            "dismissed",
+            "deleted"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "source": {
+              "type": "string"
+            },
+            "target": {
+              "type": "string"
+            },
+            "category": {
+              "type": "string"
+            },
+            "impact": {
+              "type": "string"
+            },
+            "priority": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "null"
+            },
+            "message": {
+              "type": "string"
+            },
+            "channel": {
+              "type": "string"
+            },
+            "startTimestamp": {
+              "type": "integer"
+            },
+            "endTimestamp": {
+              "type": "integer"
+            },
+            "dismissable": {
+              "type": "boolean"
+            },
+            "context": {
+              "type": "object",
+              "properties": {
+                "Know More": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Know More"
+              ]
+            },
+            "notificationId": {
+              "type": "string"
+            },
+            "visited": {
+              "type": "boolean"
+            },
+            "dismissed": {
+              "type": "boolean"
+            },
+            "deleted": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "source",
+            "target",
+            "category",
+            "impact",
+            "priority",
+            "title",
+            "message",
+            "channel",
+            "startTimestamp",
+            "endTimestamp",
+            "dismissable",
+            "context",
+            "notificationId",
+            "visited",
+            "dismissed",
+            "deleted"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "source": {
+              "type": "string"
+            },
+            "target": {
+              "type": "string"
+            },
+            "category": {
+              "type": "string"
+            },
+            "impact": {
+              "type": "string"
+            },
+            "priority": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "null"
+            },
+            "message": {
+              "type": "string"
+            },
+            "channel": {
+              "type": "string"
+            },
+            "startTimestamp": {
+              "type": "integer"
+            },
+            "endTimestamp": {
+              "type": "integer"
+            },
+            "dismissable": {
+              "type": "boolean"
+            },
+            "context": {
+              "type": "object",
+              "properties": {
+                "Know More": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Know More"
+              ]
+            },
+            "notificationId": {
+              "type": "string"
+            },
+            "visited": {
+              "type": "boolean"
+            },
+            "dismissed": {
+              "type": "boolean"
+            },
+            "deleted": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "source",
+            "target",
+            "category",
+            "impact",
+            "priority",
+            "title",
+            "message",
+            "channel",
+            "startTimestamp",
+            "endTimestamp",
+            "dismissable",
+            "context",
+            "notificationId",
+            "visited",
+            "dismissed",
+            "deleted"
+          ]
+        }
+      ]
+    },
+    "unread": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "totalHits",
+    "count",
+    "dismissed",
+    "items",
+    "unread"
+  ]
+}

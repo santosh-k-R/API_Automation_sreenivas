@@ -1,0 +1,54 @@
+[
+  {
+    "scenario": "Asset Summary API - Validating 400 error on passing invalid sort params to the API",
+    "method": "GET",
+    "url": "cp-rcc-compliance-api/service/asset-summary",
+    "headers": "cx-context:[{\"customerId\":\"KZWQZCPMnrtM4w\",\"saId\":\"337175\",\"vaId\":\"0\",\"cxLevel\":\"2\",\"solution\":\"IBN\"}]",
+    "params": "customerId=KZWQZCPMnrtM4w&pageSize=50&pageIndex=1&sortName=ruleTitle&sortOrder=desc&saId=337175&cxLevel=2&solution=IBN",
+    "body": null,
+    "statusCode": "400",
+    "expResponse": "",
+    "userRole": "SuperAdmin",
+    "sortName": "",
+    "sortOrder": ""
+  },
+  {
+    "scenario": "Asset Summary API - Validating 400 error on not passing customer ID param to the API",
+    "method": "GET",
+    "url": "cp-rcc-compliance-api/service/asset-summary",
+    "headers": "cx-context:[{\"customerId\":\"KZWQZCPMnrtM4w\",\"saId\":\"337175\",\"vaId\":\"0\",\"cxLevel\":\"2\",\"solution\":\"IBN\"}]",
+    "params": "pageSize=50&pageIndex=1&sortName=osType&sortOrder=desc&saId=337175&cxLevel=2&solution=IBN&useCase=Campus Network Assurance&severity=Critical",
+    "body": null,
+    "statusCode": "400",
+    "expResponse": "",
+    "userRole": "SuperAdmin",
+    "sortName": "",
+    "sortOrder": ""
+  },
+  {
+    "scenario": "Asset Summary API - Validating 400 error on not passing value to the customerId param",
+    "method": "GET",
+    "url": "cp-rcc-compliance-api/service/asset-summary",
+    "headers": "cx-context:[{\"customerId\":\"KZWQZCPMnrtM4w\",\"saId\":\"337175\",\"vaId\":\"0\",\"cxLevel\":\"2\",\"solution\":\"IBN\"}]",
+    "params": "customerId=&pageSize=50&pageIndex=1&sortName=osType&sortOrder=desc&saId=337175&cxLevel=2&solution=IBN&useCase=Campus Network Assurance&severity=Critical",
+    "body": null,
+    "statusCode": "400",
+    "expResponse": "",
+    "userRole": "SuperAdmin",
+    "sortName": "",
+    "sortOrder": ""
+  },
+  {
+  "scenario": "Asset Summary API - Validating 401 error on passing JWT token of one customer to the other customer",
+  "method": "GET",
+  "url": "cp-rcc-compliance-api/service/asset-summary",
+  "headers": "cx-context:[{\"customerId\":\"KZWQZCPMnrtM4w\",\"saId\":\"337175\",\"vaId\":\"0\",\"cxLevel\":\"2\",\"solution\":\"IBN\"}]",
+  "params": "customerId=KZWQZCPMnrtM4w&pageSize=50&pageIndex=1&sortName=osType&sortOrder=desc&saId=337175&cxLevel=2&solution=IBN&useCase=Campus Network Assurance&severity=Critical",
+  "body": null,
+  "statusCode": "401",
+  "expResponse": "",
+  "userRole": "INVALID",
+  "sortName": "",
+  "sortOrder": ""
+  }
+]

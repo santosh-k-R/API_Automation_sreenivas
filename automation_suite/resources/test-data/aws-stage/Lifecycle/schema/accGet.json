@@ -1,0 +1,154 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "solution": {
+      "type": "string"
+    },
+    "usecase": {
+      "type": "string"
+    },
+    "pitstop": {
+      "type": "string"
+    },
+    "items": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "title": {
+              "type": "string"
+            },
+            "description": {
+              "type": "string"
+            },
+            "assetId": {
+              "type": [
+                "null",
+                "string"
+              ]
+            },
+            "bookmark": {
+              "type": "boolean"
+            },
+            "url": {
+              "type": "string"
+            },
+            "requestId": {
+              "type": "string"
+            },
+            "technologyArea": {
+              "type": [
+                "null",
+                "string"
+              ]
+            },
+            "engagementList": {
+              "type": [
+                "null",
+                "string"
+              ]
+            },
+            "remainingRequestCount": {
+              "type": "integer"
+            },
+            "requestedByCcoId": {
+              "type": [
+                "null",
+                "string"
+              ]
+            },
+            "requestedByName": {
+              "type": [
+                "null",
+                "string"
+              ]
+            },
+            "requestedByStatus": {
+              "type": [
+                "null",
+                "string"
+              ]
+            },
+            "assetCompletionCount": {
+              "type": "integer"
+            },
+            "cumulativeFeedbackCount": {
+              "type": "integer"
+            },
+            "feedbackEngagement": {
+              "type": "number"
+            },
+            "cumulativeFeedbackAvailable": {
+              "type": "boolean"
+            },
+            "solution": {
+              "type": "string"
+            },
+            "status": {
+              "type": "string"
+            },
+            "accId": {
+              "type": "string"
+            },
+            "datasheetURL": {
+              "type": ["string","null"]
+            },
+            "providerInfo": {
+              "type": [
+                "null",
+                "object"
+              ]
+            },
+            "feedbackInfo": {
+              "type": [
+                "null",
+                "object"
+              ]
+            },
+            "timeRequired": {
+              "type": "string"
+            },
+            "prerequisites": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "title",
+            "description",
+            "assetId",
+            "bookmark",
+            "url",
+            "requestId",
+            "technologyArea",
+            "engagementList",
+            "remainingRequestCount",
+            "requestedByCcoId",
+            "requestedByName",
+            "requestedByStatus",
+            "assetCompletionCount",
+            "cumulativeFeedbackCount",
+            "feedbackEngagement",
+            "cumulativeFeedbackAvailable",
+            "solution",
+            "status",
+            "accId",
+            "datasheetURL",
+            "providerInfo",
+            "feedbackInfo",
+            "timeRequired",
+            "prerequisites"
+          ]
+        }
+      ]
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "solution",
+    "usecase",
+    "pitstop",
+    "items"
+  ]
+}

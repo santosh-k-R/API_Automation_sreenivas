@@ -1,0 +1,328 @@
+{
+    "count": 52,
+    "message": "Success",
+    "afmStatus": "Success",
+    "offlineTime": "",
+    "responseData": [
+        {
+            "category": "CPU-Memory",
+            "faultSeverity": "High",
+            "title": "Device may crash or behave abnormally",
+            "systemCount": 1,
+            "faultUpdatedTime": "2020-10-11T19:57:03.780+0000",
+            "signatureId": 11
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "The device reloaded.",
+            "systemCount": 1,
+            "faultUpdatedTime": "2020-10-11T19:57:01.818+0000",
+            "signatureId": 105
+        },
+        {
+            "category": "Environment",
+            "faultSeverity": "High",
+            "title": "Power supply failure could result in non-redundant power.",
+            "systemCount": 1,
+            "faultUpdatedTime": "2020-10-11T19:56:58.685+0000",
+            "signatureId": 102
+        },
+        {
+            "category": "Environment",
+            "faultSeverity": "High",
+            "title": "Fan failure can result in insufficient cooling and higher temperatures.",
+            "systemCount": 3,
+            "faultUpdatedTime": "2020-10-11T19:56:56.670+0000",
+            "signatureId": 101
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "Device crashed",
+            "signatureId": 5
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "Module failed",
+            "signatureId": 10
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "Shared port adapter reload",
+            "signatureId": 16
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "High",
+            "title": "Incoming packet drops",
+            "signatureId": 17
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "Timeout Waiting for SPA OIR event has occurred. Indicates booting error",
+            "signatureId": 18
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "A process has failed. Services related to that process will be impacted.",
+            "signatureId": 19
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "The process will be kept in hold-down state.",
+            "signatureId": 20
+        },
+        {
+            "category": "Modules",
+            "faultSeverity": "High",
+            "title": "Network disruption and performance issues can result.",
+            "signatureId": 21
+        },
+        {
+            "category": "Environment",
+            "faultSeverity": "High",
+            "title": "Temperature is above maximum limit",
+            "signatureId": 24
+        },
+        {
+            "category": "Environment",
+            "faultSeverity": "High",
+            "title": "Temperature is below limit.",
+            "signatureId": 25
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "RP redundancy is not available until resolved.",
+            "signatureId": 27
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "RP redundancy is not available until resolved.",
+            "signatureId": 28
+        },
+        {
+            "category": "CPU-Memory",
+            "faultSeverity": "High",
+            "title": "The software failed to clear the memory size. Indicates a hardware problem.",
+            "signatureId": 42
+        },
+        {
+            "category": "Environment",
+            "faultSeverity": "High",
+            "title": "Voltage not supported",
+            "signatureId": 43
+        },
+        {
+            "category": "Environment",
+            "faultSeverity": "High",
+            "title": "Insufficient input power",
+            "signatureId": 44
+        },
+        {
+            "category": "Environment",
+            "faultSeverity": "High",
+            "title": "Power supply failure",
+            "signatureId": 45
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "IDPROM read failure",
+            "signatureId": 47
+        },
+        {
+            "category": "Control",
+            "faultSeverity": "High",
+            "title": "The port blocks traffic when the rising threshold is reached.",
+            "signatureId": 48
+        },
+        {
+            "category": "CPU-Memory",
+            "faultSeverity": "High",
+            "title": "Device may experience a memory leak in IP SLAs responder process.",
+            "signatureId": 50
+        },
+        {
+            "category": "CPU-Memory",
+            "faultSeverity": "High",
+            "title": "The software failed to acquire the memory size indicating a hardware problem.",
+            "signatureId": 52
+        },
+        {
+            "category": "Environment",
+            "faultSeverity": "High",
+            "title": "Router can run certain period of time without fan. During that period we should be observing this error message in the console.",
+            "signatureId": 53
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "High",
+            "title": "Since the certificate was expired it will affect tunnel negotiation. IPsec tunnel will not come up.",
+            "signatureId": 55
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "High",
+            "title": "This will lead to Crypto tunnel negotiation failure.",
+            "signatureId": 56
+        },
+        {
+            "category": "Forwarding",
+            "faultSeverity": "High",
+            "title": "Potential for spanning tree loops",
+            "signatureId": 61
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "Continuous device reload will impact the device performance and may lead to crash",
+            "signatureId": 63
+        },
+        {
+            "category": "Control",
+            "faultSeverity": "High",
+            "title": "The shutdown keyword sets the port to error-disable state during a storm. If the recover interval is not set the port remains in shutdown state.",
+            "signatureId": 64
+        },
+        {
+            "category": "Management",
+            "faultSeverity": "High",
+            "title": "Device management affected without access to AAA",
+            "signatureId": 66
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "Service impact as this can lead to device reload.",
+            "signatureId": 77
+        },
+        {
+            "category": "Environment",
+            "faultSeverity": "High",
+            "title": "Possible hardware failure on one of the fan modules",
+            "signatureId": 80
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "The wireless client device will not be able to associate to the WLAN.",
+            "signatureId": 84
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "The wireless client device will not be able to associate to the WLAN.",
+            "signatureId": 85
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "The wireless client device will not be able to associate to the WLAN.",
+            "signatureId": 86
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "High",
+            "title": "If there is genuine packet with invalid MTU value the packet will be dropped on an interface.",
+            "signatureId": 87
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "High",
+            "title": "Depending on the type of packet mDNS discovery and communication between devices will fail.",
+            "signatureId": 88
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "This message is generated after a dataplane crash has already occurred. The WLC should now be able to provide a crash file.",
+            "signatureId": 91
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "High",
+            "title": "This can result in a failure in the AP join or the loss of data from the AP.",
+            "signatureId": 92
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "High",
+            "title": "This can result in a failure in the AP join or the loss of data from the AP.",
+            "signatureId": 93
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "High",
+            "title": "A GUI management session will be interrupted and will have to restart the HTTP connection.",
+            "signatureId": 98
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "High",
+            "title": "This message indicates that AP is not able to join controller. This can be due to missing AP manager interface or misconfiguration of AP manager.",
+            "signatureId": 106
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "High",
+            "title": "This message indicates that AP is not able to join controller. Discovery Request from AP came in on wrong VLAN.",
+            "signatureId": 107
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "High",
+            "title": "This message indicates that AP is not able to join controller.",
+            "signatureId": 108
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "High",
+            "title": "The message by itself is benign. However in conjunction with client roaming and mobility handoff messages this may impact client roaming and anchoring.",
+            "signatureId": 112
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "High",
+            "title": "The ACL could not be created. It does not impact the operation of the WLC.",
+            "signatureId": 116
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "Users may experience connectivity issues.",
+            "signatureId": 117
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "Assuming good coverage the clients will simply roam to neighboring APs while channel change occurs.",
+            "signatureId": 118
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "As the switchover is stateful there is no impact to the end user but it needs to be investigated to root cause the reason for switchover and ensure both peers are up and in redundant mode.",
+            "signatureId": 123
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "These messages trail a WLC crash or reload.",
+            "signatureId": 124
+        },
+        {
+            "category": "System",
+            "faultSeverity": "High",
+            "title": "This is a proactive warning to inform dataplane buffer pools are being used heavily and have exceeded the threshold for more than 3 minutes.  This can lead to throughput issues and potential crash.",
+            "signatureId": 125
+        }
+    ]
+}

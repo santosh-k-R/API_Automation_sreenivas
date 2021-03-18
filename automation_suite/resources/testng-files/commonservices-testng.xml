@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="commonServices">
+    <listeners>
+        <listener class-name="com.cisco.services.api_automation.listeners.AnnotationTransformer"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.ExecutionListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.RetryListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.SuiteTransformer"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.TestListener"/>
+    </listeners>
+
+    <test name="commonServices">
+        <packages>
+            <package name="com.cisco.services.api_automation.tests.commonservices.*"/>
+        </packages>
+    </test>
+</suite>

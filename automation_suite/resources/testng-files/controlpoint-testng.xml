@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ControlPoint" parallel="methods" thread-count="3">
+    <listeners>
+        <listener class-name="com.cisco.services.api_automation.listeners.AnnotationTransformer"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.ExecutionListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.RetryListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.SuiteTransformer"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.TestListener"/>
+    </listeners>
+
+    <test name="HealthStatus">
+        <packages>
+            <package name="com.cisco.services.api_automation.tests.controlpoint.*"/>
+        </packages>
+        <classes>
+            <class name="com.cisco.services.api_automation.tests.controlpoint.IgnorePolicyIT">
+                <methods>
+                    <exclude name=".*" />
+                </methods>
+            </class>
+            <class name="com.cisco.services.api_automation.tests.controlpoint.PoliciesIT">
+                <methods>
+                    <exclude name=".*" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

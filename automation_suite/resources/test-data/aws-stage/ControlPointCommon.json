@@ -1,0 +1,12 @@
+{
+  "useCase": "Network Device Onboarding",
+  "ccoId": "cpperf16769",
+  "customerId": "GZqEJtZygXHKNZ",
+  "header": "Bearer PXMKtPOssssx5XtUl32njHwRPuckMLAL",
+  "saId" : "GZqEJtZygXHKNZ",
+  "vaId" : "GZqEJtZygXHKNZ",
+  "solution": "IBN",
+  "cscheader": "Content-Security-Policy=default-src 'self'; base-uri 'self'; frame-ancestors 'self'; block-all-mixed-content",
+  "headers": "[{\"saId\":GZqEJtZygXHKNZ,\"vaId\":\"0\",\"customerId\":\"GZqEJtZygXHKNZ\",\"useCase\":\"Campus Network Assurance\",\"solution\":\"IBN\",\"cxLevel\":\"2\"}]"
+
+}

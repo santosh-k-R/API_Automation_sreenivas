@@ -1,0 +1,46 @@
+10.32.255.3 %ENVIRONMENTAL-1-ALERT: Temp: Inlet 1 Location: R0 State: Critical Reading: 41 Celsius  from Automation
+10.32.255.3 %KERN-0-SYSTEM_MSG:NVRAM Error: (line 464):Invalid cksum for block 17 expected 0x304 got 0x384 - kernel 
+10.16.255.1 %KERN-0-SYSTEM_MSG:[231489.162816] Kernel panic - not syncing: Fatal exception in interrupt 
+10.8.19.1 %KERN-0-SYSTEM_MSG:[39.042471] [1458670644] [Hardware Error]: CPU 0: Machine Check Exception: 0 Bank 128: 00000000880003c3 - kernel 
+10.32.255.100 %KERN-0-SYSTEM_MSG:[9454824.881905] END: PANIC REPORT GENERATED AT 1527319781 - kernel  
+20.0.4.1 %KERN-0-SYSTEM_MSG:[sap 28][pid XXXXX][comm:snmpd] sap recovering failed and so Killed with SIGABRT - kernel  
+10.122.28.249 %KERN-0-SYSTEM_MSG:[5880833.470207] BUG: soft lockup - CPU#0 stuck for 22s! [kworker/0:1:316] - kernel
+10.254.15.251 %KERN-0-SYSTEM_MSG: spinlock lockup on CPU#6, dumpcap/17648
+172.23.111.11 %KERN-0-SYSTEM_MSG:[14745778.034308] submitted work to write kernel traces to /lc/var/sysmgr/tmp_logs/kernel-trace.4067 - kernel
+10.32.255.101 %KERN-0-SYSTEM_MSG:Test Sample Waiting for backtrace tries syslogs
+172.23.111.11 %KERN-0-SYSTEM_MSG:[24921429.680717] [1564169452] DRAM Correctable error
+10.32.255.100 %NGWC_PLATFORM_FEP-1-FRU_PS_SUSTAINED_OVERLOAD_RECOVERY: Switch 1: power supply A recovered from sustained overload condition
+21.0.1.13 %ACE-1-727009: HA: Mismatch in context names detected for FT group FTgroupID. Cannot be redundant
+10.122.28.249 %STACKMGR-1-RELOAD_REQUEST: 1 stack-mgr:  Received reload request for all switches, reason Reload command
+10.254.15.251 %STACKMGR-1-RELOAD: 1 stack-mgr:  Reloading due to reason Reload command 
+10.254.15.251 %CISCO800-2-MODEM_UP: Cellular0 modem is now UP 
+10.16.255.1 %FIB-SW1-2-FIBDISABLE: Fatal error, slot 38/0 (38): XDR disabled 
+10.122.28.245 %PLATFORM-2-MOD_TEMPOK: Xbar-4 recovered from minor temperature alarm. Sensor=2 Temperature=41 MinThreshold=42 
+20.0.4.1 %KERN-0-SYSTEM_MSG:[24921429.680717] [1564169452] EMON: module 30 is not responding on EOBC path. Reloading module. - kernel 
+10.122.28.245 %INFRA-SHELF_MGR-6-HW_EVENT: Rcvd HW event HW_EVENT_FAILURE, event_reason_str 'Timeout waiting for bootloader to boot XR image' for card 0/RP1 sysadmin-vm:0_RP0#  
+21.0.1.14 %INFRA-SHELF_MGR-6-HW_EVENT:Rcvd HW event HW_EVENT_POWERED_OFF, event_reason_str 'warm reset requested by user' for card 0/RP1 
+10.122.28.247 %INFRA-SHELF_MGR-6-HW_EVENT:Rcvd HW event HW_EVENT_POWERED_ON, event_reason_str 'card powered-on' for card 0/RP1 
+10.254.15.251 %INFRA-SHELF_MGR-6-HW_EVENT:Rcvd HW event HW_EVENT_RESET, event_reason_str 'HW Event RESET' for card 0/6 
+21.0.1.21 %INFRA-SHELF_MGR-6-HW_EVENT:Rcvd SW event SW_EVENT_LOG_REBOOT_REC, event_reason_str 'Reset for reimage via Internal PXE Boot' for card 0/RP1 
+20.0.4.1 %USER-3-SYSTEM_MSG:bcm_usd_isr_switch_event_cb:431:slot_num 0, event 2, memory error type 0x1, mem addr 0x5f36, cause bit 0x1000abf - bcm_usd
+20.0.4.1 %USER-3-SYSTEM_MSG:slot_num 0, event 2, memory error type 0x1, mem addr 0x5f36, cause bit 0x1000e37 - bcm_usd 
+10.32.255.101 %APF-4-REGISTER_IPADD_ON_MSCB_FAILED:Testing Syslog E2E
+21.0.1.35 %APPNAV_CONTROLLER-4-SC_SC_UNREACHABLE: Testing Syslogs E2E
+21.0.1.14 %APPNAV_CONTROLLER-4-SC_SN_EXCLUDED:Testing Syslogs E2E
+172.23.111.11 %APPNAV_CONTROLLER-4-SC_SN_UNREACHABLE:Testing  Syslogs E2E
+21.0.1.35 %IOSXE-5-PLATFORM:SIP0: kernel: Out of memory: Kill process 4088 (sleep) score 998 or sacrifice
+10.16.255.1 %IOSXE-5-PLATFORM:Clock: inserting leap second 23:59:60 UTC
+21.0.1.21 %PLATFORM-CIH-5-ASIC_ERROR_PON_RESET_START:fia[1]: PON_RESET needed 0x2203e00a  
+10.32.255.101 %PLATFORM-CIH-5-ASIC_ERROR_THRESHOLD:tcam[3]: An unexpected-err error has occurred causing  halt-alert. KBP_CORE.Error_Status_Register.DBSoftError  Threshold has been exceeded 
+10.32.255.3 %CPU_MONITOR-6-NOT_HEARD: CPU monitor messages have not been heard for [dec] seconds
+10.16.200.1 %CPU_MONITOR-SP-6-NOT_HEARD: CPU_MONITOR messages have not been heard for 61 seconds [2/0] 
+10.122.28.247 %LINK-6-UPDOWN:Interface Dot11Radio1, changed state to up 
+10.16.255.1 %PKT_INFRA-PQMON-6-QUEUE_DROP: Taildrop on XIPC queue 1 owned by netio (jid=267)
+10.16.1.254 %VOIP_RTP-6-MEDIA_LOOP: The packet is seen traversing the system multiple times Delivery Ack could not be sent due to lack of buffers.
+10.122.28.245 %ASA-7-710006: ESP request discarded from 192.168.2.2 to outside_int:192.168.2.1 
+10.32.255.100 %ASA-7-725014: SSL lib error. Function: function Reason: reason  
+10.122.28.247 %AUTHMGR-7-RESULT: Authentication result 'server dead' from 'mab' for client (5503.a781.1157) on Interface Fa0/1 AuditSessionID 9601072D0000000400EE12CF 
+10.254.15.251 %DOT11-7-AUTH_FAILED: Station 185e.0fxxxx Authentication failed 
+21.0.1.9 %C6KENV-SP-0-CLOCKMAJFAILED: too many clocks failed to continue system operation 
+10.32.255.2 %HA-CHKPT_MESSAGING-7-STANDBY_OPEN_TIMEOUT:pop up continuously from standby
+172.23.111.11 %ENVMON-3-FANFAIL: SS]env_monitor.c:171 Fan failure. (fan flag = 0x28) from Automation

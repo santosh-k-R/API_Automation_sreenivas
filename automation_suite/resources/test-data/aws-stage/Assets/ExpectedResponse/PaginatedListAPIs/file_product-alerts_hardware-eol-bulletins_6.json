@@ -1,0 +1,3310 @@
+{
+    "data": [
+        {
+            "hwEolInstanceId": 318790,
+            "bulletinNumber": "EOL10894",
+            "bulletinProductId": "SMA-M680-K9",
+            "bulletinTitle": "Cisco x170 and x80 Email, Web, and Content Security Management Hardware Appliances",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html",
+            "publishedDate": "2016-05-11T14:22:06",
+            "eoLifeExternalAnnouncementDate": "2016-05-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-04-10T00:00:00Z",
+            "eoSaleDate": "2016-11-08T00:00:00Z",
+            "lastDateOfSupport": "2021-11-30T00:00:00Z",
+            "lastShipDate": "2017-02-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-11-08T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-11-08T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-11-08T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-11-08T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1573171200000",
+                    "nextHwEolMilestone": "1612310400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318795,
+            "bulletinNumber": "EOL10894",
+            "bulletinProductId": "WSA-S170-K9",
+            "bulletinTitle": "Cisco x170 and x80 Email, Web, and Content Security Management Hardware Appliances",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html",
+            "publishedDate": "2016-05-11T14:22:06",
+            "eoLifeExternalAnnouncementDate": "2016-05-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-04-10T00:00:00Z",
+            "eoSaleDate": "2016-11-08T00:00:00Z",
+            "lastDateOfSupport": "2021-11-30T00:00:00Z",
+            "lastShipDate": "2017-02-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-11-08T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-11-08T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-11-08T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-11-08T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1573171200000",
+                    "nextHwEolMilestone": "1612310400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318797,
+            "bulletinNumber": "EOL10894",
+            "bulletinProductId": "WSA-S380-K9",
+            "bulletinTitle": "Cisco x170 and x80 Email, Web, and Content Security Management Hardware Appliances",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html",
+            "publishedDate": "2016-05-11T14:22:06",
+            "eoLifeExternalAnnouncementDate": "2016-05-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-04-10T00:00:00Z",
+            "eoSaleDate": "2016-11-08T00:00:00Z",
+            "lastDateOfSupport": "2021-11-30T00:00:00Z",
+            "lastShipDate": "2017-02-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-11-08T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-11-08T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-11-08T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-11-08T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1573171200000",
+                    "nextHwEolMilestone": "1612310400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318798,
+            "bulletinNumber": "EOL10894",
+            "bulletinProductId": "WSA-S680-10G-K9",
+            "bulletinTitle": "Cisco x170 and x80 Email, Web, and Content Security Management Hardware Appliances",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html",
+            "publishedDate": "2016-05-11T14:22:06",
+            "eoLifeExternalAnnouncementDate": "2016-05-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-04-10T00:00:00Z",
+            "eoSaleDate": "2016-11-08T00:00:00Z",
+            "lastDateOfSupport": "2021-11-30T00:00:00Z",
+            "lastShipDate": "2017-02-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-11-08T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-11-08T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-11-08T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-11-08T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1573171200000",
+                    "nextHwEolMilestone": "1612310400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318802,
+            "bulletinNumber": "EOL10894",
+            "bulletinProductId": "WSA-S680-K9",
+            "bulletinTitle": "Cisco x170 and x80 Email, Web, and Content Security Management Hardware Appliances",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html",
+            "publishedDate": "2016-05-11T14:22:06",
+            "eoLifeExternalAnnouncementDate": "2016-05-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-04-10T00:00:00Z",
+            "eoSaleDate": "2016-11-08T00:00:00Z",
+            "lastDateOfSupport": "2021-11-30T00:00:00Z",
+            "lastShipDate": "2017-02-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-11-08T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-11-08T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-11-08T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-11-08T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1573171200000",
+                    "nextHwEolMilestone": "1612310400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 334499,
+            "bulletinNumber": "EOL10898",
+            "bulletinProductId": "WS-F6K-DFC4-E",
+            "bulletinTitle": "Cisco Catalyst 6816 10 GE Line Card and Select Accessories",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-737192.html",
+            "publishedDate": "2017-02-14T05:48:24",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2020-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 334504,
+            "bulletinNumber": "EOL10898",
+            "bulletinProductId": "WS-F6K-DFC4-EXL",
+            "bulletinTitle": "Cisco Catalyst 6816 10 GE Line Card and Select Accessories",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-737192.html",
+            "publishedDate": "2017-02-14T05:48:24",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2017-07-29T00:00:00Z",
+            "lastShipDate": "2017-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2020-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1525046400000",
+                    "nextHwEolMilestone": "1588118400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318655,
+            "bulletinNumber": "EOL10898",
+            "bulletinProductId": "WS-C6K-13SLT-FAN2",
+            "bulletinTitle": "Cisco Catalyst 6816 10 GE Line Card and Select Accessories",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-737192.html",
+            "publishedDate": "2017-02-14T05:48:24",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2017-07-29T00:00:00Z",
+            "lastShipDate": "2017-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2020-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318681,
+            "bulletinNumber": "EOL10898",
+            "bulletinProductId": "WS-X6816-10G-2T",
+            "bulletinTitle": "Cisco Catalyst 6816 10 GE Line Card and Select Accessories",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-737192.html",
+            "publishedDate": "2017-02-14T05:48:24",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2020-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318688,
+            "bulletinNumber": "EOL10898",
+            "bulletinProductId": "WS-X6816-10GE",
+            "bulletinTitle": "Cisco Catalyst 6816 10 GE Line Card and Select Accessories",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-737192.html",
+            "publishedDate": "2017-02-14T05:48:24",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2020-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318320,
+            "bulletinNumber": "EOL10903",
+            "bulletinProductId": "C3KX-FAN-23CFM",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Power Supplies, Cables, and Other Accessories",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3750-x-series-switches/eos-eol-notice-c51-737191.html",
+            "publishedDate": "2016-05-31T13:20:21",
+            "eoLifeExternalAnnouncementDate": "2016-05-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-04-01T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611532800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318325,
+            "bulletinNumber": "EOL10903",
+            "bulletinProductId": "C3KX-PWR-1100WAC",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Power Supplies, Cables, and Other Accessories",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3750-x-series-switches/eos-eol-notice-c51-737191.html",
+            "publishedDate": "2016-05-31T13:20:21",
+            "eoLifeExternalAnnouncementDate": "2016-05-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-04-01T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611532800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318328,
+            "bulletinNumber": "EOL10903",
+            "bulletinProductId": "C3KX-PWR-350WAC",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Power Supplies, Cables, and Other Accessories",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3750-x-series-switches/eos-eol-notice-c51-737191.html",
+            "publishedDate": "2016-05-31T13:20:21",
+            "eoLifeExternalAnnouncementDate": "2016-05-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-04-01T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611532800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318331,
+            "bulletinNumber": "EOL10903",
+            "bulletinProductId": "C3KX-PWR-440WDC",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Power Supplies, Cables, and Other Accessories",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3750-x-series-switches/eos-eol-notice-c51-737191.html",
+            "publishedDate": "2016-05-31T13:20:21",
+            "eoLifeExternalAnnouncementDate": "2016-05-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-04-01T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611532800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318334,
+            "bulletinNumber": "EOL10903",
+            "bulletinProductId": "C3KX-PWR-715WAC",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Power Supplies, Cables, and Other Accessories",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3750-x-series-switches/eos-eol-notice-c51-737191.html",
+            "publishedDate": "2016-05-31T13:20:21",
+            "eoLifeExternalAnnouncementDate": "2016-05-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-04-01T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611532800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 77876,
+            "bulletinNumber": "EOL1092",
+            "bulletinProductId": "WS-C2970G-24T-E",
+            "bulletinTitle": "Catalyst 2970 Series Switch",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2970-series-switches/prod_end-of-life_notice0900aecd80465836.html",
+            "publishedDate": "2011-04-13T08:59:11",
+            "eoLifeExternalAnnouncementDate": "2006-04-17T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2006-03-06T00:00:00Z",
+            "eoSaleDate": "2006-10-16T00:00:00Z",
+            "lastDateOfSupport": "2007-01-14T00:00:00Z",
+            "lastShipDate": "2007-01-14T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-10-16T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-10-16T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2008-10-15T00:00:00Z",
+            "eoServiceContractRenewalDate": "2011-01-11T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1320019200000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 319337,
+            "bulletinNumber": "EOL10934",
+            "bulletinProductId": "SG500XG-8F8T-K9-NA",
+            "bulletinTitle": "Cisco SG500XG-8F8T 16-port 10-Gigabit Stackable Managed Switch",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/small-business-500-series-stackable-managed-switches/eos-eol-notice-c51-737355.html",
+            "publishedDate": "2016-06-06T20:53:21",
+            "eoLifeExternalAnnouncementDate": "2016-06-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-04T00:00:00Z",
+            "eoSaleDate": "2016-12-03T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-03T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2016-06-03T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2016-12-03T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2017-12-03T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2016-12-03T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1480723200000",
+                    "nextHwEolMilestone": "1640908800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318659,
+            "bulletinNumber": "EOL10936",
+            "bulletinProductId": "WS-X4148-FX-MT",
+            "bulletinTitle": "Cisco Catalyst 4500E Line Cards",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-737185.html",
+            "publishedDate": "2016-05-03T06:25:03",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1525046400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318662,
+            "bulletinNumber": "EOL10936",
+            "bulletinProductId": "WS-X4248-FE-SFP",
+            "bulletinTitle": "Cisco Catalyst 4500E Line Cards",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-737185.html",
+            "publishedDate": "2016-05-03T06:25:03",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1525046400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318665,
+            "bulletinNumber": "EOL10936",
+            "bulletinProductId": "WS-X4606-X2-E",
+            "bulletinTitle": "Cisco Catalyst 4500E Line Cards",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-737185.html",
+            "publishedDate": "2016-05-03T06:25:03",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1525046400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318668,
+            "bulletinNumber": "EOL10936",
+            "bulletinProductId": "WS-X4612-SFP-E",
+            "bulletinTitle": "Cisco Catalyst 4500E Line Cards",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-737185.html",
+            "publishedDate": "2016-05-03T06:25:03",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1525046400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318671,
+            "bulletinNumber": "EOL10936",
+            "bulletinProductId": "WS-X4624-SFP-E",
+            "bulletinTitle": "Cisco Catalyst 4500E Line Cards",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-737185.html",
+            "publishedDate": "2016-05-03T06:25:03",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1525046400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318674,
+            "bulletinNumber": "EOL10936",
+            "bulletinProductId": "WS-X4648-RJ45-E",
+            "bulletinTitle": "Cisco Catalyst 4500E Line Cards",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-737185.html",
+            "publishedDate": "2016-05-03T06:25:03",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1525046400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318677,
+            "bulletinNumber": "EOL10936",
+            "bulletinProductId": "WS-X4648-RJ45V+E",
+            "bulletinTitle": "Cisco Catalyst 4500E Line Cards",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-737185.html",
+            "publishedDate": "2016-05-03T06:25:03",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1525046400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 77867,
+            "bulletinNumber": "EOL1094",
+            "bulletinProductId": "WS-C2950G-24-EI",
+            "bulletinTitle": "Catalyst 2950 Series Switch",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps628/prod_eol_notice0900aecd804658c9.html",
+            "publishedDate": "2015-08-14T14:34:56",
+            "eoLifeExternalAnnouncementDate": "2006-04-17T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2006-03-06T00:00:00Z",
+            "eoSaleDate": "2006-12-31T00:00:00Z",
+            "lastDateOfSupport": "2007-04-01T00:00:00Z",
+            "lastShipDate": "2007-04-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-12-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-12-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2008-12-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2011-03-31T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1325289600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 77873,
+            "bulletinNumber": "EOL1094",
+            "bulletinProductId": "WS-C2950T-24",
+            "bulletinTitle": "Catalyst 2950 Series Switch",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps628/prod_eol_notice0900aecd804658c9.html",
+            "publishedDate": "2015-08-14T14:34:56",
+            "eoLifeExternalAnnouncementDate": "2006-04-17T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2006-03-06T00:00:00Z",
+            "eoSaleDate": "2006-12-31T00:00:00Z",
+            "lastDateOfSupport": "2007-04-01T00:00:00Z",
+            "lastShipDate": "2007-04-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2007-12-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2007-12-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2008-12-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2011-03-31T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1325289600000",
+                    "nextHwEolMilestone": "0",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 322050,
+            "bulletinNumber": "EOL10972",
+            "bulletinProductId": "A9K-RSP440-SE",
+            "bulletinTitle": "Cisco ASR 9000 Series Route Switch Processor 440 (2nd Generation)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/eos-eol-notice-c51-737819.html",
+            "publishedDate": "2019-12-23T23:09:14",
+            "eoLifeExternalAnnouncementDate": "2016-08-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-07-31T00:00:00Z",
+            "eoSaleDate": "2017-08-30T00:00:00Z",
+            "lastDateOfSupport": "2022-08-31T00:00:00Z",
+            "lastShipDate": "2017-11-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-08-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-08-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-08-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-08-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-11-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1535587200000",
+                    "nextHwEolMilestone": "1638057600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 322052,
+            "bulletinNumber": "EOL10972",
+            "bulletinProductId": "A9K-RSP440-TR",
+            "bulletinTitle": "Cisco ASR 9000 Series Route Switch Processor 440 (2nd Generation)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/eos-eol-notice-c51-737819.html",
+            "publishedDate": "2019-12-23T23:09:14",
+            "eoLifeExternalAnnouncementDate": "2016-08-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-07-31T00:00:00Z",
+            "eoSaleDate": "2017-08-30T00:00:00Z",
+            "lastDateOfSupport": "2022-08-31T00:00:00Z",
+            "lastShipDate": "2017-11-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-08-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-08-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-08-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-08-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-11-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1535587200000",
+                    "nextHwEolMilestone": "1638057600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 322056,
+            "bulletinNumber": "EOL10972",
+            "bulletinProductId": "ASR-9900-RP-TR",
+            "bulletinTitle": "Cisco ASR 9000 Series Route Switch Processor 440 (2nd Generation)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/eos-eol-notice-c51-737819.html",
+            "publishedDate": "2019-12-23T23:09:14",
+            "eoLifeExternalAnnouncementDate": "2016-08-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-07-31T00:00:00Z",
+            "eoSaleDate": "2017-08-30T00:00:00Z",
+            "lastDateOfSupport": "2017-11-29T00:00:00Z",
+            "lastShipDate": "2017-11-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-08-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-08-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-08-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-08-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-11-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1535587200000",
+                    "nextHwEolMilestone": "1638057600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 319344,
+            "bulletinNumber": "EOL10980",
+            "bulletinProductId": "AIR-OEAP602I-C-K9",
+            "bulletinTitle": "Cisco Aironet 600 Series OfficeExtend Access Point",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-600-series-officeextend-access-point/eos-eol-notice-c51-737354.html",
+            "publishedDate": "2016-06-06T20:53:55",
+            "eoLifeExternalAnnouncementDate": "2016-06-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-04T00:00:00Z",
+            "eoSaleDate": "2016-12-02T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-02T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1575244800000",
+                    "nextHwEolMilestone": "1614384000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 319350,
+            "bulletinNumber": "EOL10980",
+            "bulletinProductId": "AIR-OEAP602I-N-K9",
+            "bulletinTitle": "Cisco Aironet 600 Series OfficeExtend Access Point",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-600-series-officeextend-access-point/eos-eol-notice-c51-737354.html",
+            "publishedDate": "2016-06-06T20:53:55",
+            "eoLifeExternalAnnouncementDate": "2016-06-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-04T00:00:00Z",
+            "eoSaleDate": "2016-12-02T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-02T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1575244800000",
+                    "nextHwEolMilestone": "1614384000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 319353,
+            "bulletinNumber": "EOL10980",
+            "bulletinProductId": "AIR-OEAP602I-P-K9",
+            "bulletinTitle": "Cisco Aironet 600 Series OfficeExtend Access Point",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-600-series-officeextend-access-point/eos-eol-notice-c51-737354.html",
+            "publishedDate": "2016-06-06T20:53:55",
+            "eoLifeExternalAnnouncementDate": "2016-06-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-04T00:00:00Z",
+            "eoSaleDate": "2016-12-02T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-02T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1575244800000",
+                    "nextHwEolMilestone": "1614384000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 319359,
+            "bulletinNumber": "EOL10980",
+            "bulletinProductId": "AIR-OEAP602I-S-K9",
+            "bulletinTitle": "Cisco Aironet 600 Series OfficeExtend Access Point",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-600-series-officeextend-access-point/eos-eol-notice-c51-737354.html",
+            "publishedDate": "2016-06-06T20:53:55",
+            "eoLifeExternalAnnouncementDate": "2016-06-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-04T00:00:00Z",
+            "eoSaleDate": "2016-12-02T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-02T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1575244800000",
+                    "nextHwEolMilestone": "1614384000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 319046,
+            "bulletinNumber": "EOL10987",
+            "bulletinProductId": "SFP-GE-T",
+            "bulletinTitle": "Select Cisco 1000BASE-T SFP Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-737325.html",
+            "publishedDate": "2016-06-01T09:33:11",
+            "eoLifeExternalAnnouncementDate": "2016-06-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-02T00:00:00Z",
+            "eoSaleDate": "2017-06-01T00:00:00Z",
+            "lastDateOfSupport": "2022-05-31T00:00:00Z",
+            "lastShipDate": "2017-08-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-06-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-06-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2019-06-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-08-30T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1527811200000",
+                    "nextHwEolMilestone": "1630281600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318969,
+            "bulletinNumber": "EOL10987",
+            "bulletinProductId": "GLC-T",
+            "bulletinTitle": "Select Cisco 1000BASE-T SFP Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-737325.html",
+            "publishedDate": "2016-06-01T09:33:11",
+            "eoLifeExternalAnnouncementDate": "2016-06-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-02T00:00:00Z",
+            "eoSaleDate": "2017-06-01T00:00:00Z",
+            "lastDateOfSupport": "2022-05-31T00:00:00Z",
+            "lastShipDate": "2017-08-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-06-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-06-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2019-06-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-08-30T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1527811200000",
+                    "nextHwEolMilestone": "1630281600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 321155,
+            "bulletinNumber": "EOL10988",
+            "bulletinProductId": "X2-10GB-ER",
+            "bulletinTitle": "Cisco 10GBASE-ER and 10GBASE-ZR X2 Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-737526.html",
+            "publishedDate": "2016-07-06T09:31:10",
+            "eoLifeExternalAnnouncementDate": "2016-07-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-06-01T00:00:00Z",
+            "eoSaleDate": "2017-07-01T00:00:00Z",
+            "lastDateOfSupport": "2022-06-30T00:00:00Z",
+            "lastShipDate": "2017-09-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-07-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-07-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2019-07-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-09-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1530403200000",
+                    "nextHwEolMilestone": "1632873600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 321159,
+            "bulletinNumber": "EOL10988",
+            "bulletinProductId": "X2-10GB-ZR",
+            "bulletinTitle": "Cisco 10GBASE-ER and 10GBASE-ZR X2 Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-737526.html",
+            "publishedDate": "2016-07-06T09:31:10",
+            "eoLifeExternalAnnouncementDate": "2016-07-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-06-01T00:00:00Z",
+            "eoSaleDate": "2017-07-01T00:00:00Z",
+            "lastDateOfSupport": "2022-06-30T00:00:00Z",
+            "lastShipDate": "2017-09-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-07-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-07-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2019-07-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-09-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1530403200000",
+                    "nextHwEolMilestone": "1632873600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 319396,
+            "bulletinNumber": "EOL10990",
+            "bulletinProductId": "C819HG-4G-G-K9",
+            "bulletinTitle": "Cisco 819 Hardened Integrated Services Router with High-Speed Packet Access",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-737365.html",
+            "publishedDate": "2016-06-06T20:54:31",
+            "eoLifeExternalAnnouncementDate": "2016-06-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-04T00:00:00Z",
+            "eoSaleDate": "2016-08-30T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-02T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1575244800000",
+                    "nextHwEolMilestone": "1614384000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 321044,
+            "bulletinNumber": "EOL11001",
+            "bulletinProductId": "UCSB-B420-M3",
+            "bulletinTitle": "Cisco UCS B420 M3 Blade Server",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-b-series-blade-servers/eos-eol-notice-c51-737363.html",
+            "publishedDate": "2017-03-31T23:41:41",
+            "eoLifeExternalAnnouncementDate": "2016-07-02T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-06-02T00:00:00Z",
+            "eoSaleDate": "2016-12-31T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-31T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577750400000",
+                    "nextHwEolMilestone": "1616889600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 321032,
+            "bulletinNumber": "EOL11002",
+            "bulletinProductId": "UCSB-B200-M3",
+            "bulletinTitle": "Cisco UCS B200 M3 Blade Server",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-b-series-blade-servers/eos-eol-notice-c51-737399.html",
+            "publishedDate": "2017-03-30T22:15:56",
+            "eoLifeExternalAnnouncementDate": "2016-07-02T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-06-02T00:00:00Z",
+            "eoSaleDate": "2016-12-31T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-31T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577750400000",
+                    "nextHwEolMilestone": "1616889600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 323284,
+            "bulletinNumber": "EOL11004",
+            "bulletinProductId": "UCSB-EX-M4-1=",
+            "bulletinTitle": "Select Cisco UCS B260 and B460 M4 Blade Servers",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-b-series-blade-servers/eos-eol-notice-c51-738077.html",
+            "publishedDate": "2017-03-30T22:05:05",
+            "eoLifeExternalAnnouncementDate": "2016-10-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-09-19T00:00:00Z",
+            "eoSaleDate": "2017-04-19T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-18T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-19T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-19T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-04-19T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-04-19T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-15T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2020-04-18T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1587168000000",
+                    "nextHwEolMilestone": "1626307200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 321060,
+            "bulletinNumber": "EOL11005",
+            "bulletinProductId": "UCSC-C220-M3L",
+            "bulletinTitle": "Cisco UCS C220 M3 Rack Server",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-737442.html",
+            "publishedDate": "2017-03-30T22:15:20",
+            "eoLifeExternalAnnouncementDate": "2016-07-02T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-06-02T00:00:00Z",
+            "eoSaleDate": "2016-12-31T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-31T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577750400000",
+                    "nextHwEolMilestone": "1616889600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 321066,
+            "bulletinNumber": "EOL11005",
+            "bulletinProductId": "UCSC-C220-M3S",
+            "bulletinTitle": "Cisco UCS C220 M3 Rack Server",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-737442.html",
+            "publishedDate": "2017-03-30T22:15:20",
+            "eoLifeExternalAnnouncementDate": "2016-07-02T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-06-02T00:00:00Z",
+            "eoSaleDate": "2016-12-31T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-31T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577750400000",
+                    "nextHwEolMilestone": "1616889600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 327031,
+            "bulletinNumber": "EOL11006",
+            "bulletinProductId": "UCSC-PSU-450W=",
+            "bulletinTitle": "Select Cisco UCS C220 M3 Rack Server Accessories",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-738353.html",
+            "publishedDate": "2016-12-22T10:20:31",
+            "eoLifeExternalAnnouncementDate": "2016-12-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-11-19T00:00:00Z",
+            "eoSaleDate": "2017-12-31T00:00:00Z",
+            "lastDateOfSupport": "2022-12-31T00:00:00Z",
+            "lastShipDate": "2018-03-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-12-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-12-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2019-12-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2022-03-31T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1546214400000",
+                    "nextHwEolMilestone": "1648684800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 321074,
+            "bulletinNumber": "EOL11008",
+            "bulletinProductId": "UCSC-C240-M3L",
+            "bulletinTitle": "Cisco UCS C240 M3 Rack Server",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-737460.html",
+            "publishedDate": "2017-03-30T22:14:39",
+            "eoLifeExternalAnnouncementDate": "2016-07-02T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-06-02T00:00:00Z",
+            "eoSaleDate": "2016-12-31T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-31T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577750400000",
+                    "nextHwEolMilestone": "1616889600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 321081,
+            "bulletinNumber": "EOL11008",
+            "bulletinProductId": "UCSC-C240-M3S",
+            "bulletinTitle": "Cisco UCS C240 M3 Rack Server",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-737460.html",
+            "publishedDate": "2017-03-30T22:14:39",
+            "eoLifeExternalAnnouncementDate": "2016-07-02T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-06-02T00:00:00Z",
+            "eoSaleDate": "2016-12-31T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-31T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577750400000",
+                    "nextHwEolMilestone": "1616889600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 321086,
+            "bulletinNumber": "EOL11008",
+            "bulletinProductId": "UCSC-C240-M3S2",
+            "bulletinTitle": "Cisco UCS C240 M3 Rack Server",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/eos-eol-notice-c51-737460.html",
+            "publishedDate": "2017-03-30T22:14:39",
+            "eoLifeExternalAnnouncementDate": "2016-07-02T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-06-02T00:00:00Z",
+            "eoSaleDate": "2016-12-31T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-31T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577750400000",
+                    "nextHwEolMilestone": "1616889600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 319260,
+            "bulletinNumber": "EOL11014",
+            "bulletinProductId": "UCSME-4308",
+            "bulletinTitle": "Cisco UCS M series Modular Servers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-m-series-modular-servers/eos-eol-notice-c51-737358.html",
+            "publishedDate": "2018-05-17T21:31:26",
+            "eoLifeExternalAnnouncementDate": "2016-06-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-04T00:00:00Z",
+            "eoSaleDate": "2016-12-02T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-12-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1512172800000",
+                    "nextHwEolMilestone": "1614384000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 319217,
+            "bulletinNumber": "EOL11014",
+            "bulletinProductId": "UCSME-142-M4",
+            "bulletinTitle": "Cisco UCS M series Modular Servers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-m-series-modular-servers/eos-eol-notice-c51-737358.html",
+            "publishedDate": "2018-05-17T21:31:26",
+            "eoLifeExternalAnnouncementDate": "2016-06-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-04T00:00:00Z",
+            "eoSaleDate": "2016-12-02T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-12-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1512172800000",
+                    "nextHwEolMilestone": "1614384000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320053,
+            "bulletinNumber": "EOL11019",
+            "bulletinProductId": "CISCO1941W-A/K9",
+            "bulletinTitle": "Cisco 1941W Integrated Services Router",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/1900-series-integrated-services-routers-isr/eos-eol-notice-c51-737501.html",
+            "publishedDate": "2016-06-30T12:42:50",
+            "eoLifeExternalAnnouncementDate": "2016-06-27T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-28T00:00:00Z",
+            "eoSaleDate": "2016-12-26T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-26T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-26T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-26T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-12-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-23T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1514246400000",
+                    "nextHwEolMilestone": "1616457600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320056,
+            "bulletinNumber": "EOL11019",
+            "bulletinProductId": "CISCO1941W-C/K9",
+            "bulletinTitle": "Cisco 1941W Integrated Services Router",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/1900-series-integrated-services-routers-isr/eos-eol-notice-c51-737501.html",
+            "publishedDate": "2016-06-30T12:42:50",
+            "eoLifeExternalAnnouncementDate": "2016-06-27T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-28T00:00:00Z",
+            "eoSaleDate": "2016-12-26T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-26T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-26T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-26T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-12-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-23T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1514246400000",
+                    "nextHwEolMilestone": "1616457600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320061,
+            "bulletinNumber": "EOL11019",
+            "bulletinProductId": "CISCO1941W-N/K9",
+            "bulletinTitle": "Cisco 1941W Integrated Services Router",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/1900-series-integrated-services-routers-isr/eos-eol-notice-c51-737501.html",
+            "publishedDate": "2016-06-30T12:42:50",
+            "eoLifeExternalAnnouncementDate": "2016-06-27T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-28T00:00:00Z",
+            "eoSaleDate": "2016-12-26T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-26T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-26T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-26T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-12-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-23T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1514246400000",
+                    "nextHwEolMilestone": "1616457600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320063,
+            "bulletinNumber": "EOL11019",
+            "bulletinProductId": "CISCO1941W-T/K9",
+            "bulletinTitle": "Cisco 1941W Integrated Services Router",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/1900-series-integrated-services-routers-isr/eos-eol-notice-c51-737501.html",
+            "publishedDate": "2016-06-30T12:42:50",
+            "eoLifeExternalAnnouncementDate": "2016-06-27T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-28T00:00:00Z",
+            "eoSaleDate": "2016-12-26T00:00:00Z",
+            "lastDateOfSupport": "2017-03-26T00:00:00Z",
+            "lastShipDate": "2017-03-26T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-26T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-26T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-12-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-23T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1514246400000",
+                    "nextHwEolMilestone": "1616457600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 321526,
+            "bulletinNumber": "EOL11044",
+            "bulletinProductId": "CDE250-K9",
+            "bulletinTitle": "Cisco Content Delivery Engine 250",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/video/content-delivery-engine-series/eos-eol-notice-c51-737532.html",
+            "publishedDate": "2016-11-15T07:21:25",
+            "eoLifeExternalAnnouncementDate": "2016-07-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-06-15T00:00:00Z",
+            "eoSaleDate": "2017-01-13T00:00:00Z",
+            "lastDateOfSupport": "2022-01-31T00:00:00Z",
+            "lastShipDate": "2017-04-13T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-01-13T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-01-13T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2019-01-13T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-04-10T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1515801600000",
+                    "nextHwEolMilestone": "1618012800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320769,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-SAP2602I-N-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320772,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-SAP2602I-Q-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320778,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-SAP2602I-S-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320784,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-SAP2602I-Z-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320346,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-CAP2602E-A-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320349,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-CAP2602E-B-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320352,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-CAP2602E-C-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320355,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-CAP2602E-E-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320367,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-CAP2602E-N-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320376,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-CAP2602E-S-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320379,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-CAP2602E-T-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320382,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-CAP2602E-Z-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320398,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-CAP2602I-A-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320402,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-CAP2602I-B-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320405,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-CAP2602I-C-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320409,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-CAP2602I-E-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320423,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-CAP2602I-N-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320427,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-CAP2602I-Q-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320438,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-CAP2602I-T-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320697,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-SAP2602E-A-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320442,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-CAP2602I-Z-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320700,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-SAP2602E-B-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320703,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-SAP2602E-C-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320706,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-SAP2602E-E-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320197,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-AP2602E-UXK9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2017-03-29T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320201,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-AP2602I-UXK9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320721,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-SAP2602E-Q-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320727,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-SAP2602E-S-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320730,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-SAP2602E-T-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320748,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-SAP2602I-A-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320751,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-SAP2602I-B-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320754,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-SAP2602I-C-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320757,
+            "bulletinNumber": "EOL11045",
+            "bulletinProductId": "AIR-SAP2602I-E-K9",
+            "bulletinTitle": "Cisco Aironet 2600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/eos-eol-notice-c51-737512.html",
+            "publishedDate": "2016-07-01T09:33:59",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320268,
+            "bulletinNumber": "EOL11047",
+            "bulletinProductId": "AIR-CAP1602I-A-K9",
+            "bulletinTitle": "Cisco Aironet 1600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1600-series/eos-eol-notice-c51-737506.html",
+            "publishedDate": "2016-07-01T09:32:33",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320272,
+            "bulletinNumber": "EOL11047",
+            "bulletinProductId": "AIR-CAP1602I-B-K9",
+            "bulletinTitle": "Cisco Aironet 1600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1600-series/eos-eol-notice-c51-737506.html",
+            "publishedDate": "2016-07-01T09:32:33",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320276,
+            "bulletinNumber": "EOL11047",
+            "bulletinProductId": "AIR-CAP1602I-C-K9",
+            "bulletinTitle": "Cisco Aironet 1600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1600-series/eos-eol-notice-c51-737506.html",
+            "publishedDate": "2016-07-01T09:32:33",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320280,
+            "bulletinNumber": "EOL11047",
+            "bulletinProductId": "AIR-CAP1602I-E-K9",
+            "bulletinTitle": "Cisco Aironet 1600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1600-series/eos-eol-notice-c51-737506.html",
+            "publishedDate": "2016-07-01T09:32:33",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320300,
+            "bulletinNumber": "EOL11047",
+            "bulletinProductId": "AIR-CAP1602I-N-K9",
+            "bulletinTitle": "Cisco Aironet 1600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1600-series/eos-eol-notice-c51-737506.html",
+            "publishedDate": "2016-07-01T09:32:33",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320304,
+            "bulletinNumber": "EOL11047",
+            "bulletinProductId": "AIR-CAP1602I-Q-K9",
+            "bulletinTitle": "Cisco Aironet 1600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1600-series/eos-eol-notice-c51-737506.html",
+            "publishedDate": "2016-07-01T09:32:33",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320312,
+            "bulletinNumber": "EOL11047",
+            "bulletinProductId": "AIR-CAP1602I-S-K9",
+            "bulletinTitle": "Cisco Aironet 1600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1600-series/eos-eol-notice-c51-737506.html",
+            "publishedDate": "2016-07-01T09:32:33",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320316,
+            "bulletinNumber": "EOL11047",
+            "bulletinProductId": "AIR-CAP1602I-T-K9",
+            "bulletinTitle": "Cisco Aironet 1600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1600-series/eos-eol-notice-c51-737506.html",
+            "publishedDate": "2016-07-01T09:32:33",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2017-03-29T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320320,
+            "bulletinNumber": "EOL11047",
+            "bulletinProductId": "AIR-CAP1602I-Z-K9",
+            "bulletinTitle": "Cisco Aironet 1600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1600-series/eos-eol-notice-c51-737506.html",
+            "publishedDate": "2016-07-01T09:32:33",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320588,
+            "bulletinNumber": "EOL11047",
+            "bulletinProductId": "AIR-SAP1602E-A-K9",
+            "bulletinTitle": "Cisco Aironet 1600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1600-series/eos-eol-notice-c51-737506.html",
+            "publishedDate": "2016-07-01T09:32:33",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320591,
+            "bulletinNumber": "EOL11047",
+            "bulletinProductId": "AIR-SAP1602E-B-K9",
+            "bulletinTitle": "Cisco Aironet 1600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1600-series/eos-eol-notice-c51-737506.html",
+            "publishedDate": "2016-07-01T09:32:33",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320594,
+            "bulletinNumber": "EOL11047",
+            "bulletinProductId": "AIR-SAP1602E-C-K9",
+            "bulletinTitle": "Cisco Aironet 1600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1600-series/eos-eol-notice-c51-737506.html",
+            "publishedDate": "2016-07-01T09:32:33",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 320597,
+            "bulletinNumber": "EOL11047",
+            "bulletinProductId": "AIR-SAP1602E-E-K9",
+            "bulletinTitle": "Cisco Aironet 1600 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1600-series/eos-eol-notice-c51-737506.html",
+            "publishedDate": "2016-07-01T09:32:33",
+            "eoLifeExternalAnnouncementDate": "2016-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-31T00:00:00Z",
+            "eoSaleDate": "2016-12-29T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-03-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1577577600000",
+                    "nextHwEolMilestone": "1616716800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        }
+    ],
+    "Pagination": {
+        "page": 6,
+        "pages": 23,
+        "rows": 100,
+        "total": 2230
+    }
+}

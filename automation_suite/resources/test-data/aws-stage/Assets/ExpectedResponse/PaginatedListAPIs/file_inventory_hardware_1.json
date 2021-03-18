@@ -1,0 +1,4851 @@
+{
+    "data": [
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,91M8S6MDXFD,C9800-CL-K9,NA",
+            "hostname": "eWLC",
+            "managementAddress": "10.13.1.8",
+            "hwInstanceId": "91M8S6MDXFD,C9800-CL-K9,NA,91M8S6MDXFD,C9800-CL-K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "91M8S6MDXFD",
+            "productId": "C9800-CL-K9",
+            "productFamily": "Cisco Catalyst 9800 Wireless Controllers for Cloud",
+            "productType": "Wireless",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+Catalyst+9800-CL+Wireless+Controller+for+Cloud",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "a7cd3fba-422c-46c0-9251-02c62c9338d7",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,91M8S6MDXFD,C9800-CL-K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,9PLIFWB9CE2,IOSXRV,NA",
+            "hostname": "Router.cisco.com",
+            "managementAddress": "10.126.77.249",
+            "hwInstanceId": "9PLIFWB9CE2,IOSXRV,NA,9PLIFWB9CE2,IOSXRV,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "9PLIFWB9CE2",
+            "productId": "",
+            "productFamily": "Cisco Carrier Routing System",
+            "productType": "Routers",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "%5ECisco+CRS-1+Series+16+Slots+Line+Card+Chassis+Only,CRS+16+Slots+Line+Card+Chassis+for+CRS-16%2FS-B",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "05c33ab4-b5ad-4560-8a5c-6fd6b7e6f95e",
+            "isCollector": false,
+            "groupInfos": [
+                {
+                    "groupId": 672,
+                    "groupName": "DontDeleteUsedForAutomation",
+                    "groupDefinition": null
+                }
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,9PLIFWB9CE2,IOSXRV,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,SMC1803008B,C6807-XL,NA",
+            "hostname": "6807",
+            "managementAddress": "10.13.1.1",
+            "hwInstanceId": "AGA1734X115,X2-10GB-SR,NA,NA,SMC1803008B,C6807-XL,NA",
+            "containingHwId": "SMC1803008B,C6807-XL,NA,SMC1803008B,C6807-XL,NA,NA",
+            "serialNumber": "AGA1734X115",
+            "productId": "X2-10GB-SR",
+            "productFamily": "Transceiver Modules",
+            "productType": "Modules",
+            "productName": "10GBASE-SR X2 Module",
+            "equipmentType": "MODULE",
+            "productDescription": "10GBASE-SR+X2+Module",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "e885ddb3-99b8-4b69-b4c3-ee8808d8d270",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,SMC1803008B,C6807-XL,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,SMC1803008B,C6807-XL,NA",
+            "hostname": "6807",
+            "managementAddress": "10.13.1.1",
+            "hwInstanceId": "AGA1734X115,X2-10GB-SR,NA,NA,SMC1803008B,C6807-XL,NA",
+            "containingHwId": "SMC1803008B,C6807-XL,NA,SMC1803008B,C6807-XL,NA,NA",
+            "serialNumber": "AGA1734X115",
+            "productId": "X2-10GB-SR",
+            "productFamily": "Transceiver Modules",
+            "productType": "Modules",
+            "productName": "10GBASE-SR X2 Module",
+            "equipmentType": "MODULE",
+            "productDescription": "10GBASE-SR+X2+Module",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "e885ddb3-99b8-4b69-b4c3-ee8808d8d270",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,SMC1803008B,C6807-XL,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,SMC1803008B,C6807-XL,NA",
+            "hostname": "6807",
+            "managementAddress": "10.13.1.1",
+            "hwInstanceId": "AGA1734X115,X2-10GB-SR,NA,NA,SMC1803008B,C6807-XL,NA",
+            "containingHwId": "SMC1803008B,C6807-XL,NA,SMC1803008B,C6807-XL,NA,NA",
+            "serialNumber": "AGA1734X115",
+            "productId": "X2-10GB-SR",
+            "productFamily": "Transceiver Modules",
+            "productType": "Modules",
+            "productName": "10GBASE-SR X2 Module",
+            "equipmentType": "MODULE",
+            "productDescription": "10GBASE-SR+X2+Module",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "e885ddb3-99b8-4b69-b4c3-ee8808d8d270",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,SMC1803008B,C6807-XL,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FOX2008GBAT,ASR1002-X,NA",
+            "hostname": "ASR1002-X.cisco.com",
+            "managementAddress": "10.13.0.2",
+            "hwInstanceId": "AGS1023L1KB,QBCU-5798R,NA,NA,FOX2008GBAT,ASR1002-X,NA",
+            "containingHwId": "FOX2008GBAT,ASR1002-X,NA,FOX2008GBAT,ASR1002-X,NA,NA",
+            "serialNumber": "AGS1023L1KB",
+            "productId": "GLC-T",
+            "productFamily": "Transceiver Modules",
+            "productType": "Modules",
+            "productName": "^1000BASE-T SFP",
+            "equipmentType": "MODULE",
+            "productDescription": "%5E1000BASE-T+SFP",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "91d02604-fe07-4ca1-80ba-0230a36d84ad",
+            "isCollector": false,
+            "groupInfos": [
+                {
+                    "groupId": 672,
+                    "groupName": "DontDeleteUsedForAutomation",
+                    "groupDefinition": null
+                }
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2008GBAT,ASR1002-X,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FCH2220V08G,BE6M-M4-K9=,NA",
+            "hostname": "ART2201F9XU",
+            "managementAddress": "",
+            "hwInstanceId": "ART2201F9XU,CIT-PSU1-770W,NA,NA,FCH2220V08G,BE6M-M4-K9=,NA",
+            "containingHwId": "FCH2220V08G,BE6M-M4-K9=,NA,FCH2220V08G,BE6M-M4-K9=,NA,NA",
+            "serialNumber": "ART2201F9XU",
+            "productId": "UCSC-PSU1-770W",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "^770W AC Hot-Plug Power Supply for 1U C-Series Rack Server",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "5239082005",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCH2220V08G,BE6M-M4-K9=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,B1AV02E00078,CTS-C40CODEC-K9-,NA",
+            "hostname": "B1AV02E00078",
+            "managementAddress": "",
+            "hwInstanceId": "B1AV02E00078,CTS-C40CODEC-K9-,NA,B1AV02E00078,CTS-C40CODEC-K9-,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "B1AV02E00078",
+            "productId": "CTS-C40CODEC-K9",
+            "productFamily": "Cisco Telepresence Integrator C Series",
+            "productType": "Collaboration Endpoints",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "^^^Codec C40 buried option",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "913710977",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,B1AV02E00078,CTS-C40CODEC-K9-,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FGL200610XP,ISR4451-X-SEC/K9,NA",
+            "hostname": "Device_10_0_5_1",
+            "managementAddress": "10.0.5.1",
+            "hwInstanceId": "BFGL200610XP,PWR-POE-4450,NA,NA,FGL200610XP,ISR4451-X-SEC/K9,NA",
+            "containingHwId": "FGL200610XP,ISR4451-X-SEC/K9,NA,FGL200610XP,ISR4451-X-SEC/K9,NA,NA",
+            "serialNumber": "BFGL200610XP",
+            "productId": "PWR-POE-4450",
+            "productFamily": "ISR Modules",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Single+Power+Over+Ethernet+Module+for+Cisco+ISR4450",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "1cc9c737-37ff-38a7-88c2-1ab449b1cf86",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FGL200610XP,ISR4451-X-SEC/K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FGL200610XP,ISR4451-X-SEC/K9,NA",
+            "hostname": "Device_10_0_5_1",
+            "managementAddress": "10.0.5.1",
+            "hwInstanceId": "BFGL200610XP,PWR-POE-4450,NA,NA,FGL200610XP,ISR4451-X-SEC/K9,NA",
+            "containingHwId": "FGL200610XP,ISR4451-X-SEC/K9,NA,FGL200610XP,ISR4451-X-SEC/K9,NA,NA",
+            "serialNumber": "BFGL200610XP",
+            "productId": "PWR-POE-4450",
+            "productFamily": "ISR Modules",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Single+Power+Over+Ethernet+Module+for+Cisco+ISR4450",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "1cc9c737-37ff-38a7-88c2-1ab449b1cf86",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FGL200610XP,ISR4451-X-SEC/K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FGL200610XP,ISR4451-X-SEC/K9,NA",
+            "hostname": "Device_10_0_5_1",
+            "managementAddress": "10.0.5.1",
+            "hwInstanceId": "BFGL200610XP,PWR-POE-4450,NA,NA,FGL200610XP,ISR4451-X-SEC/K9,NA",
+            "containingHwId": "FGL200610XP,ISR4451-X-SEC/K9,NA,FGL200610XP,ISR4451-X-SEC/K9,NA,NA",
+            "serialNumber": "BFGL200610XP",
+            "productId": "PWR-POE-4450",
+            "productFamily": "ISR Modules",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Single+Power+Over+Ethernet+Module+for+Cisco+ISR4450",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "1cc9c737-37ff-38a7-88c2-1ab449b1cf86",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FGL200610XP,ISR4451-X-SEC/K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FOC2306U0EQ,C9300-24T,NA",
+            "hostname": "Device_10_0_2_1",
+            "managementAddress": "10.0.2.1",
+            "hwInstanceId": "DFOC2306U0EQ,C9300-NM-8X,NA,NA,FOC2306U0EQ,C9300-24T,NA",
+            "containingHwId": "FOC2306U0EQ,C9300-24T,NA,FOC2306U0EQ,C9300-24T,NA,NA",
+            "serialNumber": "DFOC2306U0EQ",
+            "productId": "C9300-NM-8X",
+            "productFamily": "Catalyst 9K Series Modules",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Catalyst+9300+8+x+10GE+Network+Module",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "30832234-656f-3967-bb3e-9ea159b83440",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOC2306U0EQ,C9300-24T,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FXS2220Q0CZ,C9407R,NA",
+            "hostname": "Device_10_0_1_1",
+            "managementAddress": "10.0.1.1",
+            "hwInstanceId": "DFXS2220Q0CZ,C9400-SUP-1XL,NA,NA,FXS2220Q0CZ,C9407R,NA",
+            "containingHwId": "FXS2220Q0CZ,C9407R,NA,FXS2220Q0CZ,C9407R,NA,NA",
+            "serialNumber": "DFXS2220Q0CZ",
+            "productId": "C9400-SUP-1XL",
+            "productFamily": "Catalyst 9K Series Modules",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Cisco+Catalyst+9400+Series+Supervisor+1XL+Module",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "543abbc8-10ce-3c4b-a39c-6dcd3ee85872",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FXS2220Q0CZ,C9407R,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FXS2319Q0X8,C9606R,NA",
+            "hostname": "Device_10_0_7_1",
+            "managementAddress": "10.0.7.1",
+            "hwInstanceId": "DFXS2319Q0X8,C9600-LC-24C,NA,NA,FXS2319Q0X8,C9606R,NA",
+            "containingHwId": "FXS2319Q0X8,C9606R,NA,FXS2319Q0X8,C9606R,NA,NA",
+            "serialNumber": "DFXS2319Q0X8",
+            "productId": "C9600-LC-24C",
+            "productFamily": "Catalyst 9K Series Modules",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Cisco+Catalyst+9600+Series+24-Port+40GE%2F12-Port+100GE",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "36ec124f-9845-3d7d-a95e-6d664b56d894",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FXS2319Q0X8,C9606R,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "hostname": "DTM201800HP",
+            "managementAddress": "",
+            "hwInstanceId": "DTM201800HP,UCSB-PSU-2500ACDV,NA,NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "containingHwId": "FOX2032GH5G,UCSB-5108-AC2=,NA,FOX2032GH5G,UCSB-5108-AC2=,NA,NA",
+            "serialNumber": "DTM201800HP",
+            "productId": "UCSB-PSU-2500ACDV",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "2500W Platinum AC Hot Plug Power Supply - DV",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831298703",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "hostname": "DTM201800HP",
+            "managementAddress": "",
+            "hwInstanceId": "DTM201800HP,UCSB-PSU-2500ACDV,NA,NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "containingHwId": "FOX2032GH5G,UCSB-5108-AC2=,NA,FOX2032GH5G,UCSB-5108-AC2=,NA,NA",
+            "serialNumber": "DTM201800HP",
+            "productId": "UCSB-PSU-2500ACDV",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "2500W Platinum AC Hot Plug Power Supply - DV",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831298703",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "hostname": "DTM201800HP",
+            "managementAddress": "",
+            "hwInstanceId": "DTM201800HP,UCSB-PSU-2500ACDV,NA,NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "containingHwId": "FOX2032GH5G,UCSB-5108-AC2=,NA,FOX2032GH5G,UCSB-5108-AC2=,NA,NA",
+            "serialNumber": "DTM201800HP",
+            "productId": "UCSB-PSU-2500ACDV",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "2500W Platinum AC Hot Plug Power Supply - DV",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831298703",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "hostname": "DTM201800HP",
+            "managementAddress": "",
+            "hwInstanceId": "DTM201800HP,UCSB-PSU-2500ACDV,NA,NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "containingHwId": "FOX2032GH5G,UCSB-5108-AC2=,NA,FOX2032GH5G,UCSB-5108-AC2=,NA,NA",
+            "serialNumber": "DTM201800HP",
+            "productId": "UCSB-PSU-2500ACDV",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "2500W Platinum AC Hot Plug Power Supply - DV",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831298703",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FGL200610XP,ISR4451-X-SEC/K9,NA",
+            "hostname": "Device_10_0_5_1",
+            "managementAddress": "10.0.5.1",
+            "hwInstanceId": "BFGL200610XP,PWR-POE-4450,NA,NA,FGL200610XP,ISR4451-X-SEC/K9,NA",
+            "containingHwId": "FGL200610XP,ISR4451-X-SEC/K9,NA,FGL200610XP,ISR4451-X-SEC/K9,NA,NA",
+            "serialNumber": "BFGL200610XP",
+            "productId": "PWR-POE-4450",
+            "productFamily": "ISR Modules",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Single+Power+Over+Ethernet+Module+for+Cisco+ISR4450",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "1cc9c737-37ff-38a7-88c2-1ab449b1cf86",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FGL200610XP,ISR4451-X-SEC/K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FOC2306U0EQ,C9300-24T,NA",
+            "hostname": "Device_10_0_2_1",
+            "managementAddress": "10.0.2.1",
+            "hwInstanceId": "EFOC2306U0EQ,C9300-24T,NA,FOC2306U0EQ,C9300-24T,NA,NA",
+            "containingHwId": "FOC2306U0EQ,C9300-24T,NA,FOC2306U0EQ,C9300-24T,NA,NA",
+            "serialNumber": "EFOC2306U0EQ",
+            "productId": "C9300-24T",
+            "productFamily": "Cisco Catalyst 9300 Series Switches",
+            "productType": "Switches",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Catalyst+9300+24-port+data+only%2CBase+switch",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304067",
+                    "useCase": "Campus Network Segmentation"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "30832234-656f-3967-bb3e-9ea159b83440",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,EFOC2306U0EQ,C9300-24T,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FCH1950S0FZ,VG204XM,NA",
+            "hostname": "FCH1950S0FZ",
+            "managementAddress": "",
+            "hwInstanceId": "FCH1950S0FZ,VG204XM,NA,FCH1950S0FZ,VG204XM,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FCH1950S0FZ",
+            "productId": "VG204XM",
+            "productFamily": "Cisco VG Series Gateways",
+            "productType": "Unified Communications",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco VG204XM Analog Voice Gateway",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1752705988",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCH1950S0FZ,VG204XM,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FCH2008V0TK,AIR-CT5520-K9,NA",
+            "hostname": "PnP-WLC5520-1",
+            "managementAddress": "172.23.111.11",
+            "hwInstanceId": "FCH2008V0TK,AIR-CT5520-K9,NA,FCH2008V0TK,AIR-CT5520-K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FCH2008V0TK",
+            "productId": "AIR-CT5520-K9",
+            "productFamily": "Cisco 5500 Series Wireless Controllers",
+            "productType": "Wireless",
+            "productName": "Cisco 5520 Wireless Controller w/rack mounting kit",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+5520+Wireless+Controller+w%2Frack+mounting+kit",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "b8225ca7-e3fa-4e9b-8304-bacd9c90736c",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCH2008V0TK,AIR-CT5520-K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FCH2032V1C1,WSA-S190-K9,NA",
+            "hostname": "FCH2028JA28",
+            "managementAddress": "",
+            "hwInstanceId": "FCH2028JA28,CCS-MLOM-I-RJ45,NA,NA,FCH2032V1C1,WSA-S190-K9,NA",
+            "containingHwId": "FCH2032V1C1,WSA-S190-K9,NA,FCH2032V1C1,WSA-S190-K9,NA,NA",
+            "serialNumber": "FCH2028JA28",
+            "productId": "UCSC-MLOM-IRJ45",
+            "productFamily": "UCS Adapters",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Cisco Content Sec i350 MLOM NIC",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831401301",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCH2032V1C1,WSA-S190-K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "hostname": "DTM201800HP",
+            "managementAddress": "",
+            "hwInstanceId": "DTM201800HP,UCSB-PSU-2500ACDV,NA,NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "containingHwId": "FOX2032GH5G,UCSB-5108-AC2=,NA,FOX2032GH5G,UCSB-5108-AC2=,NA,NA",
+            "serialNumber": "DTM201800HP",
+            "productId": "UCSB-PSU-2500ACDV",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "2500W Platinum AC Hot Plug Power Supply - DV",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831298703",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "hostname": "DTM201800HP",
+            "managementAddress": "",
+            "hwInstanceId": "DTM201800HP,UCSB-PSU-2500ACDV,NA,NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "containingHwId": "FOX2032GH5G,UCSB-5108-AC2=,NA,FOX2032GH5G,UCSB-5108-AC2=,NA,NA",
+            "serialNumber": "DTM201800HP",
+            "productId": "UCSB-PSU-2500ACDV",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "2500W Platinum AC Hot Plug Power Supply - DV",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831298703",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FCH2032V1C1,WSA-S190-K9,NA",
+            "hostname": "FCH2028JA28",
+            "managementAddress": "",
+            "hwInstanceId": "FCH2028JA28,CCS-MLOM-I-RJ45,NA,NA,FCH2032V1C1,WSA-S190-K9,NA",
+            "containingHwId": "FCH2032V1C1,WSA-S190-K9,NA,FCH2032V1C1,WSA-S190-K9,NA,NA",
+            "serialNumber": "FCH2028JA28",
+            "productId": "UCSC-MLOM-IRJ45",
+            "productFamily": "UCS Adapters",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Cisco Content Sec i350 MLOM NIC",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831401301",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCH2032V1C1,WSA-S190-K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FCH2034V4F2,AIR-CT5520-K9,NA",
+            "hostname": "CT5520",
+            "managementAddress": "10.13.4.7",
+            "hwInstanceId": "FCH2034V4F2,AIR-CT5520-K9,NA,FCH2034V4F2,AIR-CT5520-K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FCH2034V4F2",
+            "productId": "AIR-CT5520-K9",
+            "productFamily": "Cisco 5500 Series Wireless Controllers",
+            "productType": "Wireless",
+            "productName": "Cisco 5520 Wireless Controller w/rack mounting kit",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+5520+Wireless+Controller+w%2Frack+mounting+kit",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "3a9dc5c6-3a96-422b-89a3-aa9e6c1ad6dd",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCH2034V4F2,AIR-CT5520-K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FCH2037JSTA,UCSB-B200-M3-U,NA",
+            "hostname": "FCH20367YKG",
+            "managementAddress": "",
+            "hwInstanceId": "FCH20367YKG,UCSB-MLOM-40G-01,NA,NA,FCH2037JSTA,UCSB-B200-M3-U,NA",
+            "containingHwId": "FCH2037JSTA,UCSB-B200-M3-U,NA,FCH2037JSTA,UCSB-B200-M3-U,NA,NA",
+            "serialNumber": "FCH20367YKG",
+            "productId": "UCSB-MLOM-40G-01",
+            "productFamily": "UCS Adapters",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Cisco UCS VIC 1240 modular LOM for blade servers",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1845840809",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCH2037JSTA,UCSB-B200-M3-U,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FCH2037JSTA,UCSB-B200-M3-U,NA",
+            "hostname": "FCH20367YKG",
+            "managementAddress": "",
+            "hwInstanceId": "FCH20367YKG,UCSB-MLOM-40G-01,NA,NA,FCH2037JSTA,UCSB-B200-M3-U,NA",
+            "containingHwId": "FCH2037JSTA,UCSB-B200-M3-U,NA,FCH2037JSTA,UCSB-B200-M3-U,NA,NA",
+            "serialNumber": "FCH20367YKG",
+            "productId": "UCSB-MLOM-40G-01",
+            "productFamily": "UCS Adapters",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Cisco UCS VIC 1240 modular LOM for blade servers",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1845840809",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCH2037JSTA,UCSB-B200-M3-U,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FCH2125V0EC,UCSC-C220-M4S,NA",
+            "hostname": "FCH2125V0EC",
+            "managementAddress": "",
+            "hwInstanceId": "FCH2125V0EC,UCSC-C220-M4S,NA,FCH2125V0EC,UCSC-C220-M4S,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FCH2125V0EC",
+            "productId": "UCSC-C220-M4S",
+            "productFamily": "Cisco UCS C-Series Rack Servers",
+            "productType": "Servers - Unified Computing",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "UCS C220 M4 SFF w/o CPU, mem, HD, PCIe, PSU, rail kit",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "5134427181",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCH2125V0EC,UCSC-C220-M4S,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FCH2208V0U8,APIC-SERVER-L2,NA",
+            "hostname": "FCH2208V0U8",
+            "managementAddress": "",
+            "hwInstanceId": "FCH2208V0U8,APIC-SERVER-L2,NA,FCH2208V0U8,APIC-SERVER-L2,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FCH2208V0U8",
+            "productId": "APIC-SERVER-L2",
+            "productFamily": "Policy and Automation Controllers",
+            "productType": "Cloud and Systems Management",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "APIC Appliance -  Large Configurations (  1000 Edge Ports)",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "5213928523",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCH2208V0U8,APIC-SERVER-L2,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FCH2220V08G,BE6M-M4-K9=,NA",
+            "hostname": "ART2201F9XU",
+            "managementAddress": "",
+            "hwInstanceId": "ART2201F9XU,CIT-PSU1-770W,NA,NA,FCH2220V08G,BE6M-M4-K9=,NA",
+            "containingHwId": "FCH2220V08G,BE6M-M4-K9=,NA,FCH2220V08G,BE6M-M4-K9=,NA,NA",
+            "serialNumber": "ART2201F9XU",
+            "productId": "UCSC-PSU1-770W",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "^770W AC Hot-Plug Power Supply for 1U C-Series Rack Server",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "5239082005",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCH2220V08G,BE6M-M4-K9=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FCH2349L0EZ,C1-AIR-CT5520-K9,NA",
+            "hostname": "Device_10_0_3_1",
+            "managementAddress": "10.0.3.1",
+            "hwInstanceId": "FCH2349L0EZ,C1-AIR-CT5520-K9,NA,FCH2349L0EZ,C1-AIR-CT5520-K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FCH2349L0EZ",
+            "productId": "C1-AIR-CT5520-K9",
+            "productFamily": "AIRCTI2",
+            "productType": "",
+            "productName": "Cisco ONE - 5520 Wireless Controller w/rack mounting kit",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco ONE - 5520 Wireless Controller w/rack mounting kit",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "5b014333-9eac-38b2-b17f-3e889b5241b8",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCH2349L0EZ,C1-AIR-CT5520-K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FCL23450102,C9800-L-F-K9,NA",
+            "hostname": "Device_10_0_9_1",
+            "managementAddress": "10.0.9.1",
+            "hwInstanceId": "FCL23450102,C9800-L-F-K9,NA,FCL23450102,C9800-L-F-K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FCL23450102",
+            "productId": "C9800-CL-K9",
+            "productFamily": "Cisco Catalyst 9800 Wireless Controllers for Cloud",
+            "productType": "Wireless",
+            "productName": "Cisco Catalyst 9800-L Wireless Controller_Fiber Uplink",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+Catalyst+9800-CL+Wireless+Controller+for+Cloud",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "a533fe5c-ff81-3acf-9689-407d88705a22",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCL23450102,C9800-L-F-K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FCW1826L03L,AIR-CT5508-K9,NA",
+            "hostname": "MSK5508NO1",
+            "managementAddress": "10.13.2.7",
+            "hwInstanceId": "FCW1826L03L,AIR-CT5508-K9,NA,FCW1826L03L,AIR-CT5508-K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FCW1826L03L",
+            "productId": "AIR-CT5508-K9",
+            "productFamily": "Cisco 5500 Series Wireless Controllers",
+            "productType": "Wireless",
+            "productName": "^5508 Series Controller for up to 50 APs",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Base+PID+for+Cisco+5508+Series+Controller",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "20590efb-3e08-40e8-977d-ebaa230b45a6",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCW1826L03L,AIR-CT5508-K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FCW1828L038,AIR-CT5508-K9,NA",
+            "hostname": "NYC-WLC5508",
+            "managementAddress": "10.16.200.1",
+            "hwInstanceId": "FCW1828L038,AIR-CT5508-K9,NA,FCW1828L038,AIR-CT5508-K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FCW1828L038",
+            "productId": "AIR-CT5508-K9",
+            "productFamily": "Cisco 5500 Series Wireless Controllers",
+            "productType": "Wireless",
+            "productName": "^Cisco 5508 Series Wireless Controller for up to 12 APs",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Base+PID+for+Cisco+5508+Series+Controller",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "2",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "a72aed54-b814-40a8-81df-17b0df8eb87b",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCW1828L038,AIR-CT5508-K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FCW2042B4CR,C1-AIR-CT5508-K9,NA",
+            "hostname": "FCW2042B4CR",
+            "managementAddress": "",
+            "hwInstanceId": "FCW2042B4CR,C1-AIR-CT5508-K9,NA,FCW2042B4CR,C1-AIR-CT5508-K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FCW2042B4CR",
+            "productId": "AIR-CT5508-K9",
+            "productFamily": "Cisco 5500 Series Wireless Controllers",
+            "productType": "Wireless",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco ONE - 5500 series WLAN Controller w/ 0 AP lics",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "5060999656",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCW2042B4CR,C1-AIR-CT5508-K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FCW2139F0XF,WS-C3850-24XU-E,NA",
+            "hostname": "MX1-3850-CSW-1.cisco2.com",
+            "managementAddress": "10.32.255.100",
+            "hwInstanceId": "FCW2139F0XF,WS-C3850-24XU-E,NA,FCW2139F0XF,WS-C3850-24XU-E,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FCW2139F0XF",
+            "productId": "WS-C3850-24XU-E",
+            "productFamily": "Cisco Catalyst 3850 Series Switches",
+            "productType": "Switches",
+            "productName": "Cisco Catalyst 3850 24 mGig Port UPoE IP Services",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+Catalyst+3850+24+mGig+Port+UPoE+IP+Services",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304067",
+                    "useCase": "Campus Network Segmentation"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "f0b13496-5611-4c33-a01c-515268f74fa1",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCW2139F0XF,WS-C3850-24XU-E,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FCW2146L0A3,C9300-48UXM,NA",
+            "hostname": "C9300-1",
+            "managementAddress": "10.13.5.2",
+            "hwInstanceId": "FCW2146L0A3,C9300-48UXM,NA,FCW2146L0A3,C9300-48UXM,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FCW2146L0A3",
+            "productId": "C9300-48UXM",
+            "productFamily": "Cisco Catalyst 9300 Series Switches",
+            "productType": "Switches",
+            "productName": "Catalyst 9300 48-port(12 mGig&36 2.5Gbps), base switch",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Catalyst+9300+48-port%2812+mGig%2636+2.5Gbps%29%2C+base+switch",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304067",
+                    "useCase": "Campus Network Segmentation"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "05c1c0d4-0a66-4c06-b161-dd3978f7cd1e",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCW2146L0A3,C9300-48UXM,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FCW2238N7CN,AIR-AP4800-B-K9,NA",
+            "hostname": "AP4800.90A4",
+            "managementAddress": "10.13.5.111",
+            "hwInstanceId": "FCW2238N7CN,AIR-AP4800-B-K9,NA,FCW2238N7CN,AIR-AP4800-B-K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FCW2238N7CN",
+            "productId": "AIR-AP4800-B-K9",
+            "productFamily": "Cisco Aironet 4800 Access Points",
+            "productType": "Wireless",
+            "productName": ".11ac W2 Analytics AP w/CA; 4x4:3; Location; mGig -B Domain",
+            "equipmentType": "CHASSIS",
+            "productDescription": ".11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-A+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-B+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-C+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-D+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-E+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-F+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-G+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-H+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-I+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-K+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-N+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-Q+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-R+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-S+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-T+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-Z+Domain",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "df1d1bba-11b7-4189-9820-243550affcef",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCW2238N7CN,AIR-AP4800-B-K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FCW2238N7LG,AIR-AP4800-B-K9,NA",
+            "hostname": "AP4800.8DEC",
+            "managementAddress": "10.13.5.110",
+            "hwInstanceId": "FCW2238N7LG,AIR-AP4800-B-K9,NA,FCW2238N7LG,AIR-AP4800-B-K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FCW2238N7LG",
+            "productId": "AIR-AP4800-B-K9",
+            "productFamily": "Cisco Aironet 4800 Access Points",
+            "productType": "Wireless",
+            "productName": ".11ac W2 Analytics AP w/CA; 4x4:3; Location; mGig -B Domain",
+            "equipmentType": "CHASSIS",
+            "productDescription": ".11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-A+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-B+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-C+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-D+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-E+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-F+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-G+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-H+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-I+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-K+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-N+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-Q+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-R+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-S+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-T+Domain,.11ac+W2+Analytics+AP+w%2FCA%3B+4x4%3A3%3B+Location%3B+mGig+-Z+Domain",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "4418022e-2ebc-4a28-88f6-d64697e0c0c3",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCW2238N7LG,AIR-AP4800-B-K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FCW2246F03Y,C9500-40X-A,NA",
+            "hostname": "Device_10_0_4_1",
+            "managementAddress": "10.0.4.1",
+            "hwInstanceId": "FCW2246F03Y,C9500-40X-A,NA,FCW2246F03Y,C9500-40X-A,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FCW2246F03Y",
+            "productId": "C9500-40X",
+            "productFamily": "Cisco Catalyst 9500 Series Switches",
+            "productType": "Switches",
+            "productName": "Catalyst 9500 40-port 10Gig switch, Network Advantage",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Catalyst+9500+40-port+10Gig+switch%2C+Baseboard,Catalyst+9500+24-port+40G+switch%2C+Baseboard,Catalyst+9500+12-port+40G+switch%2C+Baseboard,Catalyst+9500+16-port+10Gig+switch%2C+Baseboard",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304067",
+                    "useCase": "Campus Network Segmentation"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "34965971-cde0-355f-a58f-5a3d9f42e154",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCW2246F03Y,C9500-40X-A,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FCW2334M0KQ,C1-AIR-CT3504-K9,NA",
+            "hostname": "Device_10_0_8_1",
+            "managementAddress": "10.0.8.1",
+            "hwInstanceId": "FCW2334M0KQ,C1-AIR-CT3504-K9,NA,FCW2334M0KQ,C1-AIR-CT3504-K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FCW2334M0KQ",
+            "productId": "AIR-CT3504-K9",
+            "productFamily": "Cisco 3500 Series Wireless Controllers",
+            "productType": "Wireless",
+            "productName": "Cisco ONE - 3504 Wireless Controller",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+3504+Wireless+Controller",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "c05e584a-4867-3246-ae43-e4502177b12c",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCW2334M0KQ,C1-AIR-CT3504-K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FCZ2204D1WK,CTS-SX10N-K9,NA",
+            "hostname": "FCZ2204D1WK",
+            "managementAddress": "",
+            "hwInstanceId": "FCZ2204D1WK,CTS-SX10N-K9,NA,FCZ2204D1WK,CTS-SX10N-K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FCZ2204D1WK",
+            "productId": "CTS-SX10NCODEC",
+            "productFamily": "Cisco TelePresence SX Series",
+            "productType": "Collaboration Endpoints",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "SX10 HD w/ wall mount, int 5x cam, mic and power supply",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "5197308102",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FCZ2204D1WK,CTS-SX10N-K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FDO1852E25Z,WS-C3650-24PD-E,NA",
+            "hostname": "TEST-SW3650.cisco.com",
+            "managementAddress": "10.8.19.1",
+            "hwInstanceId": "FDO1852E25Z,WS-C3650-24PD-E,NA,FDO1852E25Z,WS-C3650-24PD-E,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FDO1852E25Z",
+            "productId": "WS-C3650-24PD-E",
+            "productFamily": "Cisco Catalyst 3650 Series Switches",
+            "productType": "Switches",
+            "productName": "Cisco Catalyst 3650 24 Port PoE 2x10G Uplink LAN Base",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+Catalyst+3650+24+Port+PoE+2x10G+Uplink+IP+Services",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304067",
+                    "useCase": "Campus Network Segmentation"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "2",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "439c2f6f-e5a0-4062-8658-3da4cac97d9f",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FDO1852E25Z,WS-C3650-24PD-E,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FDO1852E263,WS-C3650-24PD-E,NA",
+            "hostname": "NYC-SW-3650",
+            "managementAddress": "10.16.1.254",
+            "hwInstanceId": "FDO1852E263,WS-C3650-24PD-E,NA,FDO1852E263,WS-C3650-24PD-E,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FDO1852E263",
+            "productId": "WS-C3650-24PD-E",
+            "productFamily": "Cisco Catalyst 3650 Series Switches",
+            "productType": "Switches",
+            "productName": "Cisco Catalyst 3650 24 Port PoE 2x10G Uplink LAN Base",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+Catalyst+3650+24+Port+PoE+2x10G+Uplink+IP+Services",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304067",
+                    "useCase": "Campus Network Segmentation"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "19dec895-969c-4fa2-abd3-256d4743eccd",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FDO1852E263,WS-C3650-24PD-E,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FDO2023A0CA,ISR4351/K9,NA",
+            "hostname": "Device_10_0_6_1",
+            "managementAddress": "10.0.6.1",
+            "hwInstanceId": "FDO2023A0CA,ISR4351/K9,NA,FDO2023A0CA,ISR4351/K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FDO2023A0CA",
+            "productId": "ISR4351/K9",
+            "productFamily": "Cisco 4000 Series Integrated Services Routers",
+            "productType": "Routers",
+            "productName": "Cisco ISR 4351 (3GE,3NIM,2SM,4G FLASH,4G DRAM,IPB)",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+ISR+4351+%283GE%2C3NIM%2C2SM%2C4G+FLASH%2C4G+DRAM%2CIPB%29",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304067",
+                    "useCase": "Campus Network Segmentation"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "180d9c07-241a-39ec-b924-5cd0c0386697",
+            "isCollector": false,
+            "groupInfos": [
+                {
+                    "groupId": 672,
+                    "groupName": "DontDeleteUsedForAutomation",
+                    "groupDefinition": null
+                }
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FDO2023A0CA,ISR4351/K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FDO2113U070,IE-4000-4TC4G-E,NA",
+            "hostname": "FDO2113U070",
+            "managementAddress": "",
+            "hwInstanceId": "FDO2113U070,IE-4000-4TC4G-E,NA,FDO2113U070,IE-4000-4TC4G-E,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FDO2113U070",
+            "productId": "IE-4000-4TC4G-E",
+            "productFamily": "Cisco Industrial Ethernet 4000 Series Switches",
+            "productType": "Industrial Ethernet Switches",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "IE4000 w/ 4FE Copper combo ports and 4 GE combo uplink ports",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "5123399919",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FDO2113U070,IE-4000-4TC4G-E,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FGL200610XP,ISR4451-X-SEC/K9,NA",
+            "hostname": "Device_10_0_5_1",
+            "managementAddress": "10.0.5.1",
+            "hwInstanceId": "BFGL200610XP,PWR-POE-4450,NA,NA,FGL200610XP,ISR4451-X-SEC/K9,NA",
+            "containingHwId": "FGL200610XP,ISR4451-X-SEC/K9,NA,FGL200610XP,ISR4451-X-SEC/K9,NA,NA",
+            "serialNumber": "BFGL200610XP",
+            "productId": "PWR-POE-4450",
+            "productFamily": "ISR Modules",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Single+Power+Over+Ethernet+Module+for+Cisco+ISR4450",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "1cc9c737-37ff-38a7-88c2-1ab449b1cf86",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FGL200610XP,ISR4451-X-SEC/K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FGL190724RA,C891-24X/K9,NA",
+            "hostname": "FGL190724RA",
+            "managementAddress": "",
+            "hwInstanceId": "FGL190724RA,C891-24X/K9,NA,FGL190724RA,C891-24X/K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FGL190724RA",
+            "productId": "C891-24X/K9",
+            "productFamily": "Cisco 800 Series Routers",
+            "productType": "Routers",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco 891 with 2GE/2SFP  and 24 Switch Ports",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1636348862",
+            "isCollector": false,
+            "groupInfos": [
+                {
+                    "groupId": 672,
+                    "groupName": "DontDeleteUsedForAutomation",
+                    "groupDefinition": null
+                }
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FGL190724RA,C891-24X/K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FGL192770C1,ASA5515-K9-WS,NA",
+            "hostname": "FGL192770C1",
+            "managementAddress": "",
+            "hwInstanceId": "FGL192770C1,ASA5515-K9-WS,NA,FGL192770C1,ASA5515-K9-WS,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FGL192770C1",
+            "productId": "ASA5515",
+            "productFamily": "Cisco ASA 5500-X Series Firewalls",
+            "productType": "Security",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "ASA5515X w/SW 6GE Data 1GE Mgmt AC 3DES/AES REFURBISHED",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1803405608",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FGL192770C1,ASA5515-K9-WS,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FGL200610XP,ISR4451-X-SEC/K9,NA",
+            "hostname": "Device_10_0_5_1",
+            "managementAddress": "10.0.5.1",
+            "hwInstanceId": "BFGL200610XP,PWR-POE-4450,NA,NA,FGL200610XP,ISR4451-X-SEC/K9,NA",
+            "containingHwId": "FGL200610XP,ISR4451-X-SEC/K9,NA,FGL200610XP,ISR4451-X-SEC/K9,NA,NA",
+            "serialNumber": "BFGL200610XP",
+            "productId": "PWR-POE-4450",
+            "productFamily": "ISR Modules",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Single+Power+Over+Ethernet+Module+for+Cisco+ISR4450",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "1cc9c737-37ff-38a7-88c2-1ab449b1cf86",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FGL200610XP,ISR4451-X-SEC/K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FGL2212B6F8,AIR-AP1815W-D-K9,NA",
+            "hostname": "AP1815W-APDevice_11_0_1_1",
+            "managementAddress": "11.0.1.1",
+            "hwInstanceId": "FGL2212B6F8,AIR-AP1815W-D-K9,NA,FGL2212B6F8,AIR-AP1815W-D-K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FGL2212B6F8",
+            "productId": "AIR-AP1815W-D-K9",
+            "productFamily": "Cisco Aironet 1815 Series Access Points",
+            "productType": "Wireless",
+            "productName": "Cisco Aironet Mobility Express 1815w Series",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+Aironet+1815w+Series+%28not+for+US%29,Cisco+Aironet+1815w+Series+%28for+US%29,%5ECisco+Aironet+1815w+Series,Cisco+Aironet+1815w+Series,Cisco+Aironet+1815w+Series,Cisco+Aironet+1815w+Series,Cisco+Aironet+1815w+Series,Cisco+Aironet+1815w+Series,Cisco+Aironet+1815w+Series,Cisco+Aironet+1815w+Series,Cisco+Aironet+1815w+Series,Cisco+Aironet+1815w+Series,Cisco+Aironet+1815w+Series,Cisco+Aironet+1815w+Series,Cisco+Aironet+1815w+Series,Cisco+Aironet+1815w+Series",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "f5ac4ef4-587b-3998-9c11-2adc30633d9c",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FGL2212B6F8,AIR-AP1815W-D-K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "10.19.219.86,FGL2328LEA4,C9120AXI-B,NA",
+            "hostname": "WLCA453.0EB4.CF6C.cisco.com",
+            "managementAddress": "10.19.219.86",
+            "hwInstanceId": "FGL2328LEA4,C9120AXI-B,10.19.219.86,FGL2328LEA4,C9120AXI-B,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FGL2328LEA4",
+            "productId": "",
+            "productFamily": "C9120AX",
+            "productType": "",
+            "productName": "Cisco Catalyst 9120AX Series",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco Catalyst 9120AX Series",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "2",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "3b1839b6-1754-4e2c-9cd1-ca18267b89ca",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "10.19.219.86,FGL2328LEA4,C9120AXI-B,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FGL2328LEA4,C9120AXI-B,NA",
+            "hostname": "APA453.0EB4.CF6C",
+            "managementAddress": "10.19.219.85",
+            "hwInstanceId": "FGL2328LEA4,C9120AXI-B,NA,FGL2328LEA4,C9120AXI-B,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FGL2328LEA4",
+            "productId": "C9120AXI-B",
+            "productFamily": "Cisco Catalyst 9120AX Series Access Points",
+            "productType": "Wireless",
+            "productName": "Cisco Catalyst 9120AX Series",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "5f25b38a-c5e4-443e-94e0-e3ea2ed82929",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FGL2328LEA4,C9120AXI-B,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FGL2328LEA5,C9120AXI-B,NA",
+            "hostname": "FGL2328LEA5",
+            "managementAddress": "",
+            "hwInstanceId": "FGL2328LEA5,C9120AXI-B,NA,FGL2328LEA5,C9120AXI-B,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FGL2328LEA5",
+            "productId": "C9120AXI-B",
+            "productFamily": "Cisco Catalyst 9120AX Series Access Points",
+            "productType": "Wireless",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco Catalyst 9120AX Series",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "2",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "5370561024",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FGL2328LEA5,C9120AXI-B,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FGL2328LEB4,C9120AXI-B,NA",
+            "hostname": "AP9120.B848",
+            "managementAddress": "10.13.5.132",
+            "hwInstanceId": "FGL2328LEB4,C9120AXI-B,NA,FGL2328LEB4,C9120AXI-B,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FGL2328LEB4",
+            "productId": "C9120AXI-B",
+            "productFamily": "Cisco Catalyst 9120AX Series Access Points",
+            "productType": "Wireless",
+            "productName": "Cisco Catalyst 9120AX Series",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "7b7e13be-92f2-4d3d-9f23-0c71d3d82025",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FGL2328LEB4,C9120AXI-B,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FGL2412LE20,C9120AXI-D,NA",
+            "hostname": "C9120AXI-APDevice_11_0_3_1",
+            "managementAddress": "11.0.3.1",
+            "hwInstanceId": "FGL2412LE20,C9120AXI-D,NA,FGL2412LE20,C9120AXI-D,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FGL2412LE20",
+            "productId": "C9120AXI-D",
+            "productFamily": "Cisco Catalyst 9120AX Series Access Points",
+            "productType": "Wireless",
+            "productName": "Cisco Catalyst 9120AX Series",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series,Cisco+Catalyst+9120AX+Series",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "d0ffe1ef-3ee2-38ad-ada2-b999efdd6185",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FGL2412LE20,C9120AXI-D,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FJC2029F7AC,AIR-AP2802E-B-K9,NA",
+            "hostname": "POD1-AP",
+            "managementAddress": "10.254.15.251",
+            "hwInstanceId": "FJC2029F7AC,AIR-AP2802E-B-K9,NA,FJC2029F7AC,AIR-AP2802E-B-K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FJC2029F7AC",
+            "productId": "AIR-AP2802E-B-K9",
+            "productFamily": "Cisco Aironet 2800 Series Access Points",
+            "productType": "Wireless",
+            "productName": "BOM Level AP2800e Bulk PID for B Domain",
+            "equipmentType": "CHASSIS",
+            "productDescription": "802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Ext+Ant%3B+2xGbE%2C+A++Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Ext+Ant%3B+2xGbE%2C+B+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Ext+Ant%3B+2xGbE%2C+C+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Ext+Ant%3B+2xGbE%2C+D+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Ext+Ant%3B+2xGbE%2C+E+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Ext+Ant%3B+2xGbE%2C+F+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Ext+Ant%3B+2xGbE%2C+G+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Ext+Ant%3B+-H+Reg+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Ext+Ant%3B+2xGbE%2C+I+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Ext+Ant%3B+2xGbE%2C+K+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Ext+Ant%3B+2xGbE%2C+N+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Ext+Ant%3B+2xGbE%3B+Q+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Ext+Ant%3B+2xGbE%3B+R+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Ext+Ant%3B+2xGbE%2C+S+Domain,802.11ac+W2+AP+w%2FCA%3B+3x4%3A3%3B+Ext+Ant%3B+-T+Reg+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Ext+Ant%3B+2xGbE%2C+Z+Domain",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "fe8b2b44-35b4-4e26-8a7e-0f0db0be9a69",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FJC2029F7AC,AIR-AP2802E-B-K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FJC2139D179,ISR4431/K9,NA",
+            "hostname": "MX1-ISR4431-3.corp.local",
+            "managementAddress": "10.32.255.3",
+            "hwInstanceId": "FJC2139D179,ISR4431/K9,NA,FJC2139D179,ISR4431/K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FJC2139D179",
+            "productId": "ISR4431/K9",
+            "productFamily": "Cisco 4000 Series Integrated Services Routers",
+            "productType": "Routers",
+            "productName": "Cisco ISR 4431 (4GE,3NIM,8G FLASH,4G DRAM,IPB)",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+ISR+4431+%284GE%2C3NIM%2C8G+FLASH%2C4G+DRAM%2CIPB%29",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304067",
+                    "useCase": "Campus Network Segmentation"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "31a02e2c-ff53-4523-b48c-1b6e665b01ca",
+            "isCollector": false,
+            "groupInfos": [
+                {
+                    "groupId": 672,
+                    "groupName": "DontDeleteUsedForAutomation",
+                    "groupDefinition": null
+                }
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FJC2139D179,ISR4431/K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FJC2140D042,ISR4451-X/K9,NA",
+            "hostname": "MX1-ISR4451-2.corp.local",
+            "managementAddress": "10.32.255.2",
+            "hwInstanceId": "FJC2140D042,ISR4451-X/K9,NA,FJC2140D042,ISR4451-X/K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FJC2140D042",
+            "productId": "ISR4451-X/K9",
+            "productFamily": "Cisco 4000 Series Integrated Services Routers",
+            "productType": "Routers",
+            "productName": "Cisco ISR 4451 (4GE,3NIM,2SM,8G FLASH,4G DRAM)",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+ISR+4451+%284GE%2C3NIM%2C2SM%2C8G+FLASH%2C4G+DRAM%29",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304067",
+                    "useCase": "Campus Network Segmentation"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "cd992a68-1e08-42b7-a597-af1dc4b0749d",
+            "isCollector": false,
+            "groupInfos": [
+                {
+                    "groupId": 672,
+                    "groupName": "DontDeleteUsedForAutomation",
+                    "groupDefinition": null
+                }
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FJC2140D042,ISR4451-X/K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FOC1610R0L4,N3K-C3048TP-1GE,NA",
+            "hostname": "N3K_C3048",
+            "managementAddress": "10.122.28.246",
+            "hwInstanceId": "FOC1610R0L4,N3K-C3048TP-1GE,NA,FOC1610R0L4,N3K-C3048TP-1GE,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FOC1610R0L4",
+            "productId": "N3K-C3048TP-1GE",
+            "productFamily": "Cisco Nexus 3000 Series Switches",
+            "productType": "Data Center Switches",
+            "productName": "Nexus 3048TP-1GE 1RU 48 x 10/100/1000 and 4 x 10GE ports",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Nexus+3048TP-1GE+1RU+48+x+10%2F100%2F1000+and+4+x+10GE+ports",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "b7c1db2c-eee4-4300-9567-b02eef32efc8",
+            "isCollector": false,
+            "groupInfos": [
+                {
+                    "groupId": 1340,
+                    "groupName": "AG_readOnly_DoNotUse",
+                    "groupDefinition": null
+                }
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOC1610R0L4,N3K-C3048TP-1GE,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FOC1645V0E6,WS-C3850-48P-E,NA",
+            "hostname": "c3850",
+            "managementAddress": "10.13.1.2",
+            "hwInstanceId": "FOC16131Z7A,UA-NM-4-10G,NA,NA,FOC1645V0E6,WS-C3850-48P-E,NA",
+            "containingHwId": "FOC1645V0E6,WS-C3850-48P-E,NA,FOC1645V0E6,WS-C3850-48P-E,NA,NA",
+            "serialNumber": "FOC16131Z7A",
+            "productId": "C3850-NM-4-10G",
+            "productFamily": "Catalyst 2K/3K Series Modules",
+            "productType": "Modules",
+            "productName": "UA 4 x 10GE Network Module",
+            "equipmentType": "MODULE",
+            "productDescription": "Cisco+Catalyst+3850+4+x+10GE+Network+Module",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "40fc58df-3108-4aee-9b18-47740c26bfbe",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOC1645V0E6,WS-C3850-48P-E,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FOC1645V0E6,WS-C3850-48P-E,NA",
+            "hostname": "c3850",
+            "managementAddress": "10.13.1.2",
+            "hwInstanceId": "FOC16131Z7A,UA-NM-4-10G,NA,NA,FOC1645V0E6,WS-C3850-48P-E,NA",
+            "containingHwId": "FOC1645V0E6,WS-C3850-48P-E,NA,FOC1645V0E6,WS-C3850-48P-E,NA,NA",
+            "serialNumber": "FOC16131Z7A",
+            "productId": "C3850-NM-4-10G",
+            "productFamily": "Catalyst 2K/3K Series Modules",
+            "productType": "Modules",
+            "productName": "UA 4 x 10GE Network Module",
+            "equipmentType": "MODULE",
+            "productDescription": "Cisco+Catalyst+3850+4+x+10GE+Network+Module",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "40fc58df-3108-4aee-9b18-47740c26bfbe",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOC1645V0E6,WS-C3850-48P-E,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FOC1727V051,AIR-CT5760,NA",
+            "hostname": "Controller",
+            "managementAddress": "10.126.77.250",
+            "hwInstanceId": "FOC1727V051,AIR-CT5760,NA,FOC1727V051,AIR-CT5760,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FOC1727V051",
+            "productId": "AIR-CT5760-K9",
+            "productFamily": "Cisco 5700 Series Wireless LAN Controllers",
+            "productType": "Wireless",
+            "productName": "Cisco 5700 Series Wireless Controller for up to 25 APs",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+5700+Series+Wireless+Controller+Base+SKU",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "d621aa3d-04f1-41c1-9b58-e77d1b9a2ccf",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOC1727V051,AIR-CT5760,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FTX1751AKQZ,ISR4451-X/K9,NA",
+            "hostname": "NYC-RTR-MPLS.cisco.com",
+            "managementAddress": "10.16.255.1",
+            "hwInstanceId": "FOC17362YC9,PWR-GE-POE-4400,NA,NA,FTX1751AKQZ,ISR4451-X/K9,NA",
+            "containingHwId": "FTX1751AKQZ,ISR4451-X/K9,NA,FTX1751AKQZ,ISR4451-X/K9,NA,NA",
+            "serialNumber": "FOC17362YC9",
+            "productId": "PWR-GE-POE-4400",
+            "productFamily": "ISR Modules",
+            "productType": "Modules",
+            "productName": "POE Module for On Board GE for Cisco ISR 4400 & 4350",
+            "equipmentType": "MODULE",
+            "productDescription": "POE+Module+for+On+Board+GE+for+Cisco+ISR+4400+%26+4350",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "e76e5b00-694b-4dfa-ab92-35dde82d5e40",
+            "isCollector": false,
+            "groupInfos": [
+                {
+                    "groupId": 672,
+                    "groupName": "DontDeleteUsedForAutomation",
+                    "groupDefinition": null
+                }
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FTX1751AKQZ,ISR4451-X/K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FTX1751AKQZ,ISR4451-X/K9,NA",
+            "hostname": "NYC-RTR-MPLS.cisco.com",
+            "managementAddress": "10.16.255.1",
+            "hwInstanceId": "FOC17362YC9,PWR-GE-POE-4400,NA,NA,FTX1751AKQZ,ISR4451-X/K9,NA",
+            "containingHwId": "FTX1751AKQZ,ISR4451-X/K9,NA,FTX1751AKQZ,ISR4451-X/K9,NA,NA",
+            "serialNumber": "FOC17362YC9",
+            "productId": "PWR-GE-POE-4400",
+            "productFamily": "ISR Modules",
+            "productType": "Modules",
+            "productName": "POE Module for On Board GE for Cisco ISR 4400 & 4350",
+            "equipmentType": "MODULE",
+            "productDescription": "POE+Module+for+On+Board+GE+for+Cisco+ISR+4400+%26+4350",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "e76e5b00-694b-4dfa-ab92-35dde82d5e40",
+            "isCollector": false,
+            "groupInfos": [
+                {
+                    "groupId": 672,
+                    "groupName": "DontDeleteUsedForAutomation",
+                    "groupDefinition": null
+                }
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FTX1751AKQZ,ISR4451-X/K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FJC2139D179,ISR4431/K9,NA",
+            "hostname": "MX1-ISR4431-3.corp.local",
+            "managementAddress": "10.32.255.3",
+            "hwInstanceId": "FJC2139D179,ISR4431/K9,NA,FJC2139D179,ISR4431/K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FJC2139D179",
+            "productId": "ISR4431/K9",
+            "productFamily": "Cisco 4000 Series Integrated Services Routers",
+            "productType": "Routers",
+            "productName": "Cisco ISR 4431 (4GE,3NIM,8G FLASH,4G DRAM,IPB)",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+ISR+4431+%284GE%2C3NIM%2C8G+FLASH%2C4G+DRAM%2CIPB%29",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304067",
+                    "useCase": "Campus Network Segmentation"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "31a02e2c-ff53-4523-b48c-1b6e665b01ca",
+            "isCollector": false,
+            "groupInfos": [
+                {
+                    "groupId": 672,
+                    "groupName": "DontDeleteUsedForAutomation",
+                    "groupDefinition": null
+                }
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FJC2139D179,ISR4431/K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FOC2139U170,WS-C3850-24XU-E,NA",
+            "hostname": "MX1-3850-CSW-2.corp.local",
+            "managementAddress": "10.32.255.101",
+            "hwInstanceId": "FOC2139U170,WS-C3850-24XU-E,NA,FOC2139U170,WS-C3850-24XU-E,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FOC2139U170",
+            "productId": "WS-C3850-24XU-E",
+            "productFamily": "Cisco Catalyst 3850 Series Switches",
+            "productType": "Switches",
+            "productName": "Cisco Catalyst 3850 24 mGig Port UPoE IP Services",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+Catalyst+3850+24+mGig+Port+UPoE+IP+Services",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304067",
+                    "useCase": "Campus Network Segmentation"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "507ee9bf-b091-4326-8916-c17610ffb434",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOC2139U170,WS-C3850-24XU-E,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FOC2306U0EQ,C9300-24T,NA",
+            "hostname": "Device_10_0_2_1",
+            "managementAddress": "10.0.2.1",
+            "hwInstanceId": "DFOC2306U0EQ,C9300-NM-8X,NA,NA,FOC2306U0EQ,C9300-24T,NA",
+            "containingHwId": "FOC2306U0EQ,C9300-24T,NA,FOC2306U0EQ,C9300-24T,NA,NA",
+            "serialNumber": "DFOC2306U0EQ",
+            "productId": "C9300-NM-8X",
+            "productFamily": "Catalyst 9K Series Modules",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Catalyst+9300+8+x+10GE+Network+Module",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "30832234-656f-3967-bb3e-9ea159b83440",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOC2306U0EQ,C9300-24T,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX1925H2MC,UCSB-5108-AC2=,NA",
+            "hostname": "FOX1925H2MC",
+            "managementAddress": "",
+            "hwInstanceId": "FOX1925H2MC,UCSB-5108-AC2=,NA,FOX1925H2MC,UCSB-5108-AC2=,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FOX1925H2MC",
+            "productId": "UCSB-5108-AC2",
+            "productFamily": "Cisco UCS 5100 Series Blade Server Chassis",
+            "productType": "Servers - Unified Computing",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "UCS 5108 Blade Server AC2 Chassis/0 PSU/8 fans/0 FEX",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1747909571",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX1925H2MC,UCSB-5108-AC2=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FOX2008GBAT,ASR1002-X,NA",
+            "hostname": "ASR1002-X.cisco.com",
+            "managementAddress": "10.13.0.2",
+            "hwInstanceId": "AGS1023L1KB,QBCU-5798R,NA,NA,FOX2008GBAT,ASR1002-X,NA",
+            "containingHwId": "FOX2008GBAT,ASR1002-X,NA,FOX2008GBAT,ASR1002-X,NA,NA",
+            "serialNumber": "AGS1023L1KB",
+            "productId": "GLC-T",
+            "productFamily": "Transceiver Modules",
+            "productType": "Modules",
+            "productName": "^1000BASE-T SFP",
+            "equipmentType": "MODULE",
+            "productDescription": "%5E1000BASE-T+SFP",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f2877dcd-db67-4a75-8f97-a5dfb854a72c",
+            "mgmtSystemAddr": "10.30.127.241",
+            "mgmtSystemHostname": "live.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "91d02604-fe07-4ca1-80ba-0230a36d84ad",
+            "isCollector": false,
+            "groupInfos": [
+                {
+                    "groupId": 672,
+                    "groupName": "DontDeleteUsedForAutomation",
+                    "groupDefinition": null
+                }
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2008GBAT,ASR1002-X,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX2013GDVQ,N2248TP-E-FA-BUN,NA",
+            "hostname": "FOX2013GDVQ",
+            "managementAddress": "",
+            "hwInstanceId": "FOX2013GDVQ,N2248TP-E-FA-BUN,NA,FOX2013GDVQ,N2248TP-E-FA-BUN,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FOX2013GDVQ",
+            "productId": "N2K-C2248TP-E-1GE",
+            "productFamily": "Cisco Nexus 2000 Series Fabric Extenders",
+            "productType": "Data Center Switches",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Standard Airflow pack:N2K-C2248TP-E-1GE, 2 AC PS, 1Fan",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1795601135",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2013GDVQ,N2248TP-E-FA-BUN,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "hostname": "DTM201800HP",
+            "managementAddress": "",
+            "hwInstanceId": "DTM201800HP,UCSB-PSU-2500ACDV,NA,NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "containingHwId": "FOX2032GH5G,UCSB-5108-AC2=,NA,FOX2032GH5G,UCSB-5108-AC2=,NA,NA",
+            "serialNumber": "DTM201800HP",
+            "productId": "UCSB-PSU-2500ACDV",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "2500W Platinum AC Hot Plug Power Supply - DV",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831298703",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "hostname": "DTM201800HP",
+            "managementAddress": "",
+            "hwInstanceId": "DTM201800HP,UCSB-PSU-2500ACDV,NA,NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "containingHwId": "FOX2032GH5G,UCSB-5108-AC2=,NA,FOX2032GH5G,UCSB-5108-AC2=,NA,NA",
+            "serialNumber": "DTM201800HP",
+            "productId": "UCSB-PSU-2500ACDV",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "2500W Platinum AC Hot Plug Power Supply - DV",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831298703",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "hostname": "DTM201800HP",
+            "managementAddress": "",
+            "hwInstanceId": "DTM201800HP,UCSB-PSU-2500ACDV,NA,NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "containingHwId": "FOX2032GH5G,UCSB-5108-AC2=,NA,FOX2032GH5G,UCSB-5108-AC2=,NA,NA",
+            "serialNumber": "DTM201800HP",
+            "productId": "UCSB-PSU-2500ACDV",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "2500W Platinum AC Hot Plug Power Supply - DV",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831298703",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "hostname": "DTM201800HP",
+            "managementAddress": "",
+            "hwInstanceId": "DTM201800HP,UCSB-PSU-2500ACDV,NA,NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "containingHwId": "FOX2032GH5G,UCSB-5108-AC2=,NA,FOX2032GH5G,UCSB-5108-AC2=,NA,NA",
+            "serialNumber": "DTM201800HP",
+            "productId": "UCSB-PSU-2500ACDV",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "2500W Platinum AC Hot Plug Power Supply - DV",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831298703",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "hostname": "DTM201800HP",
+            "managementAddress": "",
+            "hwInstanceId": "DTM201800HP,UCSB-PSU-2500ACDV,NA,NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "containingHwId": "FOX2032GH5G,UCSB-5108-AC2=,NA,FOX2032GH5G,UCSB-5108-AC2=,NA,NA",
+            "serialNumber": "DTM201800HP",
+            "productId": "UCSB-PSU-2500ACDV",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "2500W Platinum AC Hot Plug Power Supply - DV",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831298703",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "hostname": "DTM201800HP",
+            "managementAddress": "",
+            "hwInstanceId": "DTM201800HP,UCSB-PSU-2500ACDV,NA,NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "containingHwId": "FOX2032GH5G,UCSB-5108-AC2=,NA,FOX2032GH5G,UCSB-5108-AC2=,NA,NA",
+            "serialNumber": "DTM201800HP",
+            "productId": "UCSB-PSU-2500ACDV",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "2500W Platinum AC Hot Plug Power Supply - DV",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831298703",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "hostname": "DTM201800HP",
+            "managementAddress": "",
+            "hwInstanceId": "DTM201800HP,UCSB-PSU-2500ACDV,NA,NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "containingHwId": "FOX2032GH5G,UCSB-5108-AC2=,NA,FOX2032GH5G,UCSB-5108-AC2=,NA,NA",
+            "serialNumber": "DTM201800HP",
+            "productId": "UCSB-PSU-2500ACDV",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "2500W Platinum AC Hot Plug Power Supply - DV",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831298703",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "hostname": "DTM201800HP",
+            "managementAddress": "",
+            "hwInstanceId": "DTM201800HP,UCSB-PSU-2500ACDV,NA,NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "containingHwId": "FOX2032GH5G,UCSB-5108-AC2=,NA,FOX2032GH5G,UCSB-5108-AC2=,NA,NA",
+            "serialNumber": "DTM201800HP",
+            "productId": "UCSB-PSU-2500ACDV",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "2500W Platinum AC Hot Plug Power Supply - DV",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831298703",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "hostname": "DTM201800HP",
+            "managementAddress": "",
+            "hwInstanceId": "DTM201800HP,UCSB-PSU-2500ACDV,NA,NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "containingHwId": "FOX2032GH5G,UCSB-5108-AC2=,NA,FOX2032GH5G,UCSB-5108-AC2=,NA,NA",
+            "serialNumber": "DTM201800HP",
+            "productId": "UCSB-PSU-2500ACDV",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "2500W Platinum AC Hot Plug Power Supply - DV",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831298703",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "hostname": "DTM201800HP",
+            "managementAddress": "",
+            "hwInstanceId": "DTM201800HP,UCSB-PSU-2500ACDV,NA,NA,FOX2032GH5G,UCSB-5108-AC2=,NA",
+            "containingHwId": "FOX2032GH5G,UCSB-5108-AC2=,NA,FOX2032GH5G,UCSB-5108-AC2=,NA,NA",
+            "serialNumber": "DTM201800HP",
+            "productId": "UCSB-PSU-2500ACDV",
+            "productFamily": "UCS Power Supplies",
+            "productType": "Power Supplies",
+            "productName": "",
+            "equipmentType": "POWERSUPPLY",
+            "productDescription": "2500W Platinum AC Hot Plug Power Supply - DV",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1831298703",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FTT220101NU,CTS-MX300-UNIT,NA",
+            "hostname": "FTT220101NU",
+            "managementAddress": "",
+            "hwInstanceId": "FTT220101NU,CTS-MX300-UNIT,NA,FTT220101NU,CTS-MX300-UNIT,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FTT220101NU",
+            "productId": "CTS-MX300-UNIT",
+            "productFamily": "Cisco TelePresence MX Series",
+            "productType": "Collaboration Endpoints",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "^MX300 Gen 2 integrated codec, LCD, camera, speaker, mic",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "5198442715",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FTT220101NU,CTS-MX300-UNIT,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FTX1751AKQZ,ISR4451-X/K9,NA",
+            "hostname": "NYC-RTR-MPLS.cisco.com",
+            "managementAddress": "10.16.255.1",
+            "hwInstanceId": "FOC17362YC9,PWR-GE-POE-4400,NA,NA,FTX1751AKQZ,ISR4451-X/K9,NA",
+            "containingHwId": "FTX1751AKQZ,ISR4451-X/K9,NA,FTX1751AKQZ,ISR4451-X/K9,NA,NA",
+            "serialNumber": "FOC17362YC9",
+            "productId": "PWR-GE-POE-4400",
+            "productFamily": "ISR Modules",
+            "productType": "Modules",
+            "productName": "POE Module for On Board GE for Cisco ISR 4400 & 4350",
+            "equipmentType": "MODULE",
+            "productDescription": "POE+Module+for+On+Board+GE+for+Cisco+ISR+4400+%26+4350",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "e76e5b00-694b-4dfa-ab92-35dde82d5e40",
+            "isCollector": false,
+            "groupInfos": [
+                {
+                    "groupId": 672,
+                    "groupName": "DontDeleteUsedForAutomation",
+                    "groupDefinition": null
+                }
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FTX1751AKQZ,ISR4451-X/K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FTX1827AHDV,C2921-CME-SRST/K9,NA",
+            "hostname": "FTX1827AHDV",
+            "managementAddress": "",
+            "hwInstanceId": "FTX1827AHDV,C2921-CME-SRST/K9,NA,FTX1827AHDV,C2921-CME-SRST/K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FTX1827AHDV",
+            "productId": "CISCO2921/K9",
+            "productFamily": "Cisco 2900 Series Integrated Services Routers",
+            "productType": "Routers",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "^2921 Voice Bundle w/PVDM3-32,FL-CME-SRST-25,UC Lic,FL-CUBE5",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1555047399",
+            "isCollector": false,
+            "groupInfos": [
+                {
+                    "groupId": 672,
+                    "groupName": "DontDeleteUsedForAutomation",
+                    "groupDefinition": null
+                }
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FTX1827AHDV,C2921-CME-SRST/K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,FXS1831Q12R,ASR1004,NA",
+            "hostname": "FXS1831Q12R",
+            "managementAddress": "",
+            "hwInstanceId": "FXS1831Q12R,ASR1004,NA,FXS1831Q12R,ASR1004,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FXS1831Q12R",
+            "productId": "ASR1004",
+            "productFamily": "Cisco ASR 1000 Series Aggregation Services Routers",
+            "productType": "Routers",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco ASR1004 Chassis, Dual P/S",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1593787853",
+            "isCollector": false,
+            "groupInfos": [
+                {
+                    "groupId": 672,
+                    "groupName": "DontDeleteUsedForAutomation",
+                    "groupDefinition": null
+                }
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FXS1831Q12R,ASR1004,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FXS2130Q70V,ASR1001-X,NA",
+            "hostname": "MX1-ASR1001X-1.corp.local",
+            "managementAddress": "10.32.255.1",
+            "hwInstanceId": "FXS2130Q70V,ASR1001-X,NA,FXS2130Q70V,ASR1001-X,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "FXS2130Q70V",
+            "productId": "ASR1001-X",
+            "productFamily": "Cisco ASR 1000 Series Aggregation Services Routers",
+            "productType": "Routers",
+            "productName": "Cisco ASR1001-X Chassis, 6 built-in GE, Dual P/S, 8GB DRAM",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Cisco+ASR1001-X+Chassis%2C+6+built-in+GE%2C+Dual+P%2FS%2C+8GB+DRAM",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304067",
+                    "useCase": "Campus Network Segmentation"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "f4cd4721-d622-43c0-8974-1f45f2232a88",
+            "mgmtSystemAddr": "192.168.139.149",
+            "mgmtSystemHostname": "dnac1.cisco.com",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "ae53aaa0-579d-4d92-ac0e-9c21d67ca36d",
+            "isCollector": false,
+            "groupInfos": [
+                {
+                    "groupId": 672,
+                    "groupName": "DontDeleteUsedForAutomation",
+                    "groupDefinition": null
+                }
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FXS2130Q70V,ASR1001-X,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FXS2220Q0CZ,C9407R,NA",
+            "hostname": "Device_10_0_1_1",
+            "managementAddress": "10.0.1.1",
+            "hwInstanceId": "DFXS2220Q0CZ,C9400-SUP-1XL,NA,NA,FXS2220Q0CZ,C9407R,NA",
+            "containingHwId": "FXS2220Q0CZ,C9407R,NA,FXS2220Q0CZ,C9407R,NA,NA",
+            "serialNumber": "DFXS2220Q0CZ",
+            "productId": "C9400-SUP-1XL",
+            "productFamily": "Catalyst 9K Series Modules",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Cisco+Catalyst+9400+Series+Supervisor+1XL+Module",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "543abbc8-10ce-3c4b-a39c-6dcd3ee85872",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FXS2220Q0CZ,C9407R,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FXS2319Q0X8,C9606R,NA",
+            "hostname": "Device_10_0_7_1",
+            "managementAddress": "10.0.7.1",
+            "hwInstanceId": "DFXS2319Q0X8,C9600-LC-24C,NA,NA,FXS2319Q0X8,C9606R,NA",
+            "containingHwId": "FXS2319Q0X8,C9606R,NA,FXS2319Q0X8,C9606R,NA,NA",
+            "serialNumber": "DFXS2319Q0X8",
+            "productId": "C9600-LC-24C",
+            "productFamily": "Catalyst 9K Series Modules",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Cisco+Catalyst+9600+Series+24-Port+40GE%2F12-Port+100GE",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "36ec124f-9845-3d7d-a95e-6d664b56d894",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FXS2319Q0X8,C9606R,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FOC2306U0EQ,C9300-24T,NA",
+            "hostname": "Device_10_0_2_1",
+            "managementAddress": "10.0.2.1",
+            "hwInstanceId": "DFOC2306U0EQ,C9300-NM-8X,NA,NA,FOC2306U0EQ,C9300-24T,NA",
+            "containingHwId": "FOC2306U0EQ,C9300-24T,NA,FOC2306U0EQ,C9300-24T,NA,NA",
+            "serialNumber": "DFOC2306U0EQ",
+            "productId": "C9300-NM-8X",
+            "productFamily": "Catalyst 9K Series Modules",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Catalyst+9300+8+x+10GE+Network+Module",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "30832234-656f-3967-bb3e-9ea159b83440",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FOC2306U0EQ,C9300-24T,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FOC2306U0EQ,C9300-24T,NA",
+            "hostname": "Device_10_0_2_1",
+            "managementAddress": "10.0.2.1",
+            "hwInstanceId": "IFOC2306U0EQ,C9300-24T,NA,FOC2306U0EQ,C9300-24T,NA,NA",
+            "containingHwId": "FOC2306U0EQ,C9300-24T,NA,FOC2306U0EQ,C9300-24T,NA,NA",
+            "serialNumber": "IFOC2306U0EQ",
+            "productId": "C9300-24T",
+            "productFamily": "Cisco Catalyst 9300 Series Switches",
+            "productType": "Switches",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Catalyst+9300+24-port+data+only%2CBase+switch",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304067",
+                    "useCase": "Campus Network Segmentation"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "30832234-656f-3967-bb3e-9ea159b83440",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,IFOC2306U0EQ,C9300-24T,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FXS2319Q0X8,C9606R,NA",
+            "hostname": "Device_10_0_7_1",
+            "managementAddress": "10.0.7.1",
+            "hwInstanceId": "DFXS2319Q0X8,C9600-LC-24C,NA,NA,FXS2319Q0X8,C9606R,NA",
+            "containingHwId": "FXS2319Q0X8,C9606R,NA,FXS2319Q0X8,C9606R,NA,NA",
+            "serialNumber": "DFXS2319Q0X8",
+            "productId": "C9600-LC-24C",
+            "productFamily": "Catalyst 9K Series Modules",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Cisco+Catalyst+9600+Series+24-Port+40GE%2F12-Port+100GE",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "36ec124f-9845-3d7d-a95e-6d664b56d894",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FXS2319Q0X8,C9606R,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,JAE160201GS,WS-C4900M,NA",
+            "hostname": "JAE160201GS",
+            "managementAddress": "",
+            "hwInstanceId": "JAE160201GS,WS-C4900M,NA,JAE160201GS,WS-C4900M,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "JAE160201GS",
+            "productId": "WS-C4900M",
+            "productFamily": "Cisco Catalyst 4900 Series Switches",
+            "productType": "Switches",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "^Base system with 8 X2 ports and 2 half slots",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "902786179",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,JAE160201GS,WS-C4900M,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,JAE204008G7,WS-C4900M,NA",
+            "hostname": "JAE204008G7",
+            "managementAddress": "",
+            "hwInstanceId": "JAE204008G7,WS-C4900M,NA,JAE204008G7,WS-C4900M,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "JAE204008G7",
+            "productId": "WS-C4900M",
+            "productFamily": "Cisco Catalyst 4900 Series Switches",
+            "productType": "Switches",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "^Base system with 8 X2 ports and 2 half slots",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "5062446933",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,JAE204008G7,WS-C4900M,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,JAE2302073T,C9200L-48T-4G-E,NA",
+            "hostname": "Device_10_0_10_1",
+            "managementAddress": "10.0.10.1",
+            "hwInstanceId": "JAE2302073T,C9200L-48T-4G-E,NA,JAE2302073T,C9200L-48T-4G-E,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "JAE2302073T",
+            "productId": "C9200L-48T-4G",
+            "productFamily": "Cisco Catalyst 9200 Series Switches",
+            "productType": "Switches",
+            "productName": "Catalyst 9200L 48-port data, 4 x 1G, Network Essentials",
+            "equipmentType": "CHASSIS",
+            "productDescription": "Catalyst+9200L+48-port+data+only%2C+Base+Switch",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39682525",
+                    "useCase": "Network device onboarding (Cloud)"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39682527",
+                    "useCase": "Campus network assurance (Cloud)"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39682530",
+                    "useCase": "Campus network segmentation (Cloud)"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "a26a1b8c-face-37da-aec7-e0f785ee7901",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,JAE2302073T,C9200L-48T-4G-E,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,JAF1844ADGL,DS-C9710,NA",
+            "hostname": "JAF1844ADGL",
+            "managementAddress": "",
+            "hwInstanceId": "JAF1844ADGL,DS-C9710,NA,JAF1844ADGL,DS-C9710,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "JAF1844ADGL",
+            "productId": "DS-C9710",
+            "productFamily": "Cisco MDS 9700 Series Multilayer Directors",
+            "productType": "Storage Networking",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "MDS 9710 Chassis No Power Supplies, Fans Included",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "1674315562",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,JAF1844ADGL,DS-C9710,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,FXS2319Q0X8,C9606R,NA",
+            "hostname": "Device_10_0_7_1",
+            "managementAddress": "10.0.7.1",
+            "hwInstanceId": "DFXS2319Q0X8,C9600-LC-24C,NA,NA,FXS2319Q0X8,C9606R,NA",
+            "containingHwId": "FXS2319Q0X8,C9606R,NA,FXS2319Q0X8,C9606R,NA,NA",
+            "serialNumber": "DFXS2319Q0X8",
+            "productId": "C9600-LC-24C",
+            "productFamily": "Catalyst 9K Series Modules",
+            "productType": "Modules",
+            "productName": "",
+            "equipmentType": "MODULE",
+            "productDescription": "Cisco+Catalyst+9600+Series+24-Port+40GE%2F12-Port+100GE",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": null,
+                    "useCase": null
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "36ec124f-9845-3d7d-a95e-6d664b56d894",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,FXS2319Q0X8,C9606R,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CSP0001049926",
+            "managedNeId": "NA,JIN2208B0SF,AIR-AP3802I-D-K9,NA",
+            "hostname": "AP3802I-APDevice_11_0_2_1",
+            "managementAddress": "11.0.2.1",
+            "hwInstanceId": "JIN2208B0SF,AIR-AP3802I-D-K9,NA,JIN2208B0SF,AIR-AP3802I-D-K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "JIN2208B0SF",
+            "productId": "AIR-AP3802I-D-K9",
+            "productFamily": "Cisco Aironet 3800 Series Access Points",
+            "productType": "Wireless",
+            "productName": "802.11ac W2 AP w/CA; 4x4:3; Mod; Int Ant; mGig D Domain",
+            "equipmentType": "CHASSIS",
+            "productDescription": "802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Mod%3B+Int+Ant%3B+mGig+A+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Mod%3B+Int+Ant%3B+mGig+B+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Mod%3B+Int+Ant%3B+mGig+C+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Mod%3B+Int+Ant%3B+mGig+D+Domain,802.11ac+W2+AP+w%2FCA%3B+4x43%3B+Mod%3B+Int+Ant%3B+mGig+E+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Mod%3B+Int+Ant%3B+mGig+F+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Mod%3B+Int+Ant%3B+mGig+G+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Mod%3B+Int+Ant%3B+mGig+H+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Mod%3B+Int+Ant%3B+mGig+I+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Mod%3B+Int+Ant%3B+mGig+K+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Mod%3B+Int+Ant%3B+mGig+N+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Mod%3B+Int+Ant%3B+mGig+Q+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Mod%3B+Int+Ant%3B+mGig+R+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Mod%3B+Int+Ant%3B+mGig+S+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Mod%3B+Int+Ant%3B+mGig+T+Domain,802.11ac+W2+AP+w%2FCA%3B+4x4%3A3%3B+Mod%3B+Int+Ant%3B+mGig+Z+Domain",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304058",
+                    "useCase": "Campus Software Image Management"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304061",
+                    "useCase": "Network Device Onboarding"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304064",
+                    "useCase": "Campus Network Assurance"
+                },
+                {
+                    "solutionId": "38396885",
+                    "solution": "IBN",
+                    "useCaseId": "39304071",
+                    "useCase": "Scalable Access Policy"
+                }
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "4ef2d364-bd41-4ef7-9386-0b468ae9b88e",
+            "mgmtSystemAddr": "10.127.102.216",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "DNAC",
+            "sourceNeId": "60d8e90a-dba9-368b-a334-1fb79a9178aa",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,JIN2208B0SF,AIR-AP3802I-D-K9,NA"
+        },
+        {
+            "customerId": "L90K7FRM1GsBo2",
+            "collectorId": "CXCSDFL90K7FRM1GsBo2_TST",
+            "managedNeId": "NA,JMX2130Y0FK,ASA5516-FPWR-K9,NA",
+            "hostname": "JMX2130Y0FK",
+            "managementAddress": "",
+            "hwInstanceId": "JMX2130Y0FK,ASA5516-FPWR-K9,NA,JMX2130Y0FK,ASA5516-FPWR-K9,NA,NA",
+            "containingHwId": "",
+            "serialNumber": "JMX2130Y0FK",
+            "productId": "ASA5516",
+            "productFamily": "Cisco ASA 5500-X with FirePOWER Services",
+            "productType": "Security",
+            "productName": "",
+            "equipmentType": "CHASSIS",
+            "productDescription": "ASA 5516-X with FirePOWER services, 8GE, AC, 3DES/AES",
+            "swType": "",
+            "swVersion": "",
+            "tags": [
+                
+            ],
+            "wfId": "4ad9075f-b9c6-4561-aaaa-e74f6e580d15",
+            "solutionInfo": [
+                
+            ],
+            "cxLevel": "0",
+            "mgmtSystemId": "api-test.cisco.com_CSDF",
+            "mgmtSystemAddr": "72.163.8.247",
+            "mgmtSystemHostname": "",
+            "mgmtSystemType": "CSDFIB",
+            "sourceNeId": "5139922403",
+            "isCollector": false,
+            "groupInfos": [
+                
+            ],
+            "partnerInfos": [
+                
+            ],
+            "neInstanceId": "NA,JMX2130Y0FK,ASA5516-FPWR-K9,NA"
+        }
+    ],
+    "Pagination": {
+        "page": 1,
+        "pages": 2,
+        "rows": 100,
+        "total": 156
+    }
+}

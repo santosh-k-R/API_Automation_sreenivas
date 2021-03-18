@@ -1,0 +1,29 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Compliance" parallel="classes" thread-count="3">
+    <listeners>
+        <listener class-name="com.cisco.services.api_automation.listeners.AnnotationTransformer"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.ExecutionListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.RetryListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.SuiteTransformer"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.MethodListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.TestListener"/>
+    </listeners>
+
+    <test name="Compliance">
+        <classes>
+<!--            <class name="com.cisco.services.api_automation.tests.insights.compliance.ViolationFilter" />-->
+<!--            <class name="com.cisco.services.api_automation.tests.insights.compliance.AssetFilter" />-->
+<!--            <class name="com.cisco.services.api_automation.tests.insights.compliance.AssetDetailsFilter" />-->
+            <!-- <class name="com.cisco.tests.insights.compliance.UpdateOptInStatus" /> -->
+            <!-- <class name="com.cisco.tests.insights.compliance.OptInDetail" /> -->
+            <!-- <class name="com.cisco.tests.insights.compliance.PolicyGroups"/> -->
+<!--            <class name="com.cisco.services.api_automation.tests.insights.compliance.PolicyRuleDetails"/>-->
+<!--            <class name="com.cisco.services.api_automation.tests.insights.compliance.ViolationSummary"/>-->
+            <class name="com.cisco.services.api_automation.tests.insights.compliance.ViolationSummaryAPITestsIT" />
+            <class name="com.cisco.services.api_automation.tests.insights.compliance.AssetSummaryTestsIT" />
+            <class name="com.cisco.services.api_automation.tests.insights.compliance.AdminPageAPITestsIT" />
+            <class name="com.cisco.services.api_automation.tests.insights.compliance.FilterAPITestsIT" />
+            <class name="com.cisco.services.api_automation.tests.insights.compliance.RBACTestsIT" />
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="BasicSecurityTesting" >
+    <listeners>
+        <listener class-name="com.cisco.services.api_automation.listeners.AnnotationTransformer"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.ExecutionListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.RetryListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.SuiteTransformer"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.MethodListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.TestListener"/>
+    </listeners>
+
+    <test name="BasicSecurityTesting_TestCases">
+        <classes>
+            <class name="com.cisco.services.api_automation.tests.BasicSecurityTesting.ValidateAllowMethods"/>
+            <class name="com.cisco.services.api_automation.tests.BasicSecurityTesting.ValidateCSPHeader"/>
+            <class name="com.cisco.services.api_automation.tests.BasicSecurityTesting.ValidateInvalidCustomerID"/>
+            <class name="com.cisco.services.api_automation.tests.BasicSecurityTesting.ValidatingAdminAPIs"/>
+            <class name="com.cisco.services.api_automation.tests.BasicSecurityTesting.ValidateMultipleCustomerIdAPIs"/>
+            <class name="com.cisco.services.api_automation.tests.BasicSecurityTesting.ValidatingPOSTMethod"/>
+            <class name="com.cisco.services.api_automation.tests.BasicSecurityTesting.ValidateAuthorizationCheck"/>
+            <class name="com.cisco.services.api_automation.tests.BasicSecurityTesting.ValidateRBAC"/>
+        </classes>
+    </test>
+</suite>

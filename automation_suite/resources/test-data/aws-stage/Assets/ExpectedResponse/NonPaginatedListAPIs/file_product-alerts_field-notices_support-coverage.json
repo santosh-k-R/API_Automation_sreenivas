@@ -1,0 +1,16 @@
+[
+    {
+        "neInstaceId": "NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "vulnerabilityStatus": "VUL",
+        "productType": "Wireless",
+        "serialNumber": "FCW1828L038",
+        "supportCovered": true
+    },
+    {
+        "neInstaceId": "NA,FDO1852E25Z,WS-C3650-24PD-E,NA",
+        "vulnerabilityStatus": "VUL",
+        "productType": "Switches",
+        "serialNumber": "FDO1852E25Z",
+        "supportCovered": true
+    }
+]

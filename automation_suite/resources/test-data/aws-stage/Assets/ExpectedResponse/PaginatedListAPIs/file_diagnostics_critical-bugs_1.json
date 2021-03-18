@@ -1,0 +1,186 @@
+{
+    "data": [
+        {
+            "id": "CSCuy86400",
+            "title": "Same user in tcacs and local database gets authenticated",
+            "description": "<B>Symptom:</B>\nConfigure mgmt auth as local and then aaa. \n>show aaa  auth \n\nManagement authentication server order:\n    1............................................ local\n    2............................................ tacacs\n\nConfigure  a user \"admin\" on both local and tacacs. with different passwords \non local make admin as read-only.\nIf login with user admin and tacacs password, i am till getting authenticated. But local user  log say s user us rejected.\nIf user is rejected, then there should be no failover.\n\n<B>Conditions:</B>\nConfigure mgmt auth as local and then aaa. \n>show aaa  auth \n\nManagement authentication server order:\n    1............................................ local\n    2............................................ tacacs\n\nConfigure  a user \"admin\" on both local and tacacs. with different passwords \non local make admin as read-only.\nIf login with user admin and tacacs password, i am till getting authenticated. But local user  log say s user us rejected.\nIf user is rejected, then there should be no failover.\n\n<B>Workaround:</B>\nna\n\n<B>Further Problem Description:</B>\nna\n\n\n",
+            "state": "new",
+            "severity": "info",
+            "severityValue": 6,
+            "publishedOn": "2020-10-27T07:00:15Z",
+            "lastUpdated": "2020-10-27T07:00:15Z",
+            "assetsImpacted": 1,
+            "hostname": "PnP-WLC5520-1",
+            "ipAddress": "172.23.111.11",
+            "swVersion": "8.8.111.0",
+            "severityLabel": "info",
+            "cdets": {
+                "headline": "Same user in tcacs and local database gets authenticated",
+                "severity": "3",
+                "priority": "3",
+                "status": "V",
+                "releaseNote": "<B>Symptom:</B>\nConfigure mgmt auth as local and then aaa. \n>show aaa  auth \n\nManagement authentication server order:\n    1............................................ local\n    2............................................ tacacs\n\nConfigure  a user \"admin\" on both local and tacacs. with different passwords \non local make admin as read-only.\nIf login with user admin and tacacs password, i am till getting authenticated. But local user  log say s user us rejected.\nIf user is rejected, then there should be no failover.\n\n<B>Conditions:</B>\nConfigure mgmt auth as local and then aaa. \n>show aaa  auth \n\nManagement authentication server order:\n    1............................................ local\n    2............................................ tacacs\n\nConfigure  a user \"admin\" on both local and tacacs. with different passwords \non local make admin as read-only.\nIf login with user admin and tacacs password, i am till getting authenticated. But local user  log say s user us rejected.\nIf user is rejected, then there should be no failover.\n\n<B>Workaround:</B>\nna\n\n<B>Further Problem Description:</B>\nna\n\n\n"
+            }
+        },
+        {
+            "id": "CSCvh51658",
+            "title": "WLC: Due to WLC code change in 8.7, if token is empty WLC is not reinitiating JWT enrollment process",
+            "description": "<B>Symptom:</B>\nWLC is not able to send data to DNAC\n\n<B>Conditions:</B>\nWLC showing 'unauthorized JWT token' in error\n\n<B>Workaround:</B>\nIn 8.7, if token is empty WLC is not reinitiating JWT enrollment process.\nWorkaround : configure a token manually, & re-add the WLC on DNA. On re-add, JWT enrollment process will restart as token is not empty. JWT enrollment should be successful later.\n\n<B>Further Problem Description:</B>\n\n\n",
+            "state": "new",
+            "severity": "info",
+            "severityValue": 6,
+            "publishedOn": "2020-10-27T07:00:15Z",
+            "lastUpdated": "2020-10-27T07:00:15Z",
+            "assetsImpacted": 1,
+            "hostname": "PnP-WLC5520-1",
+            "ipAddress": "172.23.111.11",
+            "swVersion": "8.8.111.0",
+            "severityLabel": "info",
+            "cdets": {
+                "headline": "WLC: Due to WLC code change in 8.7, if token is empty WLC is not reinitiating JWT enrollment process",
+                "severity": "3",
+                "priority": "3",
+                "status": "M",
+                "releaseNote": "<B>Symptom:</B>\nWLC is not able to send data to DNAC\n\n<B>Conditions:</B>\nWLC showing 'unauthorized JWT token' in error\n\n<B>Workaround:</B>\nIn 8.7, if token is empty WLC is not reinitiating JWT enrollment process.\nWorkaround : configure a token manually, & re-add the WLC on DNA. On re-add, JWT enrollment process will restart as token is not empty. JWT enrollment should be successful later.\n\n<B>Further Problem Description:</B>\n\n\n"
+            }
+        },
+        {
+            "id": "CSCvk41603",
+            "title": "Controller-Unable to add /delete DCA channels in RF-Profile while Channel width configured as 80 MHz",
+            "description": "<B>Symptom:</B>\nWhen we configure 80 or 40 MHZ in Rf-Profle, unable to add/delete the DCA channels in RF-Profile.\n\nGetting the below warning. \n\"Configured DCA channels are in invalid combination for the selected channel width\".\n\n<B>Conditions:</B>\nRF profile \n8.8.100.0\n8.8.111.0\n\n<B>Workaround:</B>\n\n<B>Further Problem Description:</B>\n\n\n",
+            "state": "new",
+            "severity": "info",
+            "severityValue": 6,
+            "publishedOn": "2020-10-27T07:00:15Z",
+            "lastUpdated": "2020-10-27T07:00:15Z",
+            "assetsImpacted": 1,
+            "hostname": "PnP-WLC5520-1",
+            "ipAddress": "172.23.111.11",
+            "swVersion": "8.8.111.0",
+            "severityLabel": "info",
+            "cdets": {
+                "headline": "Controller-Unable to add /delete DCA channels in RF-Profile while Channel width configured as 80 MHz",
+                "severity": "3",
+                "priority": "3",
+                "status": "V",
+                "releaseNote": "<B>Symptom:</B>\nWhen we configure 80 or 40 MHZ in Rf-Profle, unable to add/delete the DCA channels in RF-Profile.\n\nGetting the below warning. \n\"Configured DCA channels are in invalid combination for the selected channel width\".\n\n<B>Conditions:</B>\nRF profile \n8.8.100.0\n8.8.111.0\n\n<B>Workaround:</B>\n\n<B>Further Problem Description:</B>\n\n\n"
+            }
+        },
+        {
+            "id": "CSCvn68752",
+            "title": "Cisco 1542, 1562 APs failed to get ARP entry for WLC",
+            "description": "<B>Symptom:</B>\n1542/1562 Failed to get ARP entry for WLC\n\n<B>Conditions:</B>\n1542/1562 Failed to get ARP entry for WLC,\n\n<B>Workaround:</B>\ndowngrade to 8.7.\n\n<B>Further Problem Description:</B>\n\n\n",
+            "state": "new",
+            "severity": "info",
+            "severityValue": 6,
+            "publishedOn": "2020-10-27T07:00:15Z",
+            "lastUpdated": "2020-10-27T07:00:15Z",
+            "assetsImpacted": 1,
+            "hostname": "PnP-WLC5520-1",
+            "ipAddress": "172.23.111.11",
+            "swVersion": "8.8.111.0",
+            "severityLabel": "info",
+            "cdets": {
+                "headline": "Cisco 1542, 1562 APs failed to get ARP entry for WLC",
+                "severity": "2",
+                "priority": "2",
+                "status": "V",
+                "releaseNote": "<B>Symptom:</B>\n1542/1562 Failed to get ARP entry for WLC\n\n<B>Conditions:</B>\n1542/1562 Failed to get ARP entry for WLC,\n\n<B>Workaround:</B>\ndowngrade to 8.7.\n\n<B>Further Problem Description:</B>\n\n\n"
+            }
+        },
+        {
+            "id": "CSCvn95727",
+            "title": "XOR Radio in 5GHz is sending some traffic at disabled data rates",
+            "description": "<B>Symptom:</B>\nnetwork is configured with 24 Mbps as lowest enabled data rate for high density deployment.  We are seeing some traffic sent by the AP transmitted at 6 Mbps.\n\n<B>Conditions:</B>\nbehavior persists with either global parameters or RF profile\nbehavior seen on XOR with dart connector\nTraffic seen at 6 Mbps includes some ACKs, CTS, Block ACK REQs, and VHT NDP\n\n<B>Workaround:</B>\nN/A\n\n<B>Further Problem Description:</B>\nN/A\n\n\n",
+            "state": "new",
+            "severity": "info",
+            "severityValue": 6,
+            "publishedOn": "2020-10-27T07:00:15Z",
+            "lastUpdated": "2020-10-27T07:00:15Z",
+            "assetsImpacted": 1,
+            "hostname": "PnP-WLC5520-1",
+            "ipAddress": "172.23.111.11",
+            "swVersion": "8.8.111.0",
+            "severityLabel": "info",
+            "cdets": {
+                "headline": "XOR Radio in 5GHz is sending some traffic at disabled data rates",
+                "severity": "3",
+                "priority": "3",
+                "status": "M",
+                "releaseNote": "<B>Symptom:</B>\nnetwork is configured with 24 Mbps as lowest enabled data rate for high density deployment.  We are seeing some traffic sent by the AP transmitted at 6 Mbps.\n\n<B>Conditions:</B>\nbehavior persists with either global parameters or RF profile\nbehavior seen on XOR with dart connector\nTraffic seen at 6 Mbps includes some ACKs, CTS, Block ACK REQs, and VHT NDP\n\n<B>Workaround:</B>\nN/A\n\n<B>Further Problem Description:</B>\nN/A\n\n\n"
+            }
+        },
+        {
+            "id": "CSCvo01848",
+            "title": "'show run-config commands' includes weird lines",
+            "description": "<B>Symptom:</B>\n'show run-config commands' includes weird lines;\nThis command has been deprecated! Please use 'config tacacs auth add' instead.\nThis command has been deprecated! Please use 'config tacacs auth enable' instead.\nThis command has been deprecated! Please use 'config tacacs auth server-timeout' instead.\nThis command has been deprecated! Please use 'config tacacs auth mgmt-server-timeout' instead.\n\n<B>Conditions:</B>\nexec 'show run-config commands'\n\n<B>Workaround:</B>\nignore this lines\n\n<B>Further Problem Description:</B>\n\n\n",
+            "state": "new",
+            "severity": "info",
+            "severityValue": 6,
+            "publishedOn": "2020-10-13T11:10:27Z",
+            "lastUpdated": "2020-10-13T11:10:27Z",
+            "assetsImpacted": 1,
+            "hostname": "PnP-WLC5520-1",
+            "ipAddress": "172.23.111.11",
+            "swVersion": "8.8.111.0",
+            "severityLabel": "info",
+            "cdets": {
+                "headline": "'show run-config commands' includes weird lines",
+                "severity": "4",
+                "priority": "4",
+                "status": "A",
+                "releaseNote": "<B>Symptom:</B>\n'show run-config commands' includes weird lines;\nThis command has been deprecated! Please use 'config tacacs auth add' instead.\nThis command has been deprecated! Please use 'config tacacs auth enable' instead.\nThis command has been deprecated! Please use 'config tacacs auth server-timeout' instead.\nThis command has been deprecated! Please use 'config tacacs auth mgmt-server-timeout' instead.\n\n<B>Conditions:</B>\nexec 'show run-config commands'\n\n<B>Workaround:</B>\nignore this lines\n\n<B>Further Problem Description:</B>\n\n\n"
+            }
+        },
+        {
+            "id": "CSCvp35686",
+            "title": "Cisco 5508/ 5520 controller running 8.5.140.0 dropping all wireless clients",
+            "description": "<B>Symptom:</B>\n5520/5508 WLCs on code 8.5.140.0\nThe issue is with wireless clients not able to connect to the AP/WLAN. This issue is seen intermittently once in every few days.\nWhen the issue happens the client count on the WLC shows to be zero.\n a failover to the secondary N+1 WLC to revive the network.\n\nThe following Is seen in the WLC msglog when the client count is zero\n*apfMsConnTask_2: Mar 25 08:52:51.938: %OSAPI-0-TIMERCB_ALLOC_FAILED: [SA]timerlib.c:648 Unable to allocate timer control block.\n-Traceback:  0x119004f 0x5f9279 0x5fc368 0x5142d6 0x527b48 0x1185603 0x3ba6c07dff 0x7f338e18439d\n*apfMsConnTask_2: Mar 25 08:52:51.934: %APF-1-MOBILE_ENTRY_CREATE_FAILED: [SA]apf_ms.c:4596 Could not create Mobile Station Entry. Unable to lock existing entry or create timers. Mobile:40:9c:28:b8:ea:61, Type: LWAPP AP. Mobile rejected.\n-Traceback:  0x5f92e4 0x5fc368 0x5142d6 0x527b48 0x1185603 0x3ba6c07dff 0x7f338e18439d\n*apfMsConnTask_2: Mar 25 08:52:51.934: %OSAPI-0-TIMER_CREATE_FAILED: [SA]timerlib.c:688 Failed to create a timer.\n-Traceback:  0x119008d 0x5f9279 0x5fc368 0x5142d6 0x527b48 0x1185603 0x3ba6c07dff 0x7f338e18439d\n\n19 Mon Mar 25 08:55:22 2019 Capwap Retransmission Queue Full for AP dc:7b:94:\n                             87:18:70\n20 Mon Mar 25 08:55:22 2019 Capwap Retransmission Queue Full for AP dc:7b:94:\n\nThe logs are not seen once the Aps are moved to the failover WLC.\n\nFree timer counter has reached zero:\n\nTotal Timers..................................... 150000\n    Allocated.................................... 149994\n    Free......................................... 6\n    Peak Usage................................... 150000\n\n<B>Conditions:</B>\nSeen on a WLC in AP SSO HA mode, with active mobility tunnels to a peer.\nWLC is doing DTLS mobility to a peer, and there have been multiple mobility tunnel flaps\n\n<B>Workaround:</B>\nfailover to the secondary N+1 WLC to revive the network\n\n<B>Further Problem Description:</B>\n\n\n",
+            "state": "new",
+            "severity": "info",
+            "severityValue": 6,
+            "publishedOn": "2020-10-27T07:00:15Z",
+            "lastUpdated": "2020-10-27T07:00:15Z",
+            "assetsImpacted": 1,
+            "hostname": "PnP-WLC5520-1",
+            "ipAddress": "172.23.111.11",
+            "swVersion": "8.8.111.0",
+            "severityLabel": "info",
+            "cdets": {
+                "headline": "Cisco 5508/ 5520 controller running 8.5.140.0 dropping all wireless clients",
+                "severity": "2",
+                "priority": "1",
+                "status": "R",
+                "releaseNote": "<B>Symptom:</B>\n5520/5508 WLCs on code 8.5.140.0\nThe issue is with wireless clients not able to connect to the AP/WLAN. This issue is seen intermittently once in every few days.\nWhen the issue happens the client count on the WLC shows to be zero.\n a failover to the secondary N+1 WLC to revive the network.\n\nThe following Is seen in the WLC msglog when the client count is zero\n*apfMsConnTask_2: Mar 25 08:52:51.938: %OSAPI-0-TIMERCB_ALLOC_FAILED: [SA]timerlib.c:648 Unable to allocate timer control block.\n-Traceback:  0x119004f 0x5f9279 0x5fc368 0x5142d6 0x527b48 0x1185603 0x3ba6c07dff 0x7f338e18439d\n*apfMsConnTask_2: Mar 25 08:52:51.934: %APF-1-MOBILE_ENTRY_CREATE_FAILED: [SA]apf_ms.c:4596 Could not create Mobile Station Entry. Unable to lock existing entry or create timers. Mobile:40:9c:28:b8:ea:61, Type: LWAPP AP. Mobile rejected.\n-Traceback:  0x5f92e4 0x5fc368 0x5142d6 0x527b48 0x1185603 0x3ba6c07dff 0x7f338e18439d\n*apfMsConnTask_2: Mar 25 08:52:51.934: %OSAPI-0-TIMER_CREATE_FAILED: [SA]timerlib.c:688 Failed to create a timer.\n-Traceback:  0x119008d 0x5f9279 0x5fc368 0x5142d6 0x527b48 0x1185603 0x3ba6c07dff 0x7f338e18439d\n\n19 Mon Mar 25 08:55:22 2019 Capwap Retransmission Queue Full for AP dc:7b:94:\n                             87:18:70\n20 Mon Mar 25 08:55:22 2019 Capwap Retransmission Queue Full for AP dc:7b:94:\n\nThe logs are not seen once the Aps are moved to the failover WLC.\n\nFree timer counter has reached zero:\n\nTotal Timers..................................... 150000\n    Allocated.................................... 149994\n    Free......................................... 6\n    Peak Usage................................... 150000\n\n<B>Conditions:</B>\nSeen on a WLC in AP SSO HA mode, with active mobility tunnels to a peer.\nWLC is doing DTLS mobility to a peer, and there have been multiple mobility tunnel flaps\n\n<B>Workaround:</B>\nfailover to the secondary N+1 WLC to revive the network\n\n<B>Further Problem Description:</B>\n\n\n"
+            }
+        },
+        {
+            "id": "CSCvr13538",
+            "title": "XOR Radio becomes Operation Down state after changing Radio Role Assignment",
+            "description": "<B>Symptom:</B>\nXOR Radio becomes Operation Down state after changing Radio Role Assignment\n\n<B>Conditions:</B>\nna\n\n<B>Workaround:</B>\nna\n\n<B>Further Problem Description:</B>\nna\n\n\n",
+            "state": "new",
+            "severity": "info",
+            "severityValue": 6,
+            "publishedOn": "2020-10-13T11:10:28Z",
+            "lastUpdated": "2020-10-13T11:10:28Z",
+            "assetsImpacted": 1,
+            "hostname": "PnP-WLC5520-1",
+            "ipAddress": "172.23.111.11",
+            "swVersion": "8.8.111.0",
+            "severityLabel": "info",
+            "cdets": {
+                "headline": "XOR Radio becomes Operation Down state after changing Radio Role Assignment",
+                "severity": "3",
+                "priority": "3",
+                "status": "U",
+                "releaseNote": "<B>Symptom:</B>\nXOR Radio becomes Operation Down state after changing Radio Role Assignment\n\n<B>Conditions:</B>\nna\n\n<B>Workaround:</B>\nna\n\n<B>Further Problem Description:</B>\nna\n\n\n"
+            }
+        }
+    ],
+    "Pagination": {
+        "page": 1,
+        "pages": 1,
+        "rows": 100,
+        "total": 8
+    }
+}

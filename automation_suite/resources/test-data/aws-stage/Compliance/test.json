@@ -1,0 +1,22 @@
+[
+  {
+    "scenario": "scenario 1",
+    "method": "method 1",
+    "url": "url 1",
+    "headers": "headers 1",
+    "params": "params 1",
+    "body": "body 1",
+    "statusCode": "statusCode 1",
+    "expResponse": "expResponse 1"
+  },
+  {
+    "scenario": "scenario 2",
+    "method": "method 2",
+    "url": "url 2",
+    "headers": "headers 2",
+    "params": "params 2",
+    "body": "body 2",
+    "statusCode": "statusCode 2",
+    "expResponse": "expResponse 2"
+  }
+]
