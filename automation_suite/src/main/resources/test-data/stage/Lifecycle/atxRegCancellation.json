@@ -1,0 +1,288 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "http://example.com/example.json",
+    "type": "object",
+    "title": "The Root Schema",
+    "description": "The root schema comprises the entire JSON document.",
+    "default": {},
+    "additionalProperties": true,
+    "required": [
+        "ccoId",
+        "userFullName",
+        "userEmail",
+        "atxId",
+        "assetId",
+        "atxTitle",
+        "atxDescription",
+        "atxTechnologyArea",
+        "sessionId",
+        "sessionStartDate",
+        "sessionStartDateFormatted",
+        "sessionRegion",
+        "presenterName",
+        "transactionType",
+        "customerId",
+        "customerName",
+        "partnerId",
+        "partnerUserFullName",
+        "partnerUserEmail",
+        "created",
+        "updated",
+        "eventNumber",
+        "attendeeId",
+        "webexEventCancelled",
+        "docId"
+    ],
+    "properties": {
+        "ccoId": {
+            "$id": "#/properties/ccoId",
+            "type": "string",
+            "title": "The Ccoid Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "CiscotacUser06795"
+            ]
+        },
+        "userFullName": {
+            "$id": "#/properties/userFullName",
+            "type": "string",
+            "title": "The Userfullname Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "Ciscotac User"
+            ]
+        },
+        "userEmail": {
+            "$id": "#/properties/userEmail",
+            "type": "string",
+            "title": "The Useremail Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "cisctacuserone@gmail.com"
+            ]
+        },
+        "atxId": {
+            "$id": "#/properties/atxId",
+            "type": "string",
+            "title": "The Atxid Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "DNA5"
+            ]
+        },
+        "assetId": {
+            "$id": "#/properties/assetId",
+            "type": "null",
+            "title": "The Assetid Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+                null
+            ]
+        },
+        "atxTitle": {
+            "$id": "#/properties/atxTitle",
+            "type": "string",
+            "title": "The Atxtitle Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "Cisco DNA Center Wireless Assurance"
+            ]
+        },
+        "atxDescription": {
+            "$id": "#/properties/atxDescription",
+            "type": "string",
+            "title": "The Atxdescription Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "We provide a detailed look at wireless assurance, with a focus on troubleshooting. Learn about using Wireless Client 360 to view device and client connectivity, as well as how to use wireless health metrics, configure wireless sensors, and use sensor tests"
+            ]
+        },
+        "atxTechnologyArea": {
+            "$id": "#/properties/atxTechnologyArea",
+            "type": "string",
+            "title": "The Atxtechnologyarea Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "EN - Wireless Automation, Assurance and Location Analytics"
+            ]
+        },
+        "sessionId": {
+            "$id": "#/properties/sessionId",
+            "type": "string",
+            "title": "The Sessionid Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "DNA5-05/13/20-3"
+            ]
+        },
+        "sessionStartDate": {
+            "$id": "#/properties/sessionStartDate",
+            "type": "integer",
+            "title": "The Sessionstartdate Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": 0,
+            "examples": [
+                1589396400000.0
+            ]
+        },
+        "sessionStartDateFormatted": {
+            "$id": "#/properties/sessionStartDateFormatted",
+            "type": "string",
+            "title": "The Sessionstartdateformatted Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "2020-05-13T19:00:00Z"
+            ]
+        },
+        "sessionRegion": {
+            "$id": "#/properties/sessionRegion",
+            "type": "string",
+            "title": "The Sessionregion Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "APJGC"
+            ]
+        },
+        "presenterName": {
+            "$id": "#/properties/presenterName",
+            "type": "string",
+            "title": "The Presentername Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "ishrak khan"
+            ]
+        },
+        "transactionType": {
+            "$id": "#/properties/transactionType",
+            "type": "string",
+            "title": "The Transactiontype Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "Canceled"
+            ]
+        },
+        "customerId": {
+            "$id": "#/properties/customerId",
+            "type": "string",
+            "title": "The Customerid Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "116316_0"
+            ]
+        },
+        "customerName": {
+            "$id": "#/properties/customerName",
+            "type": "string",
+            "title": "The Customername Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "CISCO SYSTEMS CAPITAL CANADA COMPANY"
+            ]
+        },
+        "partnerId": {
+            "$id": "#/properties/partnerId",
+            "type": "null",
+            "title": "The Partnerid Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+                null
+            ]
+        },
+        "partnerUserFullName": {
+            "$id": "#/properties/partnerUserFullName",
+            "type": "null",
+            "title": "The Partneruserfullname Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+                null
+            ]
+        },
+        "partnerUserEmail": {
+            "$id": "#/properties/partnerUserEmail",
+            "type": "null",
+            "title": "The Partneruseremail Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+                null
+            ]
+        },
+        "created": {
+            "$id": "#/properties/created",
+            "type": "integer",
+            "title": "The Created Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": 0,
+            "examples": [
+                1587104558941.0
+            ]
+        },
+        "updated": {
+            "$id": "#/properties/updated",
+            "type": "integer",
+            "title": "The Updated Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": 0,
+            "examples": [
+                1587104559681.0
+            ]
+        },
+        "eventNumber": {
+            "$id": "#/properties/eventNumber",
+            "type": "string",
+            "title": "The Eventnumber Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "201705124"
+            ]
+        },
+        "attendeeId": {
+            "$id": "#/properties/attendeeId",
+            "type": "string",
+            "title": "The Attendeeid Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "2105859573"
+            ]
+        },
+        "webexEventCancelled": {
+            "$id": "#/properties/webexEventCancelled",
+            "type": "boolean",
+            "title": "The Webexeventcancelled Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": false,
+            "examples": [
+                false
+            ]
+        },
+        "docId": {
+            "$id": "#/properties/docId",
+            "type": "string",
+            "title": "The Docid Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "-78738620"
+            ]
+        }
+    }
+}

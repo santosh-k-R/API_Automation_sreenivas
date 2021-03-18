@@ -1,0 +1,100 @@
+{
+    "count": 15,
+    "message": "Success",
+    "afmStatus": "Success",
+    "offlineTime": "",
+    "responseData": [
+        {
+            "category": "Services",
+            "faultSeverity": "Medium",
+            "title": "The application which are using trustpool certificates will not work.",
+            "systemCount": 1,
+            "faultUpdatedTime": "2020-10-11T19:57:04.794+0000",
+            "signatureId": 58
+        },
+        {
+            "category": "Environment",
+            "faultSeverity": "Medium",
+            "title": "Power supply removed from device",
+            "signatureId": 3
+        },
+        {
+            "category": "System",
+            "faultSeverity": "Medium",
+            "title": "Virtual service not installed",
+            "signatureId": 7
+        },
+        {
+            "category": "System",
+            "faultSeverity": "Medium",
+            "title": "Shared port adapter inoperative",
+            "signatureId": 8
+        },
+        {
+            "category": "Environment",
+            "faultSeverity": "Medium",
+            "title": "Fan failure.",
+            "signatureId": 23
+        },
+        {
+            "category": "Environment",
+            "faultSeverity": "Medium",
+            "title": "Temperature is above normal (yellow) limit",
+            "signatureId": 26
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "Medium",
+            "title": "Device attempting to establish several HTTP connections to the device where this error occurred. There is no known functional impact seen apart from continuous logs appearing to console. It may create security concerns if untrusted sources are trying to establish a connection to the device.",
+            "signatureId": 30
+        },
+        {
+            "category": "System",
+            "faultSeverity": "Medium",
+            "title": "This issue has an operational impact as unexpected reload occurs.",
+            "signatureId": 32
+        },
+        {
+            "category": "Environment",
+            "faultSeverity": "Medium",
+            "title": "This issue does not cause any impact.",
+            "signatureId": 35
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "Medium",
+            "title": "Configuration failure is possible causing unpredictable results.",
+            "signatureId": 51
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "Medium",
+            "title": "This is an information message to administrator. Also there could be an issue while registering the device via smart license call-home feature. May need to perform further analysis  based on the output collected from all show commands.",
+            "signatureId": 57
+        },
+        {
+            "category": "System",
+            "faultSeverity": "Medium",
+            "title": "Excess DHCP packets dropped",
+            "signatureId": 59
+        },
+        {
+            "category": "Environment",
+            "faultSeverity": "Medium",
+            "title": "Power redundancy lost",
+            "signatureId": 60
+        },
+        {
+            "category": "Environment",
+            "faultSeverity": "Medium",
+            "title": "System Environment. The device keep generating these logs and might start and communication issues with device FAN.",
+            "signatureId": 65
+        },
+        {
+            "category": "Management",
+            "faultSeverity": "Medium",
+            "title": "Device management affected without access to AAA",
+            "signatureId": 67
+        }
+    ]
+}

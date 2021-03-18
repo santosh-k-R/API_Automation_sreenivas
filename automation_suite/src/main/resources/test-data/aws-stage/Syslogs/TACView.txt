@@ -1,0 +1,8 @@
+10.32.255.3 %ENVIRONMENTAL-1-ALERT: Temp: Inlet 1 Location: R0 State: Critical Reading: 41 Celsius Automation
+10.32.255.2 %ENVIRONMENTAL-1-ALERT: Temp: Inlet 1 Location: R0 State: Critical Reading: 41 Celsius Automation
+21.0.1.12 %ENVIRONMENTAL-1-ALERT: Temp: Inlet 1 Location: R0 State: Critical Reading: 41 Celsius Automation
+10.32.255.3 %PLATFORM_INFRA-5-IOS_INTR_OVER_LIMIT: IOS thread disabled interrupt for 36 msec Automation
+20.0.4.1 %PLATFORM_INFRA-5-IOS_INTR_OVER_LIMIT: IOS thread disabled interrupt for 36 msec Automation
+20.0.4.1 %PKI-4-TRUSTPOOL_DOWNLOAD_FAILURE: Trustpool Download failed Automation
+172.23.111.11 %ENVMON-0-KEEPALIVE:wlcng_powerSupply.c:280 System is rebooting in 5 seconds: lost heartbeat from environmental controller Automation
+172.23.111.11 %ENVMON-1-TEMPHIGH: [SS]kukritempSensor.c:219 CPU Temperature overheat warning at 83(C) Automation

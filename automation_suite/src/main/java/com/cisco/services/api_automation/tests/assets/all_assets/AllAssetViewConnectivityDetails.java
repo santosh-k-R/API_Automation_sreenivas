@@ -1,0 +1,48 @@
+package com.cisco.services.api_automation.tests.assets.all_assets;
+
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+import com.cisco.services.api_automation.testdata.assets.AssetsData;
+import com.cisco.services.api_automation.tests.assets.BeforeTestSuiteClassIT;
+import com.cisco.services.api_automation.tests.assets.CommonTestAcrossAPIsIT;
+import com.cisco.services.api_automation.utils.customassert.Assert;
+import com.cisco.services.api_automation.utils.customassert.SoftAssert;
+
+import io.qameta.allure.Feature;
+import io.restassured.response.Response;
+
+@Feature("Assets All Assets APIs")
+public class AllAssetViewConnectivityDetails extends BeforeTestSuiteClassIT{
+
+	Response responseAPI = null;
+	Response responseES = null;
+	Response preReqApiResponse = null;
+	Boolean preRequisiteAPIRan = false;
+	SoftAssert softAssert = new SoftAssert();
+	String expectedStatusCode = "200";
+	long expectedResponseTime = 3000;
+	String apiKey="all_assets_view_connectivity";
+	String endPoint;
+
+	@BeforeClass
+	public void setup() {
+		endPoint = AssetsData.ASSETS_GET_APIS.get(apiKey).getEndPointUrl();
+	}
+	
+	
+	@Test(description = "/inventory/v1/all/assets/connectivity/count API 200 Response Validation")
+	public void api200ResponseValidation() throws Exception {
+		System.out.println("****************** 200 Response Validation for API "+endPoint );
+		try {
+			responseAPI=CommonTestAcrossAPIsIT.successResponse(endPoint);
+			softAssert.assertEquals(responseAPI.getStatusCode(), Integer.parseInt(expectedStatusCode),
+					"Test Case failed as response status is not 200:" + responseAPI.getStatusLine());
+			softAssert.assertAll();
+		} catch (Exception e) {
+			e.printStackTrace();
+			Assert.assertFalse(true, "Connection aborted: " + e.getMessage());
+		}
+
+	}
+}

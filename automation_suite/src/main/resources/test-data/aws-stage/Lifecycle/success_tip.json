@@ -1,0 +1,192 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "title": "The Root Schema",
+  "description": "The root schema comprises the entire JSON document.",
+  "default": {},
+  "additionalProperties": true,
+  "required": [
+    "solution",
+    "usecase",
+    "pitstop",
+    "totalCount",
+    "items"
+  ],
+  "properties": {
+    "solution": {
+      "$id": "#/properties/solution",
+      "type": "string",
+      "title": "The Solution Schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "string"
+      ]
+    },
+    "usecase": {
+      "$id": "#/properties/usecase",
+      "type": "string",
+      "title": "The Usecase Schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "string"
+      ]
+    },
+    "pitstop": {
+      "$id": "#/properties/pitstop",
+      "type": "string",
+      "title": "The Pitstop Schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "string"
+      ]
+    },
+    "totalCount": {
+      "$id": "#/properties/totalCount",
+      "type": "integer",
+      "title": "The Totalcount Schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        0.0
+      ]
+    },
+    "items": {
+      "$id": "#/properties/items",
+      "type": "array",
+      "title": "The Items Schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": [],
+      "examples": [
+        [
+          {
+            "archetype": "string",
+            "bookmark": true,
+            "title": "string",
+            "url": "string",
+            "description": "string",
+            "duration": "string",
+            "type": "string",
+            "successByteId": "string"
+          }
+        ]
+      ],
+      "additionalItems": true,
+      "items": {
+        "$id": "#/properties/items/items",
+        "type": "object",
+        "title": "The Items Schema",
+        "description": "An explanation about the purpose of this instance.",
+        "default": {},
+        "examples": [
+          {
+            "bookmark": true,
+            "title": "string",
+            "url": "string",
+            "description": "string",
+            "duration": "string",
+            "type": "string",
+            "successByteId": "string",
+            "archetype": "string"
+          }
+        ],
+        "additionalProperties": true,
+        "required": [
+          "archetype",
+          "bookmark",
+          "title",
+          "description",
+          "duration",
+          "type",
+          "url",
+          "successByteId"
+        ],
+        "properties": {
+          "archetype": {
+            "$id": "#/properties/items/items/properties/archetype",
+            "type": "string",
+            "title": "The Archetype Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "string"
+            ]
+          },
+          "bookmark": {
+            "$id": "#/properties/items/items/properties/bookmark",
+            "type": "boolean",
+            "title": "The Bookmark Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": false,
+            "examples": [
+              true
+            ]
+          },
+          "title": {
+            "$id": "#/properties/items/items/properties/title",
+            "type": "string",
+            "title": "The Title Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "string"
+            ]
+          },
+          "description": {
+            "$id": "#/properties/items/items/properties/description",
+            "type": "string",
+            "title": "The Description Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "string"
+            ]
+          },
+          "duration": {
+            "$id": "#/properties/items/items/properties/duration",
+            "type": "string",
+            "title": "The Duration Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "string"
+            ]
+          },
+          "type": {
+            "$id": "#/properties/items/items/properties/type",
+            "type": "string",
+            "title": "The Type Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "string"
+            ]
+          },
+          "url": {
+            "$id": "#/properties/items/items/properties/url",
+            "type": "string",
+            "title": "The Url Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "string"
+            ]
+          },
+          "successByteId": {
+            "$id": "#/properties/items/items/properties/successByteId",
+            "type": "string",
+            "title": "The Successbyteid Schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "string"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

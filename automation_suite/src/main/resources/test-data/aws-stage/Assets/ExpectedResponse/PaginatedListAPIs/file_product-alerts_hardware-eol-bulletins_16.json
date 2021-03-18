@@ -1,0 +1,3310 @@
+{
+    "data": [
+        {
+            "hwEolInstanceId": 464086,
+            "bulletinNumber": "EOL13188",
+            "bulletinProductId": "WS-C3850-24UW-S",
+            "bulletinTitle": "Cisco Catalyst 3850 switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html",
+            "publishedDate": "2019-11-01T10:53:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464089,
+            "bulletinNumber": "EOL13188",
+            "bulletinProductId": "WS-C3850-24XU-E",
+            "bulletinTitle": "Cisco Catalyst 3850 switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html",
+            "publishedDate": "2019-11-01T10:53:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464093,
+            "bulletinNumber": "EOL13188",
+            "bulletinProductId": "WS-C3850-24XU-L",
+            "bulletinTitle": "Cisco Catalyst 3850 switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html",
+            "publishedDate": "2019-11-01T10:53:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464096,
+            "bulletinNumber": "EOL13188",
+            "bulletinProductId": "WS-C3850-24XU-S",
+            "bulletinTitle": "Cisco Catalyst 3850 switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html",
+            "publishedDate": "2019-11-01T10:53:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464102,
+            "bulletinNumber": "EOL13188",
+            "bulletinProductId": "WS-C3850-48F-E",
+            "bulletinTitle": "Cisco Catalyst 3850 switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html",
+            "publishedDate": "2019-11-01T10:53:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464106,
+            "bulletinNumber": "EOL13188",
+            "bulletinProductId": "WS-C3850-48F-L",
+            "bulletinTitle": "Cisco Catalyst 3850 switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html",
+            "publishedDate": "2019-11-01T10:53:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464110,
+            "bulletinNumber": "EOL13188",
+            "bulletinProductId": "WS-C3850-48F-S",
+            "bulletinTitle": "Cisco Catalyst 3850 switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html",
+            "publishedDate": "2019-11-01T10:53:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464114,
+            "bulletinNumber": "EOL13188",
+            "bulletinProductId": "WS-C3850-48P-E",
+            "bulletinTitle": "Cisco Catalyst 3850 switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html",
+            "publishedDate": "2019-11-01T10:53:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464118,
+            "bulletinNumber": "EOL13188",
+            "bulletinProductId": "WS-C3850-48P-L",
+            "bulletinTitle": "Cisco Catalyst 3850 switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html",
+            "publishedDate": "2019-11-01T10:53:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464122,
+            "bulletinNumber": "EOL13188",
+            "bulletinProductId": "WS-C3850-48P-S",
+            "bulletinTitle": "Cisco Catalyst 3850 switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html",
+            "publishedDate": "2019-11-01T10:53:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464126,
+            "bulletinNumber": "EOL13188",
+            "bulletinProductId": "WS-C3850-48PW-S",
+            "bulletinTitle": "Cisco Catalyst 3850 switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html",
+            "publishedDate": "2019-11-01T10:53:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464023,
+            "bulletinNumber": "EOL13189",
+            "bulletinProductId": "WS-C2960C-12PC-L",
+            "bulletinTitle": "Catalyst C2960C switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/switches/catalyst-2960-c-series-switches/eos-eol-notice-c51-743071.html",
+            "publishedDate": "2019-11-01T10:33:21",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464026,
+            "bulletinNumber": "EOL13189",
+            "bulletinProductId": "WS-C2960C-8PC-L",
+            "bulletinTitle": "Catalyst C2960C switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/switches/catalyst-2960-c-series-switches/eos-eol-notice-c51-743071.html",
+            "publishedDate": "2019-11-01T10:33:21",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464029,
+            "bulletinNumber": "EOL13189",
+            "bulletinProductId": "WS-C2960C-8TC-L",
+            "bulletinTitle": "Catalyst C2960C switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/switches/catalyst-2960-c-series-switches/eos-eol-notice-c51-743071.html",
+            "publishedDate": "2019-11-01T10:33:21",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464032,
+            "bulletinNumber": "EOL13189",
+            "bulletinProductId": "WS-C2960C-8TC-S",
+            "bulletinTitle": "Catalyst C2960C switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/switches/catalyst-2960-c-series-switches/eos-eol-notice-c51-743071.html",
+            "publishedDate": "2019-11-01T10:33:21",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464035,
+            "bulletinNumber": "EOL13189",
+            "bulletinProductId": "WS-C2960CPD-8PT-L",
+            "bulletinTitle": "Catalyst C2960C switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/switches/catalyst-2960-c-series-switches/eos-eol-notice-c51-743071.html",
+            "publishedDate": "2019-11-01T10:33:21",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464036,
+            "bulletinNumber": "EOL13189",
+            "bulletinProductId": "WS-C2960CPD-8TT-L",
+            "bulletinTitle": "Catalyst C2960C switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/switches/catalyst-2960-c-series-switches/eos-eol-notice-c51-743071.html",
+            "publishedDate": "2019-11-01T10:33:21",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464646,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "WS-C6513-E",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464647,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "WS-C6513-E-FAN",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464654,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "WS-CAC-3000W",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464659,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "WS-CAC-4000W-INT",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464661,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "WS-CAC-4000W-US",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464667,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "WS-CAC-6000W",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464671,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "WS-CAC-8700W-E",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464574,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "VS-F6K-PFC4",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464578,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "VS-F6K-PFC4XL",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464583,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "VS-S2T-10G",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464586,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "VS-S2T-10G-XL",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464593,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "VS-SUP2T-10G",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464616,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "WS-C6506-E",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464617,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "WS-C6506-E-FAN",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464624,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "WS-C6509-E",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464625,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "WS-C6509-E-FAN",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464634,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "WS-C6509-V-E",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464639,
+            "bulletinNumber": "EOL13211",
+            "bulletinProductId": "WS-C6509-V-E-FAN",
+            "bulletinTitle": "Catalyst 6506-E, Catalyst 6509-E, Catalyst 6509-V-E, Catalyst 6513-E, VS-S2T-10G, VS-S2T-10G-XL, Bundles & accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html",
+            "publishedDate": "2020-08-26T13:52:29",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464492,
+            "bulletinNumber": "EOL13212",
+            "bulletinProductId": "C6816-X-LE",
+            "bulletinTitle": "Catalyst 6880-X, Catalyst 6880-X-LE, C6880-X-16P10G, C6880-X-LE-16P10G, C6816-X-LE, C6824-X-LE-40G, C6832-X-LE, C6840-X-LE-40G & Accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6800-series-switches/eos-eol-notice-c51-743097.html",
+            "publishedDate": "2019-11-05T08:28:01",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464497,
+            "bulletinNumber": "EOL13212",
+            "bulletinProductId": "C6824-X-LE-40G",
+            "bulletinTitle": "Catalyst 6880-X, Catalyst 6880-X-LE, C6880-X-16P10G, C6880-X-LE-16P10G, C6816-X-LE, C6824-X-LE-40G, C6832-X-LE, C6840-X-LE-40G & Accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6800-series-switches/eos-eol-notice-c51-743097.html",
+            "publishedDate": "2019-11-05T08:28:01",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464501,
+            "bulletinNumber": "EOL13212",
+            "bulletinProductId": "C6832-X-LE",
+            "bulletinTitle": "Catalyst 6880-X, Catalyst 6880-X-LE, C6880-X-16P10G, C6880-X-LE-16P10G, C6816-X-LE, C6824-X-LE-40G, C6832-X-LE, C6840-X-LE-40G & Accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6800-series-switches/eos-eol-notice-c51-743097.html",
+            "publishedDate": "2019-11-05T08:28:01",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464506,
+            "bulletinNumber": "EOL13212",
+            "bulletinProductId": "C6840-X-1100W-AC",
+            "bulletinTitle": "Catalyst 6880-X, Catalyst 6880-X-LE, C6880-X-16P10G, C6880-X-LE-16P10G, C6816-X-LE, C6824-X-LE-40G, C6832-X-LE, C6840-X-LE-40G & Accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6800-series-switches/eos-eol-notice-c51-743097.html",
+            "publishedDate": "2019-11-05T08:28:01",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464512,
+            "bulletinNumber": "EOL13212",
+            "bulletinProductId": "C6840-X-750W-AC",
+            "bulletinTitle": "Catalyst 6880-X, Catalyst 6880-X-LE, C6880-X-16P10G, C6880-X-LE-16P10G, C6816-X-LE, C6824-X-LE-40G, C6832-X-LE, C6840-X-LE-40G & Accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6800-series-switches/eos-eol-notice-c51-743097.html",
+            "publishedDate": "2019-11-05T08:28:01",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464520,
+            "bulletinNumber": "EOL13212",
+            "bulletinProductId": "C6840-X-LE-40G",
+            "bulletinTitle": "Catalyst 6880-X, Catalyst 6880-X-LE, C6880-X-16P10G, C6880-X-LE-16P10G, C6816-X-LE, C6824-X-LE-40G, C6832-X-LE, C6840-X-LE-40G & Accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6800-series-switches/eos-eol-notice-c51-743097.html",
+            "publishedDate": "2019-11-05T08:28:01",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464524,
+            "bulletinNumber": "EOL13212",
+            "bulletinProductId": "C6880-X",
+            "bulletinTitle": "Catalyst 6880-X, Catalyst 6880-X-LE, C6880-X-16P10G, C6880-X-LE-16P10G, C6816-X-LE, C6824-X-LE-40G, C6832-X-LE, C6840-X-LE-40G & Accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6800-series-switches/eos-eol-notice-c51-743097.html",
+            "publishedDate": "2019-11-05T08:28:01",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464526,
+            "bulletinNumber": "EOL13212",
+            "bulletinProductId": "C6880-X-16P10G",
+            "bulletinTitle": "Catalyst 6880-X, Catalyst 6880-X-LE, C6880-X-16P10G, C6880-X-LE-16P10G, C6816-X-LE, C6824-X-LE-40G, C6832-X-LE, C6840-X-LE-40G & Accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6800-series-switches/eos-eol-notice-c51-743097.html",
+            "publishedDate": "2019-11-05T08:28:01",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464530,
+            "bulletinNumber": "EOL13212",
+            "bulletinProductId": "C6880-X-3KW-AC",
+            "bulletinTitle": "Catalyst 6880-X, Catalyst 6880-X-LE, C6880-X-16P10G, C6880-X-LE-16P10G, C6816-X-LE, C6824-X-LE-40G, C6832-X-LE, C6840-X-LE-40G & Accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6800-series-switches/eos-eol-notice-c51-743097.html",
+            "publishedDate": "2019-11-05T08:28:01",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464537,
+            "bulletinNumber": "EOL13212",
+            "bulletinProductId": "C6880-X-FAN",
+            "bulletinTitle": "Catalyst 6880-X, Catalyst 6880-X-LE, C6880-X-16P10G, C6880-X-LE-16P10G, C6816-X-LE, C6824-X-LE-40G, C6832-X-LE, C6840-X-LE-40G & Accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6800-series-switches/eos-eol-notice-c51-743097.html",
+            "publishedDate": "2019-11-05T08:28:01",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464541,
+            "bulletinNumber": "EOL13212",
+            "bulletinProductId": "C6880-X-LE",
+            "bulletinTitle": "Catalyst 6880-X, Catalyst 6880-X-LE, C6880-X-16P10G, C6880-X-LE-16P10G, C6816-X-LE, C6824-X-LE-40G, C6832-X-LE, C6840-X-LE-40G & Accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6800-series-switches/eos-eol-notice-c51-743097.html",
+            "publishedDate": "2019-11-05T08:28:01",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464543,
+            "bulletinNumber": "EOL13212",
+            "bulletinProductId": "C6880-X-LE-16P10G",
+            "bulletinTitle": "Catalyst 6880-X, Catalyst 6880-X-LE, C6880-X-16P10G, C6880-X-LE-16P10G, C6816-X-LE, C6824-X-LE-40G, C6832-X-LE, C6840-X-LE-40G & Accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6800-series-switches/eos-eol-notice-c51-743097.html",
+            "publishedDate": "2019-11-05T08:28:01",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464456,
+            "bulletinNumber": "EOL13216",
+            "bulletinProductId": "C4KX-FAN-F",
+            "bulletinTitle": "Cisco Catalyst 4500-X Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-x-series-switches/eos-eol-notice-c51-743098.html",
+            "publishedDate": "2019-11-05T08:34:02",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-01-29T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464464,
+            "bulletinNumber": "EOL13216",
+            "bulletinProductId": "C4KX-NM-8SFP+",
+            "bulletinTitle": "Cisco Catalyst 4500-X Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-x-series-switches/eos-eol-notice-c51-743098.html",
+            "publishedDate": "2019-11-05T08:34:02",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464470,
+            "bulletinNumber": "EOL13216",
+            "bulletinProductId": "C4KX-PWR-750AC-F",
+            "bulletinTitle": "Cisco Catalyst 4500-X Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-x-series-switches/eos-eol-notice-c51-743098.html",
+            "publishedDate": "2019-11-05T08:34:02",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464473,
+            "bulletinNumber": "EOL13216",
+            "bulletinProductId": "C4KX-PWR-750AC-R",
+            "bulletinTitle": "Cisco Catalyst 4500-X Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-x-series-switches/eos-eol-notice-c51-743098.html",
+            "publishedDate": "2019-11-05T08:34:02",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464480,
+            "bulletinNumber": "EOL13216",
+            "bulletinProductId": "C4KX-PWR-750DC-F",
+            "bulletinTitle": "Cisco Catalyst 4500-X Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-x-series-switches/eos-eol-notice-c51-743098.html",
+            "publishedDate": "2019-11-05T08:34:02",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464483,
+            "bulletinNumber": "EOL13216",
+            "bulletinProductId": "C4KX-PWR-750DC-R",
+            "bulletinTitle": "Cisco Catalyst 4500-X Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-x-series-switches/eos-eol-notice-c51-743098.html",
+            "publishedDate": "2019-11-05T08:34:02",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464598,
+            "bulletinNumber": "EOL13216",
+            "bulletinProductId": "WS-C4500X-16SFP+",
+            "bulletinTitle": "Cisco Catalyst 4500-X Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-x-series-switches/eos-eol-notice-c51-743098.html",
+            "publishedDate": "2019-11-05T08:34:02",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464603,
+            "bulletinNumber": "EOL13216",
+            "bulletinProductId": "WS-C4500X-32SFP+",
+            "bulletinTitle": "Cisco Catalyst 4500-X Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-x-series-switches/eos-eol-notice-c51-743098.html",
+            "publishedDate": "2019-11-05T08:34:02",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464385,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-X4596-E=",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464388,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-X4597+E=",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464389,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-X4640-CSFP-E",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464394,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-X4712-SFP+E",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464400,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-X4712-SFP-E",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464405,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-X4724-SFP-E",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464411,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-X4748-12X48U+E",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464413,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-X4748-RJ45-E",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464419,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-X4748-RJ45V+E",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464422,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-X4748-SFP-E",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464427,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-X4748-UPOE+E",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464264,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "PWR-C45-1000AC",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464269,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "PWR-C45-1300ACV",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464274,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "PWR-C45-1400AC",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464279,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "PWR-C45-1400DC",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464280,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "PWR-C45-1400DC-P",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464289,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "PWR-C45-2800ACV",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464294,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "PWR-C45-4200ACV",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464299,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "PWR-C45-6000ACV",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464304,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "PWR-C45-9000ACV",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464321,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-C4503-E",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464327,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-C4506-E",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464335,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-C4507R+E",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464342,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-C4510R+E",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464351,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-X45-SUP8-E",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464356,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-X45-SUP8L-E",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464380,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-X4582+E=",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464382,
+            "bulletinNumber": "EOL13217",
+            "bulletinProductId": "WS-X4593-E=",
+            "bulletinTitle": "Cisco Catalyst C4500E Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html",
+            "publishedDate": "2019-11-04T12:09:06",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-10-30T00:00:00Z",
+            "lastDateOfSupport": "2025-10-31T00:00:00Z",
+            "lastShipDate": "2021-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": null,
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1604016000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 463688,
+            "bulletinNumber": "EOL13226",
+            "bulletinProductId": "CTS-5K-ENCODER",
+            "bulletinTitle": "Cisco TelePresence IX5000 Series",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/collaboration-endpoints/telepresence-system-3000/eos-eol-notice-c51-743054.html",
+            "publishedDate": "2019-10-28T08:42:43",
+            "eoLifeExternalAnnouncementDate": "2019-10-25T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-03-27T00:00:00Z",
+            "eoSaleDate": "2019-10-25T00:00:00Z",
+            "lastDateOfSupport": "2024-10-31T00:00:00Z",
+            "lastShipDate": "2019-10-25T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-10-24T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-10-24T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-10-24T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-10-24T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-01-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-10-24T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1571961600000",
+                    "nextHwEolMilestone": "1603497600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464224,
+            "bulletinNumber": "EOL13227",
+            "bulletinProductId": "C819G-LTE-LA-K9",
+            "bulletinTitle": "Select 819, 886, 887, 897, 898 and 899 models",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-743084.html",
+            "publishedDate": "2020-04-16T16:54:52",
+            "eoLifeExternalAnnouncementDate": "2019-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-09-30T00:00:00Z",
+            "eoSaleDate": "2020-04-29T00:00:00Z",
+            "lastDateOfSupport": "2025-04-30T00:00:00Z",
+            "lastShipDate": "2020-07-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-07-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1619654400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464234,
+            "bulletinNumber": "EOL13227",
+            "bulletinProductId": "C886VA-K9",
+            "bulletinTitle": "Select 819, 886, 887, 897, 898 and 899 models",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-743084.html",
+            "publishedDate": "2020-04-16T16:54:52",
+            "eoLifeExternalAnnouncementDate": "2019-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-09-30T00:00:00Z",
+            "eoSaleDate": "2020-04-29T00:00:00Z",
+            "lastDateOfSupport": "2025-04-30T00:00:00Z",
+            "lastShipDate": "2020-07-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-07-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1619654400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464243,
+            "bulletinNumber": "EOL13227",
+            "bulletinProductId": "C887VAM-K9",
+            "bulletinTitle": "Select 819, 886, 887, 897, 898 and 899 models",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-743084.html",
+            "publishedDate": "2020-04-16T16:54:52",
+            "eoLifeExternalAnnouncementDate": "2019-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-09-30T00:00:00Z",
+            "eoSaleDate": "2020-04-29T00:00:00Z",
+            "lastDateOfSupport": "2025-04-30T00:00:00Z",
+            "lastShipDate": "2020-07-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-07-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1619654400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464249,
+            "bulletinNumber": "EOL13227",
+            "bulletinProductId": "C897VAG-LTE-LA-K9",
+            "bulletinTitle": "Select 819, 886, 887, 897, 898 and 899 models",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-743084.html",
+            "publishedDate": "2020-04-16T16:54:52",
+            "eoLifeExternalAnnouncementDate": "2019-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-09-30T00:00:00Z",
+            "eoSaleDate": "2020-04-29T00:00:00Z",
+            "lastDateOfSupport": "2025-04-30T00:00:00Z",
+            "lastShipDate": "2020-07-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-07-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1619654400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464251,
+            "bulletinNumber": "EOL13227",
+            "bulletinProductId": "C898EA-K9",
+            "bulletinTitle": "Select 819, 886, 887, 897, 898 and 899 models",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-743084.html",
+            "publishedDate": "2020-04-16T16:54:52",
+            "eoLifeExternalAnnouncementDate": "2019-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-09-30T00:00:00Z",
+            "eoSaleDate": "2020-04-29T00:00:00Z",
+            "lastDateOfSupport": "2025-04-30T00:00:00Z",
+            "lastShipDate": "2020-07-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-07-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1619654400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464255,
+            "bulletinNumber": "EOL13227",
+            "bulletinProductId": "C899G-LTE-LA-K9",
+            "bulletinTitle": "Select 819, 886, 887, 897, 898 and 899 models",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-743084.html",
+            "publishedDate": "2020-04-16T16:54:52",
+            "eoLifeExternalAnnouncementDate": "2019-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-09-30T00:00:00Z",
+            "eoSaleDate": "2020-04-29T00:00:00Z",
+            "lastDateOfSupport": "2025-04-30T00:00:00Z",
+            "lastShipDate": "2020-07-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-07-25T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1619654400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464771,
+            "bulletinNumber": "EOL13228",
+            "bulletinProductId": "C866VAE-W-E-K9",
+            "bulletinTitle": "Select Cisco 866 and 867 models",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-743126.html",
+            "publishedDate": "2020-07-05T19:43:38",
+            "eoLifeExternalAnnouncementDate": "2019-11-08T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-07-10T00:00:00Z",
+            "eoSaleDate": "2020-02-07T00:00:00Z",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-05-07T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-06T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-02-06T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-02-06T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-04T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581033600000",
+                    "nextHwEolMilestone": "1612569600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464776,
+            "bulletinNumber": "EOL13228",
+            "bulletinProductId": "C867VAE-W-A-K9",
+            "bulletinTitle": "Select Cisco 866 and 867 models",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-743126.html",
+            "publishedDate": "2020-07-05T19:43:38",
+            "eoLifeExternalAnnouncementDate": "2019-11-08T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-07-10T00:00:00Z",
+            "eoSaleDate": "2020-02-07T00:00:00Z",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-05-07T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-06T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-02-06T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-02-06T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-04T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581033600000",
+                    "nextHwEolMilestone": "1612569600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464778,
+            "bulletinNumber": "EOL13228",
+            "bulletinProductId": "C867VAE-W-E-K9",
+            "bulletinTitle": "Select Cisco 866 and 867 models",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-743126.html",
+            "publishedDate": "2020-07-05T19:43:38",
+            "eoLifeExternalAnnouncementDate": "2019-11-08T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-07-10T00:00:00Z",
+            "eoSaleDate": "2020-02-07T00:00:00Z",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-05-07T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-06T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-02-06T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-02-06T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-04T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1581033600000",
+                    "nextHwEolMilestone": "1612569600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 466345,
+            "bulletinNumber": "EOL13229",
+            "bulletinProductId": "VWIC3-1MFT-G703",
+            "bulletinTitle": "Select ISRG2 Modules ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/1800-series-integrated-services-routers-isr/eos-eol-notice-c51-743085.html",
+            "publishedDate": "2019-12-17T19:32:02",
+            "eoLifeExternalAnnouncementDate": "2019-12-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-11-16T00:00:00Z",
+            "eoSaleDate": "2020-06-15T00:00:00Z",
+            "lastDateOfSupport": "2025-06-30T00:00:00Z",
+            "lastShipDate": "2020-09-13T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-06-15T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-06-15T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-06-15T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-06-15T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-09-10T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-06-15T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1592179200000",
+                    "nextHwEolMilestone": "1623715200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 466349,
+            "bulletinNumber": "EOL13229",
+            "bulletinProductId": "VWIC3-2MFT-G703",
+            "bulletinTitle": "Select ISRG2 Modules ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/1800-series-integrated-services-routers-isr/eos-eol-notice-c51-743085.html",
+            "publishedDate": "2019-12-17T19:32:02",
+            "eoLifeExternalAnnouncementDate": "2019-12-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-11-16T00:00:00Z",
+            "eoSaleDate": "2020-06-15T00:00:00Z",
+            "lastDateOfSupport": "2025-06-30T00:00:00Z",
+            "lastShipDate": "2020-09-13T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-06-15T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-06-15T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-06-15T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-06-15T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-09-10T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-06-15T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1592179200000",
+                    "nextHwEolMilestone": "1623715200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 466353,
+            "bulletinNumber": "EOL13229",
+            "bulletinProductId": "WIC-1B-S/T-V3",
+            "bulletinTitle": "Select ISRG2 Modules ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/1800-series-integrated-services-routers-isr/eos-eol-notice-c51-743085.html",
+            "publishedDate": "2019-12-17T19:32:02",
+            "eoLifeExternalAnnouncementDate": "2019-12-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-11-16T00:00:00Z",
+            "eoSaleDate": "2020-06-15T00:00:00Z",
+            "lastDateOfSupport": "2025-06-30T00:00:00Z",
+            "lastShipDate": "2020-09-13T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-06-15T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-06-15T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-06-15T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-06-15T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-09-10T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-06-15T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1592179200000",
+                    "nextHwEolMilestone": "1623715200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 465331,
+            "bulletinNumber": "EOL13231",
+            "bulletinProductId": "CRS-8-PSH-DC",
+            "bulletinTitle": "CRS Modular power for Legacy Chassis End of Sale Announcement",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/carrier-routing-system/eos-eol-notice-c51-743141.html",
+            "publishedDate": "2019-11-20T21:16:58",
+            "eoLifeExternalAnnouncementDate": "2019-11-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-16T00:00:00Z",
+            "eoSaleDate": "2020-05-15T00:00:00Z",
+            "lastDateOfSupport": "2025-05-31T00:00:00Z",
+            "lastShipDate": "2020-08-13T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-05-15T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-05-15T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2022-05-15T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-08-10T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1589500800000",
+                    "nextHwEolMilestone": "1621036800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 464783,
+            "bulletinNumber": "EOL13234",
+            "bulletinProductId": "CISCO1905/K9",
+            "bulletinTitle": "Cisco ISR1905 ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/1900-series-integrated-services-routers-isr/eos-eol-notice-c51-743123.html",
+            "publishedDate": "2019-11-12T22:07:50",
+            "eoLifeExternalAnnouncementDate": "2019-11-08T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-09T00:00:00Z",
+            "eoSaleDate": "2020-05-08T00:00:00Z",
+            "lastDateOfSupport": "2025-05-31T00:00:00Z",
+            "lastShipDate": "2020-08-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-05-08T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-05-08T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-05-08T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-05-08T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2023-05-08T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588896000000",
+                    "nextHwEolMilestone": "1620432000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 463956,
+            "bulletinNumber": "EOL13238",
+            "bulletinProductId": "RV042",
+            "bulletinTitle": "Cisco RV042 and RV042G VPN Router (all models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/small-business-rv-series-routers/eos-eol-notice-c51-743070.html",
+            "publishedDate": "2019-11-01T10:49:22",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-01-30T00:00:00Z",
+            "lastDateOfSupport": "2025-01-31T00:00:00Z",
+            "lastShipDate": "2020-04-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2021-01-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-01-29T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1580342400000",
+                    "nextHwEolMilestone": "1611878400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 463969,
+            "bulletinNumber": "EOL13238",
+            "bulletinProductId": "RV042G-K9-EU",
+            "bulletinTitle": "Cisco RV042 and RV042G VPN Router (all models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/small-business-rv-series-routers/eos-eol-notice-c51-743070.html",
+            "publishedDate": "2019-11-01T10:49:22",
+            "eoLifeExternalAnnouncementDate": "2019-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-01T00:00:00Z",
+            "eoSaleDate": "2020-01-30T00:00:00Z",
+            "lastDateOfSupport": "2025-01-31T00:00:00Z",
+            "lastShipDate": "2020-04-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2021-01-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-01-29T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1580342400000",
+                    "nextHwEolMilestone": "1611878400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        }
+    ],
+    "Pagination": {
+        "page": 16,
+        "pages": 23,
+        "rows": 100,
+        "total": 2230
+    }
+}

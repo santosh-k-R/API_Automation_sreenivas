@@ -1,0 +1,48 @@
+package com.cisco.services.api_automation.tests.assets.alerts;
+
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+import com.cisco.services.api_automation.testdata.assets.AssetsData;
+import com.cisco.services.api_automation.tests.assets.BeforeTestSuiteClassIT;
+import com.cisco.services.api_automation.tests.assets.CommonTestAcrossAPIsIT;
+import com.cisco.services.api_automation.utils.customassert.Assert;
+import com.cisco.services.api_automation.utils.customassert.SoftAssert;
+
+import io.qameta.allure.Feature;
+import io.restassured.response.Response;
+
+@Feature("Assets Product Alerts APIs")
+public class AlertsSoftwareEOLSummaryAPIIT extends BeforeTestSuiteClassIT{
+
+	Response responseAPI = null;
+	Response responseES = null;
+	Response preReqApiResponse = null;
+//	String customerId = AssetsData.CUSTOMERID;
+	Boolean preRequisiteAPIRan = false;
+	SoftAssert softAssert = new SoftAssert();
+	String expectedStatusCode = "200";
+	long expectedResponseTime = 3000;
+	String apiKey = "product_alerts_hardware_eol_summary";
+	String endPoint;
+	String esIndex;
+	
+	@BeforeClass
+    public void setup() {
+        endPoint = AssetsData.ASSETS_GET_APIS.get(apiKey).getEndPointUrl();
+    }
+
+    @Test(description = "/product-alerts/v1/software-eol/summary API 200 Response Validation")
+    public void api200ResponseValidation() throws Exception {
+        System.out.println("****************** 200 Response Validation for API "+endPoint );
+        try {
+            responseAPI= CommonTestAcrossAPIsIT.successResponse(endPoint);
+            softAssert.assertEquals(responseAPI.getStatusCode(), Integer.parseInt(expectedStatusCode),
+                    "Test Case failed as response status is not 200:" + responseAPI.getStatusLine());
+            softAssert.assertAll();
+        } catch (Exception e) {
+            e.printStackTrace();
+            Assert.assertFalse(true, "Connection aborted: " + e.getMessage());
+        }
+    }
+}

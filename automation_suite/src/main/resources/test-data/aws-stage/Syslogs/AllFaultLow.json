@@ -1,0 +1,58 @@
+{
+    "count": 8,
+    "message": "Success",
+    "afmStatus": "Success",
+    "offlineTime": "",
+    "responseData": [
+        {
+            "category": "CPU-Memory",
+            "faultSeverity": "Low",
+            "title": "The device can crash from memory depletion. Leading up to the crash the device may behave unpredictably.",
+            "systemCount": 2,
+            "faultUpdatedTime": "2020-10-11T19:57:09.877+0000",
+            "signatureId": 29
+        },
+        {
+            "category": "Environment",
+            "faultSeverity": "Low",
+            "title": "Elevated temperature on device",
+            "signatureId": 4
+        },
+        {
+            "category": "System",
+            "faultSeverity": "Low",
+            "title": "Shared port adapter monitoring unavailable",
+            "signatureId": 9
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "Low",
+            "title": "SIP service error",
+            "signatureId": 14
+        },
+        {
+            "category": "CPU-Memory",
+            "faultSeverity": "Low",
+            "title": "Informational hardware error",
+            "signatureId": 15
+        },
+        {
+            "category": "CPU-Memory",
+            "faultSeverity": "Low",
+            "title": "No operational impact at boot up.",
+            "signatureId": 22
+        },
+        {
+            "category": "System",
+            "faultSeverity": "Low",
+            "title": "This issue does not have any impact on service.",
+            "signatureId": 31
+        },
+        {
+            "category": "Services",
+            "faultSeverity": "Low",
+            "title": "This is an informational error and it should not affect the switch performance",
+            "signatureId": 49
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+"Title","Updated","Affected Assets","Potentially Affected Assets"
+"FN63942 - Wireless Lightweight Access Points and WLAN Controllers Fail to Create CAPWAP/LWAPP Connections Due to Certificate Expiration - Software Upgrade Recommended","9 months ago","1","0"
+"FN64190 - Cisco IOS XE - Show commands on Cisco IOS XE based platforms might not report true platform memory usage - Software Upgrade Recommended","3 years ago","1","0"
+"FN70330 - Cisco IOS Access Point Stranded Due to Flash Corruption Issue - Workaround Provided","1 year ago","0","1"
+"FN70455 - Some Catalyst Switches That Run on Polaris Releases 16.9.1,  16.6.4, and 16.3.7 or Earlier Might Crash Unexpectedly - Software Upgrade Recommended","11 months ago","0","1"

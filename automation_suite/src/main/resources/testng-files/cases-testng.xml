@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Cases" parallel="methods">
+    <listeners>
+        <listener class-name="com.cisco.services.api_automation.listeners.AnnotationTransformer"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.ExecutionListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.RetryListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.SuiteTransformer"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.TestListener"/>
+    </listeners>
+
+    <test name="Cases">
+        <packages>
+            <package name="com.cisco.services.api_automation.tests.cases.*"/>
+        </packages>
+    </test>
+</suite>

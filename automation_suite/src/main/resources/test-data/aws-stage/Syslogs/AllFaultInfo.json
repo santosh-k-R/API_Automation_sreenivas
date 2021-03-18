@@ -1,0 +1,36 @@
+{
+  "count": 3,
+  "message": "Success",
+  "afmStatus": "Success",
+  "offlineTime": "",
+  "responseData": [
+    {
+      "category": "PKT_INFRA-PQMON",
+      "faultSeverity": "Info",
+      "raiseSr": false,
+      "title": "PKT_INFRA-PQMON-6-QUEUE_DROP",
+      "signatureId": 297112
+    },
+    {
+      "category": "AUTHMGR",
+      "faultSeverity": "Info",
+      "raiseSr": false,
+      "title": "AUTHMGR-7-RESULT",
+      "signatureId": 297113
+    },
+    {
+      "category": "HA-CHKPT_MESSAGING",
+      "faultSeverity": "Info",
+      "raiseSr": false,
+      "title": "HA-CHKPT_MESSAGING-7-STANDBY_OPEN_TIMEOUT",
+      "signatureId": 297114
+    },
+    {
+      "category": "CPU_MONITOR",
+      "faultSeverity": "Info",
+      "raiseSr": false,
+      "title": "CPU_MONITOR-6-NOT_HEARD",
+      "signatureId": 297200
+    }
+  ]
+}

@@ -1,0 +1,3310 @@
+{
+    "data": [
+        {
+            "hwEolInstanceId": 416571,
+            "bulletinNumber": "EOL12289",
+            "bulletinProductId": "A9K-4T16GE-TR",
+            "bulletinTitle": "Cisco ASR 9000 Series 2nd Generation Ethernet Line Card Family",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/eos-eol-notice-c51-740753.html",
+            "publishedDate": "2018-10-01T17:11:56",
+            "eoLifeExternalAnnouncementDate": "2018-05-11T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-11T00:00:00Z",
+            "eoSaleDate": "2019-05-11T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-10T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-10T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-10T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-10T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-10T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-09T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-10T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1589068800000",
+                    "nextHwEolMilestone": "1652140800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 416583,
+            "bulletinNumber": "EOL12289",
+            "bulletinProductId": "A9K-MOD160-SE",
+            "bulletinTitle": "Cisco ASR 9000 Series 2nd Generation Ethernet Line Card Family",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/eos-eol-notice-c51-740753.html",
+            "publishedDate": "2018-10-01T17:11:56",
+            "eoLifeExternalAnnouncementDate": "2018-05-11T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-11T00:00:00Z",
+            "eoSaleDate": "2019-05-11T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-10T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-10T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-10T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-10T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-10T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-09T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-10T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1589068800000",
+                    "nextHwEolMilestone": "1652140800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 416588,
+            "bulletinNumber": "EOL12289",
+            "bulletinProductId": "A9K-MOD160-TR",
+            "bulletinTitle": "Cisco ASR 9000 Series 2nd Generation Ethernet Line Card Family",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/eos-eol-notice-c51-740753.html",
+            "publishedDate": "2018-10-01T17:11:56",
+            "eoLifeExternalAnnouncementDate": "2018-05-11T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-11T00:00:00Z",
+            "eoSaleDate": "2019-05-11T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-10T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-10T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-10T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-10T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-10T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-09T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-10T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1589068800000",
+                    "nextHwEolMilestone": "1652140800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 416596,
+            "bulletinNumber": "EOL12289",
+            "bulletinProductId": "A9K-MOD80-SE",
+            "bulletinTitle": "Cisco ASR 9000 Series 2nd Generation Ethernet Line Card Family",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/eos-eol-notice-c51-740753.html",
+            "publishedDate": "2018-10-01T17:11:56",
+            "eoLifeExternalAnnouncementDate": "2018-05-11T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-11T00:00:00Z",
+            "eoSaleDate": "2019-05-11T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-10T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-10T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-10T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-10T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-10T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-09T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-10T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1589068800000",
+                    "nextHwEolMilestone": "1652140800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 416600,
+            "bulletinNumber": "EOL12289",
+            "bulletinProductId": "A9K-MOD80-TR",
+            "bulletinTitle": "Cisco ASR 9000 Series 2nd Generation Ethernet Line Card Family",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/eos-eol-notice-c51-740753.html",
+            "publishedDate": "2018-10-01T17:11:56",
+            "eoLifeExternalAnnouncementDate": "2018-05-11T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-11T00:00:00Z",
+            "eoSaleDate": "2019-05-11T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-10T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-10T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-10T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-10T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-10T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-09T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-10T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1589068800000",
+                    "nextHwEolMilestone": "1652140800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415614,
+            "bulletinNumber": "EOL12304",
+            "bulletinProductId": "N7K-M206FQ-23L",
+            "bulletinTitle": "Cisco Nexus 7000 M2-Series 6-Port 40 Gigabit Ethernet Module with XL Option",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-740715.html",
+            "publishedDate": "2018-05-04T17:53:35",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1691020800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415618,
+            "bulletinNumber": "EOL12305",
+            "bulletinProductId": "N7K-M224XP-23L",
+            "bulletinTitle": "Cisco Nexus 7000 M2-Series 24-Port 10 Gigabit Ethernet Module with XL Option",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-740523.html",
+            "publishedDate": "2018-05-04T17:55:41",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1691020800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415494,
+            "bulletinNumber": "EOL12308",
+            "bulletinProductId": "N55-M4Q",
+            "bulletinTitle": "Nexus 5500 Series Switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html",
+            "publishedDate": "2019-04-03T18:03:53",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1651622400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415500,
+            "bulletinNumber": "EOL12308",
+            "bulletinProductId": "N55-PAC-750W",
+            "bulletinTitle": "Nexus 5500 Series Switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html",
+            "publishedDate": "2019-04-03T18:03:53",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1651622400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415501,
+            "bulletinNumber": "EOL12308",
+            "bulletinProductId": "N55-PAC-750W-B",
+            "bulletinTitle": "Nexus 5500 Series Switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html",
+            "publishedDate": "2019-04-03T18:03:53",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1651622400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415509,
+            "bulletinNumber": "EOL12308",
+            "bulletinProductId": "N55-PDC-750W",
+            "bulletinTitle": "Nexus 5500 Series Switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html",
+            "publishedDate": "2019-04-03T18:03:53",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1651622400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415526,
+            "bulletinNumber": "EOL12308",
+            "bulletinProductId": "N5548P-FAN",
+            "bulletinTitle": "Nexus 5500 Series Switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html",
+            "publishedDate": "2019-04-03T18:03:53",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1651622400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415527,
+            "bulletinNumber": "EOL12308",
+            "bulletinProductId": "N5548P-FAN-B",
+            "bulletinTitle": "Nexus 5500 Series Switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html",
+            "publishedDate": "2019-04-03T18:03:53",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1651622400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415543,
+            "bulletinNumber": "EOL12308",
+            "bulletinProductId": "N5596UP-FAN",
+            "bulletinTitle": "Nexus 5500 Series Switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html",
+            "publishedDate": "2019-04-03T18:03:53",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1651622400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415544,
+            "bulletinNumber": "EOL12308",
+            "bulletinProductId": "N5596UP-FAN-B",
+            "bulletinTitle": "Nexus 5500 Series Switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html",
+            "publishedDate": "2019-04-03T18:03:53",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1651622400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415556,
+            "bulletinNumber": "EOL12308",
+            "bulletinProductId": "N5K-C5548UP",
+            "bulletinTitle": "Nexus 5500 Series Switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html",
+            "publishedDate": "2019-04-03T18:03:53",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1651622400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415572,
+            "bulletinNumber": "EOL12308",
+            "bulletinProductId": "N5K-C5596T",
+            "bulletinTitle": "Nexus 5500 Series Switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html",
+            "publishedDate": "2019-04-03T18:03:53",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1651622400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415576,
+            "bulletinNumber": "EOL12308",
+            "bulletinProductId": "N5K-C5596UP",
+            "bulletinTitle": "Nexus 5500 Series Switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html",
+            "publishedDate": "2019-04-03T18:03:53",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1651622400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415459,
+            "bulletinNumber": "EOL12308",
+            "bulletinProductId": "N55-D160L3-V2",
+            "bulletinTitle": "Nexus 5500 Series Switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html",
+            "publishedDate": "2019-04-03T18:03:53",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1651622400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415464,
+            "bulletinNumber": "EOL12308",
+            "bulletinProductId": "N55-DL2",
+            "bulletinTitle": "Nexus 5500 Series Switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html",
+            "publishedDate": "2019-04-03T18:03:53",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1651622400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415475,
+            "bulletinNumber": "EOL12308",
+            "bulletinProductId": "N55-M12T",
+            "bulletinTitle": "Nexus 5500 Series Switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html",
+            "publishedDate": "2019-04-03T18:03:53",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1651622400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415480,
+            "bulletinNumber": "EOL12308",
+            "bulletinProductId": "N55-M160L3-V2",
+            "bulletinTitle": "Nexus 5500 Series Switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html",
+            "publishedDate": "2019-04-03T18:03:53",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1651622400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415485,
+            "bulletinNumber": "EOL12308",
+            "bulletinProductId": "N55-M16FP=",
+            "bulletinTitle": "Nexus 5500 Series Switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html",
+            "publishedDate": "2019-04-03T18:03:53",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1651622400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415486,
+            "bulletinNumber": "EOL12308",
+            "bulletinProductId": "N55-M16UP",
+            "bulletinTitle": "Nexus 5500 Series Switches ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html",
+            "publishedDate": "2019-04-03T18:03:53",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-05-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-05-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1651622400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 394514,
+            "bulletinNumber": "EOL12311",
+            "bulletinProductId": "RFGW-X45-SUP7-E",
+            "bulletinTitle": "Cisco RF Gateway 10 Hardware",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/video/rf-gateway-series/eos-eol-notice-c51-740357.html",
+            "publishedDate": "2018-02-23T13:38:40",
+            "eoLifeExternalAnnouncementDate": "2018-02-23T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-01-24T00:00:00Z",
+            "eoSaleDate": "2018-08-24T00:00:00Z",
+            "lastDateOfSupport": "2023-08-31T00:00:00Z",
+            "lastShipDate": "2018-11-22T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2019-08-24T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2019-08-24T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2020-08-23T00:00:00Z",
+            "eoServiceContractRenewalDate": "2022-11-19T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1566604800000",
+                    "nextHwEolMilestone": "1668816000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 394478,
+            "bulletinNumber": "EOL12311",
+            "bulletinProductId": "RFGW-10",
+            "bulletinTitle": "Cisco RF Gateway 10 Hardware",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/video/rf-gateway-series/eos-eol-notice-c51-740357.html",
+            "publishedDate": "2018-02-23T13:38:40",
+            "eoLifeExternalAnnouncementDate": "2018-02-23T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-01-24T00:00:00Z",
+            "eoSaleDate": "2018-08-24T00:00:00Z",
+            "lastDateOfSupport": "2023-08-31T00:00:00Z",
+            "lastShipDate": "2018-11-22T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2019-08-24T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2019-08-24T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2020-08-23T00:00:00Z",
+            "eoServiceContractRenewalDate": "2022-11-19T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1566604800000",
+                    "nextHwEolMilestone": "1668816000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 394488,
+            "bulletinNumber": "EOL12311",
+            "bulletinProductId": "RFGW-10-PWR-DC1",
+            "bulletinTitle": "Cisco RF Gateway 10 Hardware",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/video/rf-gateway-series/eos-eol-notice-c51-740357.html",
+            "publishedDate": "2018-02-23T13:38:40",
+            "eoLifeExternalAnnouncementDate": "2018-02-23T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-01-24T00:00:00Z",
+            "eoSaleDate": "2018-08-24T00:00:00Z",
+            "lastDateOfSupport": "2023-08-31T00:00:00Z",
+            "lastShipDate": "2018-11-22T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2019-08-24T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2019-08-24T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2020-08-23T00:00:00Z",
+            "eoServiceContractRenewalDate": "2022-11-19T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1566604800000",
+                    "nextHwEolMilestone": "1668816000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 394491,
+            "bulletinNumber": "EOL12311",
+            "bulletinProductId": "RFGW-10-RFSW1",
+            "bulletinTitle": "Cisco RF Gateway 10 Hardware",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/video/rf-gateway-series/eos-eol-notice-c51-740357.html",
+            "publishedDate": "2018-02-23T13:38:40",
+            "eoLifeExternalAnnouncementDate": "2018-02-23T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-01-24T00:00:00Z",
+            "eoSaleDate": "2018-08-24T00:00:00Z",
+            "lastDateOfSupport": "2023-08-31T00:00:00Z",
+            "lastShipDate": "2018-11-22T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2019-08-24T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2019-08-24T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2020-08-23T00:00:00Z",
+            "eoServiceContractRenewalDate": "2022-11-19T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1566604800000",
+                    "nextHwEolMilestone": "1668816000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 394494,
+            "bulletinNumber": "EOL12311",
+            "bulletinProductId": "RFGW-DS384",
+            "bulletinTitle": "Cisco RF Gateway 10 Hardware",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/video/rf-gateway-series/eos-eol-notice-c51-740357.html",
+            "publishedDate": "2018-02-23T13:38:40",
+            "eoLifeExternalAnnouncementDate": "2018-02-23T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-01-24T00:00:00Z",
+            "eoSaleDate": "2018-08-24T00:00:00Z",
+            "lastDateOfSupport": "2023-08-31T00:00:00Z",
+            "lastShipDate": "2018-11-22T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2019-08-24T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2019-08-24T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2020-08-23T00:00:00Z",
+            "eoServiceContractRenewalDate": "2022-11-19T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1566604800000",
+                    "nextHwEolMilestone": "1668816000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 394246,
+            "bulletinNumber": "EOL12319",
+            "bulletinProductId": "MX400-HW",
+            "bulletinTitle": "Meraki Cloud Managed Security Appliance",
+            "URL": null,
+            "publishedDate": null,
+            "eoLifeExternalAnnouncementDate": "2018-02-20T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-01-21T00:00:00Z",
+            "eoSaleDate": "2018-08-26T00:00:00Z",
+            "lastDateOfSupport": "2025-08-31T00:00:00Z",
+            "lastShipDate": "2018-11-19T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2019-08-21T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2019-08-21T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2020-08-20T00:00:00Z",
+            "eoServiceContractRenewalDate": "2022-11-16T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1566345600000",
+                    "nextHwEolMilestone": "1668556800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 394247,
+            "bulletinNumber": "EOL12319",
+            "bulletinProductId": "MX600-HW",
+            "bulletinTitle": "Meraki Cloud Managed Security Appliance",
+            "URL": null,
+            "publishedDate": null,
+            "eoLifeExternalAnnouncementDate": "2018-02-20T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-01-21T00:00:00Z",
+            "eoSaleDate": "2018-08-26T00:00:00Z",
+            "lastDateOfSupport": "2025-08-31T00:00:00Z",
+            "lastShipDate": "2018-11-19T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2019-08-21T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2019-08-21T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2020-08-20T00:00:00Z",
+            "eoServiceContractRenewalDate": "2022-11-16T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1566345600000",
+                    "nextHwEolMilestone": "1668556800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 395870,
+            "bulletinNumber": "EOL12324",
+            "bulletinProductId": "CISCO2911A/K9",
+            "bulletinTitle": "Select Cisco 2900 and 3900 Integrated Services Router",
+            "URL": null,
+            "publishedDate": null,
+            "eoLifeExternalAnnouncementDate": "2016-09-09T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-08-10T00:00:00Z",
+            "eoSaleDate": "2017-12-09T00:00:00Z",
+            "lastDateOfSupport": "2022-12-31T00:00:00Z",
+            "lastShipDate": "2018-03-09T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-12-09T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-12-09T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-12-09T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-09-09T00:00:00Z",
+            "eoServiceContractRenewalDate": "2022-03-09T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2020-12-08T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1544313600000",
+                    "nextHwEolMilestone": "1607385600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 395934,
+            "bulletinNumber": "EOL12330",
+            "bulletinProductId": "WAP561-A-K9",
+            "bulletinTitle": "Cisco WAP561 Wireless-N Dual Radio Selectable Band Access Point",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/small-business-wireless-access-points/eos-eol-notice-c51-740377.html",
+            "publishedDate": "2018-03-05T16:17:01",
+            "eoLifeExternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-02-03T00:00:00Z",
+            "eoSaleDate": "2018-06-04T00:00:00Z",
+            "lastDateOfSupport": "2023-06-30T00:00:00Z",
+            "lastShipDate": "2018-09-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-06-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-06-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1559606400000",
+                    "nextHwEolMilestone": "1688083200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 415442,
+            "bulletinNumber": "EOL12342",
+            "bulletinProductId": "N2K-B22IBM-P",
+            "bulletinTitle": "B22 FEX Bundles for IBM & Fujitsu",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740721.html",
+            "publishedDate": "2018-05-04T17:59:37",
+            "eoLifeExternalAnnouncementDate": "2018-05-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-05T00:00:00Z",
+            "eoSaleDate": "2019-05-05T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2021-05-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588550400000",
+                    "nextHwEolMilestone": "1691020800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 397914,
+            "bulletinNumber": "EOL12363",
+            "bulletinProductId": "ASR1000-ESP20",
+            "bulletinTitle": "Cisco ASR 1000 Series 20-Gbps Embedded Services Processor",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-740476.html",
+            "publishedDate": "2018-04-12T12:55:50",
+            "eoLifeExternalAnnouncementDate": "2018-03-26T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-02-24T00:00:00Z",
+            "eoSaleDate": "2019-03-26T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-25T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-25T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-25T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2021-03-25T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-24T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1585094400000",
+                    "nextHwEolMilestone": "1687564800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 454920,
+            "bulletinNumber": "EOL12402",
+            "bulletinProductId": "CP-8831-BR-K9=",
+            "bulletinTitle": "Cisco IP Conference Phone 8831 for on-premise and accessories",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/collaboration-endpoints/unified-ip-conference-phone-8831/eos-eol-notice-c51-741241.html",
+            "publishedDate": "2019-04-08T22:21:35",
+            "eoLifeExternalAnnouncementDate": "2019-04-08T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-03-09T00:00:00Z",
+            "eoSaleDate": "2019-10-07T00:00:00Z",
+            "lastDateOfSupport": "2020-01-05T00:00:00Z",
+            "lastShipDate": "2020-01-05T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-10-06T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-10-06T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-10-06T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-10-06T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-01-02T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570406400000",
+                    "nextHwEolMilestone": "1601942400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399618,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SG300-52P-K9-CN",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399624,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SG300-52P-K9-NA",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399627,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SG300-52P-K9-UK",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399718,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SRW2016-K9-AU",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399721,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SRW2016-K9-EU",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399727,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SRW2016-K9-NA",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399739,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SRW2048-K9-CN",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399742,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SRW2048-K9-EU",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399488,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SF300-24MP-K9-NA",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399747,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SRW2048-K9-NA",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399750,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SRW2048-K9-UK",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399753,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SRW208-K9-CN",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399755,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SRW208-K9-G5",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399500,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SF300-24PP-K9-EU",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399502,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SF300-24PP-K9-NA",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399503,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SF300-24PP-K9-UK",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399759,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SRW208-K9-NA",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399762,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SRW208G-K9-CN",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399765,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SRW208G-K9-G5",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399768,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SRW208G-K9-NA",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399516,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SF302-08MPP-K9-EU",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399518,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SF302-08MPP-K9-NA",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399519,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SF302-08MPP-K9-UK",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399778,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SRW224G4-K9-CN",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399525,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SF302-08PP-K9-AU",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399781,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SRW224G4-K9-EU",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399526,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SF302-08PP-K9-EU",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399529,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SF302-08PP-K9-NA",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399785,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SRW224G4-K9-NA",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399788,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SRW224G4-K9-UK",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399571,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SG300-10SFP-K9-AU",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399573,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SG300-10SFP-K9-EU",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399575,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SG300-10SFP-K9-NA",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399576,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SG300-10SFP-K9-UK",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399587,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SG300-28SFP-K9-NA",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399588,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SG300-28SFP-K9-UK",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399597,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SG300-52MP-K9-AU",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399598,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SG300-52MP-K9-CN",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399599,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SG300-52MP-K9-EU",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399600,
+            "bulletinNumber": "EOL12419",
+            "bulletinProductId": "SG300-52MP-K9-NA",
+            "bulletinTitle": "Cisco Small Business 300 Series Managed Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-300-series-managed-switches/eos-eol-notice-c51-740542.html",
+            "publishedDate": "2018-04-18T17:17:08",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399630,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2008PT-AU",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399636,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2008PT-NA",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399639,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2008PT-UK",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399642,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2008T-AU",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399643,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2008T-CN",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399646,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2008T-EU",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399649,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2008T-JP",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399651,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2008T-NA",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399656,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2016T-AU",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399659,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2016T-EU",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399663,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2016T-NA",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399671,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2048PT-EU",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399674,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2048PT-NA",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399680,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2048T-AU",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399683,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2048T-CN",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399685,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2048T-EU",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399688,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2048T-NA",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399691,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM2048T-UK",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399699,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM224GT-NA",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399709,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM224PT-EU",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399712,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SLM224PT-NA",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399481,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SF200-24FP-NA",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399484,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SF200-24FP-UK",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 399559,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SG200-50FP-CN",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        }
+    ],
+    "Pagination": {
+        "page": 11,
+        "pages": 23,
+        "rows": 100,
+        "total": 2230
+    }
+}

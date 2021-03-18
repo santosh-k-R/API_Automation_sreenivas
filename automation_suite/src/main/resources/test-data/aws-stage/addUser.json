@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "status": 200,
+            "data": {
+                "user": {
+                    "ccoId": "vijengit",
+                    "emailAddress": "vijengit@cisco.com",
+                    "firstName": "Vinay",
+                    "lastName": "Jengiti",
+                    "address": "Cessna Business Park, Kadubeesanahalli",
+                    "accessLevel": "4",
+                    "status": "Active"
+                },
+                "roles": [
+                    {
+                        "role": "VirtualAccountAdmin",
+                        "tenant": "SMARTACC",
+                        "type_1": "VirtualAccount",
+                        "value_1": "145244"
+                    }
+                ]
+            }
+        }
+    ],
+    "status": 200,
+    "message": "Users added successfully"
+}

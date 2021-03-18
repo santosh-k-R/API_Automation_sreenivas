@@ -1,0 +1,3310 @@
+{
+    "data": [
+        {
+            "hwEolInstanceId": 399565,
+            "bulletinNumber": "EOL12420",
+            "bulletinProductId": "SG200-50FP-NA",
+            "bulletinTitle": "Cisco Small Business 200 Series Smart Switches (Select Models)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/eos-eol-notice-c51-740541.html",
+            "publishedDate": "2018-04-18T17:35:59",
+            "eoLifeExternalAnnouncementDate": "2018-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-05T00:00:00Z",
+            "eoSaleDate": "2018-10-04T00:00:00Z",
+            "lastDateOfSupport": "2023-10-31T00:00:00Z",
+            "lastShipDate": "2019-01-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-04T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1570147200000",
+                    "nextHwEolMilestone": "1698710400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 400521,
+            "bulletinNumber": "EOL12442",
+            "bulletinProductId": "RV320-K9-CN",
+            "bulletinTitle": "Cisco RV320 and RV325  Dual Gigabit WAN VPN Router (China SKUs)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/small-business-rv-series-routers/eos-eol-notice-c51-740649.html",
+            "publishedDate": "2018-04-19T18:51:45",
+            "eoLifeExternalAnnouncementDate": "2018-04-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-20T00:00:00Z",
+            "eoSaleDate": "2018-07-19T00:00:00Z",
+            "lastDateOfSupport": "2023-07-31T00:00:00Z",
+            "lastShipDate": "2018-10-17T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-07-19T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-19T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1563494400000",
+                    "nextHwEolMilestone": "1690761600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 400523,
+            "bulletinNumber": "EOL12442",
+            "bulletinProductId": "RV325-K9-CN",
+            "bulletinTitle": "Cisco RV320 and RV325  Dual Gigabit WAN VPN Router (China SKUs)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/small-business-rv-series-routers/eos-eol-notice-c51-740649.html",
+            "publishedDate": "2018-04-19T18:51:45",
+            "eoLifeExternalAnnouncementDate": "2018-04-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-20T00:00:00Z",
+            "eoSaleDate": "2018-07-19T00:00:00Z",
+            "lastDateOfSupport": "2023-07-31T00:00:00Z",
+            "lastShipDate": "2018-10-17T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-07-19T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-07-19T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1563494400000",
+                    "nextHwEolMilestone": "1690761600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401961,
+            "bulletinNumber": "EOL12445",
+            "bulletinProductId": "AIR-CAP1702I-A-K9",
+            "bulletinTitle": "Cisco Aironet 1700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/eos-eol-notice-c51-740712.html",
+            "publishedDate": "2018-04-30T19:13:41",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401966,
+            "bulletinNumber": "EOL12445",
+            "bulletinProductId": "AIR-CAP1702I-B-K9",
+            "bulletinTitle": "Cisco Aironet 1700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/eos-eol-notice-c51-740712.html",
+            "publishedDate": "2018-04-30T19:13:41",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401971,
+            "bulletinNumber": "EOL12445",
+            "bulletinProductId": "AIR-CAP1702I-C-K9",
+            "bulletinTitle": "Cisco Aironet 1700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/eos-eol-notice-c51-740712.html",
+            "publishedDate": "2018-04-30T19:13:41",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401975,
+            "bulletinNumber": "EOL12445",
+            "bulletinProductId": "AIR-CAP1702I-D-K9",
+            "bulletinTitle": "Cisco Aironet 1700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/eos-eol-notice-c51-740712.html",
+            "publishedDate": "2018-04-30T19:13:41",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401979,
+            "bulletinNumber": "EOL12445",
+            "bulletinProductId": "AIR-CAP1702I-E-K9",
+            "bulletinTitle": "Cisco Aironet 1700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/eos-eol-notice-c51-740712.html",
+            "publishedDate": "2018-04-30T19:13:41",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401988,
+            "bulletinNumber": "EOL12445",
+            "bulletinProductId": "AIR-CAP1702I-H-K9",
+            "bulletinTitle": "Cisco Aironet 1700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/eos-eol-notice-c51-740712.html",
+            "publishedDate": "2018-04-30T19:13:41",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402000,
+            "bulletinNumber": "EOL12445",
+            "bulletinProductId": "AIR-CAP1702I-N-K9",
+            "bulletinTitle": "Cisco Aironet 1700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/eos-eol-notice-c51-740712.html",
+            "publishedDate": "2018-04-30T19:13:41",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402004,
+            "bulletinNumber": "EOL12445",
+            "bulletinProductId": "AIR-CAP1702I-Q-K9",
+            "bulletinTitle": "Cisco Aironet 1700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/eos-eol-notice-c51-740712.html",
+            "publishedDate": "2018-04-30T19:13:41",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402011,
+            "bulletinNumber": "EOL12445",
+            "bulletinProductId": "AIR-CAP1702I-S-K9",
+            "bulletinTitle": "Cisco Aironet 1700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/eos-eol-notice-c51-740712.html",
+            "publishedDate": "2018-04-30T19:13:41",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402019,
+            "bulletinNumber": "EOL12445",
+            "bulletinProductId": "AIR-CAP1702I-Z-K9",
+            "bulletinTitle": "Cisco Aironet 1700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/eos-eol-notice-c51-740712.html",
+            "publishedDate": "2018-04-30T19:13:41",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402041,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702E-A-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402045,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702E-B-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402049,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702E-C-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2019-07-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1556582400000",
+                    "nextHwEolMilestone": "1588118400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402052,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702E-D-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2019-07-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1556582400000",
+                    "nextHwEolMilestone": "1588118400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402055,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702E-E-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402062,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702E-H-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402065,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702E-I-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2019-07-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1556582400000",
+                    "nextHwEolMilestone": "1588118400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402068,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702E-K-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2019-07-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1556582400000",
+                    "nextHwEolMilestone": "1588118400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402081,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702E-S-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402087,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702E-Z-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402105,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702I-A-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402109,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702I-B-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402113,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702I-C-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402121,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702I-E-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401871,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-AP2702E-UXK9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402129,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702I-H-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401877,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-AP2702I-UXK9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402137,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702I-K-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402141,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702I-N-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402145,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702I-Q-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402152,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702I-S-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402160,
+            "bulletinNumber": "EOL12446",
+            "bulletinProductId": "AIR-CAP2702I-Z-K9",
+            "bulletinTitle": "Cisco Aironet 2700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/eos-eol-notice-c51-740711.html",
+            "publishedDate": "2018-04-30T19:07:05",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402191,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702E-A-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402195,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702E-B-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402200,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702E-C-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402203,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702E-D-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402206,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702E-E-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402213,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702E-H-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402222,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702E-N-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2019-07-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1556582400000",
+                    "nextHwEolMilestone": "1588118400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402225,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702E-Q-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402232,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702E-S-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402238,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702E-Z-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402257,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702I-A-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402261,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702I-B-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402266,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702I-C-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402270,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702I-D-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402274,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702I-E-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402278,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702I-F-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2019-07-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402282,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702I-H-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402286,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702I-I-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402290,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702I-K-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402294,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702I-N-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402298,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702I-Q-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402305,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702I-S-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402313,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702I-Z-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402338,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702P-A-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402341,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702P-B-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402349,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702P-E-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 402370,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-CAP3702P-Z-K9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401884,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-AP3702E-UXK9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401892,
+            "bulletinNumber": "EOL12447",
+            "bulletinProductId": "AIR-AP3702I-UXK9",
+            "bulletinTitle": "Cisco Aironet 3700 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/eos-eol-notice-c51-740710.html",
+            "publishedDate": "2018-04-30T19:11:55",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401929,
+            "bulletinNumber": "EOL12448",
+            "bulletinProductId": "AIR-CAP1532I-A-K9",
+            "bulletinTitle": "Cisco Aironet 1530 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1530-series/eos-eol-notice-c51-740709.html",
+            "publishedDate": "2018-04-30T19:10:39",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401930,
+            "bulletinNumber": "EOL12448",
+            "bulletinProductId": "AIR-CAP1532I-B-K9",
+            "bulletinTitle": "Cisco Aironet 1530 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1530-series/eos-eol-notice-c51-740709.html",
+            "publishedDate": "2018-04-30T19:10:39",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401931,
+            "bulletinNumber": "EOL12448",
+            "bulletinProductId": "AIR-CAP1532I-C-K9",
+            "bulletinTitle": "Cisco Aironet 1530 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1530-series/eos-eol-notice-c51-740709.html",
+            "publishedDate": "2018-04-30T19:10:39",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401933,
+            "bulletinNumber": "EOL12448",
+            "bulletinProductId": "AIR-CAP1532I-E-K9",
+            "bulletinTitle": "Cisco Aironet 1530 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1530-series/eos-eol-notice-c51-740709.html",
+            "publishedDate": "2018-04-30T19:10:39",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401935,
+            "bulletinNumber": "EOL12448",
+            "bulletinProductId": "AIR-CAP1532I-H-K9",
+            "bulletinTitle": "Cisco Aironet 1530 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1530-series/eos-eol-notice-c51-740709.html",
+            "publishedDate": "2018-04-30T19:10:39",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401944,
+            "bulletinNumber": "EOL12448",
+            "bulletinProductId": "AIR-CAP1532I-Z-K9",
+            "bulletinTitle": "Cisco Aironet 1530 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1530-series/eos-eol-notice-c51-740709.html",
+            "publishedDate": "2018-04-30T19:10:39",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401898,
+            "bulletinNumber": "EOL12448",
+            "bulletinProductId": "AIR-CAP1532E-A-K9",
+            "bulletinTitle": "Cisco Aironet 1530 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1530-series/eos-eol-notice-c51-740709.html",
+            "publishedDate": "2018-04-30T19:10:39",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401899,
+            "bulletinNumber": "EOL12448",
+            "bulletinProductId": "AIR-CAP1532E-B-K9",
+            "bulletinTitle": "Cisco Aironet 1530 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1530-series/eos-eol-notice-c51-740709.html",
+            "publishedDate": "2018-04-30T19:10:39",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401900,
+            "bulletinNumber": "EOL12448",
+            "bulletinProductId": "AIR-CAP1532E-C-K9",
+            "bulletinTitle": "Cisco Aironet 1530 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1530-series/eos-eol-notice-c51-740709.html",
+            "publishedDate": "2018-04-30T19:10:39",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401902,
+            "bulletinNumber": "EOL12448",
+            "bulletinProductId": "AIR-CAP1532E-E-K9",
+            "bulletinTitle": "Cisco Aironet 1530 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1530-series/eos-eol-notice-c51-740709.html",
+            "publishedDate": "2018-04-30T19:10:39",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401904,
+            "bulletinNumber": "EOL12448",
+            "bulletinProductId": "AIR-CAP1532E-H-K9",
+            "bulletinTitle": "Cisco Aironet 1530 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1530-series/eos-eol-notice-c51-740709.html",
+            "publishedDate": "2018-04-30T19:10:39",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 401913,
+            "bulletinNumber": "EOL12448",
+            "bulletinProductId": "AIR-CAP1532E-Z-K9",
+            "bulletinTitle": "Cisco Aironet 1530 Series Access Points",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1530-series/eos-eol-notice-c51-740709.html",
+            "publishedDate": "2018-04-30T19:10:39",
+            "eoLifeExternalAnnouncementDate": "2018-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-31T00:00:00Z",
+            "eoSaleDate": "2019-04-30T00:00:00Z",
+            "lastDateOfSupport": "2024-04-30T00:00:00Z",
+            "lastShipDate": "2019-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-04-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-04-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-04-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1651190400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 400454,
+            "bulletinNumber": "EOL12450",
+            "bulletinProductId": "AIR-CT2504-K9",
+            "bulletinTitle": "Cisco 2504 Wireless Controller",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/2504-wireless-controller/eos-eol-notice-c51-740645.html",
+            "publishedDate": "2018-04-18T17:05:15",
+            "eoLifeExternalAnnouncementDate": "2018-04-18T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-03-19T00:00:00Z",
+            "eoSaleDate": "2018-04-18T00:00:00Z",
+            "lastDateOfSupport": "2023-04-30T00:00:00Z",
+            "lastShipDate": "2018-07-18T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2019-04-18T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2019-04-18T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2019-04-18T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2020-10-16T00:00:00Z",
+            "eoServiceContractRenewalDate": "2022-07-18T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2021-04-18T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1555545600000",
+                    "nextHwEolMilestone": "1618704000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 438852,
+            "bulletinNumber": "EOL12504",
+            "bulletinProductId": "14X10GBE-WL-XFP",
+            "bulletinTitle": "CRS-3 line cards End of Sales",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/carrier-routing-system/eos-eol-notice-c51-741155.html",
+            "publishedDate": "2018-07-30T13:14:06",
+            "eoLifeExternalAnnouncementDate": "2018-07-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-06-30T00:00:00Z",
+            "eoSaleDate": "2019-07-30T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-07-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595980800000",
+                    "nextHwEolMilestone": "1659052800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 438856,
+            "bulletinNumber": "EOL12504",
+            "bulletinProductId": "1X100GBE",
+            "bulletinTitle": "CRS-3 line cards End of Sales",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/carrier-routing-system/eos-eol-notice-c51-741155.html",
+            "publishedDate": "2018-07-30T13:14:06",
+            "eoLifeExternalAnnouncementDate": "2018-07-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-06-30T00:00:00Z",
+            "eoSaleDate": "2019-07-30T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-07-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595980800000",
+                    "nextHwEolMilestone": "1659052800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 438863,
+            "bulletinNumber": "EOL12504",
+            "bulletinProductId": "6-10GE-WLO-FLEX",
+            "bulletinTitle": "CRS-3 line cards End of Sales",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/carrier-routing-system/eos-eol-notice-c51-741155.html",
+            "publishedDate": "2018-07-30T13:14:06",
+            "eoLifeExternalAnnouncementDate": "2018-07-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-06-30T00:00:00Z",
+            "eoSaleDate": "2019-07-30T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-07-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595980800000",
+                    "nextHwEolMilestone": "1659052800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 438962,
+            "bulletinNumber": "EOL12504",
+            "bulletinProductId": "CRS-FP140",
+            "bulletinTitle": "CRS-3 line cards End of Sales",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/carrier-routing-system/eos-eol-notice-c51-741155.html",
+            "publishedDate": "2018-07-30T13:14:06",
+            "eoLifeExternalAnnouncementDate": "2018-07-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-06-30T00:00:00Z",
+            "eoSaleDate": "2019-07-30T00:00:00Z",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-10-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-07-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-07-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-07-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-07-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-10-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-07-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595980800000",
+                    "nextHwEolMilestone": "1659052800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 418102,
+            "bulletinNumber": "EOL12516",
+            "bulletinProductId": "WS-X6848-GE-TX",
+            "bulletinTitle": "Cisco Catalyst 6500 Series Supervisor Engine 720-10G-3C, Select 67xx Line Cards, and Accessories",
+            "URL": null,
+            "publishedDate": null,
+            "eoLifeExternalAnnouncementDate": "2014-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2014-10-01T00:00:00Z",
+            "eoSaleDate": "2015-07-31T00:00:00Z",
+            "lastDateOfSupport": "2022-10-31T00:00:00Z",
+            "lastShipDate": "2015-10-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2016-07-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2016-07-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-07-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2017-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2019-10-31T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572480000000",
+                    "nextHwEolMilestone": "1667174400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 447466,
+            "bulletinNumber": "EOL12525",
+            "bulletinProductId": "AIR-MSE-3365-K9",
+            "bulletinTitle": "Cisco 3365 Mobility Services Engine",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/mobility-services-engine/eos-eol-notice-c51-741601.html",
+            "publishedDate": "2018-11-12T14:04:59",
+            "eoLifeExternalAnnouncementDate": "2018-11-12T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-10-13T00:00:00Z",
+            "eoSaleDate": "2019-05-13T00:00:00Z",
+            "lastDateOfSupport": "2024-05-31T00:00:00Z",
+            "lastShipDate": "2019-08-11T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-05-12T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-05-12T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2021-05-12T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-08T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1589241600000",
+                    "nextHwEolMilestone": "1691452800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 418542,
+            "bulletinNumber": "EOL12539",
+            "bulletinProductId": "NGA3340-K9",
+            "bulletinTitle": "NetFlow Generation Appliance (NGA) 3340",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/cloud-systems-management/netflow-generation-3000-series-appliances/eos-eol-notice-c51-740848.html",
+            "publishedDate": "2018-05-29T19:02:32",
+            "eoLifeExternalAnnouncementDate": "2018-05-29T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-04-29T00:00:00Z",
+            "eoSaleDate": "2018-11-27T00:00:00Z",
+            "lastDateOfSupport": "2023-11-30T00:00:00Z",
+            "lastShipDate": "2019-02-25T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2019-11-27T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2019-11-27T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2019-11-27T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2020-11-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-02-22T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2021-11-26T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1574812800000",
+                    "nextHwEolMilestone": "1637884800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 445723,
+            "bulletinNumber": "EOL12540",
+            "bulletinProductId": "C819GW-LTE-GA-EK9",
+            "bulletinTitle": "800BB 802.11n WiFi PIDs",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741365.html",
+            "publishedDate": "2018-09-26T15:01:39",
+            "eoLifeExternalAnnouncementDate": "2018-09-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-20T00:00:00Z",
+            "eoSaleDate": "2019-03-20T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-18T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-19T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-19T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-03-19T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-19T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-15T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-03-19T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1584576000000",
+                    "nextHwEolMilestone": "1647648000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 445725,
+            "bulletinNumber": "EOL12540",
+            "bulletinProductId": "C819GW-LTE-LA-NK9",
+            "bulletinTitle": "800BB 802.11n WiFi PIDs",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741365.html",
+            "publishedDate": "2018-09-26T15:01:39",
+            "eoLifeExternalAnnouncementDate": "2018-09-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-20T00:00:00Z",
+            "eoSaleDate": "2019-03-20T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-18T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-19T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-19T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-03-19T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-19T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-15T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-03-19T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1584576000000",
+                    "nextHwEolMilestone": "1647648000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 445727,
+            "bulletinNumber": "EOL12540",
+            "bulletinProductId": "C819GW-LTE-MNA-AK9",
+            "bulletinTitle": "800BB 802.11n WiFi PIDs",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741365.html",
+            "publishedDate": "2018-09-26T15:01:39",
+            "eoLifeExternalAnnouncementDate": "2018-09-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-20T00:00:00Z",
+            "eoSaleDate": "2019-03-20T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-18T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-19T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-19T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-03-19T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-19T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-15T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-03-19T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1584576000000",
+                    "nextHwEolMilestone": "1647648000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 445733,
+            "bulletinNumber": "EOL12540",
+            "bulletinProductId": "C881W-A-K9",
+            "bulletinTitle": "800BB 802.11n WiFi PIDs",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741365.html",
+            "publishedDate": "2018-09-26T15:01:39",
+            "eoLifeExternalAnnouncementDate": "2018-09-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-20T00:00:00Z",
+            "eoSaleDate": "2019-03-20T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-18T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-19T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-19T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-03-19T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-19T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-15T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-03-19T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1584576000000",
+                    "nextHwEolMilestone": "1647648000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 445736,
+            "bulletinNumber": "EOL12540",
+            "bulletinProductId": "C881W-E-K9",
+            "bulletinTitle": "800BB 802.11n WiFi PIDs",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741365.html",
+            "publishedDate": "2018-09-26T15:01:39",
+            "eoLifeExternalAnnouncementDate": "2018-09-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-20T00:00:00Z",
+            "eoSaleDate": "2019-03-20T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-18T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-19T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-19T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-03-19T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-19T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-15T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-03-19T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1584576000000",
+                    "nextHwEolMilestone": "1647648000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 445741,
+            "bulletinNumber": "EOL12540",
+            "bulletinProductId": "C881WD-A-K9",
+            "bulletinTitle": "800BB 802.11n WiFi PIDs",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741365.html",
+            "publishedDate": "2018-09-26T15:01:39",
+            "eoLifeExternalAnnouncementDate": "2018-09-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-20T00:00:00Z",
+            "eoSaleDate": "2019-03-20T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-18T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-19T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-19T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-03-19T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-19T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-15T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-03-19T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1584576000000",
+                    "nextHwEolMilestone": "1647648000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 445749,
+            "bulletinNumber": "EOL12540",
+            "bulletinProductId": "C887VA-W-A-K9",
+            "bulletinTitle": "800BB 802.11n WiFi PIDs",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741365.html",
+            "publishedDate": "2018-09-26T15:01:39",
+            "eoLifeExternalAnnouncementDate": "2018-09-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-20T00:00:00Z",
+            "eoSaleDate": "2019-03-20T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-18T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-19T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-19T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-03-19T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-19T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-15T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-03-19T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1584576000000",
+                    "nextHwEolMilestone": "1647648000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 445751,
+            "bulletinNumber": "EOL12540",
+            "bulletinProductId": "C887VA-W-E-K9",
+            "bulletinTitle": "800BB 802.11n WiFi PIDs",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741365.html",
+            "publishedDate": "2018-09-26T15:01:39",
+            "eoLifeExternalAnnouncementDate": "2018-09-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-20T00:00:00Z",
+            "eoSaleDate": "2019-03-20T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-18T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-19T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-19T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-03-19T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-19T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-15T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-03-19T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1584576000000",
+                    "nextHwEolMilestone": "1647648000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 445758,
+            "bulletinNumber": "EOL12540",
+            "bulletinProductId": "C887VAM-W-E-K9",
+            "bulletinTitle": "800BB 802.11n WiFi PIDs",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741365.html",
+            "publishedDate": "2018-09-26T15:01:39",
+            "eoLifeExternalAnnouncementDate": "2018-09-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-20T00:00:00Z",
+            "eoSaleDate": "2019-03-20T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-18T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-19T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-19T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-03-19T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-19T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-15T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-03-19T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1584576000000",
+                    "nextHwEolMilestone": "1647648000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 445761,
+            "bulletinNumber": "EOL12540",
+            "bulletinProductId": "C891FW-A-K9",
+            "bulletinTitle": "800BB 802.11n WiFi PIDs",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741365.html",
+            "publishedDate": "2018-09-26T15:01:39",
+            "eoLifeExternalAnnouncementDate": "2018-09-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-20T00:00:00Z",
+            "eoSaleDate": "2019-03-20T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-18T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-19T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-19T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-03-19T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-19T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-15T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-03-19T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1584576000000",
+                    "nextHwEolMilestone": "1647648000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 445765,
+            "bulletinNumber": "EOL12540",
+            "bulletinProductId": "C891FW-E-K9",
+            "bulletinTitle": "800BB 802.11n WiFi PIDs",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741365.html",
+            "publishedDate": "2018-09-26T15:01:39",
+            "eoLifeExternalAnnouncementDate": "2018-09-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-20T00:00:00Z",
+            "eoSaleDate": "2019-03-20T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-18T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-19T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-19T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-03-19T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-19T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-15T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-03-19T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1584576000000",
+                    "nextHwEolMilestone": "1647648000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 445776,
+            "bulletinNumber": "EOL12540",
+            "bulletinProductId": "C897VAW-E-K9",
+            "bulletinTitle": "800BB 802.11n WiFi PIDs",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741365.html",
+            "publishedDate": "2018-09-26T15:01:39",
+            "eoLifeExternalAnnouncementDate": "2018-09-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-20T00:00:00Z",
+            "eoSaleDate": "2019-03-20T00:00:00Z",
+            "lastDateOfSupport": "2024-03-31T00:00:00Z",
+            "lastShipDate": "2019-06-18T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-19T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-03-19T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-03-19T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-19T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-15T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-03-19T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1584576000000",
+                    "nextHwEolMilestone": "1647648000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 436888,
+            "bulletinNumber": "EOL12551",
+            "bulletinProductId": "RV320-WB-K9-NA",
+            "bulletinTitle": "Cisco RV320 and RV325 Dual Gigabit WAN VPN Router with Web Filtering ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/small-business-rv-series-routers/eos-eol-notice-c51-740982.html",
+            "publishedDate": "2018-06-29T16:55:20",
+            "eoLifeExternalAnnouncementDate": "2018-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-05-31T00:00:00Z",
+            "eoSaleDate": "2018-09-29T00:00:00Z",
+            "lastDateOfSupport": "2023-09-30T00:00:00Z",
+            "lastShipDate": "2018-12-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-09-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-09-29T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1569715200000",
+                    "nextHwEolMilestone": "1696032000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 436893,
+            "bulletinNumber": "EOL12551",
+            "bulletinProductId": "RV325-WB-K9-NA",
+            "bulletinTitle": "Cisco RV320 and RV325 Dual Gigabit WAN VPN Router with Web Filtering ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/small-business-rv-series-routers/eos-eol-notice-c51-740982.html",
+            "publishedDate": "2018-06-29T16:55:20",
+            "eoLifeExternalAnnouncementDate": "2018-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-05-31T00:00:00Z",
+            "eoSaleDate": "2018-09-29T00:00:00Z",
+            "lastDateOfSupport": "2023-09-30T00:00:00Z",
+            "lastShipDate": "2018-12-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": null,
+            "eoSwMaintenanceReleasesDate": "2019-09-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-09-29T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1569715200000",
+                    "nextHwEolMilestone": "1696032000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 454449,
+            "bulletinNumber": "EOL12625",
+            "bulletinProductId": "DS-X9448-768K9",
+            "bulletinTitle": "Cisco MDS 9700  48-Port 16-Gbps Fibre Channel Switching Module ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/storage-networking/mds-9700-series-multilayer-directors/eos-eol-notice-c51-742195.html",
+            "publishedDate": "2019-04-01T20:37:20",
+            "eoLifeExternalAnnouncementDate": "2019-03-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-02-28T00:00:00Z",
+            "eoSaleDate": "2020-03-29T00:00:00Z",
+            "lastDateOfSupport": "2025-03-31T00:00:00Z",
+            "lastShipDate": "2020-06-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-03-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2021-03-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2021-03-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-03-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-06-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1585440000000",
+                    "nextHwEolMilestone": "1616976000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 443261,
+            "bulletinNumber": "EOL12630",
+            "bulletinProductId": "EHWIC-1GE-SFP-CU",
+            "bulletinTitle": "HWIC, EHWIC and SM Modules for ISR G2 Routers",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html",
+            "publishedDate": "2018-08-24T10:36:41",
+            "eoLifeExternalAnnouncementDate": "2018-08-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-07-25T00:00:00Z",
+            "eoSaleDate": "2019-02-22T00:00:00Z",
+            "lastDateOfSupport": "2024-02-29T00:00:00Z",
+            "lastShipDate": "2019-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2020-02-22T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2020-02-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-21T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-20T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2022-02-21T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1582329600000",
+                    "nextHwEolMilestone": "1645401600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        }
+    ],
+    "Pagination": {
+        "page": 12,
+        "pages": 23,
+        "rows": 100,
+        "total": 2230
+    }
+}

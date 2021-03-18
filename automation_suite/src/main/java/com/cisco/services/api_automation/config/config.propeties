@@ -1,0 +1,13 @@
+authURL = https://cloudsso-test.cisco.com/as/token.oauth2
+
+########################QA####################
+baseURI_QA = https://api-stage.cisco.com/api/customerportal
+client_id_QA = f4fhd7xvhrpjpdw7f36v4v2p
+
+########################STAGE####################
+baseURI_STAGE = https://api-stage.cisco.com/api/customerportal
+client_id_STAGE = f4fhd7xvhrpjpdw7f36v4v2p
+
+########################LT####################
+baseURI_LT = https://api-stage.cisco.com/api/lt/usa/customerportal
+client_id_LT = fgfnc37tkfjkxzxrqbh2u4dp

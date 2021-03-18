@@ -1,0 +1,3310 @@
+{
+    "data": [
+        {
+            "hwEolInstanceId": 314705,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "WS-C3750X-48U-E",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314707,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "WS-C3750X-48U-L",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314708,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "WS-C3750X-48U-S",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314588,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "WS-C3560X-24P-E",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314592,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "WS-C3560X-24P-L",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314595,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "WS-C3560X-24P-S",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314598,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "WS-C3560X-24T-E",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314601,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "WS-C3560X-24T-L",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314604,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "WS-C3560X-24T-S",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314349,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "C3KX-NM-10G",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314608,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "WS-C3560X-24U-L",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314353,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "C3KX-NM-10GT",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314611,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "WS-C3560X-48P-E",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314357,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "C3KX-NM-1G",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314615,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "WS-C3560X-48P-L",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314618,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "WS-C3560X-48P-S",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314363,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "C3KX-SM-10G",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314621,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "WS-C3560X-48PF-E",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314622,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "WS-C3560X-48PF-L",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314623,
+            "bulletinNumber": "EOL10623",
+            "bulletinProductId": "WS-C3560X-48PF-S",
+            "bulletinTitle": "Cisco Catalyst 3560-X and 3750-X Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html",
+            "publishedDate": "2015-10-30T14:50:58",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 313890,
+            "bulletinNumber": "EOL10632",
+            "bulletinProductId": "NM-8CE1T1-PRI",
+            "bulletinTitle": "Select Cisco Integrated Services Router (ISR) G1 Modules and Cables",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/2800-series-integrated-services-routers-isr/eos-eol-notice-c51-735924.html",
+            "publishedDate": "2015-11-13T16:11:02",
+            "eoLifeExternalAnnouncementDate": "2015-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-08-20T00:00:00Z",
+            "eoSaleDate": "2016-03-31T00:00:00Z",
+            "lastDateOfSupport": "2021-03-31T00:00:00Z",
+            "lastShipDate": "2016-06-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-03-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-03-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-03-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-06-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1593129600000",
+                    "nextHwEolMilestone": "1617148800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 313905,
+            "bulletinNumber": "EOL10632",
+            "bulletinProductId": "SM-2GE-SFP-CU",
+            "bulletinTitle": "Select Cisco Integrated Services Router (ISR) G1 Modules and Cables",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/2800-series-integrated-services-routers-isr/eos-eol-notice-c51-735924.html",
+            "publishedDate": "2015-11-13T16:11:02",
+            "eoLifeExternalAnnouncementDate": "2015-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-08-20T00:00:00Z",
+            "eoSaleDate": "2016-03-31T00:00:00Z",
+            "lastDateOfSupport": "2021-03-31T00:00:00Z",
+            "lastShipDate": "2016-06-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-03-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-03-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-03-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-06-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1593129600000",
+                    "nextHwEolMilestone": "1617148800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 313843,
+            "bulletinNumber": "EOL10632",
+            "bulletinProductId": "HWIC-2SHDSL",
+            "bulletinTitle": "Select Cisco Integrated Services Router (ISR) G1 Modules and Cables",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/2800-series-integrated-services-routers-isr/eos-eol-notice-c51-735924.html",
+            "publishedDate": "2015-11-13T16:11:02",
+            "eoLifeExternalAnnouncementDate": "2015-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-08-20T00:00:00Z",
+            "eoSaleDate": "2016-03-31T00:00:00Z",
+            "lastDateOfSupport": "2021-03-31T00:00:00Z",
+            "lastShipDate": "2016-06-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-03-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-03-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-03-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-06-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1593129600000",
+                    "nextHwEolMilestone": "1617148800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314267,
+            "bulletinNumber": "EOL10634",
+            "bulletinProductId": "RV016",
+            "bulletinTitle": "Cisco RV016 Multi-WAN VPN Router",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/small-business-rv-series-routers/eos-eol-notice-c51-736069.html",
+            "publishedDate": "2015-10-21T14:03:18",
+            "eoLifeExternalAnnouncementDate": "2015-10-21T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-20T00:00:00Z",
+            "eoSaleDate": "2016-01-20T00:00:00Z",
+            "lastDateOfSupport": "2021-01-31T00:00:00Z",
+            "lastShipDate": "2016-04-19T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2015-10-21T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2017-01-19T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1453248000000",
+                    "nextHwEolMilestone": "1612051200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 313808,
+            "bulletinNumber": "EOL10635",
+            "bulletinProductId": "C887VA-V-K9",
+            "bulletinTitle": "Select Cisco 887 Voice Integrated Services Routers",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-735923.html",
+            "publishedDate": "2015-10-05T16:24:49",
+            "eoLifeExternalAnnouncementDate": "2015-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-08-20T00:00:00Z",
+            "eoSaleDate": "2016-03-31T00:00:00Z",
+            "lastDateOfSupport": "2021-03-31T00:00:00Z",
+            "lastShipDate": "2016-06-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-03-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-03-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-03-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-06-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1593129600000",
+                    "nextHwEolMilestone": "1617148800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 313811,
+            "bulletinNumber": "EOL10635",
+            "bulletinProductId": "C887VA-V-W-E-K9",
+            "bulletinTitle": "Select Cisco 887 Voice Integrated Services Routers",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-735923.html",
+            "publishedDate": "2015-10-05T16:24:49",
+            "eoLifeExternalAnnouncementDate": "2015-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-08-20T00:00:00Z",
+            "eoSaleDate": "2016-03-31T00:00:00Z",
+            "lastDateOfSupport": "2021-03-31T00:00:00Z",
+            "lastShipDate": "2016-06-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-03-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-03-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-03-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-06-26T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1593129600000",
+                    "nextHwEolMilestone": "1617148800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 315077,
+            "bulletinNumber": "EOL10672",
+            "bulletinProductId": "N2K-C2224TP-1GE",
+            "bulletinTitle": "Cisco Nexus 2224TP, 2248TP, 2232TM, and 2248PQ Fabric Extenders",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-2000-series-fabric-extenders/eos-eol-notice-c51-736205.html",
+            "publishedDate": "2015-11-23T15:02:20",
+            "eoLifeExternalAnnouncementDate": "2015-11-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-22T00:00:00Z",
+            "eoSaleDate": "2016-11-02T00:00:00Z",
+            "lastDateOfSupport": "2021-11-30T00:00:00Z",
+            "lastShipDate": "2017-01-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-11-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-11-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-11-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-11-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-31T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-11-02T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572652800000",
+                    "nextHwEolMilestone": "1612051200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 315083,
+            "bulletinNumber": "EOL10672",
+            "bulletinProductId": "N2K-C2232TM-10GE",
+            "bulletinTitle": "Cisco Nexus 2224TP, 2248TP, 2232TM, and 2248PQ Fabric Extenders",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-2000-series-fabric-extenders/eos-eol-notice-c51-736205.html",
+            "publishedDate": "2015-11-23T15:02:20",
+            "eoLifeExternalAnnouncementDate": "2015-11-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-22T00:00:00Z",
+            "eoSaleDate": "2016-11-02T00:00:00Z",
+            "lastDateOfSupport": "2021-11-30T00:00:00Z",
+            "lastShipDate": "2017-01-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-11-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-11-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-11-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-11-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-31T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-11-02T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572652800000",
+                    "nextHwEolMilestone": "1612051200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 315087,
+            "bulletinNumber": "EOL10672",
+            "bulletinProductId": "N2K-C2248PQ-10GE",
+            "bulletinTitle": "Cisco Nexus 2224TP, 2248TP, 2232TM, and 2248PQ Fabric Extenders",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-2000-series-fabric-extenders/eos-eol-notice-c51-736205.html",
+            "publishedDate": "2015-11-23T15:02:20",
+            "eoLifeExternalAnnouncementDate": "2015-11-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-22T00:00:00Z",
+            "eoSaleDate": "2016-11-02T00:00:00Z",
+            "lastDateOfSupport": "2021-11-30T00:00:00Z",
+            "lastShipDate": "2017-01-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-11-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-11-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-11-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-11-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-31T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-11-02T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572652800000",
+                    "nextHwEolMilestone": "1612051200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 315097,
+            "bulletinNumber": "EOL10672",
+            "bulletinProductId": "N2K-C2248TP-1GE",
+            "bulletinTitle": "Cisco Nexus 2224TP, 2248TP, 2232TM, and 2248PQ Fabric Extenders",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-2000-series-fabric-extenders/eos-eol-notice-c51-736205.html",
+            "publishedDate": "2015-11-23T15:02:20",
+            "eoLifeExternalAnnouncementDate": "2015-11-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-22T00:00:00Z",
+            "eoSaleDate": "2016-11-02T00:00:00Z",
+            "lastDateOfSupport": "2021-11-30T00:00:00Z",
+            "lastShipDate": "2017-01-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-11-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-11-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-11-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-11-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-31T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-11-02T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572652800000",
+                    "nextHwEolMilestone": "1612051200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 315306,
+            "bulletinNumber": "EOL10678",
+            "bulletinProductId": "CIAC-GW-K9",
+            "bulletinTitle": "Cisco Physical Access Manager",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/physical-security/physical-access-manager/eos-eol-notice-c51-736268.html",
+            "publishedDate": "2015-11-17T19:33:47",
+            "eoLifeExternalAnnouncementDate": "2015-11-17T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-10-06T00:00:00Z",
+            "eoSaleDate": "2016-05-17T00:00:00Z",
+            "lastDateOfSupport": "2021-05-31T00:00:00Z",
+            "lastShipDate": "2016-08-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-05-17T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-05-17T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-05-17T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-08-12T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1597190400000",
+                    "nextHwEolMilestone": "1622419200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314782,
+            "bulletinNumber": "EOL10680",
+            "bulletinProductId": "AIR-CAP3502P-A-K9",
+            "bulletinTitle": "Cisco Aironet 3500p Access Point",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3500-series/eos-eol-notice-c51-736179.html",
+            "publishedDate": "2015-10-30T16:29:35",
+            "eoLifeExternalAnnouncementDate": "2015-11-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-20T00:00:00Z",
+            "eoSaleDate": "2016-05-01T00:00:00Z",
+            "lastDateOfSupport": "2021-04-30T00:00:00Z",
+            "lastShipDate": "2016-05-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-05-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-05-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-05-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-07-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595808000000",
+                    "nextHwEolMilestone": "1619740800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314797,
+            "bulletinNumber": "EOL10680",
+            "bulletinProductId": "AIR-CAP3502P-N-K9",
+            "bulletinTitle": "Cisco Aironet 3500p Access Point",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3500-series/eos-eol-notice-c51-736179.html",
+            "publishedDate": "2015-10-30T16:29:35",
+            "eoLifeExternalAnnouncementDate": "2015-11-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-20T00:00:00Z",
+            "eoSaleDate": "2016-05-01T00:00:00Z",
+            "lastDateOfSupport": "2021-04-30T00:00:00Z",
+            "lastShipDate": "2016-05-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-05-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-05-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-05-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-07-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1595808000000",
+                    "nextHwEolMilestone": "1619740800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314927,
+            "bulletinNumber": "EOL10681",
+            "bulletinProductId": "N7K-M108X2-12L",
+            "bulletinTitle": "Cisco Nexus 7000 M1-Series (XL Version) I/O Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-736157.html",
+            "publishedDate": "2015-11-23T13:55:22",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314931,
+            "bulletinNumber": "EOL10681",
+            "bulletinProductId": "N7K-M132XP-12L",
+            "bulletinTitle": "Cisco Nexus 7000 M1-Series (XL Version) I/O Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-736157.html",
+            "publishedDate": "2015-11-23T13:55:22",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314935,
+            "bulletinNumber": "EOL10681",
+            "bulletinProductId": "N7K-M148GS-11L",
+            "bulletinTitle": "Cisco Nexus 7000 M1-Series (XL Version) I/O Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-736157.html",
+            "publishedDate": "2015-11-23T13:55:22",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 314940,
+            "bulletinNumber": "EOL10681",
+            "bulletinProductId": "N7K-M148GT-11L",
+            "bulletinTitle": "Cisco Nexus 7000 M1-Series (XL Version) I/O Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-736157.html",
+            "publishedDate": "2015-11-23T13:55:22",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 315026,
+            "bulletinNumber": "EOL10691",
+            "bulletinProductId": "WS-C2960CG-8TC-L",
+            "bulletinTitle": "Cisco Catalyst 3560-C Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-c-series-switches/eos-eol-notice-c51-736180.html",
+            "publishedDate": "2015-11-02T16:05:44",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 315029,
+            "bulletinNumber": "EOL10691",
+            "bulletinProductId": "WS-C3560C-12PC-S",
+            "bulletinTitle": "Cisco Catalyst 3560-C Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-c-series-switches/eos-eol-notice-c51-736180.html",
+            "publishedDate": "2015-11-02T16:05:44",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 315032,
+            "bulletinNumber": "EOL10691",
+            "bulletinProductId": "WS-C3560C-8PC-S",
+            "bulletinTitle": "Cisco Catalyst 3560-C Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-c-series-switches/eos-eol-notice-c51-736180.html",
+            "publishedDate": "2015-11-02T16:05:44",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 315035,
+            "bulletinNumber": "EOL10691",
+            "bulletinProductId": "WS-C3560CG-8PC-S",
+            "bulletinTitle": "Cisco Catalyst 3560-C Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-c-series-switches/eos-eol-notice-c51-736180.html",
+            "publishedDate": "2015-11-02T16:05:44",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 315038,
+            "bulletinNumber": "EOL10691",
+            "bulletinProductId": "WS-C3560CG-8TC-S",
+            "bulletinTitle": "Cisco Catalyst 3560-C Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-c-series-switches/eos-eol-notice-c51-736180.html",
+            "publishedDate": "2015-11-02T16:05:44",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 315041,
+            "bulletinNumber": "EOL10691",
+            "bulletinProductId": "WS-C3560CPD-8PT-S",
+            "bulletinTitle": "Cisco Catalyst 3560-C Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-c-series-switches/eos-eol-notice-c51-736180.html",
+            "publishedDate": "2015-11-02T16:05:44",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1572393600000",
+                    "nextHwEolMilestone": "1611792000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 315277,
+            "bulletinNumber": "EOL10703",
+            "bulletinProductId": "UCS-E140DP-M1/K9",
+            "bulletinTitle": "Select Cisco Services-Ready Engine Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/services-ready-engine-sre-modules/eos-eol-notice-c51-736238.html",
+            "publishedDate": "2015-11-12T15:53:54",
+            "eoLifeExternalAnnouncementDate": "2015-11-11T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-30T00:00:00Z",
+            "eoSaleDate": "2016-05-11T00:00:00Z",
+            "lastDateOfSupport": "2021-05-31T00:00:00Z",
+            "lastShipDate": "2016-08-09T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-05-11T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-05-11T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-05-11T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-08-06T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1596672000000",
+                    "nextHwEolMilestone": "1622419200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 315280,
+            "bulletinNumber": "EOL10703",
+            "bulletinProductId": "UCS-E160DP-M1/K9",
+            "bulletinTitle": "Select Cisco Services-Ready Engine Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/services-ready-engine-sre-modules/eos-eol-notice-c51-736238.html",
+            "publishedDate": "2015-11-12T15:53:54",
+            "eoLifeExternalAnnouncementDate": "2015-11-11T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-30T00:00:00Z",
+            "eoSaleDate": "2016-05-11T00:00:00Z",
+            "lastDateOfSupport": "2021-05-31T00:00:00Z",
+            "lastShipDate": "2016-08-09T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-05-11T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-05-11T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-05-11T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-08-06T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1596672000000",
+                    "nextHwEolMilestone": "1622419200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 315589,
+            "bulletinNumber": "EOL10724",
+            "bulletinProductId": "CVR-CFP-4SFP10G",
+            "bulletinTitle": "Cisco FourX CFP to Four SFP+ Converter Module",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-736369.html",
+            "publishedDate": "2015-12-04T12:15:06",
+            "eoLifeExternalAnnouncementDate": "2015-12-02T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-10-21T00:00:00Z",
+            "eoSaleDate": "2016-06-01T00:00:00Z",
+            "lastDateOfSupport": "2021-05-31T00:00:00Z",
+            "lastShipDate": "2016-08-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-06-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-06-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-06-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-08-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1598486400000",
+                    "nextHwEolMilestone": "1622419200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 315615,
+            "bulletinNumber": "EOL10740",
+            "bulletinProductId": "N3K-C3064PQ-10GE",
+            "bulletinTitle": "Cisco Nexus 3064 Switch",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-3000-series-switches/eos-eol-notice-c51-736391.html",
+            "publishedDate": "2015-12-08T20:45:30",
+            "eoLifeExternalAnnouncementDate": "2015-12-08T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-10-27T00:00:00Z",
+            "eoSaleDate": "2016-06-07T00:00:00Z",
+            "lastDateOfSupport": "2021-06-30T00:00:00Z",
+            "lastShipDate": "2016-09-05T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-06-07T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-06-07T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-06-07T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-09-02T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1599004800000",
+                    "nextHwEolMilestone": "1625011200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 315619,
+            "bulletinNumber": "EOL10741",
+            "bulletinProductId": "N3K-C3064TQ-10GT",
+            "bulletinTitle": "Cisco Nexus 3064-T Switch",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-3000-series-switches/eos-eol-notice-c51-736390.html",
+            "publishedDate": "2015-12-08T20:44:51",
+            "eoLifeExternalAnnouncementDate": "2015-12-08T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-10-27T00:00:00Z",
+            "eoSaleDate": "2016-06-07T00:00:00Z",
+            "lastDateOfSupport": "2021-06-30T00:00:00Z",
+            "lastShipDate": "2016-09-05T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-06-07T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-06-07T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-06-07T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-09-02T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1599004800000",
+                    "nextHwEolMilestone": "1625011200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 315694,
+            "bulletinNumber": "EOL10747",
+            "bulletinProductId": "WS-SVC-SAMI-BB-K9",
+            "bulletinTitle": "Cisco Service and Application Module for IP (SAMI) Hardware and Wireless Security Gateway Software for the Cisco 7600 Series Routers",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/wireless/7600-wireless-security-gateway/eos-eol-notice-c51-736397.html",
+            "publishedDate": "2015-12-12T02:44:09",
+            "eoLifeExternalAnnouncementDate": "2015-12-11T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-10-30T00:00:00Z",
+            "eoSaleDate": "2016-06-10T00:00:00Z",
+            "lastDateOfSupport": "2021-06-30T00:00:00Z",
+            "lastShipDate": "2016-09-08T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-06-10T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-06-10T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-06-10T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-09-05T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1599264000000",
+                    "nextHwEolMilestone": "1625011200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 317778,
+            "bulletinNumber": "EOL10761",
+            "bulletinProductId": "APIC-SERVER-M1",
+            "bulletinTitle": "Cisco Application Policy Infrastructure Controller (APIC-L1 and APIC-M1)",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/cloud-systems-management/application-policy-infrastructure-controller-apic/eos-eol-notice-c51-737079.html",
+            "publishedDate": "2016-05-11T09:38:43",
+            "eoLifeExternalAnnouncementDate": "2016-04-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-11T00:00:00Z",
+            "eoSaleDate": "2016-10-09T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-07T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-09T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-09T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2019-10-09T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-04T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1507507200000",
+                    "nextHwEolMilestone": "1609718400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 317783,
+            "bulletinNumber": "EOL10761",
+            "bulletinProductId": "APIC-SIM-S",
+            "bulletinTitle": "Cisco Application Policy Infrastructure Controller (APIC-L1 and APIC-M1)",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/cloud-systems-management/application-policy-infrastructure-controller-apic/eos-eol-notice-c51-737079.html",
+            "publishedDate": "2016-05-11T09:38:43",
+            "eoLifeExternalAnnouncementDate": "2016-04-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-11T00:00:00Z",
+            "eoSaleDate": "2016-10-09T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-07T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-09T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-09T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2019-10-09T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-04T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1507507200000",
+                    "nextHwEolMilestone": "1609718400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316086,
+            "bulletinNumber": "EOL10773",
+            "bulletinProductId": "CP-9971-C-K9",
+            "bulletinTitle": "Cisco Unified IP Phone 9971",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/collaboration-endpoints/unified-ip-phones-9900-series/eos-eol-notice-c51-736489.html",
+            "publishedDate": "2016-01-05T13:43:08",
+            "eoLifeExternalAnnouncementDate": "2016-01-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-12-06T00:00:00Z",
+            "eoSaleDate": "2016-07-05T00:00:00Z",
+            "lastDateOfSupport": "2016-10-03T00:00:00Z",
+            "lastShipDate": "2016-10-03T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-07-05T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-07-05T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-07-05T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-07-05T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-09-30T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-07-05T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1562284800000",
+                    "nextHwEolMilestone": "1601424000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316555,
+            "bulletinNumber": "EOL10788",
+            "bulletinProductId": "DWDM-X2-30.33",
+            "bulletinTitle": "Cisco DWDM X2 Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-736658.html",
+            "publishedDate": "2016-02-02T19:11:20",
+            "eoLifeExternalAnnouncementDate": "2016-02-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-01-02T00:00:00Z",
+            "eoSaleDate": "2016-08-01T00:00:00Z",
+            "lastDateOfSupport": "2016-10-30T00:00:00Z",
+            "lastShipDate": "2016-10-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-08-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-08-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-08-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-10-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1501545600000",
+                    "nextHwEolMilestone": "1603756800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316557,
+            "bulletinNumber": "EOL10788",
+            "bulletinProductId": "DWDM-X2-31.12",
+            "bulletinTitle": "Cisco DWDM X2 Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-736658.html",
+            "publishedDate": "2016-02-02T19:11:20",
+            "eoLifeExternalAnnouncementDate": "2016-02-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-01-02T00:00:00Z",
+            "eoSaleDate": "2016-08-01T00:00:00Z",
+            "lastDateOfSupport": "2021-07-31T00:00:00Z",
+            "lastShipDate": "2016-10-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-08-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-08-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-08-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-10-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1501545600000",
+                    "nextHwEolMilestone": "1603756800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316559,
+            "bulletinNumber": "EOL10788",
+            "bulletinProductId": "DWDM-X2-31.90",
+            "bulletinTitle": "Cisco DWDM X2 Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-736658.html",
+            "publishedDate": "2016-02-02T19:11:20",
+            "eoLifeExternalAnnouncementDate": "2016-02-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-01-02T00:00:00Z",
+            "eoSaleDate": "2016-08-01T00:00:00Z",
+            "lastDateOfSupport": "2021-07-31T00:00:00Z",
+            "lastShipDate": "2016-10-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-08-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-08-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-08-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-10-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1501545600000",
+                    "nextHwEolMilestone": "1603756800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316561,
+            "bulletinNumber": "EOL10788",
+            "bulletinProductId": "DWDM-X2-32.68",
+            "bulletinTitle": "Cisco DWDM X2 Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-736658.html",
+            "publishedDate": "2016-02-02T19:11:20",
+            "eoLifeExternalAnnouncementDate": "2016-02-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-01-02T00:00:00Z",
+            "eoSaleDate": "2016-08-01T00:00:00Z",
+            "lastDateOfSupport": "2021-07-31T00:00:00Z",
+            "lastShipDate": "2016-10-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-08-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-08-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-08-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-10-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1501545600000",
+                    "nextHwEolMilestone": "1603756800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316575,
+            "bulletinNumber": "EOL10788",
+            "bulletinProductId": "DWDM-X2-38.98",
+            "bulletinTitle": "Cisco DWDM X2 Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-736658.html",
+            "publishedDate": "2016-02-02T19:11:20",
+            "eoLifeExternalAnnouncementDate": "2016-02-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-01-02T00:00:00Z",
+            "eoSaleDate": "2016-08-01T00:00:00Z",
+            "lastDateOfSupport": "2021-07-31T00:00:00Z",
+            "lastShipDate": "2016-10-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-08-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-08-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-08-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-10-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1501545600000",
+                    "nextHwEolMilestone": "1603756800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316578,
+            "bulletinNumber": "EOL10788",
+            "bulletinProductId": "DWDM-X2-39.77",
+            "bulletinTitle": "Cisco DWDM X2 Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-736658.html",
+            "publishedDate": "2016-02-02T19:11:20",
+            "eoLifeExternalAnnouncementDate": "2016-02-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-01-02T00:00:00Z",
+            "eoSaleDate": "2016-08-01T00:00:00Z",
+            "lastDateOfSupport": "2021-07-31T00:00:00Z",
+            "lastShipDate": "2016-10-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-08-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-08-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-08-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-10-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1501545600000",
+                    "nextHwEolMilestone": "1603756800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316582,
+            "bulletinNumber": "EOL10788",
+            "bulletinProductId": "DWDM-X2-42.14",
+            "bulletinTitle": "Cisco DWDM X2 Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-736658.html",
+            "publishedDate": "2016-02-02T19:11:20",
+            "eoLifeExternalAnnouncementDate": "2016-02-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-01-02T00:00:00Z",
+            "eoSaleDate": "2016-08-01T00:00:00Z",
+            "lastDateOfSupport": "2021-07-31T00:00:00Z",
+            "lastShipDate": "2016-10-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-08-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-08-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-08-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-10-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1501545600000",
+                    "nextHwEolMilestone": "1603756800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316596,
+            "bulletinNumber": "EOL10788",
+            "bulletinProductId": "DWDM-X2-48.51",
+            "bulletinTitle": "Cisco DWDM X2 Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-736658.html",
+            "publishedDate": "2016-02-02T19:11:20",
+            "eoLifeExternalAnnouncementDate": "2016-02-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-01-02T00:00:00Z",
+            "eoSaleDate": "2016-08-01T00:00:00Z",
+            "lastDateOfSupport": "2021-07-31T00:00:00Z",
+            "lastShipDate": "2016-10-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-08-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-08-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-08-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-10-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1501545600000",
+                    "nextHwEolMilestone": "1603756800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316598,
+            "bulletinNumber": "EOL10788",
+            "bulletinProductId": "DWDM-X2-50.12",
+            "bulletinTitle": "Cisco DWDM X2 Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-736658.html",
+            "publishedDate": "2016-02-02T19:11:20",
+            "eoLifeExternalAnnouncementDate": "2016-02-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-01-02T00:00:00Z",
+            "eoSaleDate": "2016-08-01T00:00:00Z",
+            "lastDateOfSupport": "2021-07-31T00:00:00Z",
+            "lastShipDate": "2016-10-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-08-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-08-01T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-08-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-10-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1501545600000",
+                    "nextHwEolMilestone": "1603756800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316692,
+            "bulletinNumber": "EOL10789",
+            "bulletinProductId": "X2-10GB-CX4",
+            "bulletinTitle": "Cisco 10GBASE-CX4 X2 Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-736657.html",
+            "publishedDate": "2016-02-02T19:08:49",
+            "eoLifeExternalAnnouncementDate": "2016-02-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-01-02T00:00:00Z",
+            "eoSaleDate": "2017-01-31T00:00:00Z",
+            "lastDateOfSupport": "2022-01-31T00:00:00Z",
+            "lastShipDate": "2017-05-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-01-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-01-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2019-01-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-05-01T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1517356800000",
+                    "nextHwEolMilestone": "1619827200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316696,
+            "bulletinNumber": "EOL10790",
+            "bulletinProductId": "XFP-10GER-192IR+",
+            "bulletinTitle": "Select Cisco XFP LR and ER Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-736656.html",
+            "publishedDate": "2016-02-02T19:09:44",
+            "eoLifeExternalAnnouncementDate": "2016-02-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-01-02T00:00:00Z",
+            "eoSaleDate": "2017-01-31T00:00:00Z",
+            "lastDateOfSupport": "2022-01-31T00:00:00Z",
+            "lastShipDate": "2017-05-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-01-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-01-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2019-01-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-05-01T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1517356800000",
+                    "nextHwEolMilestone": "1619827200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316699,
+            "bulletinNumber": "EOL10790",
+            "bulletinProductId": "XFP-10GLR-OC192SR",
+            "bulletinTitle": "Select Cisco XFP LR and ER Modules",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-736656.html",
+            "publishedDate": "2016-02-02T19:09:44",
+            "eoLifeExternalAnnouncementDate": "2016-02-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-01-02T00:00:00Z",
+            "eoSaleDate": "2017-01-31T00:00:00Z",
+            "lastDateOfSupport": "2022-01-31T00:00:00Z",
+            "lastShipDate": "2017-05-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-01-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-01-31T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2019-01-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-05-01T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1517356800000",
+                    "nextHwEolMilestone": "1619827200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316508,
+            "bulletinNumber": "EOL10796",
+            "bulletinProductId": "CS-E340-G32-K9",
+            "bulletinTitle": "Cisco Edge 340 Digital Media Player",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/video/digital-media-players/eos-eol-notice-c51-736619.html",
+            "publishedDate": "2016-01-27T10:47:41",
+            "eoLifeExternalAnnouncementDate": "2016-01-26T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-12-27T00:00:00Z",
+            "eoSaleDate": "2016-07-26T00:00:00Z",
+            "lastDateOfSupport": "2021-07-31T00:00:00Z",
+            "lastShipDate": "2016-10-24T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-07-26T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-07-26T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-07-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-10-21T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1501027200000",
+                    "nextHwEolMilestone": "1603238400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316510,
+            "bulletinNumber": "EOL10796",
+            "bulletinProductId": "CS-E340-M32-K9",
+            "bulletinTitle": "Cisco Edge 340 Digital Media Player",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/video/digital-media-players/eos-eol-notice-c51-736619.html",
+            "publishedDate": "2016-01-27T10:47:41",
+            "eoLifeExternalAnnouncementDate": "2016-01-26T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-12-27T00:00:00Z",
+            "eoSaleDate": "2016-07-26T00:00:00Z",
+            "lastDateOfSupport": "2021-07-31T00:00:00Z",
+            "lastShipDate": "2016-10-24T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-07-26T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-07-26T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-07-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-10-21T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1501027200000",
+                    "nextHwEolMilestone": "1603238400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316514,
+            "bulletinNumber": "EOL10796",
+            "bulletinProductId": "CS-E340W-G32-C-K9",
+            "bulletinTitle": "Cisco Edge 340 Digital Media Player",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/video/digital-media-players/eos-eol-notice-c51-736619.html",
+            "publishedDate": "2016-01-27T10:47:41",
+            "eoLifeExternalAnnouncementDate": "2016-01-26T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-12-27T00:00:00Z",
+            "eoSaleDate": "2016-07-26T00:00:00Z",
+            "lastDateOfSupport": "2021-07-31T00:00:00Z",
+            "lastShipDate": "2016-10-24T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-07-26T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-07-26T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-07-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-10-21T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1501027200000",
+                    "nextHwEolMilestone": "1603238400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316522,
+            "bulletinNumber": "EOL10796",
+            "bulletinProductId": "CS-E340W-M32-N-K9",
+            "bulletinTitle": "Cisco Edge 340 Digital Media Player",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/video/digital-media-players/eos-eol-notice-c51-736619.html",
+            "publishedDate": "2016-01-27T10:47:41",
+            "eoLifeExternalAnnouncementDate": "2016-01-26T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-12-27T00:00:00Z",
+            "eoSaleDate": "2016-07-26T00:00:00Z",
+            "lastDateOfSupport": "2021-07-31T00:00:00Z",
+            "lastShipDate": "2016-10-24T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-07-26T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-07-26T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-07-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-10-21T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1501027200000",
+                    "nextHwEolMilestone": "1603238400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316505,
+            "bulletinNumber": "EOL10798",
+            "bulletinProductId": "CS-E300-AP-K9",
+            "bulletinTitle": "Cisco Edge 300 Digital Media Player",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/video/digital-media-players/eos-eol-notice-c51-736620.html",
+            "publishedDate": "2016-01-27T10:46:33",
+            "eoLifeExternalAnnouncementDate": "2016-01-26T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-12-27T00:00:00Z",
+            "eoSaleDate": "2016-07-26T00:00:00Z",
+            "lastDateOfSupport": "2021-07-31T00:00:00Z",
+            "lastShipDate": "2016-10-24T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-07-26T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-07-26T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-07-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-10-21T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1501027200000",
+                    "nextHwEolMilestone": "1603238400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316506,
+            "bulletinNumber": "EOL10798",
+            "bulletinProductId": "CS-E300-K9",
+            "bulletinTitle": "Cisco Edge 300 Digital Media Player",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/video/digital-media-players/eos-eol-notice-c51-736620.html",
+            "publishedDate": "2016-01-27T10:46:33",
+            "eoLifeExternalAnnouncementDate": "2016-01-26T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-12-27T00:00:00Z",
+            "eoSaleDate": "2016-07-26T00:00:00Z",
+            "lastDateOfSupport": "2021-07-31T00:00:00Z",
+            "lastShipDate": "2016-10-24T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-07-26T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-07-26T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-07-26T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-10-21T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1501027200000",
+                    "nextHwEolMilestone": "1603238400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316547,
+            "bulletinNumber": "EOL10807",
+            "bulletinProductId": "CIVS-SENC-4P",
+            "bulletinTitle": "Cisco Video Surveillance Standalone Encoders",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/physical-security/video-surveillance-encoders/eos-eol-notice-c51-736638.html",
+            "publishedDate": "2016-01-29T13:00:45",
+            "eoLifeExternalAnnouncementDate": "2016-01-28T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-12-29T00:00:00Z",
+            "eoSaleDate": "2016-07-28T00:00:00Z",
+            "lastDateOfSupport": "2021-07-31T00:00:00Z",
+            "lastShipDate": "2016-10-26T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-07-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-07-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-07-28T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-07-28T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-10-23T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-07-28T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1564272000000",
+                    "nextHwEolMilestone": "1603411200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316548,
+            "bulletinNumber": "EOL10807",
+            "bulletinProductId": "CIVS-SENC-8P",
+            "bulletinTitle": "Cisco Video Surveillance Standalone Encoders",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/physical-security/video-surveillance-encoders/eos-eol-notice-c51-736638.html",
+            "publishedDate": "2016-01-29T13:00:45",
+            "eoLifeExternalAnnouncementDate": "2016-01-28T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-12-29T00:00:00Z",
+            "eoSaleDate": "2016-07-28T00:00:00Z",
+            "lastDateOfSupport": "2021-07-31T00:00:00Z",
+            "lastShipDate": "2016-10-26T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-07-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-07-28T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-07-28T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-07-28T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-10-23T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-07-28T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1564272000000",
+                    "nextHwEolMilestone": "1603411200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316736,
+            "bulletinNumber": "EOL10819",
+            "bulletinProductId": "RV082",
+            "bulletinTitle": "Cisco RV082 Dual WAN VPN Router",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/small-business-rv-series-routers/eos-eol-notice-c51-736749.html",
+            "publishedDate": "2016-02-05T16:56:27",
+            "eoLifeExternalAnnouncementDate": "2016-02-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-01-05T00:00:00Z",
+            "eoSaleDate": "2016-05-05T00:00:00Z",
+            "lastDateOfSupport": "2021-05-31T00:00:00Z",
+            "lastShipDate": "2016-08-03T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2016-02-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2016-05-05T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2017-05-05T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2016-05-05T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1462406400000",
+                    "nextHwEolMilestone": "1622419200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316737,
+            "bulletinNumber": "EOL10819",
+            "bulletinProductId": "RV082-AU",
+            "bulletinTitle": "Cisco RV082 Dual WAN VPN Router",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/small-business-rv-series-routers/eos-eol-notice-c51-736749.html",
+            "publishedDate": "2016-02-05T16:56:27",
+            "eoLifeExternalAnnouncementDate": "2016-02-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-01-05T00:00:00Z",
+            "eoSaleDate": "2016-05-05T00:00:00Z",
+            "lastDateOfSupport": "2021-05-31T00:00:00Z",
+            "lastShipDate": "2016-08-03T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2016-02-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2016-05-05T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2017-05-05T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2016-05-05T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1462406400000",
+                    "nextHwEolMilestone": "1622419200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 316738,
+            "bulletinNumber": "EOL10819",
+            "bulletinProductId": "RV082-CN",
+            "bulletinTitle": "Cisco RV082 Dual WAN VPN Router",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/small-business-rv-series-routers/eos-eol-notice-c51-736749.html",
+            "publishedDate": "2016-02-05T16:56:27",
+            "eoLifeExternalAnnouncementDate": "2016-02-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-01-05T00:00:00Z",
+            "eoSaleDate": "2016-05-05T00:00:00Z",
+            "lastDateOfSupport": "2021-05-31T00:00:00Z",
+            "lastShipDate": "2016-08-03T00:00:00Z",
+            "eoNewServiceAttachmentDate": null,
+            "eoRoutineFailureAnalysisDate": "2016-02-04T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2016-05-05T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2017-05-05T00:00:00Z",
+            "eoServiceContractRenewalDate": null,
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2016-05-05T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1462406400000",
+                    "nextHwEolMilestone": "1622419200000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 319311,
+            "bulletinNumber": "EOL10864",
+            "bulletinProductId": "C819HG+7-K9",
+            "bulletinTitle": "Cisco 819 Hardened Integrated Services Router with High-Speed Packet Access",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-737356.html",
+            "publishedDate": "2016-11-15T07:22:10",
+            "eoLifeExternalAnnouncementDate": "2016-06-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-04T00:00:00Z",
+            "eoSaleDate": "2016-12-02T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-02T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1575244800000",
+                    "nextHwEolMilestone": "1614384000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 319313,
+            "bulletinNumber": "EOL10864",
+            "bulletinProductId": "C819HG-4G-V-K9",
+            "bulletinTitle": "Cisco 819 Hardened Integrated Services Router with High-Speed Packet Access",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-737356.html",
+            "publishedDate": "2016-11-15T07:22:10",
+            "eoLifeExternalAnnouncementDate": "2016-06-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-04T00:00:00Z",
+            "eoSaleDate": "2016-12-02T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-02T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1575244800000",
+                    "nextHwEolMilestone": "1614384000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 319317,
+            "bulletinNumber": "EOL10864",
+            "bulletinProductId": "C819HG-V-K9",
+            "bulletinTitle": "Cisco 819 Hardened Integrated Services Router with High-Speed Packet Access",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-737356.html",
+            "publishedDate": "2016-11-15T07:22:10",
+            "eoLifeExternalAnnouncementDate": "2016-06-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-04T00:00:00Z",
+            "eoSaleDate": "2016-12-02T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-02T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1575244800000",
+                    "nextHwEolMilestone": "1614384000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 319321,
+            "bulletinNumber": "EOL10864",
+            "bulletinProductId": "C819HGW+7-E-K9",
+            "bulletinTitle": "Cisco 819 Hardened Integrated Services Router with High-Speed Packet Access",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-737356.html",
+            "publishedDate": "2016-11-15T07:22:10",
+            "eoLifeExternalAnnouncementDate": "2016-06-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-04T00:00:00Z",
+            "eoSaleDate": "2016-12-02T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-02T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1575244800000",
+                    "nextHwEolMilestone": "1614384000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 319324,
+            "bulletinNumber": "EOL10864",
+            "bulletinProductId": "C819HGW+7-N-K9",
+            "bulletinTitle": "Cisco 819 Hardened Integrated Services Router with High-Speed Packet Access",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-737356.html",
+            "publishedDate": "2016-11-15T07:22:10",
+            "eoLifeExternalAnnouncementDate": "2016-06-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-05-04T00:00:00Z",
+            "eoSaleDate": "2016-12-02T00:00:00Z",
+            "lastDateOfSupport": "2021-12-31T00:00:00Z",
+            "lastShipDate": "2017-03-02T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-12-02T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-12-02T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-12-02T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-12-02T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-27T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-12-02T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1575244800000",
+                    "nextHwEolMilestone": "1614384000000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 322989,
+            "bulletinNumber": "EOL10876",
+            "bulletinProductId": "CHAS-UBR7225VXR=",
+            "bulletinTitle": "Cisco uBR7200 Series NPE-G2 Network Processing Engine and uBR7225VXR Universal Broadband Router System Bundles",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/video/ubr7200-series-universal-broadband-routers/eos-eol-notice-c51-737117.html",
+            "publishedDate": "2016-10-03T17:29:51",
+            "eoLifeExternalAnnouncementDate": "2016-04-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-16T00:00:00Z",
+            "eoSaleDate": "2016-10-14T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-12T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-14T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-14T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-09T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1507939200000",
+                    "nextHwEolMilestone": "1610150400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 317908,
+            "bulletinNumber": "EOL10876",
+            "bulletinProductId": "UBR7200-NPE-G2",
+            "bulletinTitle": "Cisco uBR7200 Series NPE-G2 Network Processing Engine and uBR7225VXR Universal Broadband Router System Bundles",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/video/ubr7200-series-universal-broadband-routers/eos-eol-notice-c51-737117.html",
+            "publishedDate": "2016-10-03T17:29:51",
+            "eoLifeExternalAnnouncementDate": "2016-04-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-16T00:00:00Z",
+            "eoSaleDate": "2016-10-14T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-12T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-14T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-10-14T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-14T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-09T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1507939200000",
+                    "nextHwEolMilestone": "1610150400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 317728,
+            "bulletinNumber": "EOL10878",
+            "bulletinProductId": "SNS-3415-K9",
+            "bulletinTitle": "Cisco Secure Network Server (SNS) 3415 and 3495 Appliances for Cisco ISE, NAC, and ACS Applications",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/security/identity-services-engine/eos-eol-notice-c51-737032.html",
+            "publishedDate": "2016-04-08T09:41:54",
+            "eoLifeExternalAnnouncementDate": "2016-04-08T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-09T00:00:00Z",
+            "eoSaleDate": "2016-10-07T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-05T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-07T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-07T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-10-07T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-02T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1507334400000",
+                    "nextHwEolMilestone": "1609545600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 317732,
+            "bulletinNumber": "EOL10878",
+            "bulletinProductId": "SNS-3495-K9",
+            "bulletinTitle": "Cisco Secure Network Server (SNS) 3415 and 3495 Appliances for Cisco ISE, NAC, and ACS Applications",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/security/identity-services-engine/eos-eol-notice-c51-737032.html",
+            "publishedDate": "2016-04-08T09:41:54",
+            "eoLifeExternalAnnouncementDate": "2016-04-08T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-09T00:00:00Z",
+            "eoSaleDate": "2016-10-07T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-05T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-07T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-07T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-10-07T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-02T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1507334400000",
+                    "nextHwEolMilestone": "1609545600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 317802,
+            "bulletinNumber": "EOL10885",
+            "bulletinProductId": "N3K-C3548P-10G",
+            "bulletinTitle": "Cisco Nexus 3500 Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-3000-series-switches/eos-eol-notice-c51-737069.html",
+            "publishedDate": "2016-04-12T07:44:44",
+            "eoLifeExternalAnnouncementDate": "2016-04-08T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-09T00:00:00Z",
+            "eoSaleDate": "2016-10-07T00:00:00Z",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-05T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-07T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-10-07T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-10-07T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-02T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1507334400000",
+                    "nextHwEolMilestone": "1609545600000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318517,
+            "bulletinNumber": "EOL10891",
+            "bulletinProductId": "N6K-C6001-64P",
+            "bulletinTitle": "Cisco Nexus 6000 Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-6000-series-switches/eos-eol-notice-c51-737195.html",
+            "publishedDate": "2018-06-01T11:26:31",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2020-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318521,
+            "bulletinNumber": "EOL10891",
+            "bulletinProductId": "N6K-C6001-64T",
+            "bulletinTitle": "Cisco Nexus 6000 Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-6000-series-switches/eos-eol-notice-c51-737195.html",
+            "publishedDate": "2018-06-01T11:26:31",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2020-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318530,
+            "bulletinNumber": "EOL10891",
+            "bulletinProductId": "N6K-C6004-FAN-F",
+            "bulletinTitle": "Cisco Nexus 6000 Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-6000-series-switches/eos-eol-notice-c51-737195.html",
+            "publishedDate": "2018-06-01T11:26:31",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2020-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318534,
+            "bulletinNumber": "EOL10891",
+            "bulletinProductId": "N6K-C6004=",
+            "bulletinTitle": "Cisco Nexus 6000 Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-6000-series-switches/eos-eol-notice-c51-737195.html",
+            "publishedDate": "2018-06-01T11:26:31",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2020-04-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1588118400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318453,
+            "bulletinNumber": "EOL10892",
+            "bulletinProductId": "N55-D160L3",
+            "bulletinTitle": "Cisco Nexus 5500 Series Layer 3 Daughter Card and Module (V1) and 1100W Power Supply",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-737193.html",
+            "publishedDate": "2016-05-03T06:40:05",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1525046400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318457,
+            "bulletinNumber": "EOL10892",
+            "bulletinProductId": "N55-M160L3",
+            "bulletinTitle": "Cisco Nexus 5500 Series Layer 3 Daughter Card and Module (V1) and 1100W Power Supply",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-737193.html",
+            "publishedDate": "2016-05-03T06:40:05",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1525046400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318461,
+            "bulletinNumber": "EOL10892",
+            "bulletinProductId": "N55-PAC-1100W",
+            "bulletinTitle": "Cisco Nexus 5500 Series Layer 3 Daughter Card and Module (V1) and 1100W Power Supply",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-737193.html",
+            "publishedDate": "2016-05-03T06:40:05",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1525046400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318462,
+            "bulletinNumber": "EOL10892",
+            "bulletinProductId": "N55-PAC-1100W-B",
+            "bulletinTitle": "Cisco Nexus 5500 Series Layer 3 Daughter Card and Module (V1) and 1100W Power Supply",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-737193.html",
+            "publishedDate": "2016-05-03T06:40:05",
+            "eoLifeExternalAnnouncementDate": "2016-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-31T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-07-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-04-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2018-04-30T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2019-04-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-29T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": null,
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1525046400000",
+                    "nextHwEolMilestone": "1627516800000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318770,
+            "bulletinNumber": "EOL10894",
+            "bulletinProductId": "ESA-C170-K9",
+            "bulletinTitle": "Cisco x170 and x80 Email, Web, and Content Security Management Hardware Appliances",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html",
+            "publishedDate": "2016-05-11T14:22:06",
+            "eoLifeExternalAnnouncementDate": "2016-05-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-04-10T00:00:00Z",
+            "eoSaleDate": "2016-11-08T00:00:00Z",
+            "lastDateOfSupport": "2021-11-30T00:00:00Z",
+            "lastShipDate": "2017-02-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-11-08T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-11-08T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-11-08T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-11-08T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1573171200000",
+                    "nextHwEolMilestone": "1612310400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318773,
+            "bulletinNumber": "EOL10894",
+            "bulletinProductId": "ESA-C380-K9",
+            "bulletinTitle": "Cisco x170 and x80 Email, Web, and Content Security Management Hardware Appliances",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html",
+            "publishedDate": "2016-05-11T14:22:06",
+            "eoLifeExternalAnnouncementDate": "2016-05-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-04-10T00:00:00Z",
+            "eoSaleDate": "2016-11-08T00:00:00Z",
+            "lastDateOfSupport": "2021-11-30T00:00:00Z",
+            "lastShipDate": "2017-02-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-11-08T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-11-08T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-11-08T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-11-08T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1573171200000",
+                    "nextHwEolMilestone": "1612310400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318778,
+            "bulletinNumber": "EOL10894",
+            "bulletinProductId": "ESA-C680-1G-K9",
+            "bulletinTitle": "Cisco x170 and x80 Email, Web, and Content Security Management Hardware Appliances",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html",
+            "publishedDate": "2016-05-11T14:22:06",
+            "eoLifeExternalAnnouncementDate": "2016-05-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-04-10T00:00:00Z",
+            "eoSaleDate": "2016-11-08T00:00:00Z",
+            "lastDateOfSupport": "2021-11-30T00:00:00Z",
+            "lastShipDate": "2017-02-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-11-08T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-11-08T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-11-08T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-11-08T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1573171200000",
+                    "nextHwEolMilestone": "1612310400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318781,
+            "bulletinNumber": "EOL10894",
+            "bulletinProductId": "ESA-C680-K9",
+            "bulletinTitle": "Cisco x170 and x80 Email, Web, and Content Security Management Hardware Appliances",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html",
+            "publishedDate": "2016-05-11T14:22:06",
+            "eoLifeExternalAnnouncementDate": "2016-05-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-04-10T00:00:00Z",
+            "eoSaleDate": "2016-11-08T00:00:00Z",
+            "lastDateOfSupport": "2021-11-30T00:00:00Z",
+            "lastShipDate": "2017-02-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-11-08T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-11-08T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-11-08T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-11-08T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1573171200000",
+                    "nextHwEolMilestone": "1612310400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318784,
+            "bulletinNumber": "EOL10894",
+            "bulletinProductId": "SMA-M170-K9",
+            "bulletinTitle": "Cisco x170 and x80 Email, Web, and Content Security Management Hardware Appliances",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html",
+            "publishedDate": "2016-05-11T14:22:06",
+            "eoLifeExternalAnnouncementDate": "2016-05-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-04-10T00:00:00Z",
+            "eoSaleDate": "2016-11-08T00:00:00Z",
+            "lastDateOfSupport": "2021-11-30T00:00:00Z",
+            "lastShipDate": "2017-02-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-11-08T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-11-08T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-11-08T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-11-08T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1573171200000",
+                    "nextHwEolMilestone": "1612310400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318785,
+            "bulletinNumber": "EOL10894",
+            "bulletinProductId": "SMA-M380-K9",
+            "bulletinTitle": "Cisco x170 and x80 Email, Web, and Content Security Management Hardware Appliances",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html",
+            "publishedDate": "2016-05-11T14:22:06",
+            "eoLifeExternalAnnouncementDate": "2016-05-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-04-10T00:00:00Z",
+            "eoSaleDate": "2016-11-08T00:00:00Z",
+            "lastDateOfSupport": "2021-11-30T00:00:00Z",
+            "lastShipDate": "2017-02-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-11-08T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-11-08T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-11-08T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-11-08T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1573171200000",
+                    "nextHwEolMilestone": "1612310400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "hwEolInstanceId": 318788,
+            "bulletinNumber": "EOL10894",
+            "bulletinProductId": "SMA-M680-1G-K9",
+            "bulletinTitle": "Cisco x170 and x80 Email, Web, and Content Security Management Hardware Appliances",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html",
+            "publishedDate": "2016-05-11T14:22:06",
+            "eoLifeExternalAnnouncementDate": "2016-05-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-04-10T00:00:00Z",
+            "eoSaleDate": "2016-11-08T00:00:00Z",
+            "lastDateOfSupport": "2021-11-30T00:00:00Z",
+            "lastShipDate": "2017-02-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-11-08T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-11-08T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": null,
+            "eoBuEngineeringSupportTacDate": "2018-11-08T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-02-03T00:00:00Z",
+            "eoSignatureReleasesDate": null,
+            "eoSoftwareAvailabilityDate": null,
+            "eoSoftwareLicenseAvailabilityDate": null,
+            "eoVulnerabilitySecuritySupport": "2019-11-08T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "1573171200000",
+                    "nextHwEolMilestone": "1612310400000",
+                    "currentHwEolMilestoneDate": null,
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        }
+    ],
+    "Pagination": {
+        "page": 5,
+        "pages": 23,
+        "rows": 100,
+        "total": 2230
+    }
+}

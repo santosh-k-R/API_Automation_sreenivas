@@ -1,0 +1,67 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Assets" parallel="classes" thread-count="10">
+	<listeners>
+		<listener
+			class-name="com.cisco.services.api_automation.listeners.AnnotationTransformer" />
+		<listener
+			class-name="com.cisco.services.api_automation.listeners.ExecutionListener" />
+		<listener
+			class-name="com.cisco.services.api_automation.listeners.RetryListener" />
+		<listener
+			class-name="com.cisco.services.api_automation.listeners.SuiteTransformer" />
+		<listener
+			class-name="com.cisco.services.api_automation.listeners.TestListener" />
+	</listeners>
+
+	<test name="AssetsTest" preserve-order="true">
+		<!--<packages> <package name="com.cisco.services.api_automation.tests.assets.*"/> 
+			</packages> <groups> <run> <exclude name="${excludeGroups}" /> </run> </groups> -->
+		<classes>
+			<class
+				name="com.cisco.services.api_automation.tests.assets.AssetsTest" />
+		</classes>
+
+	</test>
+	<test name="AssetsTaggingTest" preserve-order="true">
+		<classes>
+			<class
+				name="com.cisco.services.api_automation.tests.assets.AssetsTaggingTest" />
+		</classes>
+	</test>
+	<test name="AssetsGroupTest" preserve-order="true">
+		<classes>
+			<class
+				name="com.cisco.services.api_automation.tests.assets.AssetsGroupTest" />
+		</classes>
+	</test>
+	<test name="AssetsQueryFilterTest" preserve-order="true">
+		<classes>
+			<class
+				name="com.cisco.services.api_automation.tests.assets.AssetsQueryFilterTest" />
+		</classes>
+	</test>
+	<test name="AssetsSortTest" preserve-order="true">
+		<classes>
+			<class
+				name="com.cisco.services.api_automation.tests.assets.AssetsSortTest" />
+		</classes>
+	</test>
+	<test name="AssetsSearchTest" preserve-order="true">
+		<classes>
+			<class
+				name="com.cisco.services.api_automation.tests.assets.AssetsSearchTest" />
+		</classes>
+	</test>
+	<test name="AssetsTypeAheadAPITest" preserve-order="true">
+		<classes>
+			<class
+				name="com.cisco.services.api_automation.tests.assets.AssetsTypeAheadAPI" />
+		</classes>
+	</test>
+	<test name="AssetsPaginationTest" preserve-order="true">
+		<classes>
+			<class
+				name="com.cisco.services.api_automation.tests.assets.AssetsPaginationTest" />
+		</classes>
+	</test>
+</suite>

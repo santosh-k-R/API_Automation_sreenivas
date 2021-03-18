@@ -1,0 +1,540 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "solution": {
+      "type": "string"
+    },
+    "usecase": {
+      "type": "string"
+    },
+    "pitstop": {
+      "type": "string"
+    },
+    "items": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "cxlevel": {
+              "type": "integer"
+            },
+            "bookmark": {
+              "type": "boolean"
+            },
+            "launchUrl": {
+              "type": "string"
+            },
+            "reviewCount": {
+              "type": "integer"
+            },
+            "deliveryType": {
+              "type": "string"
+            },
+            "status": {
+              "type": "string"
+            },
+            "remoteLabLaunched": {
+              "type": "boolean"
+            },
+            "remoteLabLastLaunched": {
+              "type": ["null","string"]
+            },
+            "upvotes": {
+              "type": "string"
+            },
+            "usersCompleted": {
+              "type": "integer"
+            },
+            "cumulativeFeedbackAvailable": {
+              "type": "boolean"
+            },
+            "assetCompletionCount": {
+              "type": "integer"
+            },
+            "feedbackEngagement": {
+              "type": ["integer","number"]
+            },
+            "ranking": {
+              "type": "integer"
+            },
+            "courseId": {
+              "type": "string"
+            },
+            "overview": {
+              "type": "object",
+              "properties": {
+                "description": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "content": {
+                          "type": "string"
+                        },
+                        "html_element": {
+                          "type": "string"
+                        },
+                        "sort_order": {
+                          "type": "string"
+                        }
+                      },
+                      "additionalProperties": false,
+                      "required": [
+                        "content",
+                        "html_element",
+                        "sort_order"
+                      ]
+                    }
+                  ]
+                },
+                "duration": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "content": {
+                          "type": "string"
+                        },
+                        "html_element": {
+                          "type": "string"
+                        },
+                        "sort_order": {
+                          "type": "string"
+                        }
+                      },
+                      "additionalProperties": false,
+                      "required": [
+                        "content",
+                        "html_element",
+                        "sort_order"
+                      ]
+                    }
+                  ]
+                },
+                "targetAudience": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "content": {
+                          "type": "string"
+                        },
+                        "html_element": {
+                          "type": "string"
+                        },
+                        "sort_order": {
+                          "type": "string"
+                        }
+                      },
+                      "additionalProperties": false,
+                      "required": [
+                        "content",
+                        "html_element",
+                        "sort_order"
+                      ]
+                    }
+                  ]
+                },
+                "objectives": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "content": {
+                          "type": "string"
+                        },
+                        "html_element": {
+                          "type": "string"
+                        },
+                        "sort_order": {
+                          "type": "string"
+                        }
+                      },
+                      "additionalProperties": false,
+                      "required": [
+                        "content",
+                        "html_element",
+                        "sort_order"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "content": {
+                          "type": "string"
+                        },
+                        "html_element": {
+                          "type": "string"
+                        },
+                        "sort_order": {
+                          "type": "string"
+                        }
+                      },
+                      "additionalProperties": false,
+                      "required": [
+                        "content",
+                        "html_element",
+                        "sort_order"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "content": {
+                          "type": "string"
+                        },
+                        "html_element": {
+                          "type": "string"
+                        },
+                        "sort_order": {
+                          "type": "string"
+                        }
+                      },
+                      "additionalProperties": false,
+                      "required": [
+                        "content",
+                        "html_element",
+                        "sort_order"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "content": {
+                          "type": "string"
+                        },
+                        "html_element": {
+                          "type": "string"
+                        },
+                        "sort_order": {
+                          "type": "string"
+                        }
+                      },
+                      "additionalProperties": false,
+                      "required": [
+                        "content",
+                        "html_element",
+                        "sort_order"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "content": {
+                          "type": "string"
+                        },
+                        "html_element": {
+                          "type": "string"
+                        },
+                        "sort_order": {
+                          "type": "string"
+                        }
+                      },
+                      "additionalProperties": false,
+                      "required": [
+                        "content",
+                        "html_element",
+                        "sort_order"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "content": {
+                          "type": "string"
+                        },
+                        "html_element": {
+                          "type": "string"
+                        },
+                        "sort_order": {
+                          "type": "string"
+                        }
+                      },
+                      "additionalProperties": false,
+                      "required": [
+                        "content",
+                        "html_element",
+                        "sort_order"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "content": {
+                          "type": "string"
+                        },
+                        "html_element": {
+                          "type": "string"
+                        },
+                        "sort_order": {
+                          "type": "string"
+                        }
+                      },
+                      "additionalProperties": false,
+                      "required": [
+                        "content",
+                        "html_element",
+                        "sort_order"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "content": {
+                          "type": "string"
+                        },
+                        "html_element": {
+                          "type": "string"
+                        },
+                        "sort_order": {
+                          "type": "string"
+                        }
+                      },
+                      "additionalProperties": false,
+                      "required": [
+                        "content",
+                        "html_element",
+                        "sort_order"
+                      ]
+                    }
+                  ]
+                },
+                "coursePrerequisites": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "content": {
+                          "type": "string"
+                        },
+                        "html_element": {
+                          "type": "string"
+                        },
+                        "sort_order": {
+                          "type": "string"
+                        }
+                      },
+                      "additionalProperties": false,
+                      "required": [
+                        "content",
+                        "html_element",
+                        "sort_order"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "content": {
+                          "type": "string"
+                        },
+                        "html_element": {
+                          "type": "string"
+                        },
+                        "sort_order": {
+                          "type": "string"
+                        }
+                      },
+                      "additionalProperties": false,
+                      "required": [
+                        "content",
+                        "html_element",
+                        "sort_order"
+                      ]
+                    }
+                  ]
+                }
+              },
+              "additionalProperties": false,
+              "required": [
+                "description",
+                "duration",
+                "targetAudience",
+                "objectives",
+                "coursePrerequisites"
+              ]
+            },
+            "courseOutline": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "content": {
+                      "type": "string"
+                    },
+                    "html_element": {
+                      "type": "string"
+                    },
+                    "sort_order": {
+                      "type": "string"
+                    }
+                  },
+                  "additionalProperties": false,
+                  "required": [
+                    "content",
+                    "html_element",
+                    "sort_order"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "content": {
+                      "type": "string"
+                    },
+                    "html_element": {
+                      "type": "string"
+                    },
+                    "sort_order": {
+                      "type": "string"
+                    }
+                  },
+                  "additionalProperties": false,
+                  "required": [
+                    "content",
+                    "html_element",
+                    "sort_order"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "content": {
+                      "type": "string"
+                    },
+                    "html_element": {
+                      "type": "string"
+                    },
+                    "sort_order": {
+                      "type": "string"
+                    }
+                  },
+                  "additionalProperties": false,
+                  "required": [
+                    "content",
+                    "html_element",
+                    "sort_order"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "content": {
+                      "type": "string"
+                    },
+                    "html_element": {
+                      "type": "string"
+                    },
+                    "sort_order": {
+                      "type": "string"
+                    }
+                  },
+                  "additionalProperties": false,
+                  "required": [
+                    "content",
+                    "html_element",
+                    "sort_order"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "content": {
+                      "type": "string"
+                    },
+                    "html_element": {
+                      "type": "string"
+                    },
+                    "sort_order": {
+                      "type": "string"
+                    }
+                  },
+                  "additionalProperties": false,
+                  "required": [
+                    "content",
+                    "html_element",
+                    "sort_order"
+                  ]
+                }
+              ]
+            },
+            "labOutline": {
+              "type": ["null","string","object"]
+            },
+            "title": {
+              "type": "string"
+            },
+            "description": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            },
+            "type": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            },
+            "rating": {
+              "type": "string"
+            },
+            "feedbackInfo": {
+              "type": ["null","object"]
+            },
+            "id": {
+              "type": "string"
+            },
+            "percentagecompleted": {
+              "type": "integer"
+            }
+          },
+          "additionalProperties": false,
+          "required": [
+            "cxlevel",
+            "bookmark",
+            "launchUrl",
+            "reviewCount",
+            "deliveryType",
+            "status",
+            "remoteLabLaunched",
+            "remoteLabLastLaunched",
+            "upvotes",
+            "usersCompleted",
+            "cumulativeFeedbackAvailable",
+            "assetCompletionCount",
+            "feedbackEngagement",
+            "ranking",
+            "courseId",
+            "overview",
+            "courseOutline",
+            "labOutline",
+            "title",
+            "description",
+            "duration",
+            "type",
+            "url",
+            "rating",
+            "feedbackInfo",
+            "id",
+            "percentagecompleted"
+          ]
+        }
+      ]
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "solution",
+    "usecase",
+    "pitstop",
+    "items"
+  ]
+}

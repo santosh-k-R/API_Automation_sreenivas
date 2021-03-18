@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="All Suites" parallel="methods" thread-count="5" data-provider-thread-count="6">
+    <suite-files >
+        <suite-file path="lifecycle-testng.xml"/>
+        <suite-file path="architecturereview-testng.xml"/>
+        <suite-file path="assets-testng.xml"/>
+        <suite-file path="controlpoint-testng.xml"/>
+        <suite-file path="riskmitigation-testng.xml"/>
+        <suite-file path="commonservices-testng.xml"/>
+        <suite-file path="software-testng.xml"/>
+        <suite-file path="compliance-testng.xml"/>
+        <suite-file path="commonservices-testng.xml"/>
+    </suite-files>
+</suite>

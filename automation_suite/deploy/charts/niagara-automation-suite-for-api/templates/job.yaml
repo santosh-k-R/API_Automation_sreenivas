@@ -1,0 +1,168 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: {{ template "my-project.fullname" . }}
+  labels:
+    app: {{ template "my-project.fullname" . }}
+    chart: {{ template "my-project.chart" . }}
+    release: {{ template "my-project.fullname" . }}
+    heritage: {{ .Release.Service }}
+spec:
+  template:
+    spec:
+      volumes:
+      - name: config-map
+        configMap:
+          name: {{ template "niagara-automation-suite-for-api.fullname" . }}-environment-properties
+      {{- if .Values.appDynamics.enabled}}
+      - name: appdagent
+        emptyDir: {}
+      {{- end}}
+      initContainers:
+      {{- if .Values.appDynamics.enabled}}
+        - image: {{ .Values.appDynamics.init_repo }}:{{ .Values.appDynamics.init_tag }}
+          name: appdynamicsagent
+          command: ["/bin/sh"]
+          args: ["-c", "cp -r /app_agent/* /AppServerAgent/"]
+          volumeMounts:
+          - mountPath: /AppServerAgent
+            name: appdagent
+      {{- end}}
+      containers:
+      - name: {{ template "my-project.fullname" . }}
+        envFrom:
+          - configMapRef:
+              name: {{ template "my-project.fullname" . }}-environment-properties
+          {{- if .Values.appDynamics.enabled}}
+          - configMapRef:
+                name: cxcp-appdynamics-environment-properties
+          {{- end}}
+        env:
+            - name: elasticsearch_username
+              valueFrom:
+                secretKeyRef:
+                  name: cxcp-lifecycle-credentials
+                  key: cxcp_lifecycle_elasticsearch_username
+
+            - name: elasticsearch_password
+              valueFrom:
+                secretKeyRef:
+                  name: cxcp-lifecycle-credentials
+                  key: cxcp_lifecycle_elasticsearch_password
+
+            - name: cxp_basicauth_username
+              valueFrom:
+                secretKeyRef:
+                  name: cxcp-common-high
+                  key: cxcp_basicauth_username
+
+            - name: cxp_basicauth_password
+              valueFrom:
+                secretKeyRef:
+                  name: cxcp-common-high
+                  key: cxcp_basicauth_password
+
+            - name: cisco_ldap_userid
+              valueFrom:
+                secretKeyRef:
+                  name: cxcp-common-high
+                  key: cxcp_ldap_userid
+
+            - name: cisco_ldap_password
+              valueFrom:
+                secretKeyRef:
+                  name: cxcp-common-high
+                  key: cxcp_ldap_password
+
+            - name: oneid_serviceaccount_name
+              valueFrom:
+                secretKeyRef:
+                  name: cxcp-common-high
+                  key: cxcp_oneid_serviceaccount_name
+
+            - name: oneid_serviceaccount_password
+              valueFrom:
+                secretKeyRef:
+                  name: cxcp-common-high
+                  key: cxcp_oneid_serviceaccount_password
+
+            - name: oneid_client_id
+              valueFrom:
+                secretKeyRef:
+                  name: cxcp-common-high
+                  key: cxcp_oneid_client_id
+
+            - name: oneid_client_secret
+              valueFrom:
+                secretKeyRef:
+                  name: cxcp-common-high
+                  key: cxcp_oneid_client_secret
+
+            - name: niagara_suitename
+              value: {{ .Values.niagara.suitename | quote }}
+
+            - name: niagara_lifecycle
+              value: {{ .Values.niagara.lifecycle | quote }}
+
+            - name: niagara_partyid
+              value: {{ .Values.niagara.partyid | quote }}
+
+            - name: niagara_username
+              value: {{ .Values.niagara.username | quote }}
+
+            - name: niagara_groups
+              value: {{ .Values.niagara.groups | quote }}
+
+            - name: niagara_retrycount
+              value: {{ .Values.niagara.retrycount | quote }}
+
+            - name: niagara_threadcount
+              value: {{ .Values.niagara.threadcount | quote }}
+              
+        {{- if .Values.appDynamics.enabled}}
+            - name: APPDYNAMICS_AGENT_ACCOUNT_ACCESS_KEY
+              valueFrom:
+                secretKeyRef:
+                  key: appd_accesskey
+                  name: cxcp-appdynamics
+            - name: APPDYNAMICS_AGENT_ACCOUNT_NAME
+              valueFrom:
+                secretKeyRef:
+                  key: appd_accountname
+                  name: cxcp-appdynamics
+            - name: APPDYNAMICS_ENABLED
+              value: {{ .Values.appDynamics.enabled | quote }}
+            - name: APPDYNAMICS_AGENT_NODE_NAME
+              valueFrom:
+               fieldRef:
+                 fieldPath: metadata.name
+            - name: APPDYNAMICS_AGENT_TIER_NAME
+              valueFrom:
+               fieldRef:
+                 fieldPath: metadata.labels['release']
+            - name: POD_DEPLOYED_NODE
+              valueFrom:
+                 fieldRef:
+                    fieldPath: spec.nodeName
+            - name: APPDYNAMICS_AGENT_APPLICATION_NAME
+              value: {{ .Values.appDynamics.appdynamics_agent_application_name }}
+            - name: APPDYNAMICS_CONTROLLER_HOST_NAME
+              value: {{ .Values.appDynamics.appdynamics_controller_host_name }}
+        {{- end}}  
+        image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
+        volumeMounts:
+            {{- if .Values.appDynamics.enabled}}
+            - mountPath: {{ .Values.appDynamics.appd_mount_dir }}
+              name: appdagent
+            {{- end }}
+        ports:
+          - port: {{ .Values.service.port }}
+            targetPort: {{ .Values.service.port }}
+            containerPort: {{ .Values.service.port }}
+            protocol: TCP
+            name: http
+        selector:
+          app: {{ template "my-project.fullname" . }}
+          release: {{ template "my-project.fullname" . }}
+      restartPolicy: Never
+  backoffLimit: 4

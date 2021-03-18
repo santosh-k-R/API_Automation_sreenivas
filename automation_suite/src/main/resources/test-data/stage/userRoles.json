@@ -1,0 +1,29 @@
+[
+{
+    "companyAccountId": "145243",
+    "saRoles": [
+        {
+            "role": "AccountAdmin",
+            "roleDisplayName": "Smart Account Admin",
+            "roleDescription": "Can manage users, manage device collection, and request training, in addition to all permissions of the Customer Portal Network Engineer"
+        },
+        {
+            "role": "AccountFullUser",
+            "roleDisplayName": "Smart Account Full User",
+            "roleDescription": "Can view training, participate in communities, download software, request service upgrades or renewals, and other permissions"
+        }
+    ],
+    "saVaRoles": [
+        {
+            "role": "VirtualAccountAdmin",
+            "roleDisplayName": "Virtual Account Admin",
+            "roleDescription": "Manage Virtual Account users, Set asset policies, Access all Lifecycle educational content,  View CX Collector system information"
+        },
+        {
+            "role": "VirtualAccountFullUser",
+            "roleDisplayName": "Virtual Account Full User",
+            "roleDescription": "Access all Lifecycle educational content"
+        }
+    ]
+}
+]

@@ -1,0 +1,179 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "viewHref": {
+          "type": "string"
+        },
+        "author": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "id": {
+              "type": "string"
+            },
+            "href": {
+              "type": "string"
+            },
+            "viewHref": {
+              "type": "string"
+            },
+            "login": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false,
+          "required": [
+            "type",
+            "id",
+            "href",
+            "viewHref",
+            "login"
+          ]
+        },
+        "subject": {
+          "type": "string"
+        },
+        "searchSnippet": {
+          "type": "string"
+        },
+        "body": {
+          "type": "string"
+        },
+        "teaser": {
+          "type": "string"
+        },
+        "conversation": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "id": {
+              "type": "string"
+            },
+            "viewHref": {
+              "type": "string"
+            },
+            "style": {
+              "type": "string"
+            },
+            "threadStyle": {
+              "type": "string"
+            },
+            "messagesCount": {
+              "type": "number"
+            },
+            "solved": {
+              "type": "boolean"
+            },
+            "lastPostTime": {
+              "type": "string"
+            },
+            "lastPostTimeFriendly": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false,
+          "required": [
+            "type",
+            "id",
+            "viewHref",
+            "style",
+            "threadStyle",
+            "messagesCount",
+            "solved",
+            "lastPostTime",
+            "lastPostTimeFriendly"
+          ]
+        },
+        "topic": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "id": {
+              "type": "string"
+            },
+            "href": {
+              "type": "string"
+            },
+            "viewHref": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false,
+          "required": [
+            "type",
+            "id",
+            "href",
+            "viewHref"
+          ]
+        },
+        "postTime": {
+          "type": "string"
+        },
+        "postTimeFriendly": {
+          "type": "string"
+        },
+        "language": {
+          "type": "string"
+        },
+        "metrics": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "views": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false,
+          "required": [
+            "type",
+            "views"
+          ]
+        },
+        "popularity": {
+          "type": "number"
+        },
+        "bookmark": {
+          "type": "boolean"
+        },
+        "topicId": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "viewHref",
+        "author",
+        "subject",
+        "searchSnippet",
+        "body",
+        "teaser",
+        "conversation",
+        "topic",
+        "postTime",
+        "postTimeFriendly",
+        "language",
+        "metrics",
+        "popularity",
+        "bookmark",
+        "topicId"
+      ]
+    }
+  ],
+  "additionalItems": true
+}

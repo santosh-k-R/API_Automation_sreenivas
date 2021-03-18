@@ -1,0 +1,110 @@
+#  Default values for java-app.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your  templates.
+replicaCount: 1
+image:
+  repository: ${LOCATION_PREFIX_DOCKER_REGISTRY}/cx-platforms/niagara-cxp-api-automation
+  tag: ${CI_COMMIT_SHA}
+  pullPolicy: Always
+service:
+  type: ClusterIP
+  port: 8080
+  ssl:
+    enabled: false
+    port: 8443
+
+ingress:
+  enabled: false
+  domain: niagara-cxp-api-automation.${CLUSTER_NAME_FULL}
+  externalDNS:
+    enabled: true
+  annotations:
+    external-dns.alpha.kubernetes.io/hostname: niagara-cxp-api-automation.${CLUSTER_NAME_FULL}
+    ingress.kubernetes.io/force-ssl-redirect: "true"
+    kubernetes.io/ingress.class: nginx
+  path: /
+  servicePort: 8080
+  tls:
+    enabled: true
+    secretName: wildcard-production-tls
+
+
+resources:
+  # We usually recommend not to specify default resources and to leave this as a conscious
+  # choice for the user. This also increases chances charts run on environments with little
+  # resources, such as Minikube. If you do want to specify resources, uncomment the following
+  # lines, adjust them as necessary, and remove the curly braces after 'resources:'.
+   limits:
+    cpu: 0.1
+    memory: 512Mi
+   requests:
+    cpu: 100m
+    memory: 256Mi
+
+nodeSelector: {}
+
+tolerations: []
+
+affinity: {}
+
+# Config for HPA - horizontal pod scaling
+autoscaling:
+  enabled: false
+  minReplicas: 1
+  maxReplicas: 1
+  targetCPUUtilizationPercentage: 80
+  targetMemoryUtilizationPercentage: 80
+
+appDynamics:
+  enabled: false
+  appd_es_host: analytics.api.appdynamics.com
+  appd_es_port: 443
+  appd_es_ssl: True
+  appdynamics_controller_host_name: cisco-cx-test.saas.appdynamics.com
+  appdynamics_controller_port: 443
+  appdynamics_controller_ssl_enabled: True
+  appdynamics_jvm_parameter: -Dappdynamics.agent.maxMetrics=7000 -Dappdynamics.agent.log4j2.disabled=true -Dlog4j.ignoreTCL=true -Dappdynamics.jvm.shutdown.mark.node.as.historical=true
+  appdynamics_agent_application_name: cp-aws-testing
+  appdynamics_java_agent_reuse_node_name: True
+  init_repo: 539909726087.dkr.ecr.us-west-2.amazonaws.com/appd-javaagent
+  init_tag: v0.2.0
+  appd_mount_dir: /AppServerAgent
+
+
+## Niagara team: TODO This workaround is temporary, required for EnvVars set by Drone.io. Remove the quotes after migration to CircleCI and Flux.
+## CAUTION: Values set by drone must be explicitly double-quoted with escaped quotes. Example: partyid: \"${PARTY_ID}\"
+## Log snippet:
+##  UPGRADE FAILED
+## Error: failed to create resource: Deployment in version "v1beta2" cannot be handled as a Deployment:
+## v1beta2.Deployment.Spec: v1beta2.DeploymentSpec.Template: v1.PodTemplateSpec.Spec: v1.PodSpec.Containers:
+## []v1.Container: v1.Container.Env: []v1.EnvVar: v1.EnvVar.v1.EnvVar.Value: ReadString: expects " or n, but found 1,
+## error found in #10 byte of ...|,"value":1},{"name":|..., bigger context ...|s","value":"tests"},{"name":"retrycount",
+## "value":1},{"name":"threadcount","value":5}],"envFrom":[{"c|...
+niagara:
+  suitename: "${SUITE_NAME}"
+  lifecycle: "${LIFECYCLE}"
+  partyid: \"${PARTY_ID}\"
+  username: "${USER_NAME}"
+  groups: "tests"
+  retrycount: \"1\"
+  threadcount: \"5\"
+
+
+nameOverride: niagara-cxp-api-automation-${SUITE_NAME}
+
+fullnameOverride: niagara-cxp-api-automation-${SUITE_NAME}
+
+files:
+  environment.properties:
+    elasticsearch-host: ${elasticsearch_app_host}
+    elasticsearch-port: ${elasticsearch_app_port}
+    elasticsearch-scheme: ${elasticsearch_app_scheme}
+    cisco-ldap-external-url: ${cisco_ldap_external_url}
+    cisco-oauth-token-url: ${cisco_oauth_token_url}
+    cxp-emailapi-context-url: https://cpp-api.${CLUSTER_NAME_FULL}/email/
+    cxp-emailapi-readiness-url: https://cpp-api.${CLUSTER_NAME_FULL}/email/v1/ready
+    entitlement-user-party-affiliation-url: https://cpp-api.${CLUSTER_NAME_FULL}/entitlement/v1/user/party/affiliation/{partyId}
+    oneid-offeringadmin-token-url: ${oneid_identity_url}/api/tenants/OfferingAdmin/v1/am/protocol/openid-connect/token
+    oneid-tenancy-subject-issuer: ${oneid_identity_url}/api/tenants/OfferingAdmin/v1/am
+    oneid-token-url: ${oneid_identity_url}/api/tenants/{tenant}/v1/am/protocol/openid-connect/token
+    oneid-ccouser-url: ${oneid_identity_url}/api/tenants/{tenant}/v1/scim/v2/Users?filter=userName eq "{ccoId}"&filterType=ccoid

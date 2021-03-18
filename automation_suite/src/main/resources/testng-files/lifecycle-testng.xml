@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Lifecycle" data-provider-thread-count="10" parallel="methods" thread-count="5" configfailurepolicy="continue">
+    <listeners>
+        <listener class-name="com.cisco.services.api_automation.listeners.AnnotationTransformer"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.ExecutionListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.RetryListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.SuiteTransformer"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.TestListener"/>
+<!--        <listener class-name="com.cisco.services.api_automation.listeners.MethodListener"/>-->
+    </listeners>
+
+    <test name="LifeCycle_TestCases" parallel="methods" thread-count="5">
+        <classes>
+            <class name="com.cisco.services.api_automation.tests.lifecycle.LifeCycleIT"/>
+        </classes>
+    </test>
+</suite>

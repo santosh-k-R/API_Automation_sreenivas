@@ -1,0 +1,3410 @@
+{
+    "data": [
+        {
+            "swEolInstanceId": 803,
+            "bulletinNumber": "1483648771782808",
+            "bulletinTitle": "Cisco Nexus 1000v Select Software Releases",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-1000v-switch-vmware-vsphere/eos-eol-notice-c51-738404.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2017-01-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "",
+            "eoSaleDate": "2017-01-04T00:00:00Z",
+            "eoEngineeringDate": "2017-01-05T00:00:00Z",
+            "eoLifeDate": "2018-12-31T00:00:00Z",
+            "lastDateOfSupport": "",
+            "lastShipDate": "",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "nextHwEolMilestone": "no NextMilestone",
+                    "currentHwEolMilestoneDate": "2018-12-31T00:00:00",
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 60,
+            "bulletinNumber": "2192",
+            "bulletinTitle": "Cisco IOS Software Releases 12.2 T",
+            "URL": "http://www.cisco.com/en/US/products/sw/iosswrel/ps1839/prod_eol_notice09186a0080186d83.html",
+            "publishedDate": "2007-02-24T10:19:11Z",
+            "eoLifeExternalAnnouncementDate": "2003-05-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2003-04-18T00:00:00Z",
+            "eoSaleDate": "2003-11-28T00:00:00Z",
+            "eoEngineeringDate": "2004-11-27T00:00:00Z",
+            "eoLifeDate": "2008-11-26T00:00:00Z",
+            "lastDateOfSupport": "2004-02-26T00:00:00Z",
+            "lastShipDate": "2004-02-26T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2004-11-27T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2004-11-27T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2005-11-27T00:00:00Z",
+            "eoServiceContractRenewalDate": "2008-02-23T00:00:00Z",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2006-11-27T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "nextHwEolMilestone": "no NextMilestone",
+                    "currentHwEolMilestoneDate": "2008-11-26T00:00:00",
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 34,
+            "bulletinNumber": "2370",
+            "bulletinTitle": "  IOS Software Release 12.1",
+            "URL": "http://www.cisco.com/en/US/products/sw/iosswrel/ps1831/prod_eol_notice09186a008032d55c.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2003-12-12T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2009-06-30T00:00:00Z",
+            "lastShipDate": "",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2005-02-12T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "nextHwEolMilestone": "no NextMilestone",
+                    "currentHwEolMilestoneDate": "2009-06-30T00:00:00",
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 149,
+            "bulletinNumber": "2482",
+            "bulletinTitle": "Cisco Catalyst 4912G, 2948G, and 2980G-A Switches",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps663/prod_eol_notice09186a00802255f2.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2004-05-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2009-11-30T00:00:00Z",
+            "lastShipDate": "2005-02-03T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2005-11-03T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2005-11-03T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "2008-11-03T00:00:00Z",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "nextHwEolMilestone": "no NextMilestone",
+                    "currentHwEolMilestoneDate": "2009-11-30T00:00:00",
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 188,
+            "bulletinNumber": "2754",
+            "bulletinTitle": "CISCO CATALYST 3508G XL SWITCH and  Cisco IOS Software 12.0WC",
+            "URL": "http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps637/prod_end-of-life_notice0900aecd8021a948.html",
+            "publishedDate": "2009-08-26T16:10:55Z",
+            "eoLifeExternalAnnouncementDate": "2005-03-11T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-01-28T00:00:00Z",
+            "eoSaleDate": "2005-09-17T00:00:00Z",
+            "eoEngineeringDate": "2006-09-17T00:00:00Z",
+            "eoLifeDate": "2010-09-30T00:00:00Z",
+            "lastDateOfSupport": "2005-12-17T00:00:00Z",
+            "lastShipDate": "2005-12-17T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-09-17T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2006-09-17T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2006-09-17T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2007-09-17T00:00:00Z",
+            "eoServiceContractRenewalDate": "2010-06-17T00:00:00Z",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "nextHwEolMilestone": "no NextMilestone",
+                    "currentHwEolMilestoneDate": "2010-09-30T00:00:00",
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 41,
+            "bulletinNumber": "2803",
+            "bulletinTitle": "CISCO IOS SOFTWARE RELEASES 12.1(19)EW AND 12.1(20)EW ON THE CISCO CATALYST 4000 AND 4500 SERIES SWITCHES ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps4324/prod_eol_notice0900aecd80256100.html",
+            "publishedDate": "2009-01-02T22:50:54Z",
+            "eoLifeExternalAnnouncementDate": "2005-04-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "",
+            "eoSaleDate": "2005-10-04T00:00:00Z",
+            "eoEngineeringDate": "2006-10-04T00:00:00Z",
+            "eoLifeDate": "2010-10-31T00:00:00Z",
+            "lastDateOfSupport": "2006-01-04T00:00:00Z",
+            "lastShipDate": "2006-01-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2006-10-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2007-10-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "nextHwEolMilestone": "no NextMilestone",
+                    "currentHwEolMilestoneDate": "2010-10-31T00:00:00",
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 70,
+            "bulletinNumber": "2838",
+            "bulletinTitle": "CISCO CATALYST OS RELEASE 6.X  CATALYST 5000/5500, CATALYST 6000/6500, AND CATALYST 4000 SERIES SWITCHES ",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd802c2f7b.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2005-06-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2005-05-04T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2010-12-31T00:00:00Z",
+            "lastShipDate": "2006-03-14T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2006-12-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2006-12-14T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2007-12-14T00:00:00Z",
+            "eoServiceContractRenewalDate": "2010-03-11T00:00:00Z",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2008-12-13T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "nextHwEolMilestone": "no NextMilestone",
+                    "currentHwEolMilestoneDate": "2010-12-31T00:00:00",
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 883,
+            "bulletinNumber": "AIREOS70",
+            "bulletinTitle": "Cisco Wireless Software Version 7.0",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/8500-series-wireless-controllers/bulletin-c25-741061.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "",
+            "eoSaleDate": "2018-07-20T00:00:00Z",
+            "eoEngineeringDate": "2018-07-20T00:00:00Z",
+            "eoLifeDate": "2018-07-20T00:00:00Z",
+            "lastDateOfSupport": "",
+            "lastShipDate": "",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2018-07-20T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "nextHwEolMilestone": "no NextMilestone",
+                    "currentHwEolMilestoneDate": "2018-07-20T00:00:00",
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 886,
+            "bulletinNumber": "AIREOS73",
+            "bulletinTitle": "Cisco Wireless Software Version 7.3",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/8500-series-wireless-controllers/bulletin-c25-741064.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "",
+            "eoSaleDate": "2018-07-18T00:00:00Z",
+            "eoEngineeringDate": "2018-07-18T00:00:00Z",
+            "eoLifeDate": "2018-07-18T00:00:00Z",
+            "lastDateOfSupport": "",
+            "lastShipDate": "",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "nextHwEolMilestone": "no NextMilestone",
+                    "currentHwEolMilestoneDate": "2018-07-18T00:00:00",
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 887,
+            "bulletinNumber": "AIREOS74",
+            "bulletinTitle": "Cisco Wireless Software Version 7.4",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/8500-series-wireless-controllers/bulletin-c25-741065.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2018-07-17T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2018-07-20T00:00:00Z",
+            "lastShipDate": "",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2018-07-20T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "nextHwEolMilestone": "no NextMilestone",
+                    "currentHwEolMilestoneDate": "2018-07-20T00:00:00",
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 846,
+            "bulletinNumber": "AIREOS80",
+            "bulletinTitle": "Cisco Wireless Software Version 8.0",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/wireless/8540-wireless-controller/eos-eol-notice-c51-739984.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2017-11-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "",
+            "eoSaleDate": "2018-04-30T00:00:00Z",
+            "eoEngineeringDate": "2018-04-30T00:00:00Z",
+            "eoLifeDate": "2018-04-30T00:00:00Z",
+            "lastDateOfSupport": "",
+            "lastShipDate": "",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "nextHwEolMilestone": "no NextMilestone",
+                    "currentHwEolMilestoneDate": "2018-04-30T00:00:00",
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 561,
+            "bulletinNumber": "EOL10010",
+            "bulletinTitle": "Cisco NX-OS Software Release 5.2 for the Cisco Nexus 2000 Series Fabric Extenders and 5000 Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-733330.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2014-11-07T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2014-09-26T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2020-05-31T00:00:00Z",
+            "lastShipDate": "2015-08-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2016-05-07T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2016-05-07T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2017-05-07T00:00:00Z",
+            "eoServiceContractRenewalDate": "2019-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": "2016-05-07T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2016-05-07T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "2018-05-07T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "nextHwEolMilestone": "no NextMilestone",
+                    "currentHwEolMilestoneDate": "2020-05-31T00:00:00",
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 560,
+            "bulletinNumber": "EOL10012",
+            "bulletinTitle": "Cisco NX-OS Software Release 6.0 for the Cisco Nexus 2000 Series Fabric Extenders and 5000 Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-733329.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2014-11-07T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2014-09-26T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2020-05-31T00:00:00Z",
+            "lastShipDate": "2015-08-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2016-05-07T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2016-05-07T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2017-05-07T00:00:00Z",
+            "eoServiceContractRenewalDate": "2019-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": "2016-05-07T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2016-05-07T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "2018-05-07T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "nextHwEolMilestone": "no NextMilestone",
+                    "currentHwEolMilestoneDate": "2020-05-31T00:00:00",
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 566,
+            "bulletinNumber": "EOL10058",
+            "bulletinTitle": "Cisco IOS XE 3.14S for the Cisco ASR 1000 Series",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-733479.html",
+            "publishedDate": "2014-12-09T14:16:01Z",
+            "eoLifeExternalAnnouncementDate": "2014-12-09T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2014-10-28T00:00:00Z",
+            "eoSaleDate": "2015-06-09T00:00:00Z",
+            "eoEngineeringDate": "2015-12-09T00:00:00Z",
+            "eoLifeDate": "2020-06-30T00:00:00Z",
+            "lastDateOfSupport": "2015-06-09T00:00:00Z",
+            "lastShipDate": "2015-06-09T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2016-06-08T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2016-06-08T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-06-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 616,
+            "bulletinNumber": "EOL10266",
+            "bulletinTitle": "Cisco IOS XE Software Release 3.10S",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-734193.html",
+            "publishedDate": "2015-03-16T11:03:04Z",
+            "eoLifeExternalAnnouncementDate": "2015-03-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-02-02T00:00:00Z",
+            "eoSaleDate": "2015-09-14T00:00:00Z",
+            "eoEngineeringDate": "2016-09-13T00:00:00Z",
+            "eoLifeDate": "2020-09-30T00:00:00Z",
+            "lastDateOfSupport": "2015-09-14T00:00:00Z",
+            "lastShipDate": "2015-09-14T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2016-09-13T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2017-09-13T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2017-09-13T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-09-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 621,
+            "bulletinNumber": "EOL10268",
+            "bulletinTitle": "Cisco IOS XE Software Release 3.15S",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-734263.html",
+            "publishedDate": "2015-03-31T12:59:57Z",
+            "eoLifeExternalAnnouncementDate": "2015-03-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-02-17T00:00:00Z",
+            "eoSaleDate": "2015-09-29T00:00:00Z",
+            "eoEngineeringDate": "2016-03-30T00:00:00Z",
+            "eoLifeDate": "2020-09-30T00:00:00Z",
+            "lastDateOfSupport": "2015-09-29T00:00:00Z",
+            "lastShipDate": "2015-09-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2016-03-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2016-09-28T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2016-09-28T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-09-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 630,
+            "bulletinNumber": "EOL10293",
+            "bulletinTitle": "Cisco IOS Software Release 15.3(3)S for Cisco 7600 Series Routers",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/7600-series-routers/eos-eol-notice-c51-734158.html",
+            "publishedDate": "2015-03-11T08:37:28Z",
+            "eoLifeExternalAnnouncementDate": "2015-03-09T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-01-26T00:00:00Z",
+            "eoSaleDate": "2015-09-07T00:00:00Z",
+            "eoEngineeringDate": "2016-09-06T00:00:00Z",
+            "eoLifeDate": "2020-09-30T00:00:00Z",
+            "lastDateOfSupport": "2015-09-07T00:00:00Z",
+            "lastShipDate": "2015-09-07T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2017-09-06T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2017-09-06T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-09-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 619,
+            "bulletinNumber": "EOL10306",
+            "bulletinTitle": "Cisco ASR 901 Series Aggregation Services Routers - Cisco IOS 15.3(3)S",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/asr-901-series-aggregation-services-routers/eos-eol-notice-c51-734223.html",
+            "publishedDate": "2015-03-23T15:51:37Z",
+            "eoLifeExternalAnnouncementDate": "2015-03-23T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-02-09T00:00:00Z",
+            "eoSaleDate": "2015-09-21T00:00:00Z",
+            "eoEngineeringDate": "2016-09-20T00:00:00Z",
+            "eoLifeDate": "2020-09-30T00:00:00Z",
+            "lastDateOfSupport": "2015-09-21T00:00:00Z",
+            "lastShipDate": "2015-09-21T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2016-09-20T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2017-09-20T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2017-09-20T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-09-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 618,
+            "bulletinNumber": "EOL10307",
+            "bulletinTitle": "Cisco IOS Software Release 15.3(3)S for Cisco ME 3800X Series Carrier Ethernet Switch Routers",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/me-3800x-series-carrier-ethernet-switch-routers/eos-eol-notice-c51-734222.html",
+            "publishedDate": "2015-03-23T15:53:01Z",
+            "eoLifeExternalAnnouncementDate": "2015-03-23T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-02-09T00:00:00Z",
+            "eoSaleDate": "2015-09-21T00:00:00Z",
+            "eoEngineeringDate": "2016-09-20T00:00:00Z",
+            "eoLifeDate": "2020-09-30T00:00:00Z",
+            "lastDateOfSupport": "2015-09-21T00:00:00Z",
+            "lastShipDate": "2015-09-21T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2017-09-20T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2017-09-20T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-09-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 617,
+            "bulletinNumber": "EOL10308",
+            "bulletinTitle": "Cisco IOS Software Release 15.3(3)S for Cisco ME 3600X Series Ethernet Access Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/me-3600x-series-ethernet-access-switches/eos-eol-notice-c51-734199.html",
+            "publishedDate": "2015-03-23T15:52:33Z",
+            "eoLifeExternalAnnouncementDate": "2015-03-23T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-02-09T00:00:00Z",
+            "eoSaleDate": "2015-09-21T00:00:00Z",
+            "eoEngineeringDate": "2016-09-20T00:00:00Z",
+            "eoLifeDate": "2020-09-30T00:00:00Z",
+            "lastDateOfSupport": "2015-09-21T00:00:00Z",
+            "lastShipDate": "2015-09-21T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2017-09-20T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2017-09-20T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-09-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 623,
+            "bulletinNumber": "EOL10330",
+            "bulletinTitle": "Cisco IOS Software Release 15.3(3)M",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/ios-15-3m-t/eos-eol-notice-c51-734340.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2015-04-07T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-02-24T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2020-10-31T00:00:00Z",
+            "lastShipDate": "2015-10-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2016-10-05T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2017-10-05T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2017-10-05T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-10-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 654,
+            "bulletinNumber": "EOL10358",
+            "bulletinTitle": "Cisco IOS Release 12.2(33)SRE for Cisco 7600 Series Routers",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/7600-series-routers/eos-eol-notice-c51-735519.html",
+            "publishedDate": "2015-07-24T15:11:01Z",
+            "eoLifeExternalAnnouncementDate": "2015-07-25T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-06-13T00:00:00Z",
+            "eoSaleDate": "2016-07-24T00:00:00Z",
+            "eoEngineeringDate": "2019-07-24T00:00:00Z",
+            "eoLifeDate": "2021-07-31T00:00:00Z",
+            "lastDateOfSupport": "2016-07-24T00:00:00Z",
+            "lastShipDate": "2016-07-24T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2019-07-24T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2019-07-24T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2019-07-24T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-07-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 627,
+            "bulletinNumber": "EOL10370",
+            "bulletinTitle": "Cisco MDS 9000 NX-OS Software Release 5.x",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/storage-networking/mds-9000-series-multilayer-switches/eos-eol-notice-c51-734634.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2015-05-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-04-03T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2020-11-30T00:00:00Z",
+            "lastShipDate": "2016-02-11T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2016-11-12T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2016-11-12T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2017-11-12T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-02-08T00:00:00Z",
+            "eoSignatureReleasesDate": "2016-11-12T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2016-11-12T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "2018-11-12T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "SVC_RENEWAL_END_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2020-02-08T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-11-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 796,
+            "bulletinNumber": "EOL10443",
+            "bulletinTitle": "Cisco UCS Manager 2.0",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-b-series-blade-servers/eos-eol-notice-c51-734923.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2015-06-16T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-05-05T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2020-12-31T00:00:00Z",
+            "lastShipDate": "2016-03-14T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2016-12-14T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2016-12-14T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2017-12-14T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-03-11T00:00:00Z",
+            "eoSignatureReleasesDate": "2016-12-14T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2016-12-14T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "2018-12-14T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "SVC_RENEWAL_END_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2020-03-11T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-12-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 687,
+            "bulletinNumber": "EOL10513",
+            "bulletinTitle": "Cisco Nexus 3000 Releases 5.0.(3)Ux(x) and 6.0.(2)U1(x)",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-3000-series-switches/eos-eol-notice-c51-736142.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2017-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": "2017-10-30T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2017-10-30T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "SVC_RENEWAL_END_DATE",
+                    "currentHwEolMilestoneDate": "2019-10-30T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-01-28T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 686,
+            "bulletinNumber": "EOL10517",
+            "bulletinTitle": "Cisco Nexus 9000 Software Releases 6.1(2)I1(x) and 6.1(2)I2(x)",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/eos-eol-notice-c51-736141.html",
+            "publishedDate": "2015-10-30T14:54:11Z",
+            "eoLifeExternalAnnouncementDate": "2015-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-09-19T00:00:00Z",
+            "eoSaleDate": "2016-10-30T00:00:00Z",
+            "eoEngineeringDate": "2017-10-30T00:00:00Z",
+            "eoLifeDate": "2021-10-31T00:00:00Z",
+            "lastDateOfSupport": "2017-01-29T00:00:00Z",
+            "lastShipDate": "2017-01-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-10-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "",
+            "eoBuEngineeringSupportTacDate": "2018-10-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-01-28T00:00:00Z",
+            "eoSignatureReleasesDate": "2017-10-30T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2017-10-30T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "2019-10-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "SVC_RENEWAL_END_DATE",
+                    "currentHwEolMilestoneDate": "2019-10-30T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-01-28T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 655,
+            "bulletinNumber": "EOL10590",
+            "bulletinTitle": "Cisco IOS Software Release 15.5(1)T",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/ios-15-4m-t/eos-eol-notice-c51-735904.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2015-09-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-08-19T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2021-03-31T00:00:00Z",
+            "lastShipDate": "2016-03-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2016-09-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2017-03-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2017-03-30T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-03-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 659,
+            "bulletinNumber": "EOL10709",
+            "bulletinTitle": "Cisco IOS Software Release 15.0(2)SE for Cisco Catalyst 3750-X, 3560-X, 3750-E, 3560-E, 3750G, 3560G, 3750V2, 3560V2, 2960, 2960-S, 3560-C, and 2960-C Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3750-series-switches/eos-eol-notice-c51-736302.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2015-11-23T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-10-12T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2021-05-31T00:00:00Z",
+            "lastShipDate": "2016-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2017-05-23T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2019-05-23T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2019-05-23T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-05-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 970,
+            "bulletinNumber": "EOL10709",
+            "bulletinTitle": "Cisco IOS Software Release 15.0(2)SE for Cisco Catalyst 3750-X, 3560-X, 3750-E, 3560-E, 3750G, 3560G, 3750V2, 3560V2, 2960, 2960-S, 3560-C, and 2960-C Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3750-series-switches/eos-eol-notice-c51-736302.html",
+            "publishedDate": "2015-11-23T15:01:31Z",
+            "eoLifeExternalAnnouncementDate": "2015-11-23T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-10-12T00:00:00Z",
+            "eoSaleDate": "2016-05-23T00:00:00Z",
+            "eoEngineeringDate": "2017-05-23T00:00:00Z",
+            "eoLifeDate": "2021-05-31T00:00:00Z",
+            "lastDateOfSupport": "2016-05-23T00:00:00Z",
+            "lastShipDate": "2016-05-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2017-05-23T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2019-05-23T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2019-05-23T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-05-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 667,
+            "bulletinNumber": "EOL10743",
+            "bulletinTitle": "Cisco IOS XE 3.17S",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-736431.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2015-12-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-11-03T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2021-06-30T00:00:00Z",
+            "lastShipDate": "2016-06-14T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2016-12-14T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2017-06-14T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2017-06-14T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-06-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 713,
+            "bulletinNumber": "EOL10744",
+            "bulletinTitle": "Cisco IOS Software Release 15.6(1)T",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/ios-15-4m-t/eos-eol-notice-c51-736600.html",
+            "publishedDate": "2016-01-20T08:58:19Z",
+            "eoLifeExternalAnnouncementDate": "2016-01-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-12-16T00:00:00Z",
+            "eoSaleDate": "2016-07-15T00:00:00Z",
+            "eoEngineeringDate": "2017-01-14T00:00:00Z",
+            "eoLifeDate": "2021-07-31T00:00:00Z",
+            "lastDateOfSupport": "2016-07-15T00:00:00Z",
+            "lastShipDate": "2016-07-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2017-01-14T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2017-07-15T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2017-07-15T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-07-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 666,
+            "bulletinNumber": "EOL10749",
+            "bulletinTitle": "Cisco IOS Software Release 15.1(2)SY for the Cisco Catalyst 6500 Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/ios-software-releases-12-2-sx/eos-eol-notice-c51-736398.html?cachemode=refresh",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2015-12-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-11-14T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2021-06-30T00:00:00Z",
+            "lastShipDate": "2016-06-13T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2017-06-13T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2018-06-13T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2018-06-13T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-06-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 898,
+            "bulletinNumber": "EOL10760",
+            "bulletinTitle": "Cisco IOS 15.1(2)SG and Cisco IOS XE 3.4.0SG for the Cisco Catalyst 4500E, 4500-X, and 4900 Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-736474.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2016-01-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-11-24T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2021-07-31T00:00:00Z",
+            "lastShipDate": "2016-07-05T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2017-01-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2017-07-05T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2017-07-05T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-07-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 681,
+            "bulletinNumber": "EOL10760",
+            "bulletinTitle": "Cisco IOS 15.1(2)SG and Cisco IOS XE 3.4.0SG for the Cisco Catalyst 4500E, 4500-X, and 4900 Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-736474.html",
+            "publishedDate": "2016-01-05T10:53:39Z",
+            "eoLifeExternalAnnouncementDate": "2016-01-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-11-24T00:00:00Z",
+            "eoSaleDate": "2016-07-05T00:00:00Z",
+            "eoEngineeringDate": "2017-01-04T00:00:00Z",
+            "eoLifeDate": "2021-07-31T00:00:00Z",
+            "lastDateOfSupport": "2016-07-05T00:00:00Z",
+            "lastShipDate": "2016-07-05T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2017-01-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2017-07-05T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2017-07-05T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-07-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 896,
+            "bulletinNumber": "EOL10762",
+            "bulletinTitle": "Cisco IOS XE 3.3.0SE for Cisco Catalyst Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-736492.html",
+            "publishedDate": "2016-01-05T13:45:28Z",
+            "eoLifeExternalAnnouncementDate": "2016-01-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-11-24T00:00:00Z",
+            "eoSaleDate": "2016-07-05T00:00:00Z",
+            "eoEngineeringDate": "2017-01-04T00:00:00Z",
+            "eoLifeDate": "2021-07-31T00:00:00Z",
+            "lastDateOfSupport": "2016-07-05T00:00:00Z",
+            "lastShipDate": "2016-07-05T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2017-01-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2017-07-05T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2017-07-05T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-07-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 682,
+            "bulletinNumber": "EOL10762",
+            "bulletinTitle": "Cisco IOS XE 3.3.0SE for Cisco Catalyst Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-736492.html",
+            "publishedDate": "2016-01-05T13:45:28Z",
+            "eoLifeExternalAnnouncementDate": "2016-01-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2015-11-24T00:00:00Z",
+            "eoSaleDate": "2016-07-05T00:00:00Z",
+            "eoEngineeringDate": "2017-01-04T00:00:00Z",
+            "eoLifeDate": "2021-07-31T00:00:00Z",
+            "lastDateOfSupport": "2016-07-05T00:00:00Z",
+            "lastShipDate": "2016-07-05T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2017-07-05T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2017-07-05T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-07-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 703,
+            "bulletinNumber": "EOL10795",
+            "bulletinTitle": "Cisco TelePresence System 1100 and Software Releases 1.8-1.10 and 6.x",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/conferencing/telepresence-manager/eos-eol-notice-c51-736773.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2016-02-09T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-01-10T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2019-02-28T00:00:00Z",
+            "lastShipDate": "2016-02-09T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2017-02-09T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2017-02-09T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2017-02-09T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-02-09T00:00:00Z",
+            "eoServiceContractRenewalDate": "2018-05-09T00:00:00Z",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2019-02-09T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "nextHwEolMilestone": "no NextMilestone",
+                    "currentHwEolMilestoneDate": "2019-02-28T00:00:00",
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 701,
+            "bulletinNumber": "EOL10812",
+            "bulletinTitle": "Cisco IOS XE Software Release 3.13S",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-736752.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2016-02-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-01-06T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2021-08-31T00:00:00Z",
+            "lastShipDate": "2016-08-05T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2017-08-05T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2018-08-05T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2018-08-05T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-08-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 901,
+            "bulletinNumber": "EOL10920",
+            "bulletinTitle": "Cisco IOS XE Software 3.7.0E for Cisco Catalyst 4500-E/X Series Switches and Cisco IOS 15.2(3)E for Cisco Catalyst 2960-X/XR, 2960-Plus, 2960-C/CX, 3750-X, 3560-X/CX, and 4900 Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-737186.html",
+            "publishedDate": "2016-05-03T06:25:52Z",
+            "eoLifeExternalAnnouncementDate": "2016-04-29T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-30T00:00:00Z",
+            "eoSaleDate": "2016-10-28T00:00:00Z",
+            "eoEngineeringDate": "2017-04-29T00:00:00Z",
+            "eoLifeDate": "2021-10-31T00:00:00Z",
+            "lastDateOfSupport": "2016-10-28T00:00:00Z",
+            "lastShipDate": "2016-10-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2017-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2017-10-28T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2017-10-28T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-10-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 715,
+            "bulletinNumber": "EOL10920",
+            "bulletinTitle": "Cisco IOS XE Software 3.7.0E for Cisco Catalyst 4500-E/X Series Switches and Cisco IOS 15.2(3)E for Cisco Catalyst 2960-X/XR, 2960-Plus, 2960-C/CX, 3750-X, 3560-X/CX, and 4900 Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-737186.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2016-04-29T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-03-30T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2021-10-31T00:00:00Z",
+            "lastShipDate": "2016-10-28T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2017-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2017-10-28T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2017-10-28T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-10-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 725,
+            "bulletinNumber": "EOL11118",
+            "bulletinTitle": "Cisco IOS XR Software Release 5.3",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/ios-xr-software/eos-eol-notice-c51-737730.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2016-08-11T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-07-12T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2022-02-28T00:00:00Z",
+            "lastShipDate": "2017-02-09T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2017-08-11T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2019-08-11T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2019-08-11T00:00:00",
+                    "nextHwEolMilestoneDate": "2022-02-28T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 730,
+            "bulletinNumber": "EOL11129",
+            "bulletinTitle": "Cisco IOS Software Release 15.4(3)M",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/ios-15-3m-t/eos-eol-notice-c51-737825.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2016-08-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-08-01T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2022-02-28T00:00:00Z",
+            "lastShipDate": "2017-03-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2018-03-01T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2018-12-01T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2018-12-01T00:00:00",
+                    "nextHwEolMilestoneDate": "2022-02-28T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 731,
+            "bulletinNumber": "EOL11191",
+            "bulletinTitle": "Cisco NetFlow Generation Appliance (NGA) Software Version 1.0",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/cloud-systems-management/netflow-generation-3000-series-appliances/eos-eol-notice-c51-737922.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2016-09-21T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-08-22T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2020-03-31T00:00:00Z",
+            "lastShipDate": "2017-06-20T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-03-22T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2018-03-22T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-03-22T00:00:00Z",
+            "eoServiceContractRenewalDate": "2019-06-18T00:00:00Z",
+            "eoSignatureReleasesDate": "2018-03-22T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "2017-03-22T00:00:00Z",
+            "eoSoftwareLicenseAvailabilityDate": "2018-03-22T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "nextHwEolMilestone": "no NextMilestone",
+                    "currentHwEolMilestoneDate": "2020-03-31T00:00:00",
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 899,
+            "bulletinNumber": "EOL11205",
+            "bulletinTitle": "Cisco IOS XE 3.6.xE for Cisco Catalyst 4500-E/X, 3850, 3650 Series Switches and Cisco IOS 15.2(2)E for Cisco Catalyst 2960-X/XR, 2960-S, 2960-Plus, 2960-C, 3750-X, 3560-X/C, and 4900 Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-738124.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2016-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-10-01T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-05-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2018-05-01T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2019-05-01T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2019-05-01T00:00:00",
+                    "nextHwEolMilestoneDate": "2022-04-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 743,
+            "bulletinNumber": "EOL11205",
+            "bulletinTitle": "Cisco IOS XE 3.6.xE for Cisco Catalyst 4500-E/X, 3850, 3650 Series Switches and Cisco IOS 15.2(2)E for Cisco Catalyst 2960-X/XR, 2960-S, 2960-Plus, 2960-C, 3750-X, 3560-X/C, and 4900 Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-738124.html",
+            "publishedDate": "2017-08-14T15:07:54Z",
+            "eoLifeExternalAnnouncementDate": "2016-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-10-01T00:00:00Z",
+            "eoSaleDate": "2017-05-01T00:00:00Z",
+            "eoEngineeringDate": "2018-05-01T00:00:00Z",
+            "eoLifeDate": "2022-04-30T00:00:00Z",
+            "lastDateOfSupport": "2017-05-01T00:00:00Z",
+            "lastShipDate": "2017-05-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2018-05-01T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2019-05-01T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2019-05-01T00:00:00",
+                    "nextHwEolMilestoneDate": "2022-04-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 744,
+            "bulletinNumber": "EOL11205",
+            "bulletinTitle": "Cisco IOS XE 3.6.xE for Cisco Catalyst 4500-E/X, 3850, 3650 Series Switches and Cisco IOS 15.2(2)E for Cisco Catalyst 2960-X/XR, 2960-S, 2960-Plus, 2960-C, 3750-X, 3560-X/C, and 4900 Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-738124.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2016-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-10-01T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-05-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2018-05-01T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2019-05-01T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2019-05-01T00:00:00",
+                    "nextHwEolMilestoneDate": "2022-04-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 741,
+            "bulletinNumber": "EOL11221",
+            "bulletinTitle": "Cisco IOS Software Release 15.2(1)SY for Cisco Catalyst 6500 Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/ios-software-releases-12-2-sx/eos-eol-notice-c51-738113.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2016-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-09-30T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-04-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2018-04-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2019-04-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2019-04-30T00:00:00",
+                    "nextHwEolMilestoneDate": "2022-04-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 737,
+            "bulletinNumber": "EOL11223",
+            "bulletinTitle": "Cisco IOS Software Release 15.2(2)SY for Cisco Catalyst 6500 Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/ios-software-releases-12-2-sx/eos-eol-notice-c51-738114.html",
+            "publishedDate": "2016-11-01T09:27:34Z",
+            "eoLifeExternalAnnouncementDate": "2016-10-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-09-30T00:00:00Z",
+            "eoSaleDate": "2017-04-30T00:00:00Z",
+            "eoEngineeringDate": "2017-10-30T00:00:00Z",
+            "eoLifeDate": "2022-04-30T00:00:00Z",
+            "lastDateOfSupport": "2017-04-30T00:00:00Z",
+            "lastShipDate": "2017-04-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2017-10-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2018-04-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2018-04-30T00:00:00",
+                    "nextHwEolMilestoneDate": "2022-04-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 740,
+            "bulletinNumber": "EOL11256",
+            "bulletinTitle": "Cisco NX-OS Software Release 7.0 for Cisco Nexus 2000 Series Fabric Extenders, Nexus 5000 Series Switches, and Nexus 6000 Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-738121.html",
+            "publishedDate": "2016-11-01T08:01:31Z",
+            "eoLifeExternalAnnouncementDate": "2016-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-10-01T00:00:00Z",
+            "eoSaleDate": "2017-05-01T00:00:00Z",
+            "eoEngineeringDate": "2018-05-01T00:00:00Z",
+            "eoLifeDate": "2022-04-30T00:00:00Z",
+            "lastDateOfSupport": "2017-07-30T00:00:00Z",
+            "lastShipDate": "2017-07-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-05-01T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2018-05-01T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-05-01T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-27T00:00:00Z",
+            "eoSignatureReleasesDate": "2018-05-01T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2018-05-01T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "2020-04-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "SVC_RENEWAL_END_DATE",
+                    "currentHwEolMilestoneDate": "2020-04-30T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-07-27T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 900,
+            "bulletinNumber": "EOL11263",
+            "bulletinTitle": "Cisco IOS XE Software 3.7.0E for Cisco Catalyst 3850 and 3650 Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-738119.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2016-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-10-01T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-05-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2017-10-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2018-05-01T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2018-05-01T00:00:00",
+                    "nextHwEolMilestoneDate": "2022-04-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 903,
+            "bulletinNumber": "EOL11271",
+            "bulletinTitle": "Cisco IOS XE 3.9.0E for Cisco Catalyst 4500-E/X Series Switches and Cisco IOS 15.2(5)E for Cisco Catalyst 2960-X/XR, 2960-Plus, 2960-L, 2960-C/CX, 3560-CX Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-738117.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2016-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-10-01T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2017-05-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2017-10-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2018-05-01T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2018-05-01T00:00:00",
+                    "nextHwEolMilestoneDate": "2022-04-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 746,
+            "bulletinNumber": "EOL11271",
+            "bulletinTitle": "Cisco IOS XE 3.9.0E for Cisco Catalyst 4500-E/X Series Switches and Cisco IOS 15.2(5)E for Cisco Catalyst 2960-X/XR, 2960-Plus, 2960-L, 2960-C/CX, 3560-CX Series Switches",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-738117.html",
+            "publishedDate": "2016-11-01T08:04:37Z",
+            "eoLifeExternalAnnouncementDate": "2016-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2016-10-01T00:00:00Z",
+            "eoSaleDate": "2017-05-01T00:00:00Z",
+            "eoEngineeringDate": "2017-10-31T00:00:00Z",
+            "eoLifeDate": "2022-04-30T00:00:00Z",
+            "lastDateOfSupport": "2017-05-01T00:00:00Z",
+            "lastShipDate": "2017-05-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2017-10-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2018-05-01T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2018-05-01T00:00:00",
+                    "nextHwEolMilestoneDate": "2022-04-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 769,
+            "bulletinNumber": "EOL11417",
+            "bulletinTitle": "Cisco Adaptive Security Appliance (ASA) Software Release 9.1 and Adaptive Security Device Manager (ASDM) 7.1",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/security/asa-firepower-services/eos-eol-notice-c51-738645.html",
+            "publishedDate": "2017-02-24T08:47:09Z",
+            "eoLifeExternalAnnouncementDate": "2017-02-24T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2017-01-25T00:00:00Z",
+            "eoSaleDate": "2017-08-25T00:00:00Z",
+            "eoEngineeringDate": "2018-08-25T00:00:00Z",
+            "eoLifeDate": "2022-08-31T00:00:00Z",
+            "lastDateOfSupport": "2017-11-23T00:00:00Z",
+            "lastShipDate": "2017-11-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-08-25T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2018-08-25T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2019-08-25T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-11-20T00:00:00Z",
+            "eoSignatureReleasesDate": "2018-08-25T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2018-08-25T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "2020-08-24T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "nextHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2018-08-25T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-08-24T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 780,
+            "bulletinNumber": "EOL11455",
+            "bulletinTitle": "Cisco IOS XE Software Release 3.16S",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-738519.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2017-01-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2017-01-01T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2022-07-31T00:00:00Z",
+            "lastShipDate": "2017-08-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2018-08-01T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2019-08-01T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2019-08-01T00:00:00",
+                    "nextHwEolMilestoneDate": "2022-07-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 775,
+            "bulletinNumber": "EOL11674",
+            "bulletinTitle": "Cisco IOS XR Software Release 6.0",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/ios-xr-software/eos-eol-notice-c51-738789.html",
+            "publishedDate": "2017-03-20T05:02:31Z",
+            "eoLifeExternalAnnouncementDate": "2017-03-17T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2017-02-15T00:00:00Z",
+            "eoSaleDate": "2017-12-11T00:00:00Z",
+            "eoEngineeringDate": "2018-05-11T00:00:00Z",
+            "eoLifeDate": "2022-12-31T00:00:00Z",
+            "lastDateOfSupport": "2017-12-11T00:00:00Z",
+            "lastShipDate": "2017-12-11T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-09-15T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "",
+            "eoBuEngineeringSupportTacDate": "2019-09-15T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-12-11T00:00:00Z",
+            "eoSignatureReleasesDate": "2018-09-15T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2018-09-15T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "2020-09-14T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "nextHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2018-05-11T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-09-14T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 799,
+            "bulletinNumber": "EOL11845",
+            "bulletinTitle": "NCS 1000 XR 6.0.0 and 6.0.1 Software Operating System",
+            "URL": "http://www.cisco.com/c/en/us/products/collateral/optical-networking/network-convergence-system-1000-series/eos-eol-notice-c51-739235.html",
+            "publishedDate": "2017-06-20T09:50:30Z",
+            "eoLifeExternalAnnouncementDate": "2017-06-20T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2017-05-21T00:00:00Z",
+            "eoSaleDate": "2017-12-19T00:00:00Z",
+            "eoEngineeringDate": "2018-12-19T00:00:00Z",
+            "eoLifeDate": "2022-12-31T00:00:00Z",
+            "lastDateOfSupport": "2018-03-19T00:00:00Z",
+            "lastShipDate": "2018-03-19T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2018-12-19T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "",
+            "eoBuEngineeringSupportTacDate": "2019-12-19T00:00:00Z",
+            "eoServiceContractRenewalDate": "2022-03-16T00:00:00Z",
+            "eoSignatureReleasesDate": "2018-12-19T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2018-12-19T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "2020-12-18T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "nextHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2018-12-19T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-12-18T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 872,
+            "bulletinNumber": "EOL11851",
+            "bulletinTitle": "Cisco Adaptive Security Appliance (ASA) 9.4(x) and Cisco Adaptive Security Device Manager (ASDM) 7.4(x)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/security/asa-firepower-services/eos-eol-notice-c51-740361.html",
+            "publishedDate": "2018-02-28T07:08:14Z",
+            "eoLifeExternalAnnouncementDate": "2018-02-27T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-01-28T00:00:00Z",
+            "eoSaleDate": "2018-08-28T00:00:00Z",
+            "eoEngineeringDate": "2019-08-28T00:00:00Z",
+            "eoLifeDate": "2021-08-31T00:00:00Z",
+            "lastDateOfSupport": "2018-11-26T00:00:00Z",
+            "lastShipDate": "2018-11-26T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2019-08-28T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2019-08-28T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2020-08-27T00:00:00Z",
+            "eoServiceContractRenewalDate": "2020-11-23T00:00:00Z",
+            "eoSignatureReleasesDate": "2019-08-28T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "2018-08-28T00:00:00Z",
+            "eoSoftwareLicenseAvailabilityDate": "2019-08-28T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "nextHwEolMilestone": "SVC_RENEWAL_END_DATE",
+                    "currentHwEolMilestoneDate": "2019-08-28T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-11-23T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 829,
+            "bulletinNumber": "EOL12032",
+            "bulletinTitle": "Cisco IOS XE 16.5.1",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9300-series-switches/eos-eol-notice-c51-739574.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2017-08-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2017-08-01T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2022-11-30T00:00:00Z",
+            "lastShipDate": "2017-11-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2018-05-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2018-05-31T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2018-05-31T00:00:00",
+                    "nextHwEolMilestoneDate": "2022-11-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 831,
+            "bulletinNumber": "EOL12087",
+            "bulletinTitle": "Cisco IOS Releases 12.2(44) - 12.2(58) for Cisco ME 3400E Series Ethernet Access Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/me-3400e-series-ethernet-access-switches/eos-eol-notice-c51-739760.html",
+            "publishedDate": "2017-10-03T14:43:49Z",
+            "eoLifeExternalAnnouncementDate": "2017-10-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2017-09-03T00:00:00Z",
+            "eoSaleDate": "2018-04-03T00:00:00Z",
+            "eoEngineeringDate": "2018-10-03T00:00:00Z",
+            "eoLifeDate": "2023-04-30T00:00:00Z",
+            "lastDateOfSupport": "2018-04-03T00:00:00Z",
+            "lastShipDate": "2018-04-03T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2018-10-03T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2019-04-03T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2019-04-03T00:00:00",
+                    "nextHwEolMilestoneDate": "2023-04-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 832,
+            "bulletinNumber": "EOL12087",
+            "bulletinTitle": "Cisco IOS Releases 12.2(44) - 12.2(58) for Cisco ME 3400E Series Ethernet Access Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/me-3400e-series-ethernet-access-switches/eos-eol-notice-c51-739760.html",
+            "publishedDate": "2017-10-03T14:43:49Z",
+            "eoLifeExternalAnnouncementDate": "2017-10-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2017-09-03T00:00:00Z",
+            "eoSaleDate": "2018-04-03T00:00:00Z",
+            "eoEngineeringDate": "2018-10-03T00:00:00Z",
+            "eoLifeDate": "2023-04-30T00:00:00Z",
+            "lastDateOfSupport": "2018-04-03T00:00:00Z",
+            "lastShipDate": "2018-04-03T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2019-04-03T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2019-04-03T00:00:00",
+                    "nextHwEolMilestoneDate": "2023-04-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 835,
+            "bulletinNumber": "EOL12094",
+            "bulletinTitle": "Cisco IOS Releases 12.2(25), 12.2(35), 12.2(37) and 12.2(40) for Cisco ME 3400 Series Ethernet Access Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/me-3400-series-ethernet-access-switches/eos-eol-notice-c51-739761.html",
+            "publishedDate": "2017-10-03T14:06:56Z",
+            "eoLifeExternalAnnouncementDate": "2017-10-03T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2017-09-03T00:00:00Z",
+            "eoSaleDate": "2018-04-03T00:00:00Z",
+            "eoEngineeringDate": "2018-10-03T00:00:00Z",
+            "eoLifeDate": "2023-04-30T00:00:00Z",
+            "lastDateOfSupport": "2018-04-03T00:00:00Z",
+            "lastShipDate": "2018-04-03T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2018-10-03T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2019-04-03T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2019-04-03T00:00:00",
+                    "nextHwEolMilestoneDate": "2023-04-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 839,
+            "bulletinNumber": "EOL12142",
+            "bulletinTitle": "Cisco IOS XE 3.8.xE for Cisco Catalyst 4500-E/X Series Switches and Cisco IOS 15.2(4)Ex for Cisco Catalyst 2960-X/XR, 2960-Plus, 2960-C/CX, 3750-X and 3560-CX Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-739919.html",
+            "publishedDate": "2017-10-31T19:45:36Z",
+            "eoLifeExternalAnnouncementDate": "2017-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2017-10-01T00:00:00Z",
+            "eoSaleDate": "2018-05-01T00:00:00Z",
+            "eoEngineeringDate": "2019-05-01T00:00:00Z",
+            "eoLifeDate": "2023-04-30T00:00:00Z",
+            "lastDateOfSupport": "2018-05-01T00:00:00Z",
+            "lastShipDate": "2018-05-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2019-05-01T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2020-04-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "nextHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2019-05-01T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-04-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 840,
+            "bulletinNumber": "EOL12142",
+            "bulletinTitle": "Cisco IOS XE 3.8.xE for Cisco Catalyst 4500-E/X Series Switches and Cisco IOS 15.2(4)Ex for Cisco Catalyst 2960-X/XR, 2960-Plus, 2960-C/CX, 3750-X and 3560-CX Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-739919.html",
+            "publishedDate": "2017-10-31T19:45:36Z",
+            "eoLifeExternalAnnouncementDate": "2017-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2017-10-01T00:00:00Z",
+            "eoSaleDate": "2018-05-01T00:00:00Z",
+            "eoEngineeringDate": "2019-05-01T00:00:00Z",
+            "eoLifeDate": "2023-04-30T00:00:00Z",
+            "lastDateOfSupport": "2018-05-01T00:00:00Z",
+            "lastShipDate": "2018-05-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2019-05-01T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2020-04-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2020-04-30T00:00:00",
+                    "nextHwEolMilestoneDate": "2023-04-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 902,
+            "bulletinNumber": "EOL12142",
+            "bulletinTitle": "Cisco IOS XE 3.8.xE for Cisco Catalyst 4500-E/X Series Switches and Cisco IOS 15.2(4)Ex for Cisco Catalyst 2960-X/XR, 2960-Plus, 2960-C/CX, 3750-X and 3560-CX Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-739919.html",
+            "publishedDate": "2017-10-31T19:45:36Z",
+            "eoLifeExternalAnnouncementDate": "2017-10-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2017-10-01T00:00:00Z",
+            "eoSaleDate": "2018-05-01T00:00:00Z",
+            "eoEngineeringDate": "2019-05-01T00:00:00Z",
+            "eoLifeDate": "2023-04-30T00:00:00Z",
+            "lastDateOfSupport": "2018-05-01T00:00:00Z",
+            "lastShipDate": "2018-05-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2019-05-01T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2020-04-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2020-04-30T00:00:00",
+                    "nextHwEolMilestoneDate": "2023-04-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 851,
+            "bulletinNumber": "EOL12259",
+            "bulletinTitle": "Cisco IOS XE 16.3.1",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-740255.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2018-01-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-01-01T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2023-07-31T00:00:00Z",
+            "lastShipDate": "2018-08-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2019-08-01T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2020-08-01T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2020-08-01T00:00:00",
+                    "nextHwEolMilestoneDate": "2023-07-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 944,
+            "bulletinNumber": "EOL12269",
+            "bulletinTitle": "Adaptive Security Appliance (ASA) Release 9.6(x), Adaptive Security Virtual Appliance (ASAv) Release 9.6(x) and Adaptive Security Device Manager (ASDM) Release 7.6(x)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/security/asa-firepower-services/eos-eol-notice-c51-742130.html",
+            "publishedDate": "2019-05-08T15:40:46Z",
+            "eoLifeExternalAnnouncementDate": "2019-03-15T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-02-13T00:00:00Z",
+            "eoSaleDate": "2019-09-13T00:00:00Z",
+            "eoEngineeringDate": "2020-09-12T00:00:00Z",
+            "eoLifeDate": "2022-09-30T00:00:00Z",
+            "lastDateOfSupport": "2019-12-12T00:00:00Z",
+            "lastShipDate": "2019-12-12T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-09-12T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2020-09-12T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-09-12T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-12-09T00:00:00Z",
+            "eoSignatureReleasesDate": "2020-09-12T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "2019-09-13T00:00:00Z",
+            "eoSoftwareLicenseAvailabilityDate": "2020-09-12T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SALE_DATE",
+                    "nextHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "currentHwEolMilestoneDate": "2019-09-13T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-09-12T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 868,
+            "bulletinNumber": "EOL12323",
+            "bulletinTitle": "Cisco IOS Releases for the Cisco uBR10012 Series Universal Broadband Router",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/video/ubr10000-series-universal-broadband-routers/eos-eol-notice-c51-740354.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2018-02-23T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-01-24T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2023-08-31T00:00:00Z",
+            "lastShipDate": "2018-08-24T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2019-02-23T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2019-08-24T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2019-08-24T00:00:00",
+                    "nextHwEolMilestoneDate": "2023-08-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 873,
+            "bulletinNumber": "EOL12334",
+            "bulletinTitle": "Cisco IOS XE 16.7.x",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-740376.html",
+            "publishedDate": "2018-03-05T13:27:30Z",
+            "eoLifeExternalAnnouncementDate": "2018-02-28T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-01-29T00:00:00Z",
+            "eoSaleDate": "2018-05-31T00:00:00Z",
+            "eoEngineeringDate": "2018-11-30T00:00:00Z",
+            "eoLifeDate": "2023-05-31T00:00:00Z",
+            "lastDateOfSupport": "2018-05-31T00:00:00Z",
+            "lastShipDate": "2018-05-31T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2018-11-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2018-11-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2018-11-30T00:00:00",
+                    "nextHwEolMilestoneDate": "2023-05-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 874,
+            "bulletinNumber": "EOL12386",
+            "bulletinTitle": "IOS XR Software Release 6.1",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/ios-xr-software/eos-eol-notice-c51-740473.html",
+            "publishedDate": "2018-04-16T20:03:08Z",
+            "eoLifeExternalAnnouncementDate": "2018-03-23T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-02-21T00:00:00Z",
+            "eoSaleDate": "2018-09-21T00:00:00Z",
+            "eoEngineeringDate": "2019-09-21T00:00:00Z",
+            "eoLifeDate": "2023-09-30T00:00:00Z",
+            "lastDateOfSupport": "2018-09-21T00:00:00Z",
+            "lastShipDate": "2018-09-21T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2020-09-20T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "nextHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2019-09-21T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-09-20T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 916,
+            "bulletinNumber": "EOL12467",
+            "bulletinTitle": "IOS XR Software Release 6.4",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/ios-xr-software/eos-eol-notice-c51-741090.html",
+            "publishedDate": "2018-10-01T17:17:40Z",
+            "eoLifeExternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-31T00:00:00Z",
+            "eoSaleDate": "2019-09-30T00:00:00Z",
+            "eoEngineeringDate": "2020-03-29T00:00:00Z",
+            "eoLifeDate": "2024-09-30T00:00:00Z",
+            "lastDateOfSupport": "2019-09-30T00:00:00Z",
+            "lastShipDate": "2019-09-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2022-03-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SALE_DATE",
+                    "nextHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "currentHwEolMilestoneDate": "2019-09-30T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-03-29T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 880,
+            "bulletinNumber": "EOL12566",
+            "bulletinTitle": "Cisco IOS XE 16.8.x",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-740983.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2018-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-05-31T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2023-09-30T00:00:00Z",
+            "lastShipDate": "2018-09-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2019-03-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2019-03-31T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2019-03-31T00:00:00",
+                    "nextHwEolMilestoneDate": "2023-09-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 907,
+            "bulletinNumber": "EOL12605",
+            "bulletinTitle": "Nexus 3000 Releases 6.0(2)U2(x), 6.0(2)U3(x), 6.0(2)U4(x) and 6.0(2)U5(x) ",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-3000-series-switches/eos-eol-notice-c51-741292.html",
+            "publishedDate": "2018-08-31T13:26:43Z",
+            "eoLifeExternalAnnouncementDate": "2018-08-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-01T00:00:00Z",
+            "eoSaleDate": "2019-03-01T00:00:00Z",
+            "eoEngineeringDate": "2020-02-29T00:00:00Z",
+            "eoLifeDate": "2024-02-29T00:00:00Z",
+            "lastDateOfSupport": "2019-05-30T00:00:00Z",
+            "lastShipDate": "2019-05-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-02-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2020-02-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-02-28T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-05-27T00:00:00Z",
+            "eoSignatureReleasesDate": "2020-02-29T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2020-02-29T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SALE_DATE",
+                    "nextHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "currentHwEolMilestoneDate": "2019-03-01T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-02-29T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 917,
+            "bulletinNumber": "EOL12727",
+            "bulletinTitle": "Nexus 5500, 5600 and 6000 NX-OS 7.1",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-741426.html",
+            "publishedDate": "2018-10-01T18:05:16Z",
+            "eoLifeExternalAnnouncementDate": "2018-10-01T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-09-01T00:00:00Z",
+            "eoSaleDate": "2019-04-01T00:00:00Z",
+            "eoEngineeringDate": "2020-03-31T00:00:00Z",
+            "eoLifeDate": "2024-03-31T00:00:00Z",
+            "lastDateOfSupport": "2019-06-30T00:00:00Z",
+            "lastShipDate": "2019-06-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-31T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2020-03-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-03-31T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-27T00:00:00Z",
+            "eoSignatureReleasesDate": "2020-03-31T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2020-03-31T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "nextHwEolMilestone": "SVC_RENEWAL_END_DATE",
+                    "currentHwEolMilestoneDate": "2020-03-31T00:00:00",
+                    "nextHwEolMilestoneDate": "2023-06-27T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 918,
+            "bulletinNumber": "EOL12728",
+            "bulletinTitle": "Nexus 7700, 7000 NX-OS 7.2, 8.0, 8.1",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-741423.html",
+            "publishedDate": "2018-10-01T17:15:22Z",
+            "eoLifeExternalAnnouncementDate": "2018-09-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-08-31T00:00:00Z",
+            "eoSaleDate": "2019-03-31T00:00:00Z",
+            "eoEngineeringDate": "2020-03-30T00:00:00Z",
+            "eoLifeDate": "2024-03-31T00:00:00Z",
+            "lastDateOfSupport": "2019-06-29T00:00:00Z",
+            "lastShipDate": "2019-06-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-03-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "",
+            "eoBuEngineeringSupportTacDate": "2021-03-30T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-06-26T00:00:00Z",
+            "eoSignatureReleasesDate": "2020-03-30T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2020-03-30T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SALE_DATE",
+                    "nextHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "currentHwEolMilestoneDate": "2019-03-31T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-03-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 939,
+            "bulletinNumber": "EOL12741",
+            "bulletinTitle": "IOS XR Software Release 6.5",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/ios-xr-software/eos-eol-notice-c51-741964.html",
+            "publishedDate": "2019-02-11T17:12:13Z",
+            "eoLifeExternalAnnouncementDate": "2019-02-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-01-11T00:00:00Z",
+            "eoSaleDate": "2020-02-10T00:00:00Z",
+            "eoEngineeringDate": "2020-08-10T00:00:00Z",
+            "eoLifeDate": "2025-02-28T00:00:00Z",
+            "lastDateOfSupport": "2020-02-10T00:00:00Z",
+            "lastShipDate": "2020-02-10T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2022-08-10T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "EXTERNAL_ANNOUNCE_DATE",
+                    "nextHwEolMilestone": "END_OF_SALE_DATE",
+                    "currentHwEolMilestoneDate": "2019-02-10T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-02-10T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 925,
+            "bulletinNumber": "EOL12824",
+            "bulletinTitle": "Cisco IOS Software Release 15.5(3)M",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/ios-15-3m-t/eos-eol-notice-c51-741668.html",
+            "publishedDate": "2019-05-16T14:52:52Z",
+            "eoLifeExternalAnnouncementDate": "2018-12-05T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-11-05T00:00:00Z",
+            "eoSaleDate": "2019-06-05T00:00:00Z",
+            "eoEngineeringDate": "2019-06-05T00:00:00Z",
+            "eoLifeDate": "2024-06-30T00:00:00Z",
+            "lastDateOfSupport": "2019-09-03T00:00:00Z",
+            "lastShipDate": "2019-09-03T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-06-04T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2019-06-05T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-06-04T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-08-31T00:00:00Z",
+            "eoSignatureReleasesDate": "2020-06-04T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2020-06-04T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "2020-06-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "SVC_RENEWAL_END_DATE",
+                    "currentHwEolMilestoneDate": "2020-06-04T00:00:00",
+                    "nextHwEolMilestoneDate": "2023-08-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 933,
+            "bulletinNumber": "EOL12848",
+            "bulletinTitle": "Nexus 3000 Releases 6.0(2)U6(x)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-3000-series-switches/eos-eol-notice-c51-741755.html",
+            "publishedDate": "2018-12-21T15:54:30Z",
+            "eoLifeExternalAnnouncementDate": "2018-12-21T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2018-11-21T00:00:00Z",
+            "eoSaleDate": "2019-06-21T00:00:00Z",
+            "eoEngineeringDate": "2020-06-20T00:00:00Z",
+            "eoLifeDate": "2024-06-30T00:00:00Z",
+            "lastDateOfSupport": "2019-09-19T00:00:00Z",
+            "lastShipDate": "2019-09-19T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-06-20T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2020-06-20T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-06-20T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-09-16T00:00:00Z",
+            "eoSignatureReleasesDate": "2020-06-20T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2020-06-20T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SALE_DATE",
+                    "nextHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "currentHwEolMilestoneDate": "2019-06-21T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-06-20T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 945,
+            "bulletinNumber": "EOL12872",
+            "bulletinTitle": "Nexus 7000 NX-OS 6.2",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-742131.html",
+            "publishedDate": "2019-03-18T17:33:29Z",
+            "eoLifeExternalAnnouncementDate": "2019-03-18T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-02-16T00:00:00Z",
+            "eoSaleDate": "2019-09-16T00:00:00Z",
+            "eoEngineeringDate": "2020-09-15T00:00:00Z",
+            "eoLifeDate": "2024-09-30T00:00:00Z",
+            "lastDateOfSupport": "2019-12-15T00:00:00Z",
+            "lastShipDate": "2019-12-15T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-09-15T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2020-09-15T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-09-15T00:00:00Z",
+            "eoServiceContractRenewalDate": "2023-12-12T00:00:00Z",
+            "eoSignatureReleasesDate": "2020-09-15T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2020-09-15T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SALE_DATE",
+                    "nextHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "currentHwEolMilestoneDate": "2019-09-16T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-09-15T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 938,
+            "bulletinNumber": "EOL12924",
+            "bulletinTitle": "Cisco IOS XE 16.6.x",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-741918.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2019-01-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-01-01T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2024-07-31T00:00:00Z",
+            "lastShipDate": "2019-08-01T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2021-01-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2021-07-31T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SALE_DATE",
+                    "nextHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "currentHwEolMilestoneDate": "2019-08-01T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-01-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 966,
+            "bulletinNumber": "EOL12958",
+            "bulletinTitle": "Cisco Adaptive Security Appliance (ASA) Release 9.10(x) Adaptive Security Virtual Appliance (ASAv) Release 9.10(x) and Adaptive Security Device Manager (ASDM) Release 7.10(x)",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/security/asa-firepower-services/eos-eol-notice-c51-742275.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2019-04-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-03-11T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2022-10-31T00:00:00Z",
+            "lastShipDate": "2020-01-07T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-10-08T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2020-10-08T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2021-10-08T00:00:00Z",
+            "eoServiceContractRenewalDate": "2022-01-04T00:00:00Z",
+            "eoSignatureReleasesDate": "2020-10-08T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "2019-10-09T00:00:00Z",
+            "eoSoftwareLicenseAvailabilityDate": "2020-10-08T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SALE_DATE",
+                    "nextHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "currentHwEolMilestoneDate": "2019-10-09T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-10-08T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 943,
+            "bulletinNumber": "EOL12962",
+            "bulletinTitle": "Cisco IOS XE 16.10.x",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-742069.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2019-03-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-02-02T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2024-06-30T00:00:00Z",
+            "lastShipDate": "2019-06-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2019-12-04T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2019-12-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2019-12-04T00:00:00",
+                    "nextHwEolMilestoneDate": "2024-06-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 967,
+            "bulletinNumber": "EOL13019",
+            "bulletinTitle": "Cisco IOS Software release 15.6(3)M",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/ios-software-release-15-6m-t/eos-eol-notice-c51-742317.html",
+            "publishedDate": "2019-04-30T22:22:55Z",
+            "eoLifeExternalAnnouncementDate": "2019-04-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-03-31T00:00:00Z",
+            "eoSaleDate": "2019-10-29T00:00:00Z",
+            "eoEngineeringDate": "2020-04-29T00:00:00Z",
+            "eoLifeDate": "2024-10-31T00:00:00Z",
+            "lastDateOfSupport": "2019-10-29T00:00:00Z",
+            "lastShipDate": "2019-10-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2020-04-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2020-10-28T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "nextHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2020-04-29T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-10-28T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 972,
+            "bulletinNumber": "EOL13062",
+            "bulletinTitle": "Cisco IOS XE 3.10E(x) for Cisco Catalyst 4500-E/X Series Switches and Cisco IOS 15.2(6)E(x) for Cisco Catalyst 2960-X/XR,2960-Plus,2960-L,2960-C/CX, 3560-CX,4900,Cisco Digital Building Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-742520.html",
+            "publishedDate": "2019-07-03T18:44:54Z",
+            "eoLifeExternalAnnouncementDate": "2019-06-17T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-05-18T00:00:00Z",
+            "eoSaleDate": "2019-09-17T00:00:00Z",
+            "eoEngineeringDate": "2020-03-17T00:00:00Z",
+            "eoLifeDate": "2024-09-30T00:00:00Z",
+            "lastDateOfSupport": "2019-09-17T00:00:00Z",
+            "lastShipDate": "2019-09-17T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2020-03-17T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2020-03-17T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2020-03-17T00:00:00",
+                    "nextHwEolMilestoneDate": "2024-09-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 982,
+            "bulletinNumber": "EOL13109",
+            "bulletinTitle": "NXOS 6.x",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/storage-networking/mds-9000-nx-os-san-os-software/eos-eol-notice-c51-742789.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2019-09-04T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-07-01T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2022-04-30T00:00:00Z",
+            "lastShipDate": "2019-12-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-01-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2021-01-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-01-28T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-11T00:00:00Z",
+            "eoSignatureReleasesDate": "2021-01-28T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2021-01-28T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "2023-01-28T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SALE_DATE",
+                    "nextHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "currentHwEolMilestoneDate": "2019-10-01T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-01-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 981,
+            "bulletinNumber": "EOL13128",
+            "bulletinTitle": "IOS XE 16.9.x",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9300-series-switches/eos-eol-notice-c51-742700.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2019-08-06T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-07-07T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2025-02-28T00:00:00Z",
+            "lastShipDate": "2020-02-04T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2021-01-31T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2021-08-04T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SALE_DATE",
+                    "nextHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "currentHwEolMilestoneDate": "2020-02-04T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-01-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 983,
+            "bulletinNumber": "EOL13176",
+            "bulletinTitle": "NXOS 7.x",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/storage-networking/mds-9000-nx-os-san-os-software/eos-eol-notice-c51-742877.html",
+            "publishedDate": "2019-09-25T16:07:07Z",
+            "eoLifeExternalAnnouncementDate": "2019-09-23T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-08-24T00:00:00Z",
+            "eoSaleDate": "2019-10-23T00:00:00Z",
+            "eoEngineeringDate": "2021-03-23T00:00:00Z",
+            "eoLifeDate": "2022-04-30T00:00:00Z",
+            "lastDateOfSupport": "2020-01-23T00:00:00Z",
+            "lastShipDate": "2020-01-23T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-03-23T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2021-03-23T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-03-23T00:00:00Z",
+            "eoServiceContractRenewalDate": "2021-07-11T00:00:00Z",
+            "eoSignatureReleasesDate": "2021-03-23T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2021-03-23T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "2023-03-23T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SALE_DATE",
+                    "nextHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "currentHwEolMilestoneDate": "2019-10-23T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-03-23T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 984,
+            "bulletinNumber": "EOL13205",
+            "bulletinTitle": "Cisco IOS XE 16.11.x",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-903-series-aggregation-services-routers/eos-eol-notice-c51-742965.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2019-10-10T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-09-10T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2025-01-31T00:00:00Z",
+            "lastShipDate": "2020-01-10T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2020-07-10T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2020-07-10T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "nextHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2020-07-10T00:00:00",
+                    "nextHwEolMilestoneDate": "2025-01-31T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 1014,
+            "bulletinNumber": "EOL13222",
+            "bulletinTitle": "Nexus 3500 Releases 6.0(2)A8(x)\t",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-3000-series-switches/eos-eol-notice-c51-743393.html",
+            "publishedDate": "2020-01-24T08:26:01Z",
+            "eoLifeExternalAnnouncementDate": "2020-01-23T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-12-24T00:00:00Z",
+            "eoSaleDate": "2020-07-23T00:00:00Z",
+            "eoEngineeringDate": "2021-07-23T00:00:00Z",
+            "eoLifeDate": "2025-07-31T00:00:00Z",
+            "lastDateOfSupport": "2020-10-21T00:00:00Z",
+            "lastShipDate": "2020-10-21T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-07-23T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2021-07-23T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-07-23T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-10-18T00:00:00Z",
+            "eoSignatureReleasesDate": "2021-07-23T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2021-07-23T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "EXTERNAL_ANNOUNCE_DATE",
+                    "nextHwEolMilestone": "END_OF_SALE_DATE",
+                    "currentHwEolMilestoneDate": "2020-01-23T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-07-23T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 1003,
+            "bulletinNumber": "EOL13263",
+            "bulletinTitle": "Cisco WAVE /WAE Appliances and Application Content Networking",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/wide-area-application-services-waas-appliances/eos-eol-notice-c51-743119.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2019-11-08T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-09T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2025-05-31T00:00:00Z",
+            "lastShipDate": "2020-08-06T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-05-08T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2021-05-08T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-05-08T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-08-03T00:00:00Z",
+            "eoSignatureReleasesDate": "2021-05-08T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2021-05-08T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "2023-05-08T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SALE_DATE",
+                    "nextHwEolMilestone": "SOFTWARE_MAINT_END_DATE",
+                    "currentHwEolMilestoneDate": "2020-05-08T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-05-08T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 1004,
+            "bulletinNumber": "EOL13281",
+            "bulletinTitle": "UCS Manager Release 3.2",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-manager/eos-eol-notice-c51-743144.html",
+            "publishedDate": "2019-11-14T20:56:42Z",
+            "eoLifeExternalAnnouncementDate": "2019-11-12T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2019-10-13T00:00:00Z",
+            "eoSaleDate": "2020-02-11T00:00:00Z",
+            "eoEngineeringDate": "2021-02-10T00:00:00Z",
+            "eoLifeDate": "2025-02-28T00:00:00Z",
+            "lastDateOfSupport": "2020-05-11T00:00:00Z",
+            "lastShipDate": "2020-05-11T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-02-10T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "",
+            "eoBuEngineeringSupportTacDate": "2022-02-10T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-05-08T00:00:00Z",
+            "eoSignatureReleasesDate": "2021-02-10T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2021-02-10T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "EXTERNAL_ANNOUNCE_DATE",
+                    "nextHwEolMilestone": "END_OF_SALE_DATE",
+                    "currentHwEolMilestoneDate": "2019-11-12T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-02-11T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 1016,
+            "bulletinNumber": "EOL13308",
+            "bulletinTitle": "Cisco IOS Releases 15.0SE, 15.2E, 15.2EA and 15.2EY for Industrial Ethernet 3010 Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/industrial-ethernet-3010-series-switches/eos-eol-notice-c51-743483.html",
+            "publishedDate": "2020-02-15T08:44:22Z",
+            "eoLifeExternalAnnouncementDate": "2020-02-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2020-01-15T00:00:00Z",
+            "eoSaleDate": "2020-08-14T00:00:00Z",
+            "eoEngineeringDate": "2021-02-13T00:00:00Z",
+            "eoLifeDate": "2025-08-31T00:00:00Z",
+            "lastDateOfSupport": "2020-08-14T00:00:00Z",
+            "lastShipDate": "2020-08-14T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2021-02-13T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2021-08-14T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "EXTERNAL_ANNOUNCE_DATE",
+                    "nextHwEolMilestone": "END_OF_SALE_DATE",
+                    "currentHwEolMilestoneDate": "2020-02-14T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-08-14T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 1017,
+            "bulletinNumber": "EOL13308",
+            "bulletinTitle": "Cisco IOS Releases 15.0SE, 15.2E, 15.2EA and 15.2EY for Industrial Ethernet 3010 Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/industrial-ethernet-3010-series-switches/eos-eol-notice-c51-743483.html",
+            "publishedDate": "2020-02-15T08:44:22Z",
+            "eoLifeExternalAnnouncementDate": "2020-02-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2020-01-15T00:00:00Z",
+            "eoSaleDate": "2020-08-14T00:00:00Z",
+            "eoEngineeringDate": "2021-02-13T00:00:00Z",
+            "eoLifeDate": "2025-08-31T00:00:00Z",
+            "lastDateOfSupport": "2020-08-14T00:00:00Z",
+            "lastShipDate": "2020-08-14T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2021-02-13T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2021-08-14T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "EXTERNAL_ANNOUNCE_DATE",
+                    "nextHwEolMilestone": "END_OF_SALE_DATE",
+                    "currentHwEolMilestoneDate": "2020-02-14T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-08-14T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 1018,
+            "bulletinNumber": "EOL13308",
+            "bulletinTitle": "Cisco IOS Releases 15.0SE, 15.2E, 15.2EA and 15.2EY for Industrial Ethernet 3010 Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/industrial-ethernet-3010-series-switches/eos-eol-notice-c51-743483.html",
+            "publishedDate": "2020-02-15T08:44:22Z",
+            "eoLifeExternalAnnouncementDate": "2020-02-14T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2020-01-15T00:00:00Z",
+            "eoSaleDate": "2020-08-14T00:00:00Z",
+            "eoEngineeringDate": "2021-02-13T00:00:00Z",
+            "eoLifeDate": "2025-08-31T00:00:00Z",
+            "lastDateOfSupport": "2020-08-14T00:00:00Z",
+            "lastShipDate": "2020-08-14T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2021-02-13T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2021-08-14T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "EXTERNAL_ANNOUNCE_DATE",
+                    "nextHwEolMilestone": "END_OF_SALE_DATE",
+                    "currentHwEolMilestoneDate": "2020-02-14T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-08-14T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 1022,
+            "bulletinNumber": "EOL13376",
+            "bulletinTitle": "17.1.x Release EoL",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/eos-eol-notice-c51-743638.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2020-03-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2020-03-01T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2025-06-30T00:00:00Z",
+            "lastShipDate": "2020-06-30T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2020-12-30T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2020-12-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-09-29T00:00:00Z",
+            "eoServiceContractRenewalDate": "2024-12-25T00:00:00Z",
+            "eoSignatureReleasesDate": "2021-09-29T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2021-09-29T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "2020-12-30T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "END_OF_SALE_DATE",
+                    "nextHwEolMilestone": "END_OF_SECURITY_VUL_SUPPORT_DATE",
+                    "currentHwEolMilestoneDate": "2020-06-30T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-12-30T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 1030,
+            "bulletinNumber": "EOL13444",
+            "bulletinTitle": "15.7(3)M Software Release",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/ios-15-3m-t/eos-eol-notice-c51-743781.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2020-05-12T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2020-04-12T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2025-11-30T00:00:00Z",
+            "lastShipDate": "2021-02-08T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2021-11-10T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2021-11-10T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2022-11-10T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-02-05T00:00:00Z",
+            "eoSignatureReleasesDate": "2021-11-10T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2021-11-10T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "2023-11-10T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "EXTERNAL_ANNOUNCE_DATE",
+                    "nextHwEolMilestone": "END_OF_SALE_DATE",
+                    "currentHwEolMilestoneDate": "2020-05-12T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-11-10T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 1036,
+            "bulletinNumber": "EOL13483",
+            "bulletinTitle": "Cisco IOS Releases 15.2E, 15.2EA and 15.2EY for Industrial Ethernet 3000 Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/industrial-ethernet-3000-series-switches/eos-eol-notice-c51-743971.html",
+            "publishedDate": "2020-06-30T17:48:53Z",
+            "eoLifeExternalAnnouncementDate": "2020-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2020-05-31T00:00:00Z",
+            "eoSaleDate": "2020-12-29T00:00:00Z",
+            "eoEngineeringDate": "2021-06-30T00:00:00Z",
+            "eoLifeDate": "2025-12-31T00:00:00Z",
+            "lastDateOfSupport": "2020-12-29T00:00:00Z",
+            "lastShipDate": "2020-12-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2021-06-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2021-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "EXTERNAL_ANNOUNCE_DATE",
+                    "nextHwEolMilestone": "END_OF_SALE_DATE",
+                    "currentHwEolMilestoneDate": "2020-06-30T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-12-29T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 1037,
+            "bulletinNumber": "EOL13483",
+            "bulletinTitle": "Cisco IOS Releases 15.2E, 15.2EA and 15.2EY for Industrial Ethernet 3000 Series Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/industrial-ethernet-3000-series-switches/eos-eol-notice-c51-743971.html",
+            "publishedDate": "2020-06-30T17:48:53Z",
+            "eoLifeExternalAnnouncementDate": "2020-06-30T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2020-05-31T00:00:00Z",
+            "eoSaleDate": "2020-12-29T00:00:00Z",
+            "eoEngineeringDate": "2021-06-30T00:00:00Z",
+            "eoLifeDate": "2025-12-31T00:00:00Z",
+            "lastDateOfSupport": "2020-12-29T00:00:00Z",
+            "lastShipDate": "2020-12-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2021-06-30T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2021-12-29T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "EXTERNAL_ANNOUNCE_DATE",
+                    "nextHwEolMilestone": "END_OF_SALE_DATE",
+                    "currentHwEolMilestoneDate": "2020-06-30T00:00:00",
+                    "nextHwEolMilestoneDate": "2020-12-29T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 1062,
+            "bulletinNumber": "EOL13542",
+            "bulletinTitle": "Cisco IOS Releases 15.2(4)E, 15.2(4)EA, 15.2(4)EB, 15.2(4)EC, 15.2(5)E, 15.2(6)E, 15.2(6)EB for Industrial IoT Switches",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/switches/industrial-ethernet-5000-series-switches/eos-eol-notice-c51-744159.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2020-08-20T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2020-07-21T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2026-02-28T00:00:00Z",
+            "lastShipDate": "2021-02-18T00:00:00Z",
+            "eoNewServiceAttachmentDate": "",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2021-08-20T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "",
+            "eoServiceContractRenewalDate": "",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "2022-02-18T00:00:00Z",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "EXTERNAL_ANNOUNCE_DATE",
+                    "nextHwEolMilestone": "END_OF_SALE_DATE",
+                    "currentHwEolMilestoneDate": "2020-08-20T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-02-18T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 1060,
+            "bulletinNumber": "EOL13547",
+            "bulletinTitle": "Cisco IOS XE 16.12.x",
+            "URL": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-744154.html",
+            "publishedDate": "",
+            "eoLifeExternalAnnouncementDate": "2020-08-19T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2020-07-20T00:00:00Z",
+            "eoSaleDate": "",
+            "eoEngineeringDate": "",
+            "eoLifeDate": "",
+            "lastDateOfSupport": "2026-02-28T00:00:00Z",
+            "lastShipDate": "2021-05-18T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2022-02-17T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "",
+            "eoSwMaintenanceReleasesDate": "2022-02-17T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2023-02-17T00:00:00Z",
+            "eoServiceContractRenewalDate": "2025-05-15T00:00:00Z",
+            "eoSignatureReleasesDate": "2022-02-17T00:00:00Z",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "2022-02-17T00:00:00Z",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "EXTERNAL_ANNOUNCE_DATE",
+                    "nextHwEolMilestone": "END_OF_SALE_DATE",
+                    "currentHwEolMilestoneDate": "2020-08-19T00:00:00",
+                    "nextHwEolMilestoneDate": "2021-02-17T00:00:00"
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        },
+        {
+            "swEolInstanceId": 153,
+            "bulletinNumber": "EOL4052",
+            "bulletinTitle": "Cisco Catalyst 4500 Prestandard PoE Line Card and Cisco IOS Software Release 12.2(18)EW",
+            "URL": "http://www.cisco.com/en/US/products/hw/switches/ps4324/prod_eol_notice0900aecd804be204.html",
+            "publishedDate": "2009-09-02T16:59:43Z",
+            "eoLifeExternalAnnouncementDate": "2006-07-31T00:00:00Z",
+            "eoLifeInternalAnnouncementDate": "2006-06-19T00:00:00Z",
+            "eoSaleDate": "2007-01-29T00:00:00Z",
+            "eoEngineeringDate": "2008-01-29T00:00:00Z",
+            "eoLifeDate": "2012-01-31T00:00:00Z",
+            "lastDateOfSupport": "2007-04-29T00:00:00Z",
+            "lastShipDate": "2007-04-29T00:00:00Z",
+            "eoNewServiceAttachmentDate": "2008-01-29T00:00:00Z",
+            "eoRoutineFailureAnalysisDate": "2008-01-29T00:00:00Z",
+            "eoSwMaintenanceReleasesDate": "2008-01-29T00:00:00Z",
+            "eoBuEngineeringSupportTacDate": "2009-01-28T00:00:00Z",
+            "eoServiceContractRenewalDate": "2011-04-26T00:00:00Z",
+            "eoSignatureReleasesDate": "",
+            "eoSoftwareAvailabilityDate": "",
+            "eoSoftwareLicenseAvailabilityDate": "",
+            "eoVulnerabilitySecuritySupport": "",
+            "milestoneInfo": [
+                {
+                    "currentHwEolMilestone": "LAST_SUPPORT_DATE",
+                    "nextHwEolMilestone": "no NextMilestone",
+                    "currentHwEolMilestoneDate": "2012-01-31T00:00:00",
+                    "nextHwEolMilestoneDate": null
+                }
+            ],
+            "migrationInfo": [
+                
+            ]
+        }
+    ],
+    "Pagination": {
+        "page": 1,
+        "pages": 2,
+        "rows": 100,
+        "total": 172
+    }
+}

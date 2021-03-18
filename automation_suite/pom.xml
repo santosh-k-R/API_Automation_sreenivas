@@ -1,0 +1,362 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.cisco</groupId>
+    <artifactId>niagara-automation-suite-for-api</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+    <name>niagara-automation-suite-for-api</name>
+    <url>https://www-github3.cisco.com/cxe/niagara-automation-suite-for-api/</url>
+
+    <!-- + ===================================================
+         + Most maven constructs are managed by cxe-parent-pom
+         + ===================================================
+         + -->
+    <parent>
+        <groupId>com.cisco.services</groupId>
+        <artifactId>cxe-parent-pom</artifactId>
+        <version>1-CXE-SNAPSHOT</version>
+    </parent>
+
+    <!-- + ==========================================================
+         + Some properties and versions are managed by cxe-parent-pom
+         + ==========================================================
+         + -->
+    <properties>
+        <elasticsearch.version>7.4.0</elasticsearch.version>
+
+        <!-- Configurable variables -->
+        <lifecycle>stage</lifecycle>
+        <threads>5</threads>
+        <maxretryCount>1</maxretryCount>
+        <groups/>
+        <suiteXmlFile/>
+        <username/>
+        <es_username/>
+        <es_password/>
+        <api_client_secret/>
+        <api_client_id/>
+        <api_party_id/>
+        <esHostURL>https://cp-elastic.cisco.com:9200</esHostURL>
+        <baseURI>https://api-stage.cisco.com/api/customerportal</baseURI>
+        <clusterURI>https://cpp-api.sdp12-istg.csco.cloud</clusterURI>
+        <authURL>https://cloudsso-test.cisco.com/as/token.oauth2</authURL>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <java.version>1.8</java.version>
+        <!-- Dependency versions -->
+        <testng.version>7.1.0</testng.version>
+        <allure.version>2.13.6</allure.version>
+
+        <!-- Plugin versions -->
+    </properties>
+
+    <build>
+        <defaultGoal>clean verify</defaultGoal>
+
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-shade-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>shade</goal>
+                        </goals>
+                        <configuration>
+                            <transformers>
+                                <transformer
+                                        implementation="org.apache.maven.plugins.shade.resource.AppendingTransformer">
+                                    <resource>META-INF/spring.handlers</resource>
+                                </transformer>
+                                <transformer
+                                        implementation="org.springframework.boot.maven.PropertiesMergingResourceTransformer">
+                                    <resource>META-INF/spring.factories</resource>
+                                </transformer>
+                                <transformer
+                                        implementation="org.apache.maven.plugins.shade.resource.AppendingTransformer">
+                                    <resource>META-INF/spring.schemas</resource>
+                                </transformer>
+                                <transformer
+                                        implementation="org.apache.maven.plugins.shade.resource.ServicesResourceTransformer"/>
+                                <transformer
+                                        implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                    <mainClass>com.cisco.services.api_automation.Main</mainClass>
+                                </transformer>
+                            </transformers>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-failsafe-plugin</artifactId>
+                <version>${maven-failsafe-plugin.version}</version>
+                <configuration>
+                    <argLine>
+                        -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
+                    </argLine>
+                    <parallel>methods</parallel>
+                    <threadCount>${threads}</threadCount>
+                    <suiteXmlFiles>
+                        <suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
+                    </suiteXmlFiles>
+                    <testSourceDirectory>src/test/com.cisco.services.api_automation.tests</testSourceDirectory>
+                    <disableXmlReport>true</disableXmlReport>
+                    <!--                    <includes>-->
+                    <!--                        <include>**/*.java</include>-->
+                    <!--                    </includes>-->
+                    <groups>${groups}</groups>
+                    <systemPropertyVariables>
+                        <maxretryCount>${maxretryCount}</maxretryCount>
+                        <baseURI>${baseURI}</baseURI>
+                        <clusterURI>${clusterURI}</clusterURI>
+                        <groups>${groups}</groups>
+                        <es_username>${es_username}</es_username>
+                        <es_password>${es_password}</es_password>
+                        <esHostURL>${esHostURL}</esHostURL>
+                        <api_client_secret>${api_client_secret}</api_client_secret>
+                        <api_party_id>${api_party_id}</api_party_id>
+                        <threadCount>${threads}</threadCount>
+                        <authURL>${authURL}</authURL>
+                        <api_client_id>${authURL}</api_client_id>
+                    </systemPropertyVariables>
+                    <properties>
+                        <property>
+                            <name>listener</name>
+                            <value>
+                                com.cisco.services.api_automation.listeners.RetryListener,com.cisco.services.api_automation.listeners.AnnotationTransformer,com.cisco.services.api_automation.listeners.ExecutionListener
+                            </value>
+                        </property>
+                        <property>
+                            <name>dataproviderthreadcount</name>
+                            <value>10</value>
+                        </property>
+                        <property>
+                            <name>suitethreadpoolsize</name>
+                            <value>${threads}</value>
+                        </property>
+                    </properties>
+                </configuration>
+                <dependencies>
+                    <dependency>
+                        <groupId>org.aspectj</groupId>
+                        <artifactId>aspectjweaver</artifactId>
+                        <version>${aspectj.version}</version>
+                    </dependency>
+                </dependencies>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>integration-test</goal>
+                            <goal>verify</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+
+    <repositories>
+        <repository>
+            <id>repo.cxe.csco.cloud-snapshot</id>
+
+            <url>s3://repo.cxe.csco.cloud/snapshot</url>
+            <releases>
+                <enabled>false</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+        <repository>
+            <id>repo.cxe.csco.cloud-release</id>
+
+            <url>s3://repo.cxe.csco.cloud/release</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+        <repository>
+            <id>services-cf-group</id>
+            <name>CXE Virtual Repository Group</name>
+            <url>https://engci-maven.cisco.com/artifactory/services-cf-group/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
+
+    <pluginRepositories>
+        <pluginRepository>
+            <id>services-cf-group</id>
+            <name>CXE Virtual Repository Group</name>
+            <url>https://engci-maven.cisco.com/artifactory/services-cf-group/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </pluginRepository>
+    </pluginRepositories>
+
+    <distributionManagement>
+        <repository>
+            <id>cstg-ee-release</id>
+            <name>CF DevOps Release Repository</name>
+            <url>https://engci-maven.cisco.com/artifactory/cstg-ee-release/</url>
+        </repository>
+        <snapshotRepository>
+            <id>cstg-ee-snapshot</id>
+            <name>CF DevOps Snapshot Repository</name>
+            <url>https://engci-maven.cisco.com/artifactory/cstg-ee-snapshot/</url>
+        </snapshotRepository>
+    </distributionManagement>
+
+    <!-- + ==========================================================
+         + Some dependencies are managed by cxe-parent-pom.
+         + ==========================================================
+         + -->
+    <dependencies>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.jetbrains</groupId>
+            <artifactId>annotations</artifactId>
+            <version>18.0.0</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-mail</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-log4j2</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>${testng.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>rest-assured</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.qameta.allure</groupId>
+            <artifactId>allure-testng</artifactId>
+            <version>${allure.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.googlecode.json-simple</groupId>
+            <artifactId>json-simple</artifactId>
+            <version>1.1.1</version>
+        </dependency>
+        <dependency>
+            <groupId>io.qameta.allure</groupId>
+            <artifactId>allure-rest-assured</artifactId>
+            <version>${allure.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-simple</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>json-schema-validator</artifactId>
+            <version>3.3.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.elasticsearch.client</groupId>
+            <artifactId>elasticsearch-rest-high-level-client</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.elasticsearch</groupId>
+            <artifactId>elasticsearch</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger2</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger-ui</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.ehcache</groupId>
+            <artifactId>ehcache</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.kafka</groupId>
+            <artifactId>kafka-clients</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.skyscreamer</groupId>
+            <artifactId>jsonassert</artifactId>
+            <version>1.5.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.amazonaws</groupId>
+            <artifactId>aws-java-sdk-s3</artifactId>
+            <version>1.11.779</version>
+        </dependency>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.37</version>
+        </dependency>
+        <dependency>
+            <groupId>org.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+            <version>1.13.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.opencsv</groupId>
+            <artifactId>opencsv</artifactId>
+            <version>3.8</version>
+        </dependency>
+		<dependency>
+		    <groupId>com.jcraft</groupId>
+		    <artifactId>jsch</artifactId>
+		    <version>0.1.55</version>
+		</dependency>
+        <dependency>
+            <groupId>com.cisco.cx.ie</groupId>
+            <artifactId>tims</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
+</project>

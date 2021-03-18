@@ -1,0 +1,92 @@
+[
+    {
+        "id": "715-NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "advisoryId": 715,
+        "neInstanceId": "NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "vulnerabilityStatus": "POTVUL",
+        "productType": "Wireless",
+        "serialNumber": "FCW1828L038",
+        "supportCovered": true
+    },
+    {
+        "id": "716-NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "advisoryId": 716,
+        "neInstanceId": "NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "vulnerabilityStatus": "VUL",
+        "productType": "Wireless",
+        "serialNumber": "FCW1828L038",
+        "supportCovered": true
+    },
+    {
+        "id": "756-NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "advisoryId": 756,
+        "neInstanceId": "NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "vulnerabilityStatus": "VUL",
+        "productType": "Wireless",
+        "serialNumber": "FCW1828L038",
+        "supportCovered": true
+    },
+    {
+        "id": "761-NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "advisoryId": 761,
+        "neInstanceId": "NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "vulnerabilityStatus": "POTVUL",
+        "productType": "Wireless",
+        "serialNumber": "FCW1828L038",
+        "supportCovered": true
+    },
+    {
+        "id": "1096-NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "advisoryId": 1096,
+        "neInstanceId": "NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "vulnerabilityStatus": "VUL",
+        "productType": "Wireless",
+        "serialNumber": "FCW1828L038",
+        "supportCovered": true
+    },
+    {
+        "id": "1099-NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "advisoryId": 1099,
+        "neInstanceId": "NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "vulnerabilityStatus": "VUL",
+        "productType": "Wireless",
+        "serialNumber": "FCW1828L038",
+        "supportCovered": true
+    },
+    {
+        "id": "1102-NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "advisoryId": 1102,
+        "neInstanceId": "NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "vulnerabilityStatus": "POTVUL",
+        "productType": "Wireless",
+        "serialNumber": "FCW1828L038",
+        "supportCovered": true
+    },
+    {
+        "id": "1104-NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "advisoryId": 1104,
+        "neInstanceId": "NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "vulnerabilityStatus": "VUL",
+        "productType": "Wireless",
+        "serialNumber": "FCW1828L038",
+        "supportCovered": true
+    },
+    {
+        "id": "1117-NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "advisoryId": 1117,
+        "neInstanceId": "NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "vulnerabilityStatus": "POTVUL",
+        "productType": "Wireless",
+        "serialNumber": "FCW1828L038",
+        "supportCovered": true
+    },
+    {
+        "id": "1278-NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "advisoryId": 1278,
+        "neInstanceId": "NA,FCW1828L038,AIR-CT5508-K9,NA",
+        "vulnerabilityStatus": "VUL",
+        "productType": "Wireless",
+        "serialNumber": "FCW1828L038",
+        "supportCovered": true
+    }
+]

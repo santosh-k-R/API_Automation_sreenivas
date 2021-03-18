@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Risk Mitigation" verbose="2" preserve-order="true" parallel="methods" thread-count="3">
+    <listeners>
+        <listener class-name="com.cisco.services.api_automation.listeners.AnnotationTransformer"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.ExecutionListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.RetryListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.SuiteTransformer"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.TestListener"/>
+    </listeners>
+
+    <test name="Risk Mitigation" preserve-order="true">
+         <!--<packages>
+             <package name="com.cisco.services.api_automation.tests.riskmitigation.*"/>
+        </packages>-->
+        <classes>
+            <class name="com.cisco.services.api_automation.tests.riskmitigation.RiskMitigationIT"></class>
+        </classes>
+    </test>
+</suite>

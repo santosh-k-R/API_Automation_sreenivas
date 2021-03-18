@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Ignored tests",
+    "matchedStatuses": [
+      "skipped"
+    ]
+  },
+  {
+    "name": "Product defects",
+    "matchedStatuses": [
+      "failed"
+    ],
+    "traceRegex": ".*but found*"
+  },
+  {
+    "name": "Script Issue",
+    "matchedStatuses": [
+      "broken"
+    ],
+    "traceRegex": ".*ArithmeticException.*"
+  },
+  {
+    "name": "Outdated Defects",
+    "matchedStatuses": [
+      "broken"
+    ],
+    "traceRegex": ".*FileNotFoundException.*"
+  },
+  {
+    "name": "Outdated Defects",
+    "matchedStatuses": [
+      "broken"
+    ],
+    "traceRegex": ".*IOException.*"
+  },
+  {
+    "name": "Element Issue/Defect",
+    "matchedStatuses": [
+      "broken"
+    ],
+    "traceRegex": ".*Element.*"
+  }
+]

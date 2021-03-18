@@ -1,0 +1,64 @@
+package com.cisco.services.api_automation.tests.assets.alerts;
+
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+import com.cisco.services.api_automation.testdata.assets.AssetsData;
+import com.cisco.services.api_automation.tests.assets.BeforeTestSuiteClassIT;
+import com.cisco.services.api_automation.tests.assets.CommonTestAcrossAPIsIT;
+import com.cisco.services.api_automation.utils.customassert.Assert;
+import com.cisco.services.api_automation.utils.customassert.SoftAssert;
+
+import io.qameta.allure.Feature;
+import io.restassured.response.Response;
+
+@Feature("Assets Product Alerts APIs")
+public class AlertsAdvisoriesSecurityAdvisoriesAPIIT extends BeforeTestSuiteClassIT{
+
+	Response responseAPI = null;
+	Response responseES = null;
+	Response preReqApiResponse = null;
+//	String customerId = AssetsData.CUSTOMERID;
+	Boolean preRequisiteAPIRan = false;
+	SoftAssert softAssert = new SoftAssert();
+	String expectedStatusCode = "200";
+	long expectedResponseTime = 3000;
+	String apiKey = "product_alerts_advisories_security_advisories";
+	String endPoint;
+	String esIndex;
+	String endPointHead;
+	
+	@BeforeClass
+    public void setup() {
+        endPoint = AssetsData.ASSETS_GET_APIS.get(apiKey).getEndPointUrl();
+        endPointHead = AssetsData.ASSETS_HEAD_APIS.get(apiKey).getEndPointUrl();
+    }
+
+    @Test(description = "/product-alerts/v1/advisories-security-advisories API 200 Response Validation")
+    public void api200ResponseValidation() throws Exception {
+        System.out.println("****************** 200 Response Validation for API "+endPoint );
+        try {
+            responseAPI= CommonTestAcrossAPIsIT.successResponse(endPoint);
+            softAssert.assertEquals(responseAPI.getStatusCode(), Integer.parseInt(expectedStatusCode),
+                    "Test Case failed as response status is not 200:" + responseAPI.getStatusLine());
+            softAssert.assertAll();
+        } catch (Exception e) {
+            e.printStackTrace();
+            Assert.assertFalse(true, "Connection aborted: " + e.getMessage());
+        }
+    }
+    
+    @Test(description = "/product-alerts/v1/advisories-security-advisories HEAD API 200 Response Validation")
+    public void headApi200ResponseValidation() throws Exception {
+        System.out.println("****************** 200 Response Validation for API "+endPointHead );
+        try {
+            responseAPI= CommonTestAcrossAPIsIT.successResponse(endPointHead);
+            softAssert.assertEquals(responseAPI.getStatusCode(), Integer.parseInt(expectedStatusCode),
+                    "Test Case failed as response status is not 200:" + responseAPI.getStatusLine());
+            softAssert.assertAll();
+        } catch (Exception e) {
+            e.printStackTrace();
+            Assert.assertFalse(true, "Connection aborted: " + e.getMessage());
+        }
+    }
+}

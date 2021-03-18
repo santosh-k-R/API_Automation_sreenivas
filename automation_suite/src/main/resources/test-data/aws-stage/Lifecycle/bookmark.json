@@ -1,0 +1,134 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "title": "The Root Schema",
+  "description": "The root schema comprises the entire JSON document.",
+  "default": {},
+  "additionalProperties": true,
+  "required": [
+    "bookmark",
+    "bookmarkRequestId",
+    "ccoId",
+    "created",
+    "customerId",
+    "id",
+    "lifecycleCategory",
+    "pitstop",
+    "solution",
+    "updated",
+    "usecase"
+  ],
+  "properties": {
+    "bookmark": {
+      "$id": "#/properties/bookmark",
+      "type": "boolean",
+      "title": "The Bookmark Schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": false,
+      "examples": [
+        false
+      ]
+    },
+    "bookmarkRequestId": {
+      "$id": "#/properties/bookmarkRequestId",
+      "type": "string",
+      "title": "The Bookmarkrequestid Schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "00000000-0000-0000-0000-000000000000"
+      ]
+    },
+    "ccoId": {
+      "$id": "#/properties/ccoId",
+      "type": "string",
+      "title": "The Ccoid Schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "string"
+      ]
+    },
+    "created": {
+      "$id": "#/properties/created",
+      "type": "integer",
+      "title": "The Created Schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        1500000000000.0
+      ]
+    },
+    "customerId": {
+      "$id": "#/properties/customerId",
+      "type": "string",
+      "title": "The Customerid Schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "string"
+      ]
+    },
+    "id": {
+      "$id": "#/properties/id",
+      "type": "string",
+      "title": "The Id Schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Acc4"
+      ]
+    },
+    "lifecycleCategory": {
+      "$id": "#/properties/lifecycleCategory",
+      "type": "string",
+      "title": "The Lifecyclecategory Schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "ATX"
+      ]
+    },
+    "pitstop": {
+      "$id": "#/properties/pitstop",
+      "type": "string",
+      "title": "The Pitstop Schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Onboard"
+      ]
+    },
+    "solution": {
+      "$id": "#/properties/solution",
+      "type": "string",
+      "title": "The Solution Schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "IBN"
+      ]
+    },
+    "updated": {
+      "$id": "#/properties/updated",
+      "type": "integer",
+      "title": "The Updated Schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        1500000000000.0
+      ]
+    },
+    "usecase": {
+      "$id": "#/properties/usecase",
+      "type": "string",
+      "title": "The Usecase Schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Campus Network Assurance"
+      ]
+    }
+  }
+}

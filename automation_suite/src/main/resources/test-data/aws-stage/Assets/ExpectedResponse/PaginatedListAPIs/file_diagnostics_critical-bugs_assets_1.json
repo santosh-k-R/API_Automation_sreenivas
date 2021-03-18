@@ -1,0 +1,298 @@
+{
+    "data": [
+        {
+            "productId": "C9120AXI-B",
+            "covered": 1,
+            "service_level": "L2NBD",
+            "neId": "10.19.219.86,FGL2328LEA4,C9120AXI-B,NA"
+        },
+        {
+            "productId": "CTS-C40CODEC-K9",
+            "covered": 1,
+            "service_level": "ECDN",
+            "neId": "NA,B1AV02E00078,CTS-C40CODEC-K9-,NA"
+        },
+        {
+            "productId": "VG204XM",
+            "covered": 1,
+            "service_level": "SBC4P",
+            "neId": "NA,FCH1950S0FZ,VG204XM,NA"
+        },
+        {
+            "productId": "UCSC-MLOM-IRJ45",
+            "covered": 1,
+            "service_level": "PSRT",
+            "neId": "NA,FCH2032V1C1,WSA-S190-K9,NA"
+        },
+        {
+            "productId": "UCSC-MLOM-IRJ45",
+            "covered": 1,
+            "service_level": "PSRT",
+            "neId": "NA,FCH2032V1C1,WSA-S190-K9,NA"
+        },
+        {
+            "productId": "UCSC-MLOM-IRJ45",
+            "covered": 1,
+            "service_level": "PSRT",
+            "neId": "NA,FCH2032V1C1,WSA-S190-K9,NA"
+        },
+        {
+            "productId": "UCSB-MLOM-40G-01",
+            "covered": 1,
+            "service_level": "NCJT",
+            "neId": "NA,FCH2037JSTA,UCSB-B200-M3-U,NA"
+        },
+        {
+            "productId": "UCSB-MLOM-40G-01",
+            "covered": 1,
+            "service_level": "NCJT",
+            "neId": "NA,FCH2037JSTA,UCSB-B200-M3-U,NA"
+        },
+        {
+            "productId": "UCSC-C220-M4S",
+            "covered": 1,
+            "service_level": "C4P",
+            "neId": "NA,FCH2125V0EC,UCSC-C220-M4S,NA"
+        },
+        {
+            "productId": "APIC-SERVER-L2",
+            "covered": 1,
+            "service_level": "SSSNT",
+            "neId": "NA,FCH2208V0U8,APIC-SERVER-L2,NA"
+        },
+        {
+            "productId": "UCSC-PSU1-770W",
+            "covered": 1,
+            "service_level": "NCJMU",
+            "neId": "NA,FCH2220V08G,BE6M-M4-K9=,NA"
+        },
+        {
+            "productId": "UCSC-PSU1-770W",
+            "covered": 1,
+            "service_level": "NCJMU",
+            "neId": "NA,FCH2220V08G,BE6M-M4-K9=,NA"
+        },
+        {
+            "productId": "AIR-CT5508-K9",
+            "covered": 1,
+            "service_level": "L2NBD",
+            "neId": "NA,FCW1828L038,AIR-CT5508-K9,NA"
+        },
+        {
+            "productId": "AIR-CT5508-K9",
+            "covered": 1,
+            "service_level": "NCJT",
+            "neId": "NA,FCW2042B4CR,C1-AIR-CT5508-K9,NA"
+        },
+        {
+            "productId": "CTS-SX10NCODEC",
+            "covered": 1,
+            "service_level": "PSRN",
+            "neId": "NA,FCZ2204D1WK,CTS-SX10N-K9,NA"
+        },
+        {
+            "productId": "WS-C3650-24PD-L",
+            "covered": 1,
+            "service_level": "L2NBD",
+            "neId": "NA,FDO1852E25Z,WS-C3650-24PD-E,NA"
+        },
+        {
+            "productId": "IE-4000-4TC4G-E",
+            "covered": 1,
+            "service_level": "SNTC",
+            "neId": "NA,FDO2113U070,IE-4000-4TC4G-E,NA"
+        },
+        {
+            "productId": "C891-24X/K9",
+            "covered": 1,
+            "service_level": "SNT",
+            "neId": "NA,FGL190724RA,C891-24X/K9,NA"
+        },
+        {
+            "productId": "ASA5515",
+            "covered": 1,
+            "service_level": "PSRT",
+            "neId": "NA,FGL192770C1,ASA5515-K9-WS,NA"
+        },
+        {
+            "productId": "C9120AXI-B",
+            "covered": 1,
+            "service_level": "L2NBD",
+            "neId": "NA,FGL2328LEA5,C9120AXI-B,NA"
+        },
+        {
+            "productId": "WS-C3850-24XU-E",
+            "covered": 1,
+            "service_level": "SNT",
+            "neId": "NA,FOC2139U170,WS-C3850-24XU-E,NA"
+        },
+        {
+            "productId": "UCSB-5108-AC2",
+            "covered": 1,
+            "service_level": "PSJ7",
+            "neId": "NA,FOX1925H2MC,UCSB-5108-AC2=,NA"
+        },
+        {
+            "productId": "N2K-C2248TP-E-1GE",
+            "covered": 1,
+            "service_level": "PSRT",
+            "neId": "NA,FOX2013GDVQ,N2248TP-E-FA-BUN,NA"
+        },
+        {
+            "productId": "UCSB-PSU-2500ACDV",
+            "covered": 1,
+            "service_level": "NCJT",
+            "neId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "productId": "UCSB-PSU-2500ACDV",
+            "covered": 1,
+            "service_level": "NCJT",
+            "neId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "productId": "UCSB-PSU-2500ACDV",
+            "covered": 1,
+            "service_level": "NCJT",
+            "neId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "productId": "UCSB-PSU-2500ACDV",
+            "covered": 1,
+            "service_level": "NCJT",
+            "neId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "productId": "UCSB-PSU-2500ACDV",
+            "covered": 1,
+            "service_level": "NCJT",
+            "neId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "productId": "UCSB-PSU-2500ACDV",
+            "covered": 1,
+            "service_level": "NCJT",
+            "neId": "NA,FOX2032GH5G,UCSB-5108-AC2=,NA"
+        },
+        {
+            "productId": "CTS-MX300-UNIT",
+            "covered": 1,
+            "service_level": "NCJDN",
+            "neId": "NA,FTT220101NU,CTS-MX300-UNIT,NA"
+        },
+        {
+            "productId": "CISCO2921/K9",
+            "covered": 1,
+            "service_level": "PSUT",
+            "neId": "NA,FTX1827AHDV,C2921-CME-SRST/K9,NA"
+        },
+        {
+            "productId": "ASR1004",
+            "covered": 1,
+            "service_level": "NCJT",
+            "neId": "NA,FXS1831Q12R,ASR1004,NA"
+        },
+        {
+            "productId": "WS-C4900M",
+            "covered": 1,
+            "service_level": "PSRT",
+            "neId": "NA,JAE160201GS,WS-C4900M,NA"
+        },
+        {
+            "productId": "WS-C4900M",
+            "covered": 1,
+            "service_level": "NCJT",
+            "neId": "NA,JAE204008G7,WS-C4900M,NA"
+        },
+        {
+            "productId": "DS-C9710",
+            "covered": 1,
+            "service_level": "ETSPR",
+            "neId": "NA,JAF1844ADGL,DS-C9710,NA"
+        },
+        {
+            "productId": "ASA5516",
+            "covered": 1,
+            "service_level": "SNT",
+            "neId": "NA,JMX2130Y0FK,ASA5516-FPWR-K9,NA"
+        },
+        {
+            "productId": "ASA5585",
+            "covered": 1,
+            "service_level": "NCCP",
+            "neId": "NA,JMX2138100S,ASA5585-S10-K9,NA"
+        },
+        {
+            "productId": "ASA5506",
+            "covered": 1,
+            "service_level": "3SNTP",
+            "neId": "NA,JMX2147G1N2,ASA5506-K9,NA"
+        },
+        {
+            "productId": "ASA5506",
+            "covered": 1,
+            "service_level": "3SNTP",
+            "neId": "NA,JMX2147G1N2,ASA5506-K9,NA"
+        },
+        {
+            "productId": "DS-C9718",
+            "covered": 1,
+            "service_level": "SNTP",
+            "neId": "NA,JPG223600A8,DS-C9718,NA"
+        },
+        {
+            "productId": "AIR-CT8510-K9",
+            "covered": 1,
+            "service_level": "ISV1",
+            "neId": "NA,KQ7K5Z8,AIR-CT8510-K9,NA"
+        },
+        {
+            "productId": "N9K-C9372PX",
+            "covered": 1,
+            "service_level": "NCJT",
+            "neId": "NA,SAL2022R1UB,N9K-C9372PX,NA"
+        },
+        {
+            "productId": "15454-SA-HD",
+            "covered": 1,
+            "service_level": "SBAR1",
+            "neId": "NA,SAT10390DY3,15454-SA-HD=,NA"
+        },
+        {
+            "productId": "UCS-FI-6248UP",
+            "covered": 1,
+            "service_level": "PSJ7",
+            "neId": "NA,SSI17270BFV,UCS-EZ-INFRA-FI48,NA"
+        },
+        {
+            "productId": "N2K-C2232PP-10GE",
+            "covered": 1,
+            "service_level": "NCJT",
+            "neId": "NA,SSI182008AY,N2K-C2232PP-10GE,NA"
+        },
+        {
+            "productId": "UCS-FI-6248UP",
+            "covered": 1,
+            "service_level": "SNT",
+            "neId": "NA,SSI1943091F,UCS-FI-6248UP,NA"
+        },
+        {
+            "productId": "WS-C6513",
+            "covered": 1,
+            "service_level": "NCJT",
+            "neId": "NA,TBM06294115,WS-C6513-4KWAC-IN=,NA"
+        },
+        {
+            "productId": "N7K-C7018",
+            "covered": 1,
+            "service_level": "NCJT",
+            "neId": "NA,TBM16463712,N7K-C7018,NA"
+        }
+    ],
+    "Pagination": {
+        "page": 1,
+        "pages": 1,
+        "rows": 100,
+        "total": 48
+    }
+}

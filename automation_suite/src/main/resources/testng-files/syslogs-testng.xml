@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="AFM Syslogs">
+    <listeners>
+        <listener class-name="com.cisco.services.api_automation.listeners.AnnotationTransformer"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.ExecutionListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.RetryListener"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.SuiteTransformer"/>
+        <listener class-name="com.cisco.services.api_automation.listeners.TestListener"/>
+    </listeners>
+
+    <test name="Syslogs Api" preserve-order="true">
+        <classes >
+            <class name="com.cisco.services.api_automation.tests.insights.syslogs.SyslogsCountAPIsIT"/>
+            <class name="com.cisco.services.api_automation.tests.insights.syslogs.SyslogsGridAPIsIT"/>
+            <class name="com.cisco.services.api_automation.tests.insights.syslogs.SyslogsDetailAPIsIT"/>
+            <class name="com.cisco.services.api_automation.tests.insights.syslogs.FaultsFilterAPIsIT"/>
+            <class name="com.cisco.services.api_automation.tests.insights.syslogs.FaultDetailAPIsIT"/>
+        </classes>
+    </test>
+</suite>

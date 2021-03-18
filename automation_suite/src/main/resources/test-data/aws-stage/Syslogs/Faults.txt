@@ -1,0 +1,40 @@
+21.0.1.13 %ENVIRONMENTAL-1-ALERT: Temp: Inlet 1 Location: R0 State: Critical Reading: 42 Celsius from Automation
+10.122.28.245 %ENVIRONMENTAL-1-ALERT: Temp: Inlet 1 Location: R0 State: Critical Reading: 43 Celsius from Automation
+10.16.255.1 %ENVIRONMENTAL-1-ALERT: Temp: Inlet 1 Location: R0 State: Critical Reading: 44 Celsius from Automation
+10.32.255.100 %ENVIRONMENTAL-1-ALERT: Temp: Inlet 1 Location: R0 State: Critical Reading: 45 Celsius from Automation
+10.8.19.1 %ENVIRONMENTAL-1-ALERT: Temp: Inlet 1 Location: R0 State: Critical Reading: 46 Celsius from Automation
+10.16.200.1 %ENVIRONMENTAL-1-ALERT: Temp: Inlet 1 Location: R0 State: Critical Reading: 47 Celsius from Automation
+10.254.15.251 %ENVIRONMENTAL-1-ALERT: Temp: Inlet 1 Location: R0 State: Critical Reading: 48 Celsius from Automation
+172.23.111.11 %ENVIRONMENTAL-1-ALERT: Temp: Inlet 1 Location: R0 State: Critical Reading: 49 Celsius from Automation
+21.0.1.2 %ENVIRONMENTAL-1-ALERT: Temp: Inlet 1 Location: R0 State: Critical Reading: 50 Celsius from Automation
+21.0.1.21 %ENVIRONMENTAL-1-ALERT: Temp: Inlet 1 Location: R0 State: Critical Reading: 51 Celsius from Automation
+10.16.1.254 %ENVIRONMENTAL-1-ALERT: Temp: Inlet 1 Location: R0 State: Critical Reading: 52 Celsius from Automation
+10.32.255.101 %ENVIRONMENTAL-1-ALERT: Temp: Inlet 1 Location: R0 State: Critical Reading: 53 Celsius from Automation
+10.32.255.2 %PKI-2-NON_AUTHORITATIVE_CLOCK: PKI functions can not be initialized until an authoritative time source like NTP can be obtained from Automation
+10.122.28.245 %PKI-4-NOCONFIGAUTOSAVE: Configuration was modified. Issue "write memory" to save new IOS PKI configuration from Automation
+10.16.255.1 %PLATFORM-1-FAN_FAIL: sfe[0]: A link-err error has occurred causing packet drop persistent 0x14080027 Threshold has been exceeded OC-161 from Automation
+10.254.15.251 %CMRP-0-INTERNAL_HW_SHUTDOWN:cmand:  Internal unrecoverable error condition was detected.System is being reset. from Automation
+20.0.4.1 %PLATFORM_THERMAL-1-FRU_FAN_FAILURE: Switch 1: System fan 1 failed from Automation
+10.16.200.1 %PLATFORM_THERMAL-1-FRU_FAN_DISABLED: System fan 2 disabled. Airflow direction for this fan should be Front to Back . July 11 test from Automation
+10.32.255.100 %ENVMON-3-FANFAIL: SS]env_monitor.c:171 Fan failure. (fan flag = 0x28) from Automation
+10.254.15.251 %ENVMON-3-FANFAIL: SS]env_monitor.c:171 Fan failure. (fan flag = 0x28) from Automation
+15.10.1.3 %ENVMON-3-FANFAIL: SS]env_monitor.c:171 Fan failure. (fan flag = 0x28) from Automation
+10.32.255.100 %ENVMON-3-PSFAIL: wlcng_powerSupply.c:119 Power supply 1 is OFF. from Automation
+10.16.200.1 %ENVMON-1-TEMPHIGH: [SS]kukritempSensor.c:219 CPU Temperature overheat warning at 83(C). THIS IS A SAMPLE MESSAGE. from Automation
+10.32.255.3 %ENVMON-1-TEMPLOW: tempSensor.c: 183 Internal temperature low warning at 0 (C). from Automation
+10.16.255.1 %ENVMON-0-KEEPALIVE:wlcng_powerSupply.c:280 System is rebooting in 5 seconds: lost heartbeat from environmental controller. from Automation
+21.0.1.8 %UPDATE-2-MOUNT_FAILED: updcode.c:14749 Failed to umount /mnt/images error:2 No such file or directory. from Automation
+10.122.28.247 %AAA-3-ACCT_LOW_PROC_MEM_TRASH: AAA unable to handle accounting requests due to insufficient processor memory and could be trashing the queued accounting records from Automation
+10.8.19.1 %PKI-4-TRUSTPOOL_DOWNLOAD_FAILURE: Trustpool Download failed from Automation
+10.122.28.245 %PLATFORM-1-CRASHED: SRR0 = 0x02A50B1C  SRR1 = 0x00029230  SRR2 = 0x01756F64  SRR3 = 0x00029230 (SNW-3750-5-2) from Automation
+20.0.4.1 %CMRP-0-CHASFS_PROPERTY_SET: SIP0: cmand:  Failed to write chassis filesystem object mastership property active-fp because No space left on device THIS IS A SAMPLE MESSAGE. from Automation
+10.122.28.247 %FIB-2-FIBDOWN: CEF has been disabled due to a low memory condition. It can be re-enabled by configuring "ip cef [distributed]" from Automation
+172.23.111.11 %PLATFORM_INFRA-5-IOS_INTR_OVER_LIMIT: IOS thread disabled interrupt for 36 msec THIS IS A SAMPLE MESSAGE. from Automation
+10.16.200.1 %PLATFORM_INFRA-5-IOS_INTR_OVER_LIMIT: IOS thread disabled interrupt for 36 msec. from Automation
+10.32.255.100 %PLATFORM_THERMAL-2-OVERTEMP_SHUTDOWN: Switch 1: Temperature is above maximum limit and will be immediately shut down. THIS IS A SAMPLE MESSAGE. from Automation
+10.122.28.245 %PLATFORM_THERMAL-2-OVERTEMP_SHUTDOWN: Switch 1: Temperature is above maximum limit and will be immediately shut down. THIS IS A SAMPLE MESSAGE. from Automation
+172.23.111.11 %PLATFORM_THERMAL-2-OVERTEMP_SHUTDOWN: Switch 1: Temperature is above maximum limit and will be immediately shut down. THIS IS A SAMPLE MESSAGE. from Automation
+10.16.200.1 %PLATFORM_THERMAL-2-OVERTEMP_SHUTDOWN: Switch 1: Temperature is above maximum limit and will be immediately shut down. THIS IS A SAMPLE MESSAGE. from Automation
+21.0.1.35 %PLATFORM_THERMAL-2-OVERTEMP_SHUTDOWN: Switch 1: Temperature is above maximum limit and will be immediately shut down. THIS IS A SAMPLE MESSAGE. from Automation
+10.16.1.254 %PLATFORM_THERMAL-2-UNDERTEMP_SHUTDOWN: Switch 1: Temperature is below minimum limit and will be immediately shut down.  THIS IS A SAMPLE MESSAGE. from Automation
+10.32.255.101 %STORM_CONTROL-3-SHUTDOWN: A packet storm was detected on Gi1/0/24. The interface has been disabled. from Automation
